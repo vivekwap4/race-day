@@ -1,4 +1,18 @@
 {
+  "australia": {
+    "name": "Albert Park Circuit",
+    "location": "Melbourne, Australia",
+    "lat": -37.8497,
+    "lng": 144.9680,
+    "bbox_km": 12
+  },
+  "china": {
+    "name": "Shanghai International Circuit",
+    "location": "Shanghai, China",
+    "lat": 31.3389,
+    "lng": 121.2198,
+    "bbox_km": 15
+  },
   "suzuka": {
     "name": "Suzuka Circuit",
     "location": "Suzuka, Japan",
@@ -6,11 +20,152 @@
     "lng": 136.5410,
     "bbox_km": 15
   },
+  "bahrain": {
+    "name": "Bahrain International Circuit",
+    "location": "Sakhir, Bahrain",
+    "lat": 26.0325,
+    "lng": 50.5106,
+    "bbox_km": 15
+  },
+  "saudi_arabia": {
+    "name": "Jeddah Corniche Circuit",
+    "location": "Jeddah, Saudi Arabia",
+    "lat": 21.6319,
+    "lng": 39.1044,
+    "bbox_km": 12
+  },
+  "miami": {
+    "name": "Miami International Autodrome",
+    "location": "Miami Gardens, Florida, USA",
+    "lat": 25.9581,
+    "lng": -80.2389,
+    "bbox_km": 15
+  },
+  "canada": {
+    "name": "Circuit Gilles Villeneuve",
+    "location": "Montreal, Canada",
+    "lat": 45.5000,
+    "lng": -73.5228,
+    "bbox_km": 15
+  },
+  "monaco": {
+    "name": "Circuit de Monaco",
+    "location": "Monte Carlo, Monaco",
+    "lat": 43.7347,
+    "lng": 7.4206,
+    "bbox_km": 6
+  },
+  "barcelona": {
+    "name": "Circuit de Barcelona-Catalunya",
+    "location": "Montmeló, Spain",
+    "lat": 41.5700,
+    "lng": 2.2611,
+    "bbox_km": 15
+  },
+  "austria": {
+    "name": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "lat": 47.2197,
+    "lng": 14.7647,
+    "bbox_km": 20
+  },
+  "silverstone": {
+    "name": "Silverstone Circuit",
+    "location": "Silverstone, United Kingdom",
+    "lat": 52.0733,
+    "lng": -1.0147,
+    "bbox_km": 20
+  },
+  "spa": {
+    "name": "Circuit de Spa-Francorchamps",
+    "location": "Stavelot, Belgium",
+    "lat": 50.4372,
+    "lng": 5.9714,
+    "bbox_km": 20
+  },
+  "hungary": {
+    "name": "Hungaroring",
+    "location": "Mogyoród, Hungary",
+    "lat": 47.5789,
+    "lng": 19.2486,
+    "bbox_km": 18
+  },
+  "zandvoort": {
+    "name": "Circuit Zandvoort",
+    "location": "Zandvoort, Netherlands",
+    "lat": 52.3888,
+    "lng": 4.5409,
+    "bbox_km": 15
+  },
+  "monza": {
+    "name": "Autodromo Nazionale Monza",
+    "location": "Monza, Italy",
+    "lat": 45.6156,
+    "lng": 9.2811,
+    "bbox_km": 15
+  },
+  "madrid": {
+    "name": "Madring",
+    "location": "Madrid, Spain",
+    "lat": 40.4653,
+    "lng": -3.6153,
+    "bbox_km": 12
+  },
+  "baku": {
+    "name": "Baku City Circuit",
+    "location": "Baku, Azerbaijan",
+    "lat": 40.3725,
+    "lng": 49.8533,
+    "bbox_km": 10
+  },
+  "singapore": {
+    "name": "Marina Bay Street Circuit",
+    "location": "Singapore",
+    "lat": 1.2914,
+    "lng": 103.8640,
+    "bbox_km": 10
+  },
   "cota": {
     "name": "Circuit of the Americas",
     "location": "Austin, Texas, USA",
     "lat": 30.1328,
     "lng": -97.6411,
     "bbox_km": 20
+  },
+  "mexico": {
+    "name": "Autódromo Hermanos Rodríguez",
+    "location": "Mexico City, Mexico",
+    "lat": 19.4042,
+    "lng": -99.0907,
+    "bbox_km": 15
+  },
+  "brazil": {
+    "name": "Autódromo José Carlos Pace",
+    "location": "São Paulo, Brazil",
+    "lat": -23.7036,
+    "lng": -46.6997,
+    "bbox_km": 15
+  },
+  "las_vegas": {
+    "name": "Las Vegas Strip Circuit",
+    "location": "Las Vegas, Nevada, USA",
+    "lat": 36.1100,
+    "lng": -115.1622,
+    "bbox_km": 10
+  },
+  "qatar": {
+    "name": "Lusail International Circuit",
+    "location": "Lusail, Qatar",
+    "lat": 25.4900,
+    "lng": 51.4542,
+    "bbox_km": 20
+  },
+  "abu_dhabi": {
+    "name": "Yas Marina Circuit",
+    "location": "Abu Dhabi, UAE",
+    "lat": 24.4672,
+    "lng": 54.6031,
+    "bbox_km": 15
   }
 }
+
