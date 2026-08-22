@@ -1,0 +1,37 @@
+name: Extract Overture data
+
+# Runs automatically whenever circuits.json or the extraction script changes,
+# and can also be triggered manually from the Actions tab (Run workflow button).
+on:
+  push:
+    paths:
+      - "scripts/extract.py"
+      - "scripts/circuits.json"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install duckdb
+
+      - name: Run extraction for all circuits
+        run: python scripts/extract.py --all
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/*.json
+          git diff --cached --quiet && echo "No data changes" || git commit -m "Update extracted Overture data"
+          git push

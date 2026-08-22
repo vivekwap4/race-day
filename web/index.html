@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Race Day — F1 race weekend logistics</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4/dist/maplibre-gl.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="map-overlay">
+    <div id="circuit-picker">
+      <label for="circuit-select" class="sr-only">Choose a circuit</label>
+      <select id="circuit-select">
+        <option value="">Loading circuits…</option>
+      </select>
+    </div>
+
+    <div id="layer-filters" class="pill-row" role="group" aria-label="Map layers">
+      <button class="pill active" data-layer="hotels">Hotels</button>
+      <button class="pill" data-layer="food">Food</button>
+    </div>
+
+    <div id="food-subfilters" class="pill-row hidden" role="group" aria-label="Food category">
+      <button class="pill active" data-food="all">All</button>
+      <button class="pill" data-food="restaurant">Restaurants</button>
+      <button class="pill" data-food="cafe">Cafes</button>
+      <button class="pill" data-food="bar">Bars</button>
+      <button class="pill" data-food="fast_food">Fast food</button>
+    </div>
+  </div>
+
+  <aside id="side-panel">
+    <div id="panel-empty" class="panel-section">
+      <p class="muted">Pick a circuit above to see race weekend logistics.</p>
+    </div>
+
+    <div id="panel-content" class="hidden">
+      <div class="panel-section">
+        <h1 id="circuit-name">—</h1>
+        <p id="circuit-location" class="muted"></p>
+      </div>
+
+      <div class="panel-section">
+        <button id="schedule-toggle" class="row-button" aria-expanded="false">
+          <span><i class="icon">&#128197;</i> Race weekend details</span>
+          <span id="schedule-chevron">&#9662;</span>
+        </button>
+        <div id="schedule-body" class="hidden">
+          <p class="muted small">
+            Live session times (practice, qualifying, race) are a planned addition —
+            not wired up in this build. See the README for scope.
+          </p>
+        </div>
+      </div>
+
+      <div class="panel-section">
+        <p class="section-label">Hotels near the circuit</p>
+        <div id="hotel-list"></div>
+      </div>
+    </div>
+
+    <div id="hotel-detail" class="hidden panel-section">
+      <button id="detail-back" class="row-button">&larr; Back to list</button>
+      <div id="hotel-detail-body"></div>
+    </div>
+  </aside>
+
+  <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4/dist/maplibre-gl.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "suzuka": {
+    "name": "Suzuka Circuit",
+    "location": "Suzuka, Japan",
+    "lat": 34.8431,
+    "lng": 136.5410,
+    "bbox_km": 15
+  },
+  "cota": {
+    "name": "Circuit of the Americas",
+    "location": "Austin, Texas, USA",
+    "lat": 30.1328,
+    "lng": -97.6411,
+    "bbox_km": 20
+  }
+}
