@@ -24,20 +24,31 @@ const CLUSTER_COLOR = "#e63946";
 const HOTEL_COLOR = "#6ea8fe";
 const FOOD_COLOR = "#f0b25e";
 
-// Free vector basemap. No API key required. The basemap tiles themselves are
-// not re-themed by the light/dark toggle in this build — only the app's own
-// UI chrome (panel, controls) switches. Re-theming the basemap too would mean
-// swapping the whole map style, a larger change left for a future pass.
-const MAP_STYLE = "https://tiles.openfreemap.org/styles/liberty";
+// Free vector basemap. No API key required. OpenFreeMap ships matching
+// light and dark styles, so the map itself now follows the theme toggle
+// too, not just the app's UI chrome.
+const MAP_STYLE_LIGHT = "https://tiles.openfreemap.org/styles/liberty";
+const MAP_STYLE_DARK = "https://tiles.openfreemap.org/styles/dark";
+
+function mapStyleFor(theme) {
+  return theme === "dark" ? MAP_STYLE_DARK : MAP_STYLE_LIGHT;
+}
 
 const map = new maplibregl.Map({
   container: "map",
-  style: MAP_STYLE,
+  style: mapStyleFor(state.theme),
   center: [0, 20],
   zoom: 1.5,
 });
 
 map.addControl(new maplibregl.NavigationControl(), "bottom-right");
+
+// Swapping map styles (see toggleTheme) removes any custom sources/layers,
+// so re-add the hotel/food cluster layer whenever a new style finishes
+// loading — covers both the toggle and the very first load.
+map.on("style.load", () => {
+  if (state.currentData) renderClusterLayer();
+});
 
 init();
 
@@ -110,6 +121,9 @@ async function loadCircuit(key) {
 function toggleTheme() {
   state.theme = state.theme === "dark" ? "light" : "dark";
   applyTheme();
+  map.setStyle(mapStyleFor(state.theme));
+  // renderClusterLayer() gets called again automatically via the
+  // "style.load" listener once the new style finishes loading.
 }
 
 function applyTheme() {
