@@ -12,6 +12,7 @@ const state = {
   theme: "light",
   language: (navigator.language || "en").toLowerCase().startsWith("en") ? "en" : "local",
   markers: [],
+  homeMarkers: [],
 };
 
 const TIER_CLASS = {
@@ -24,6 +25,36 @@ const CLUSTER_COLOR = "#e63946";
 const HOTEL_COLOR = "#6ea8fe";
 const FOOD_COLOR = "#f0b25e";
 const SOURCE_ID = "places";
+
+// One flag per circuit, keyed to scripts/circuits.json's keys. Kept here
+// rather than in the data file since it's purely decorative UI, not data
+// Overture or the extraction pipeline has any part in.
+const CIRCUIT_FLAGS = {
+  australia: "🇦🇺",
+  china: "🇨🇳",
+  suzuka: "🇯🇵",
+  bahrain: "🇧🇭",
+  saudi_arabia: "🇸🇦",
+  miami: "🇺🇸",
+  canada: "🇨🇦",
+  monaco: "🇲🇨",
+  barcelona: "🇪🇸",
+  austria: "🇦🇹",
+  silverstone: "🇬🇧",
+  spa: "🇧🇪",
+  hungary: "🇭🇺",
+  zandvoort: "🇳🇱",
+  monza: "🇮🇹",
+  madrid: "🇪🇸",
+  baku: "🇦🇿",
+  singapore: "🇸🇬",
+  cota: "🇺🇸",
+  mexico: "🇲🇽",
+  brazil: "🇧🇷",
+  las_vegas: "🇺🇸",
+  qatar: "🇶🇦",
+  abu_dhabi: "🇦🇪",
+};
 
 // Free vector basemap. No API key required. OpenFreeMap ships matching
 // light and dark styles, so the map itself now follows the theme toggle
@@ -50,10 +81,7 @@ async function init() {
   const res = await fetch("data/circuits.json");
   state.circuits = await res.json();
   populateCircuitPicker();
-
-  document.getElementById("circuit-select").addEventListener("change", (e) => {
-    if (e.target.value) loadCircuit(e.target.value);
-  });
+  renderHomeMarkers();
 
   document.querySelectorAll("#layer-filters .pill").forEach((btn) => {
     btn.addEventListener("click", () => setActiveLayer(btn.dataset.layer));
@@ -110,14 +138,93 @@ async function init() {
 }
 
 function populateCircuitPicker() {
-  const select = document.getElementById("circuit-select");
-  select.innerHTML = '<option value="">Choose a circuit</option>';
+  const list = document.getElementById("circuit-list");
+  list.innerHTML = "";
   Object.entries(state.circuits).forEach(([key, c]) => {
-    const opt = document.createElement("option");
-    opt.value = key;
-    opt.textContent = `${c.name} — ${c.location}`;
-    select.appendChild(opt);
+    const item = document.createElement("li");
+    item.className = "circuit-option";
+    item.setAttribute("role", "option");
+    item.dataset.key = key;
+    const flag = CIRCUIT_FLAGS[key] || "";
+    item.innerHTML = `
+      <span class="circuit-flag" aria-hidden="true">${flag}</span>
+      <span class="circuit-option-text">${escapeHtml(c.name)} — ${escapeHtml(c.location)}</span>
+    `;
+    item.addEventListener("click", () => {
+      closeCircuitDropdown();
+      selectCircuit(key);
+    });
+    list.appendChild(item);
   });
+
+  const trigger = document.getElementById("circuit-trigger");
+  trigger.addEventListener("click", (e) => {
+    e.stopPropagation();
+    toggleCircuitDropdown();
+  });
+  document.addEventListener("click", (e) => {
+    if (!document.getElementById("circuit-picker").contains(e.target)) {
+      closeCircuitDropdown();
+    }
+  });
+}
+
+function toggleCircuitDropdown() {
+  const list = document.getElementById("circuit-list");
+  const trigger = document.getElementById("circuit-trigger");
+  const isOpen = !list.classList.contains("hidden");
+  if (isOpen) {
+    closeCircuitDropdown();
+  } else {
+    list.classList.remove("hidden");
+    trigger.setAttribute("aria-expanded", "true");
+  }
+}
+
+function closeCircuitDropdown() {
+  document.getElementById("circuit-list").classList.add("hidden");
+  document.getElementById("circuit-trigger").setAttribute("aria-expanded", "false");
+}
+
+// Shared by both the dropdown and the home-view map markers, so picking a
+// circuit either way updates the trigger label and highlighted option the
+// same way.
+function selectCircuit(key) {
+  const c = state.circuits[key];
+  if (!c) return;
+  const flag = CIRCUIT_FLAGS[key] || "";
+  document.getElementById("circuit-trigger-label").textContent = `${flag} ${c.name} — ${c.location}`;
+  document.querySelectorAll(".circuit-option").forEach((el) => {
+    el.classList.toggle("selected", el.dataset.key === key);
+  });
+  loadCircuit(key);
+}
+
+// --- Home-view circuit markers, shown on the world map before a circuit is
+// picked. Clicking one selects that circuit, same as the dropdown. Cleared
+// once a circuit is loaded, since the map zooms in and they'd be off-screen
+// or clutter the local view anyway.
+
+function renderHomeMarkers() {
+  clearHomeMarkers();
+  Object.entries(state.circuits).forEach(([key, c]) => {
+    const el = document.createElement("div");
+    el.style.cssText =
+      "width:10px;height:10px;border-radius:50%;background:#e63946;border:2px solid white;box-shadow:0 0 0 1px rgba(0,0,0,0.15);cursor:pointer;";
+    const marker = new maplibregl.Marker({ element: el })
+      .setLngLat([c.lng, c.lat])
+      .setPopup(new maplibregl.Popup({ offset: 10 }).setText(`${c.name} — ${c.location}`))
+      .addTo(map);
+    el.addEventListener("click", () => {
+      selectCircuit(key);
+    });
+    state.homeMarkers.push(marker);
+  });
+}
+
+function clearHomeMarkers() {
+  state.homeMarkers.forEach((m) => m.remove());
+  state.homeMarkers = [];
 }
 
 async function loadCircuit(key) {
@@ -126,6 +233,7 @@ async function loadCircuit(key) {
     console.error(`No data file for circuit '${key}'. Run scripts/extract.py first.`);
     return;
   }
+  clearHomeMarkers();
   state.currentCircuit = key;
   state.currentData = await res.json();
 

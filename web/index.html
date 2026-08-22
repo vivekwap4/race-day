@@ -7,16 +7,17 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4/dist/maplibre-gl.css" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
-<body data-theme="dark">
+<body data-theme="light">
   <div id="map"></div>
 
   <div id="map-overlay">
     <div id="top-controls">
       <div id="circuit-picker">
-        <label for="circuit-select" class="sr-only">Choose a circuit</label>
-        <select id="circuit-select">
-          <option value="">Loading circuits…</option>
-        </select>
+        <button id="circuit-trigger" class="circuit-trigger" aria-haspopup="listbox" aria-expanded="false">
+          <span id="circuit-trigger-label">Choose a circuit</span>
+          <span class="circuit-trigger-chevron">&#9662;</span>
+        </button>
+        <ul id="circuit-list" class="circuit-list hidden" role="listbox"></ul>
       </div>
       <button id="theme-toggle" class="icon-button" aria-label="Toggle dark or light theme" title="Toggle theme">
         <span id="theme-icon">&#9728;</span>
