@@ -126,9 +126,7 @@ body {
 }
 
 .circuit-trigger-label {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .circuit-trigger-chevron {
@@ -157,13 +155,14 @@ body {
 
 .circuit-option {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 8px;
   padding: 8px 10px;
   font-size: 13px;
   border-radius: 8px;
   cursor: pointer;
   color: var(--text-primary);
+  line-height: 1.4;
 }
 
 .circuit-option:hover {
@@ -178,12 +177,11 @@ body {
 .circuit-flag {
   font-size: 15px;
   flex-shrink: 0;
+  line-height: 1.4;
 }
 
 .circuit-option-text {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .icon-button {
