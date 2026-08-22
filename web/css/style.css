@@ -345,7 +345,7 @@ body {
    the canvas, not the whole map container, so our own markers/popups
    (separate DOM elements layered on top) aren't affected by the filter. */
 body[data-theme="dark"] #map canvas.maplibregl-canvas {
-  filter: brightness(1.4) contrast(1.15);
+  filter: brightness(2.0) contrast(1.5);
 }
 
 @media (max-width: 860px) {

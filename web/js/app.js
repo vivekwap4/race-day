@@ -129,14 +129,10 @@ function toggleTheme() {
   map.once("style.load", () => {
     map.jumpTo({ center: preservedCenter, zoom: preservedZoom });
     if (!state.currentData) return;
-    // "style.load" fires once the style document itself is parsed, but the
-    // style's own tile sources may still be loading — isStyleLoaded() is
-    // the real signal that it's safe to add our own source/layers on top.
-    if (map.isStyleLoaded()) {
-      renderClusterLayer();
-    } else {
-      map.once("idle", renderClusterLayer);
-    }
+    // Always wait for idle rather than checking isStyleLoaded() and
+    // sometimes rendering immediately — that race is what exposed a
+    // transient null point_count value right after a style swap.
+    map.once("idle", renderClusterLayer);
   });
 }
 
@@ -256,7 +252,7 @@ function renderClusterLayer() {
     filter: ["has", "point_count"],
     paint: {
       "circle-color": CLUSTER_COLOR,
-      "circle-radius": ["step", ["get", "point_count"], 16, 10, 20, 25, 26],
+      "circle-radius": ["step", ["coalesce", ["get", "point_count"], 0], 16, 10, 20, 25, 26],
       "circle-stroke-width": 2,
       "circle-stroke-color": "#ffffff",
     },
