@@ -1,0 +1,1058 @@
+{
+  "circuit": {
+    "key": "bahrain",
+    "name": "Bahrain International Circuit",
+    "location": "Sakhir, Bahrain",
+    "lat": 26.0325,
+    "lng": 50.5106
+  },
+  "hotels": [
+    {
+      "name": "Bahrain Beach Resort",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 26.049219967901347,
+      "lng": 50.49125557735717,
+      "distance_km": 2.68,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Sofitel Bahrain Zallaq Thalassa sea & spa",
+      "name_en": null,
+      "category": "resort",
+      "lat": 26.05337414,
+      "lng": 50.4848667,
+      "distance_km": 3.46,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Al Areen Palace And Spa W.l.l",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 26.002063615491,
+      "lng": 50.518565265498,
+      "distance_km": 3.48,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Raffles Al Areen Palace Bahrain",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 26.0021352,
+      "lng": 50.5188704,
+      "distance_km": 3.48,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Al Areen Royal Villa",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 25.9993618,
+      "lng": 50.5179145,
+      "distance_km": 3.76,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Bahrain Beach Resort",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 25.995696,
+      "lng": 50.467525,
+      "distance_km": 5.94,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Wyndham Grand Manama",
+      "name_en": null,
+      "category": "resort",
+      "lat": 26.08697607,
+      "lng": 50.54563965,
+      "distance_km": 7.0,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Sofitel Bahrain Zallaq Thalassa sea & spa",
+      "name_en": null,
+      "category": "resort",
+      "lat": 26.09541093,
+      "lng": 50.54116439,
+      "distance_km": 7.63,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Jaw Resort & Spa",
+      "name_en": null,
+      "category": "resort",
+      "lat": 26.00876623,
+      "lng": 50.62046659,
+      "distance_km": 11.29,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Jumeirah Gulf of Bahrain",
+      "name_en": null,
+      "category": "resort",
+      "lat": 25.92667334,
+      "lng": 50.4921174,
+      "distance_km": 11.91,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Nordic Resort",
+      "name_en": null,
+      "category": "resort",
+      "lat": 26.14878341,
+      "lng": 50.47221754,
+      "distance_km": 13.49,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Fraser Suites Al Liwan",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 26.16318044,
+      "lng": 50.46893504,
+      "distance_km": 15.11,
+      "access_tier": "Long Transfer"
+    }
+  ],
+  "food": [
+    {
+      "name": "Bouqitue Cafe Gravity Village",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.02767,
+      "lng": 50.495801,
+      "distance_km": 1.57,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Dose Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.02749385,
+      "lng": 50.49564139,
+      "distance_km": 1.59,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Mug Cafe and Roastery",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.02743682,
+      "lng": 50.49527015,
+      "distance_km": 1.63,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.02749781,
+      "lng": 50.49530726,
+      "distance_km": 1.63,
+      "food_group": "cafe"
+    },
+    {
+      "name": "The sea loop",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.04923202,
+      "lng": 50.49842121,
+      "distance_km": 2.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Fuddruckers- Zallaq",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.05017006,
+      "lng": 50.49884926,
+      "distance_km": 2.29,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.0504463,
+      "lng": 50.49867013,
+      "distance_km": 2.32,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.05075176,
+      "lng": 50.4988002,
+      "distance_km": 2.35,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Capri Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.05284176,
+      "lng": 50.49006544,
+      "distance_km": 3.05,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Jasmis",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.05315997,
+      "lng": 50.48759427,
+      "distance_km": 3.25,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u0628\u0634\u0648\u0627\u062a",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.053006,
+      "lng": 50.484926,
+      "distance_km": 3.43,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "\u0645\u0627\u0643\u062f\u0648\u0646\u0627\u0644\u062f\u0632",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.060261,
+      "lng": 50.487772,
+      "distance_km": 3.84,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Ghareeb Express 18",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.08159565,
+      "lng": 50.50415547,
+      "distance_km": 5.5,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Dutch",
+      "name_en": null,
+      "category": "bar",
+      "lat": 25.98150251403,
+      "lng": 50.504493713379,
+      "distance_km": 5.7,
+      "food_group": "bar"
+    },
+    {
+      "name": "Younis Burger",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.09573984,
+      "lng": 50.4969531,
+      "distance_km": 7.16,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.10144827,
+      "lng": 50.55251884,
+      "distance_km": 8.74,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Oak",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.10234036,
+      "lng": 50.5532652,
+      "distance_km": 8.86,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Dome Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.10249729,
+      "lng": 50.56462881,
+      "distance_km": 9.47,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Hajwaeri Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.12245271,
+      "lng": 50.53984017,
+      "distance_km": 10.42,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Onut donut cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.12365095,
+      "lng": 50.54113815,
+      "distance_km": 10.58,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Jasmis (west Riffa3)",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.124492,
+      "lng": 50.543017,
+      "distance_km": 10.73,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "VIII Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.05557777,
+      "lng": 50.61753871,
+      "distance_km": 10.99,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.11303564,
+      "lng": 50.57550589,
+      "distance_km": 11.06,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Food City Riffa Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.12791946,
+      "lng": 50.54332279,
+      "distance_km": 11.1,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Dar Al Zafran Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.11368618,
+      "lng": 50.57594249,
+      "distance_km": 11.14,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "D9 Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.11376898,
+      "lng": 50.57681779,
+      "distance_km": 11.2,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Tren Tren Riffa Restaurant and Grills",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.11522542,
+      "lng": 50.57516169,
+      "distance_km": 11.23,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Burger Express",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.12973426,
+      "lng": 50.47890224,
+      "distance_km": 11.27,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Food World Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.12060938,
+      "lng": 50.56716599,
+      "distance_km": 11.31,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "668 Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.131281193089,
+      "lng": 50.540953607072,
+      "distance_km": 11.39,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Maya Delices patisserie and bakery",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.1311269,
+      "lng": 50.543041,
+      "distance_km": 11.44,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The coffee garden",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.13041533,
+      "lng": 50.54788215,
+      "distance_km": 11.51,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Hardee's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.1333035,
+      "lng": 50.5379493,
+      "distance_km": 11.54,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.13564112,
+      "lng": 50.52821244,
+      "distance_km": 11.6,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Tim Hortons",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.135573,
+      "lng": 50.528404,
+      "distance_km": 11.6,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.135959,
+      "lng": 50.526856,
+      "distance_km": 11.62,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caribou Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.13663807,
+      "lng": 50.52063875,
+      "distance_km": 11.62,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.1366837,
+      "lng": 50.51925773,
+      "distance_km": 11.62,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Kung Fu Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.12199715,
+      "lng": 50.57267326,
+      "distance_km": 11.72,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Karak Tandoori",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.11967432,
+      "lng": 50.57743671,
+      "distance_km": 11.77,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Moshy's Resto and Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.11990894,
+      "lng": 50.57752319,
+      "distance_km": 11.8,
+      "food_group": "cafe"
+    },
+    {
+      "name": "The Knot Coffee Bar",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.13395124,
+      "lng": 50.54832846,
+      "distance_km": 11.89,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Sash Cafe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.13481845,
+      "lng": 50.54558069,
+      "distance_km": 11.9,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Food Lab",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.13282371,
+      "lng": 50.55260885,
+      "distance_km": 11.92,
+      "food_group": "cafe"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.13124867,
+      "lng": 50.55818162,
+      "distance_km": 11.96,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.103583,
+      "lng": 50.600499,
+      "distance_km": 11.96,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Philippine Castle Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.13270583,
+      "lng": 50.55461849,
+      "distance_km": 11.98,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pasta Express",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.13450779,
+      "lng": 50.54941656,
+      "distance_km": 11.99,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Jacks",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.13463681,
+      "lng": 50.54994947,
+      "distance_km": 12.02,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Al Nokhda Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.13914493,
+      "lng": 50.49087887,
+      "distance_km": 12.02,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "GoldenAlmarsa",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.142147,
+      "lng": 50.49831,
+      "distance_km": 12.25,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Koph Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.13550707,
+      "lng": 50.55462784,
+      "distance_km": 12.27,
+      "food_group": "cafe"
+    },
+    {
+      "name": "B&J Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.135416,
+      "lng": 50.555783,
+      "distance_km": 12.3,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Fresh - Superfood Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.135483,
+      "lng": 50.556673,
+      "distance_km": 12.34,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Lahore restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.14257906,
+      "lng": 50.49462972,
+      "distance_km": 12.34,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Healthy Calorie",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.1368198,
+      "lng": 50.55709318,
+      "distance_km": 12.49,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Good Wolf Eatery",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.13715863,
+      "lng": 50.55777951,
+      "distance_km": 12.56,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.12976736,
+      "lng": 50.57458743,
+      "distance_km": 12.56,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Black 22 CoffeeBar and Roastery",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.13723369,
+      "lng": 50.55787253,
+      "distance_km": 12.57,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Petit Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.13084575,
+      "lng": 50.57311716,
+      "distance_km": 12.59,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks Middle East",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.1376437,
+      "lng": 50.5590319,
+      "distance_km": 12.65,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cortado Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.13120305,
+      "lng": 50.57805356,
+      "distance_km": 12.88,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cast Iron Steakhouse",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.1469592957809,
+      "lng": 50.48848321014574,
+      "distance_km": 12.92,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Coffee in love",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.1319998,
+      "lng": 50.5782481,
+      "distance_km": 12.96,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.13640905,
+      "lng": 50.56963927,
+      "distance_km": 12.97,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Dunkin'",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.13757106,
+      "lng": 50.56722459,
+      "distance_km": 12.98,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cine Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.13788449,
+      "lng": 50.56678789,
+      "distance_km": 12.99,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Hashem Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.13778035,
+      "lng": 50.56693806,
+      "distance_km": 12.99,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "OYYA Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.13385648,
+      "lng": 50.57665043,
+      "distance_km": 13.06,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u0627\u0644\u0631\u0648\u0645\u0627\u0646\u0633\u064a\u0629 - ALromansiah | \u0627\u0644\u0647\u0645\u0644\u0629",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.148301,
+      "lng": 50.487437,
+      "distance_km": 13.08,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.12643313,
+      "lng": 50.59002253,
+      "distance_km": 13.12,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Dairy Queen - Hamala",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.14917403,
+      "lng": 50.48675949,
+      "distance_km": 13.19,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Cafe De Vevey",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.128258325887,
+      "lng": 50.589401721954,
+      "distance_km": 13.24,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u0645\u0627\u0643\u062f\u0648\u0646\u0627\u0644\u062f\u0632",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.128861,
+      "lng": 50.589833,
+      "distance_km": 13.32,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Yabeelna Pasta",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.15304091,
+      "lng": 50.51993999,
+      "distance_km": 13.44,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Black Square Cafe",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.14019502,
+      "lng": 50.57754786,
+      "distance_km": 13.72,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Miray Beauty Salon and Spa",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.15617018,
+      "lng": 50.51213713,
+      "distance_km": 13.75,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "House of Balaleet",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.15630354,
+      "lng": 50.51279264,
+      "distance_km": 13.77,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Dream Cafe",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.14240653,
+      "lng": 50.57866153,
+      "distance_km": 13.98,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.15360601,
+      "lng": 50.54883277,
+      "distance_km": 14.0,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Naughty by Raaw",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.15381062,
+      "lng": 50.54888465,
+      "distance_km": 14.02,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Samarlatte",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.14127524,
+      "lng": 50.58201105,
+      "distance_km": 14.04,
+      "food_group": "cafe"
+    },
+    {
+      "name": "AlJalboot Fish Restaurant - \u0645\u0637\u0639\u0645 \u062c\u0627\u0644\u0628\u0648\u062a \u0644\u0644\u0627\u0633\u0645\u0627\u0643",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.159446614212,
+      "lng": 50.519455097091,
+      "distance_km": 14.14,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Sorso",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.14404918,
+      "lng": 50.57902181,
+      "distance_km": 14.16,
+      "food_group": "cafe"
+    },
+    {
+      "name": "T\u00fcnayd\u0131n Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.14065536,
+      "lng": 50.58765232,
+      "distance_km": 14.28,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caribou Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.16241715,
+      "lng": 50.52288527,
+      "distance_km": 14.5,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Double Smash",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.16038,
+      "lng": 50.5398,
+      "distance_km": 14.52,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Al Roshinah Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.14508043,
+      "lng": 50.58534367,
+      "distance_km": 14.57,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Mandala Lounge Cafe and Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.14602342,
+      "lng": 50.58502428,
+      "distance_km": 14.65,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Espressolab",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.161768610777507,
+      "lng": 50.54109732551396,
+      "distance_km": 14.69,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.15973603,
+      "lng": 50.46918312,
+      "distance_km": 14.74,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cantine",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.16080323,
+      "lng": 50.47081935,
+      "distance_km": 14.81,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.161789,
+      "lng": 50.546167,
+      "distance_km": 14.81,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Gyuto Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.16151109,
+      "lng": 50.46932264,
+      "distance_km": 14.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Kabuki Japanese Cuisine, Al Liwan, Hamala",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.162828637438082,
+      "lng": 50.47000752434154,
+      "distance_km": 15.05,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Kyo Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.16281779,
+      "lng": 50.46904249,
+      "distance_km": 15.07,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Coffee Bean and Tea Leaf",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.16504625,
+      "lng": 50.54189365,
+      "distance_km": 15.07,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Brunch and Cake Al Liwan",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.16319371,
+      "lng": 50.46993475,
+      "distance_km": 15.09,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 26.16525824,
+      "lng": 50.54192722,
+      "distance_km": 15.09,
+      "food_group": "cafe"
+    },
+    {
+      "name": "JanJu",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.16671461,
+      "lng": 50.54201495,
+      "distance_km": 15.25,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Dairy Queen",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 26.16695002,
+      "lng": 50.54233909,
+      "distance_km": 15.28,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Alshami Alaseel restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.16673502,
+      "lng": 50.56245842,
+      "distance_km": 15.8,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Dafi Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 26.16412346,
+      "lng": 50.57099183,
+      "distance_km": 15.83,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u0643\u0631\u064a\u0628 \u062a\u0627\u064a\u0645 - \u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 26.159231,
+      "lng": 50.610641,
+      "distance_km": 17.27,
+      "food_group": "restaurant"
+    }
+  ],
+  "overture_release": "2026-08-19.0"
+}

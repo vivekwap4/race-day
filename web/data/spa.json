@@ -1,0 +1,4631 @@
+{
+  "circuit": {
+    "key": "spa",
+    "name": "Circuit de Spa-Francorchamps",
+    "location": "Stavelot, Belgium",
+    "lat": 50.4372,
+    "lng": 5.9714
+  },
+  "hotels": [
+    {
+      "name": "La Kolline",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.447638,
+      "lng": 5.975919,
+      "distance_km": 1.2,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel De La Source",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44781551,
+      "lng": 5.95995173,
+      "distance_km": 1.43,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Grand Prix Resort",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.45012648651,
+      "lng": 5.9642028808594,
+      "distance_km": 1.53,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Les Lucioles Francorchamps",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.45325383,
+      "lng": 5.95877424,
+      "distance_km": 2.0,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Franchchamps racing hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.45306532,
+      "lng": 5.95748623,
+      "distance_km": 2.02,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Cottage Saint Hilaire",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42762,
+      "lng": 5.99748,
+      "distance_km": 2.13,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Un Matin au Jardin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44902579,
+      "lng": 5.94609729,
+      "distance_km": 2.22,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Race and Rooms",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.45429502,
+      "lng": 5.95267004,
+      "distance_km": 2.32,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Num\u00e9ro 12",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.43378,
+      "lng": 6.01051,
+      "distance_km": 2.8,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Woodster Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.46281986,
+      "lng": 5.97034019,
+      "distance_km": 2.85,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Colombe maison d'h\u00f4tes",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.46509822,
+      "lng": 5.97169494,
+      "distance_km": 3.1,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Tani\u00e8re de l'Eau Rouge",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.41188,
+      "lng": 5.95175,
+      "distance_km": 3.14,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Maison des Senteurs",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.44216,
+      "lng": 5.92409,
+      "distance_km": 3.4,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Bernister",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.44390779,
+      "lng": 6.02125921,
+      "distance_km": 3.61,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Francorchamps race car h\u00f4tel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.46996,
+      "lng": 5.95908,
+      "distance_km": 3.75,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "My Hotel Malmedy",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.429981895669144,
+      "lng": 6.0257580415367356,
+      "distance_km": 3.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel La Forge SA",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42544877,
+      "lng": 6.02430591,
+      "distance_km": 3.97,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "L'Esprit Sain",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4258892,
+      "lng": 6.02639842,
+      "distance_km": 4.09,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Guesthouse Room 40",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4258356,
+      "lng": 6.02638862,
+      "distance_km": 4.09,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Jardin Fleuri",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.43279984,
+      "lng": 6.02976588,
+      "distance_km": 4.16,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Restaurant Albert 1er",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4257866,
+      "lng": 6.02840088,
+      "distance_km": 4.23,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Floreal",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42585925,
+      "lng": 6.0288482,
+      "distance_km": 4.26,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel St. G\u00e9r\u00e9on",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42476338,
+      "lng": 6.02845853,
+      "distance_km": 4.27,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Auberge de Jeunesse de Malmedy",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44032892263148,
+      "lng": 6.035094995960164,
+      "distance_km": 4.52,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "B&B Circuitez-Vous",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.399936,
+      "lng": 5.94485885,
+      "distance_km": 4.55,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Les Vallons",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.440169,
+      "lng": 6.038287,
+      "distance_km": 4.75,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Maison Geron",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44190796,
+      "lng": 6.03887441,
+      "distance_km": 4.81,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hostellerie de la Chapelle",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44170901,
+      "lng": 6.03946746,
+      "distance_km": 4.85,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "CHAL'Heureux",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.43029621,
+      "lng": 6.04009031,
+      "distance_km": 4.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Val d'Ambl\u00e8ve",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.39773752,
+      "lng": 5.93914154,
+      "distance_km": 4.95,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Gite en Ardenne",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.481223,
+      "lng": 5.987883,
+      "distance_km": 5.03,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Beau S\u00e9jour",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.48258029,
+      "lng": 5.98290244,
+      "distance_km": 5.11,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Clos des Brumes",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.42517889,
+      "lng": 5.90152383,
+      "distance_km": 5.13,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Randonneur",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.48266987,
+      "lng": 5.9840282,
+      "distance_km": 5.13,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Auberge des Castors",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.47976,
+      "lng": 5.99971,
+      "distance_km": 5.14,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Restaurant Beau Site",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.48266839,
+      "lng": 5.98487758,
+      "distance_km": 5.15,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Ferme du Soyeuru",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.47255715,
+      "lng": 5.91937188,
+      "distance_km": 5.39,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Oduo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.486402,
+      "lng": 5.968571,
+      "distance_km": 5.47,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Petit Roannay",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.39517786,
+      "lng": 5.92952682,
+      "distance_km": 5.53,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Roseraie Stavelot",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.39441,
+      "lng": 5.93108,
+      "distance_km": 5.55,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Ardenne and Eifel Aventures",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.425775,
+      "lng": 5.893552,
+      "distance_km": 5.66,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Les \u00e9tangs du Thioux",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.3896191,
+      "lng": 6.00015719,
+      "distance_km": 5.67,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Lodges by Tero",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.488206594386,
+      "lng": 5.9655353282192,
+      "distance_km": 5.69,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Borzeux",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.39564971,
+      "lng": 5.92394588,
+      "distance_km": 5.71,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Callune",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.43875987,
+      "lng": 5.89069396,
+      "distance_km": 5.72,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Restaurant \u00d4 Mal Aim\u00e9",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.39351166,
+      "lng": 5.92844421,
+      "distance_km": 5.73,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Villa Monbijou",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.420444,
+      "lng": 6.048211,
+      "distance_km": 5.75,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Boutique Hotel Dufays",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.3921153,
+      "lng": 5.92594859,
+      "distance_km": 5.96,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u00c2 V\u00ee Molin",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.42625998,
+      "lng": 5.88764384,
+      "distance_km": 6.06,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Villa Stockeu",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.387068,
+      "lng": 5.935284,
+      "distance_km": 6.13,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Pierre du Diable",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.39064094,
+      "lng": 5.923998,
+      "distance_km": 6.17,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Tannerie",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42136,
+      "lng": 6.05598,
+      "distance_km": 6.24,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Source d'Arimont",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.42130232,
+      "lng": 6.05605919,
+      "distance_km": 6.25,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "L'Oree des Fagnes",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.49521842,
+      "lng": 5.96003565,
+      "distance_km": 6.5,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Lerefuge",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.39288,
+      "lng": 5.91121,
+      "distance_km": 6.52,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Daft Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.41261211,
+      "lng": 6.05722219,
+      "distance_km": 6.67,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le R\u00eave d'Elise",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.422289,
+      "lng": 5.879589,
+      "distance_km": 6.71,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Ferme Le Grand Aleff",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.39217325,
+      "lng": 6.03625857,
+      "distance_km": 6.8,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Arimont Valley Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42741542,
+      "lng": 6.0666797,
+      "distance_km": 6.84,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "B&B Basse Bois",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.41921202,
+      "lng": 5.87574748,
+      "distance_km": 7.06,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Renardi\u00e8re",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.39095062,
+      "lng": 6.04220931,
+      "distance_km": 7.18,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Relais De La Vecquee",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.43546618,
+      "lng": 5.86857182,
+      "distance_km": 7.29,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Tresor des Fagnes",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.46068809,
+      "lng": 6.06949104,
+      "distance_km": 7.42,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Olborbotte",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.45767777,
+      "lng": 6.07611789,
+      "distance_km": 7.76,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Little Eugene Farm",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.45910881,
+      "lng": 6.07584767,
+      "distance_km": 7.79,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Huisje in Stavelot",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.388774,
+      "lng": 5.886586,
+      "distance_km": 8.07,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "B&B La Raveline",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.50038029,
+      "lng": 5.91120014,
+      "distance_km": 8.22,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Val De La Cascade",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.39252655,
+      "lng": 5.87789981,
+      "distance_km": 8.28,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel l'Ecrin d'O",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.48621893,
+      "lng": 5.88261397,
+      "distance_km": 8.32,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Le 24",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49536896,
+      "lng": 5.89678568,
+      "distance_km": 8.35,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Villa Roannaise",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.40398244,
+      "lng": 5.86381043,
+      "distance_km": 8.47,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Laurier Rose",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.39136675,
+      "lng": 5.87528843,
+      "distance_km": 8.51,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Un Air De Ch\u00e2teau",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.49460951,
+      "lng": 5.89168538,
+      "distance_km": 8.52,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Hotleu",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.41607764,
+      "lng": 6.08776861,
+      "distance_km": 8.57,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Les Tch\u00e9ous",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.41931258,
+      "lng": 5.85350681,
+      "distance_km": 8.58,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Godopearl's Magic Valley",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.362733971435034,
+      "lng": 6.0103968857252745,
+      "distance_km": 8.73,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Repos De La Fontaine",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.50101126,
+      "lng": 5.89624272,
+      "distance_km": 8.87,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Mara\u00c9lo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.51442202,
+      "lng": 5.9398145,
+      "distance_km": 8.87,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Logis H\u00f4tel du Moulin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.37560851,
+      "lng": 6.0542307,
+      "distance_km": 9.02,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "BELVILLA - ( BE-4900-80 ) Een villa perfect gelegen in spa, tussen het stadscentrum en het bos.",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.483336,
+      "lng": 5.865557,
+      "distance_km": 9.08,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Villa d'Olne",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49229107,
+      "lng": 5.8767496,
+      "distance_km": 9.08,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Studio de la Villa Madeleine",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.49399433,
+      "lng": 5.87882633,
+      "distance_km": 9.1,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le chateau des tourelles",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.48022704313284,
+      "lng": 5.861449712108108,
+      "distance_km": 9.14,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Residence Ambl\u00e8ve",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.37178876,
+      "lng": 6.05098528,
+      "distance_km": 9.2,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Saint-Hubert",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.37428807,
+      "lng": 6.05562316,
+      "distance_km": 9.2,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "B&B La Maurianne",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.49108439,
+      "lng": 5.86853113,
+      "distance_km": 9.43,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Grand Maur",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.48514281,
+      "lng": 5.85977617,
+      "distance_km": 9.53,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "B&B Le Chant des \u00c9toiles",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.47074777,
+      "lng": 5.84743379,
+      "distance_km": 9.54,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Radisson Blu Balmoral Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.50295456,
+      "lng": 5.8836127,
+      "distance_km": 9.59,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Silva Hotel Spa-Balmoral",
+      "name_en": null,
+      "category": "resort",
+      "lat": 50.5048321,
+      "lng": 5.8872852,
+      "distance_km": 9.59,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00e9bergement Chato\u00eement",
+      "name_en": null,
+      "category": "hostel",
+      "lat": 50.494886,
+      "lng": 5.868009,
+      "distance_km": 9.73,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Metairie and Son Auberge",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.35583356,
+      "lng": 5.9202294,
+      "distance_km": 9.75,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Cardinal",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49269687,
+      "lng": 5.86433809,
+      "distance_km": 9.77,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Chez Laurette",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.47298896,
+      "lng": 5.84507566,
+      "distance_km": 9.79,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Trouvaille",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.39342785,
+      "lng": 6.09144649,
+      "distance_km": 9.8,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Villa de Noailles",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.4908836,
+      "lng": 5.86148681,
+      "distance_km": 9.81,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Villa Des Fleurs",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49130062,
+      "lng": 5.86175267,
+      "distance_km": 9.82,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Van der Valk Hotel Spa",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49278783,
+      "lng": 5.86345823,
+      "distance_km": 9.83,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Radisson Blu Palace Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49274496,
+      "lng": 5.86340729,
+      "distance_km": 9.83,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "BELVILLA - ( BE-4950-209 ) Charmant Chalet in Waimes met priv\u00e9sauna en jacuzzi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.438136,
+      "lng": 6.110169,
+      "distance_km": 9.83,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Logis Hotel Restaurant l'Auberge",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49204594,
+      "lng": 5.86209588,
+      "distance_km": 9.85,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "L'Ermitage des Fagnes",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.486566,
+      "lng": 5.8546018,
+      "distance_km": 9.92,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Tonnellerie",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49332678,
+      "lng": 5.86231603,
+      "distance_km": 9.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Villa du Pr\u00e9 Du Cerf",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49918178,
+      "lng": 5.87032528,
+      "distance_km": 9.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u00d4 Secret du W\u00e9rihay",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.47058616,
+      "lng": 5.84111258,
+      "distance_km": 9.94,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel la Pitchounette",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.51696688,
+      "lng": 5.90810763,
+      "distance_km": 9.94,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "L'Etape Fagnarde",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.48746033,
+      "lng": 5.8544142,
+      "distance_km": 9.99,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Villa le Vert bois",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.492618,
+      "lng": 5.85997502,
+      "distance_km": 10.01,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "H\u00f4tel La Reine",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.49165205,
+      "lng": 5.85865004,
+      "distance_km": 10.02,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Au Coq en P\u00e2te",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.52730031,
+      "lng": 5.96114801,
+      "distance_km": 10.04,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Corner sources",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.5186084,
+      "lng": 5.90594525,
+      "distance_km": 10.17,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Au Cheval Blanc",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.41576663,
+      "lng": 6.11237327,
+      "distance_km": 10.27,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Manoir de L\u00e9bioles",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.46481019,
+      "lng": 5.83159535,
+      "distance_km": 10.36,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Romance du Lac",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.45604094,
+      "lng": 6.1158292,
+      "distance_km": 10.44,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00eete \"Les Airelles\"",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.475398,
+      "lng": 6.109604,
+      "distance_km": 10.67,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Lodge du Lac - G\u00eete 40 pers.17 ch. - Piscine",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4549421,
+      "lng": 6.1197962,
+      "distance_km": 10.69,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Dry Les Courtis",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4549932,
+      "lng": 6.12008633,
+      "distance_km": 10.71,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Domaine DES Hautes Fagnes",
+      "name_en": null,
+      "category": "resort",
+      "lat": 50.4792843,
+      "lng": 6.1084783,
+      "distance_km": 10.77,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel des Bains Wellness",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44653789,
+      "lng": 6.12372535,
+      "distance_km": 10.84,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00eete Kaleo Ovifat",
+      "name_en": null,
+      "category": "hostel",
+      "lat": 50.47971931,
+      "lng": 6.10919412,
+      "distance_km": 10.84,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La ferme du Pere Louis",
+      "name_en": null,
+      "category": "hostel",
+      "lat": 50.380026,
+      "lng": 6.096515,
+      "distance_km": 10.91,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ch\u00e2teau De Froidcour",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.4070205,
+      "lng": 5.824325,
+      "distance_km": 10.95,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Latyka",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.45214222,
+      "lng": 6.124548,
+      "distance_km": 10.97,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "BELVILLA - ( BE-4950-198 ) Welkom bij dit vakantiehuis ideaal voor groepen!",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.452046,
+      "lng": 6.125441,
+      "distance_km": 11.03,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Cl\u00e9 des Fagnes",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.47889,
+      "lng": 6.11272,
+      "distance_km": 11.03,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Au bois dormant",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.45116410004773,
+      "lng": 6.130807000063539,
+      "distance_km": 11.39,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Coccinelle",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.33935128,
+      "lng": 5.92358421,
+      "distance_km": 11.4,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00eete Chemin de Traverse",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4628138,
+      "lng": 5.8134859,
+      "distance_km": 11.54,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Al Betchou P\u00eere",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.39242839052366,
+      "lng": 5.822545947815619,
+      "distance_km": 11.66,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "B&B La Bouverie - Hautes Fagnes",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.47072132,
+      "lng": 6.13046619,
+      "distance_km": 11.86,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Chez Marie",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.40607,
+      "lng": 5.8093199,
+      "distance_km": 11.99,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Auberge de l'Hertogenwald",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.54434491,
+      "lng": 5.95197968,
+      "distance_km": 11.99,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Jos\u00e9phine",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.47577895327,
+      "lng": 6.13037109375,
+      "distance_km": 12.04,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Stoumont Village 22",
+      "name_en": null,
+      "category": "hostel",
+      "lat": 50.407277686173,
+      "lng": 5.8068715826678,
+      "distance_km": 12.12,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Home Tranquille",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.40981657,
+      "lng": 5.80478026,
+      "distance_km": 12.19,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Petite Roer",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.48182287,
+      "lng": 6.12862655,
+      "distance_km": 12.19,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Wild Cat Cottage",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.481896,
+      "lng": 6.128879,
+      "distance_km": 12.21,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Trois Loups",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.352756,
+      "lng": 5.860529,
+      "distance_km": 12.24,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "MSJ",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.3529736,
+      "lng": 5.8601934,
+      "distance_km": 12.24,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "BELVILLA - (BE-4950-232) Grote vakantiegang in Waimes met een tuin (10 volwassenen + 4 kinderen)",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4865991,
+      "lng": 6.1260469,
+      "distance_km": 12.25,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "B&B Maison Ruthier",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.41019125,
+      "lng": 6.13923314,
+      "distance_km": 12.26,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Seven Hills Lodge",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.409482100027,
+      "lng": 5.8028819500067,
+      "distance_km": 12.33,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Forest Hills Lodge",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.40950681486594,
+      "lng": 5.802830700593313,
+      "distance_km": 12.33,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00eete Couleur Nature",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.42385,
+      "lng": 5.79792,
+      "distance_km": 12.38,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Belair",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42448072,
+      "lng": 6.14774172,
+      "distance_km": 12.57,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ferme du Banoyard",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.47247031,
+      "lng": 5.79698055,
+      "distance_km": 12.96,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "BELVILLA - (BE-4950-226) Een knus plekje met alle comfort aan De voet van De Hoge Venen. All-in prijs!",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4716329,
+      "lng": 6.1468493,
+      "distance_km": 13.0,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Vallon Polleur",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.541374,
+      "lng": 5.886812,
+      "distance_km": 13.04,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Vakantiewoningen Stefanshof",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.38579,
+      "lng": 6.13861,
+      "distance_km": 13.16,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hostellerie Au Vieux H\u00eatre",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55814784,
+      "lng": 5.97062302,
+      "distance_km": 13.45,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Maison de R\u00e9gine",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.5582977,
+      "lng": 5.96464643,
+      "distance_km": 13.47,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Lodge des Fl\u00e2neurs",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.32267684,
+      "lng": 5.90151187,
+      "distance_km": 13.66,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Hangar des Voyageurs",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.32255556,
+      "lng": 5.90186736,
+      "distance_km": 13.67,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Mont 27",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.5603594,
+      "lng": 5.9723333,
+      "distance_km": 13.69,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Vanes'sens",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.56043218,
+      "lng": 5.96629194,
+      "distance_km": 13.71,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Lindenhof",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.43314316100727,
+      "lng": 6.164929372297566,
+      "distance_km": 13.71,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Zum Goldhahn",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.36125659,
+      "lng": 6.12843384,
+      "distance_km": 13.97,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Re'Source 17",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.432173,
+      "lng": 6.168684,
+      "distance_km": 13.98,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Escapades \u00e0 Spa",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.48907605003813,
+      "lng": 5.790817874586647,
+      "distance_km": 14.02,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Vieux Moulin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44307582,
+      "lng": 6.17112305,
+      "distance_km": 14.16,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Chateau Neufays",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.54545625,
+      "lng": 5.86394508,
+      "distance_km": 14.24,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Wellness Sassor",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.53167221,
+      "lng": 5.83389237,
+      "distance_km": 14.32,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Porte de la Lienne",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.41768259,
+      "lng": 5.77149864,
+      "distance_km": 14.33,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Diamond Suite Jehanster",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55754141,
+      "lng": 5.89775254,
+      "distance_km": 14.36,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Une Chambre \u00e0 Foyr",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.56607994,
+      "lng": 5.94839704,
+      "distance_km": 14.42,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Au bord de la colline",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.40443521,
+      "lng": 5.77407581,
+      "distance_km": 14.45,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Ferme du Helivy",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.56626569,
+      "lng": 5.93694668,
+      "distance_km": 14.56,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hostellerie Doux Repos",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.35969211,
+      "lng": 5.80541428,
+      "distance_km": 14.58,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Ravel Inn",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.34441703198657,
+      "lng": 6.117408615318668,
+      "distance_km": 14.61,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Couleur campagne",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.50460212,
+      "lng": 5.7878232,
+      "distance_km": 15.0,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Domaine du Vieux Chene",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.38454633,
+      "lng": 5.77534284,
+      "distance_km": 15.08,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Bed & Breakfast Schlommefurth",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.30366227,
+      "lng": 6.03759771,
+      "distance_km": 15.57,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Haus Jola",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.44561998,
+      "lng": 6.1923961,
+      "distance_km": 15.68,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Au Printemps",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.44586453,
+      "lng": 6.19460052,
+      "distance_km": 15.84,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "H\u00f4tel Le Menobu",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.4985692,
+      "lng": 5.76901212,
+      "distance_km": 15.87,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Gervava",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.489697857052,
+      "lng": 5.762110148111,
+      "distance_km": 15.92,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Reid Champ\u00eatre",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.48601354,
+      "lng": 5.75716638,
+      "distance_km": 16.11,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Shamrock Guesthouse",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.39383884,
+      "lng": 5.75407839,
+      "distance_km": 16.14,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "B&B Chatelet Cremers",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.56784917,
+      "lng": 5.87062032,
+      "distance_km": 16.18,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "B&B La Roustiere",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.52874135,
+      "lng": 5.78742339,
+      "distance_km": 16.52,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Auberge Du Ninglinspo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.468834,
+      "lng": 5.743302,
+      "distance_km": 16.53,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Sun Park Vielsam",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.293282,
+      "lng": 5.911922,
+      "distance_km": 16.55,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Chateau De Hodbomont",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.52662132,
+      "lng": 5.78405078,
+      "distance_km": 16.57,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel B\u00fctgenbacher Hof",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42611221,
+      "lng": 6.20557948,
+      "distance_km": 16.63,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Villa Natica",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.431219626677546,
+      "lng": 6.20607689979853,
+      "distance_km": 16.63,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Center Parcs Les Ardennes",
+      "name_en": null,
+      "category": "resort",
+      "lat": 50.29207822,
+      "lng": 5.91284296,
+      "distance_km": 16.66,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Baton Rouge Motorherberg",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.29250159,
+      "lng": 5.90888087,
+      "distance_km": 16.69,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Parkhotel Villa des Effats Vielsalm",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.29144991,
+      "lng": 5.91342781,
+      "distance_km": 16.72,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Eifelland",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42562561,
+      "lng": 6.20668647,
+      "distance_km": 16.72,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Villa Curiosa",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.43072,
+      "lng": 6.20806,
+      "distance_km": 16.78,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Chalet 24",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.426028,
+      "lng": 6.207822,
+      "distance_km": 16.79,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Les Tilleuls",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.29040833,
+      "lng": 5.91503342,
+      "distance_km": 16.81,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Votre Horizon",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.4824722,
+      "lng": 5.74294969,
+      "distance_km": 16.94,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel du Lac",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42705068,
+      "lng": 6.21225933,
+      "distance_km": 17.1,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Seehof",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.42669918,
+      "lng": 6.21246876,
+      "distance_km": 17.11,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Belle Epoque",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28761861,
+      "lng": 5.91447771,
+      "distance_km": 17.12,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Myrtilles",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28686321,
+      "lng": 5.91546197,
+      "distance_km": 17.18,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Du c\u00f4t\u00e9 de chez Jeanne",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.58762131,
+      "lng": 5.91314822,
+      "distance_km": 17.23,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Du Lion",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.59266552,
+      "lng": 5.97151097,
+      "distance_km": 17.29,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ferme du Petit Breuil",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.574662,
+      "lng": 5.84406136,
+      "distance_km": 17.74,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Maison de Maitre",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.30203077,
+      "lng": 5.83509022,
+      "distance_km": 17.87,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Buchenberg",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28716995,
+      "lng": 6.06857182,
+      "distance_km": 18.05,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Heid D'Ehan",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.46110761,
+      "lng": 5.71837255,
+      "distance_km": 18.11,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Paulus-Haus 1999 e.V.",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.517656,
+      "lng": 6.195007,
+      "distance_km": 18.18,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Edelweisje",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.460155191224096,
+      "lng": 5.712906913670871,
+      "distance_km": 18.48,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Au Clair Obscur",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.58833659,
+      "lng": 5.86114988,
+      "distance_km": 18.53,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Val du Promontoire",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.461,
+      "lng": 5.71147,
+      "distance_km": 18.59,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel des Ardennes",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.5886309,
+      "lng": 5.85620031,
+      "distance_km": 18.71,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Chez Madame Irma",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.48890689,
+      "lng": 5.71952537,
+      "distance_km": 18.73,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "The Lodge of Stones",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.5208,
+      "lng": 5.73647,
+      "distance_km": 19.05,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Lofts Wellness Privatifs",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.58744,
+      "lng": 5.84182,
+      "distance_km": 19.05,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Confort Luxe Concept sprl",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.587775406950854,
+      "lng": 5.841114016599215,
+      "distance_km": 19.11,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Van der Valk Hotel Verviers",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.5917823,
+      "lng": 5.84899035,
+      "distance_km": 19.24,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00eetes Les Avernas",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.34756,
+      "lng": 5.73858,
+      "distance_km": 19.28,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "H\u00f4tel Halleux",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.53884946,
+      "lng": 5.74781451,
+      "distance_km": 19.44,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "VKBbB",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.2879308,
+      "lng": 6.11567383,
+      "distance_km": 19.5,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ch\u00e2teau St. Hubert",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.611728,
+      "lng": 5.999639,
+      "distance_km": 19.51,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "B&B V.K. PGmbH",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.28781914310463,
+      "lng": 6.115831965655645,
+      "distance_km": 19.52,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ad Astra",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.6125219,
+      "lng": 5.93938039,
+      "distance_km": 19.63,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Villa Lumina",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.61189178,
+      "lng": 6.0110627,
+      "distance_km": 19.63,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "R Hotel Experiences",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.48417853,
+      "lng": 5.70091135,
+      "distance_km": 19.85,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hostellerie Lafarques",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.56576957,
+      "lng": 5.77477286,
+      "distance_km": 19.94,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "DER Hirsch",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.52227608,
+      "lng": 6.21976063,
+      "distance_km": 19.96,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hostellerie Lafarques",
+      "name_en": null,
+      "category": "resort",
+      "lat": 50.566061,
+      "lng": 5.774826,
+      "distance_km": 19.97,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Steineweiher",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28322911,
+      "lng": 6.1180036,
+      "distance_km": 20.03,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Chalet SaMax",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.41463910000002,
+      "lng": 5.688960700000001,
+      "distance_km": 20.16,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Coeur de Roulotte",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.34126,
+      "lng": 5.72943,
+      "distance_km": 20.2,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Berliner Hof Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28130658,
+      "lng": 6.12494039,
+      "distance_km": 20.47,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Kasteel dieupart",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.47818206749476,
+      "lng": 5.689397613625323,
+      "distance_km": 20.48,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le domaine de Bra",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.32841993,
+      "lng": 5.73594573,
+      "distance_km": 20.62,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Gourmet-Restaurant Hotel Zur Post",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28017676,
+      "lng": 6.12622809,
+      "distance_km": 20.63,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Pip-Margraff Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.27934744,
+      "lng": 6.12688306,
+      "distance_km": 20.73,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Belvilla by Oyo in Monschau-Kalterherberg",
+      "name_en": null,
+      "category": "resort",
+      "lat": 50.5051179,
+      "lng": 6.2468481,
+      "distance_km": 20.91,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Au Magasin",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.26336326,
+      "lng": 5.84831416,
+      "distance_km": 21.21,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Un air de bourlingueurs",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.58959736,
+      "lng": 5.79018044,
+      "distance_km": 21.25,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Crissa's Roulotte",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.591541494661,
+      "lng": 5.7906532287598,
+      "distance_km": 21.4,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Gite La Renaissance",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.6070098,
+      "lng": 5.80879582,
+      "distance_km": 22.11,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00e4stehaus Kuck",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.5688741,
+      "lng": 6.21229157,
+      "distance_km": 22.46,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Venngasthof Zur Buche",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.56902727,
+      "lng": 6.21427506,
+      "distance_km": 22.58,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Haller Hotel Garni",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.5531149,
+      "lng": 6.234889,
+      "distance_km": 22.66,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Gasthaus Zur Post",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.534953,
+      "lng": 6.252681,
+      "distance_km": 22.68,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Villa Burgau C & H",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.55345761,
+      "lng": 6.2354112,
+      "distance_km": 22.71,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00e4stehaus Zum Stehling",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.56728344,
+      "lng": 6.21924936,
+      "distance_km": 22.73,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "La Gotale, Maison d'amis",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.33406597146511,
+      "lng": 5.694387055714868,
+      "distance_km": 22.74,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Wisonbrona",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.26398131,
+      "lng": 6.14349842,
+      "distance_km": 22.81,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Der kleine Globetrotter",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.55341226,
+      "lng": 6.24114806,
+      "distance_km": 23.04,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Alt Montjoie",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55302568,
+      "lng": 6.24161814,
+      "distance_km": 23.05,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Restaurant Graf Rolshausen",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55330373,
+      "lng": 6.24129987,
+      "distance_km": 23.05,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "besttime Hotel Monschau",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55502563,
+      "lng": 6.23972469,
+      "distance_km": 23.06,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Eifeler Hof Monschau",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55357987,
+      "lng": 6.24136929,
+      "distance_km": 23.07,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Burghotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55426607,
+      "lng": 6.24105336,
+      "distance_km": 23.09,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Burgerhaus Monschau",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.555114,
+      "lng": 6.240923,
+      "distance_km": 23.14,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Gastst\u00e4tte Altstadt-Post",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.556181,
+      "lng": 6.240004,
+      "distance_km": 23.15,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "etappe 1 Horchem",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55483523,
+      "lng": 6.24147901,
+      "distance_km": 23.15,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Haus Panoramablick",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.557514,
+      "lng": 6.238745,
+      "distance_km": 23.16,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Jeje und Anna's Eifel Haus",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.56105435,
+      "lng": 6.23482008,
+      "distance_km": 23.17,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hubertusklause",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.56122344,
+      "lng": 6.23484112,
+      "distance_km": 23.18,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holidaymonschau",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.556968,
+      "lng": 6.239917,
+      "distance_km": 23.2,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00e4stehaus Eschbach",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55554568,
+      "lng": 6.24230921,
+      "distance_km": 23.25,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Lindenhof",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.56075989,
+      "lng": 6.23677231,
+      "distance_km": 23.26,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "ACHAT Hotel Monschau",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.55945099,
+      "lng": 6.23826992,
+      "distance_km": 23.26,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Guesthouse-Relaxed-Tours",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.5542479,
+      "lng": 6.2471638,
+      "distance_km": 23.45,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Kutscherhaus Monschau",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.5548784,
+      "lng": 6.24694317,
+      "distance_km": 23.48,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "L'Aube des Saisons",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.57875667,
+      "lng": 5.72340519,
+      "distance_km": 23.57,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Pension-Ferienwohnung E. Schumacher",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.568185,
+      "lng": 6.241112,
+      "distance_km": 24.0,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "DJH Jugendherberge Monschau-Hargard",
+      "name_en": null,
+      "category": "hostel",
+      "lat": 50.5641348,
+      "lng": 6.2532325,
+      "distance_km": 24.42,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "DJH Monschau-Hargard",
+      "name_en": null,
+      "category": "hostel",
+      "lat": 50.56409206,
+      "lng": 6.25360675,
+      "distance_km": 24.44,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ferme St Martin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28125220359054,
+      "lng": 5.715072733115039,
+      "distance_km": 25.13,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Mailust",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.28633988,
+      "lng": 6.24223235,
+      "distance_km": 25.5,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Lanterfanter Ardennen-Eifel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 50.286121873750304,
+      "lng": 6.2445537645834115,
+      "distance_km": 25.64,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Jardin d'Epicure",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 50.60420425,
+      "lng": 5.70970319,
+      "distance_km": 26.21,
+      "access_tier": "Long Transfer"
+    }
+  ],
+  "food": [
+    {
+      "name": "Le Formule Un",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.45132896,
+      "lng": 5.95745053,
+      "distance_km": 1.86,
+      "food_group": "bar"
+    },
+    {
+      "name": "Chez Bertrand",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.46061872,
+      "lng": 5.97233652,
+      "distance_km": 2.6,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Manufacture Ster",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.46072949,
+      "lng": 5.97288721,
+      "distance_km": 2.62,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Coin de Magali",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.41638804,
+      "lng": 5.99652734,
+      "distance_km": 2.92,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Relais des Diligences",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.46312991,
+      "lng": 5.95177953,
+      "distance_km": 3.2,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Quick",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.42235214,
+      "lng": 6.01373526,
+      "distance_km": 3.42,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Drink Factory Malmedy kuepper",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.42366466,
+      "lng": 6.01743898,
+      "distance_km": 3.59,
+      "food_group": "bar"
+    },
+    {
+      "name": "Didier T. Artisans Culinaires",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.42445767,
+      "lng": 6.02157116,
+      "distance_km": 3.83,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Seventy Bistro & Resto",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.43191118,
+      "lng": 6.02787271,
+      "distance_km": 4.04,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Taverne De Rome",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.42611483,
+      "lng": 6.02591912,
+      "distance_km": 4.05,
+      "food_group": "bar"
+    },
+    {
+      "name": "Cot\u00e9 Cuisine",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.42527587,
+      "lng": 6.02674874,
+      "distance_km": 4.14,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "A V\u00ee M\u00e2m'd\u00ee",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.425637,
+      "lng": 6.028372,
+      "distance_km": 4.24,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Calida",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.42593661,
+      "lng": 6.02891788,
+      "distance_km": 4.26,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chez Murat",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.42531241,
+      "lng": 6.02850298,
+      "distance_km": 4.26,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Scotch Inn",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.42584774,
+      "lng": 6.02926297,
+      "distance_km": 4.29,
+      "food_group": "bar"
+    },
+    {
+      "name": "Taverne Saint Pierre",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.42556863,
+      "lng": 6.02982956,
+      "distance_km": 4.34,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Domaine de Malchamps Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.46529171,
+      "lng": 5.92782397,
+      "distance_km": 4.39,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 Le Bistrot",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.42477431,
+      "lng": 6.03103007,
+      "distance_km": 4.44,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Ferme Libert Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.44598407,
+      "lng": 6.03254379,
+      "distance_km": 4.44,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 de la gare",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.423073,
+      "lng": 6.0332737,
+      "distance_km": 4.66,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe Ardennais",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.48195195,
+      "lng": 5.98586676,
+      "distance_km": 5.08,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Taverne au moulin",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.44346165,
+      "lng": 6.04677261,
+      "distance_km": 5.38,
+      "food_group": "bar"
+    },
+    {
+      "name": "Friterie Sebastien",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.39477003,
+      "lng": 5.93161168,
+      "distance_km": 5.5,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Les Vieilles Caves d'Artois",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.39471056,
+      "lng": 5.93149415,
+      "distance_km": 5.51,
+      "food_group": "bar"
+    },
+    {
+      "name": "Auberge Saint-Remacle",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.39464688,
+      "lng": 5.93124382,
+      "distance_km": 5.52,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe des Musees",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.393545,
+      "lng": 5.932322,
+      "distance_km": 5.59,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "\u00d4 Ch\u00f4mi\u00e8re",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.39423908,
+      "lng": 5.92976007,
+      "distance_km": 5.61,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Espace Soa",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.45216,
+      "lng": 6.05284,
+      "distance_km": 6.0,
+      "food_group": "cafe"
+    },
+    {
+      "name": "L'O De Source",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.50051567,
+      "lng": 5.95658639,
+      "distance_km": 7.12,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Relais de la Sauveni\u00e8re",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.48528358,
+      "lng": 5.89787954,
+      "distance_km": 7.46,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chez Remy",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.45990464,
+      "lng": 6.07140675,
+      "distance_km": 7.52,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La friterie de Baugnez",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.40384257,
+      "lng": 6.06536249,
+      "distance_km": 7.62,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Le Baron",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.39293258,
+      "lng": 5.87705621,
+      "distance_km": 8.3,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Moulin du Bayehon",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.46631688,
+      "lng": 6.09015897,
+      "distance_km": 9.01,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Maman",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.49288336,
+      "lng": 5.87697425,
+      "distance_km": 9.11,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Salle de f\u00eate Spa - Greenhouse",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.502252254667,
+      "lng": 5.8913842833334,
+      "distance_km": 9.19,
+      "food_group": "bar"
+    },
+    {
+      "name": "Au Beau S'art",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.5170194,
+      "lng": 5.93311254,
+      "distance_km": 9.28,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Vert de Pommier",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.41321755,
+      "lng": 5.8458397,
+      "distance_km": 9.29,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chez Buddy's",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.4925,
+      "lng": 5.86747,
+      "distance_km": 9.59,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Cellier",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.49075683,
+      "lng": 5.86497744,
+      "distance_km": 9.6,
+      "food_group": "bar"
+    },
+    {
+      "name": "Puzzel Planet",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.36012787681829,
+      "lng": 5.909300560454589,
+      "distance_km": 9.63,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pita Royale Spa",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.49225507,
+      "lng": 5.86610885,
+      "distance_km": 9.64,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Gio Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.49275763,
+      "lng": 5.86589657,
+      "distance_km": 9.69,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le PTB",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.4911199366773,
+      "lng": 5.863571448071903,
+      "distance_km": 9.71,
+      "food_group": "bar"
+    },
+    {
+      "name": "La Sorellina Spa",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.492769012869,
+      "lng": 5.8652000427246,
+      "distance_km": 9.73,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le pr\u00e9 des Or\u00e9ades | Restaurant gastronomique Spa",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.48054187,
+      "lng": 5.85184644,
+      "distance_km": 9.74,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Taverne",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.49258302,
+      "lng": 5.86482883,
+      "distance_km": 9.74,
+      "food_group": "bar"
+    },
+    {
+      "name": "Havana Caf\u00e9",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.49217456,
+      "lng": 5.86376538,
+      "distance_km": 9.77,
+      "food_group": "bar"
+    },
+    {
+      "name": "Chalet du Barrage",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.4519888,
+      "lng": 6.10774374,
+      "distance_km": 9.79,
+      "food_group": "bar"
+    },
+    {
+      "name": "Ma maison d\u2019\u00eatre",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.49186,
+      "lng": 5.86285,
+      "distance_km": 9.8,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "By Lo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.491833140924,
+      "lng": 5.8626585684398,
+      "distance_km": 9.81,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Oh G Faim Friterie",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.51801059,
+      "lng": 5.91470501,
+      "distance_km": 9.84,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "La Brasserie des Bobelines",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.49277744,
+      "lng": 5.8624908,
+      "distance_km": 9.88,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Chalet du Parc",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.49349741647935,
+      "lng": 5.862205379867742,
+      "distance_km": 9.95,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Bar \u00e0 Barras",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.46682576,
+      "lng": 6.10661859,
+      "distance_km": 10.12,
+      "food_group": "bar"
+    },
+    {
+      "name": "Au Lutin Gourmand",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.49058212,
+      "lng": 5.85541418,
+      "distance_km": 10.13,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Brasserie du Vieux Pont",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.37206075,
+      "lng": 5.87086307,
+      "distance_km": 10.16,
+      "food_group": "bar"
+    },
+    {
+      "name": "Restaurant de la Place",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.37196443,
+      "lng": 5.87100532,
+      "distance_km": 10.16,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Taverne de la Salm - Route 66",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.37159461,
+      "lng": 5.87118607,
+      "distance_km": 10.18,
+      "food_group": "bar"
+    },
+    {
+      "name": "PITA Antalya",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.3720184579023,
+      "lng": 5.870315337659652,
+      "distance_km": 10.19,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L\u00e8s Conf\u00e8tis",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.37213,
+      "lng": 5.87001,
+      "distance_km": 10.2,
+      "food_group": "bar"
+    },
+    {
+      "name": "ENJOY Brasserie Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.41563696,
+      "lng": 6.11156329,
+      "distance_km": 10.21,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant-chezting",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.48739662,
+      "lng": 5.85037537,
+      "distance_km": 10.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant Cyrano",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.41396991,
+      "lng": 6.11420746,
+      "distance_km": 10.44,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Central CheZ Phil",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.45463175,
+      "lng": 6.12265942,
+      "distance_km": 10.88,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Club house fassin",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.48816392,
+      "lng": 5.83969545,
+      "distance_km": 10.91,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Mont Rigi",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.51095451,
+      "lng": 6.07625105,
+      "distance_km": 11.06,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Baraque Michel",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.51909014,
+      "lng": 6.06242517,
+      "distance_km": 11.15,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Signal de Botrange",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.50203447,
+      "lng": 6.09282006,
+      "distance_km": 11.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Au Vieux Hetre",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.46468,
+      "lng": 6.12786,
+      "distance_km": 11.49,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Menuiserie de Champagne",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.43728,
+      "lng": 6.14129,
+      "distance_km": 12.03,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 de la Roer",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.47674773,
+      "lng": 6.13053172,
+      "distance_km": 12.09,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Restaurant Sti'ne",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.33722063,
+      "lng": 6.04712668,
+      "distance_km": 12.35,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Cabanon",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.32908104,
+      "lng": 5.92718226,
+      "distance_km": 12.42,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Ferme Bodson",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.35125623,
+      "lng": 5.85941208,
+      "distance_km": 12.42,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "KFC Olympia Recht",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.33576266,
+      "lng": 6.04539467,
+      "distance_km": 12.44,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "STIvel",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.33381752,
+      "lng": 6.04334127,
+      "distance_km": 12.58,
+      "food_group": "cafe"
+    },
+    {
+      "name": "L'Entre Theux",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.50481546,
+      "lng": 5.8265966,
+      "distance_km": 12.71,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe Pension Ulenspiegel",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.47347549,
+      "lng": 6.1431231,
+      "distance_km": 12.81,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Taverne La Grange",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.53937189,
+      "lng": 5.88154309,
+      "distance_km": 13.02,
+      "food_group": "bar"
+    },
+    {
+      "name": "ABC Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.55834068,
+      "lng": 5.9695858,
+      "distance_km": 13.47,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Danny's Snack",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.33953763,
+      "lng": 6.08461914,
+      "distance_km": 13.5,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Cafe de la Place",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.55910988,
+      "lng": 5.96595175,
+      "distance_km": 13.56,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Friterie Chez Alina",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.46710565,
+      "lng": 6.15958095,
+      "distance_km": 13.73,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Ravel Number One",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.42280097,
+      "lng": 6.16798936,
+      "distance_km": 14.02,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Carat",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.48862307,
+      "lng": 5.78975951,
+      "distance_km": 14.07,
+      "food_group": "bar"
+    },
+    {
+      "name": "le \"waux-hall\" Theux",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.531205,
+      "lng": 5.815276,
+      "distance_km": 15.21,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Take Five Deidenberg",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.34761404,
+      "lng": 6.13940753,
+      "distance_km": 15.53,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Beaubourg",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.53536086,
+      "lng": 5.81334549,
+      "distance_km": 15.63,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Waffel Caf\u00e9 Born",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.33327449,
+      "lng": 6.120958,
+      "distance_km": 15.68,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Fri Theux Se",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.53723142,
+      "lng": 5.81355103,
+      "distance_km": 15.76,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Au Ravito Banal - Taverne",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.53809585,
+      "lng": 5.81294144,
+      "distance_km": 15.86,
+      "food_group": "bar"
+    },
+    {
+      "name": "La papote",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.53928819,
+      "lng": 5.81261285,
+      "distance_km": 15.97,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Au Vieux Cerexhe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.56157029,
+      "lng": 5.85643796,
+      "distance_km": 16.04,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Twilight Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.45803358,
+      "lng": 6.19639898,
+      "distance_km": 16.1,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La brasserie du stade",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.53951566,
+      "lng": 5.81000165,
+      "distance_km": 16.12,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Chalet du Lac",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.57792281,
+      "lng": 5.90691113,
+      "distance_km": 16.3,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe GRIESDECK",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.46191223848023,
+      "lng": 6.199919552887588,
+      "distance_km": 16.41,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caf\u00e9 des Sports",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.42500236,
+      "lng": 6.20291689,
+      "distance_km": 16.45,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Grand Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.29348854,
+      "lng": 5.91226562,
+      "distance_km": 16.52,
+      "food_group": "cafe"
+    },
+    {
+      "name": "M\u00f6bel & K\u00fcchen Heck",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.42598,
+      "lng": 6.20728,
+      "distance_km": 16.75,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Restaurant Panoramique de La Gileppe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.58795686,
+      "lng": 5.97071919,
+      "distance_km": 16.76,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pub 24",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.42605714,
+      "lng": 6.20769634,
+      "distance_km": 16.78,
+      "food_group": "bar"
+    },
+    {
+      "name": "Hors Piste",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.57525,
+      "lng": 5.86865,
+      "distance_km": 16.98,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le chant des oiseaux - Salle de r\u00e9ception",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.56963898,
+      "lng": 5.85079586,
+      "distance_km": 17.02,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Mi-Chemin",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.28412733,
+      "lng": 5.97008636,
+      "distance_km": 17.02,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Contes de Salme",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.28843258,
+      "lng": 5.91442782,
+      "distance_km": 17.03,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La grande Brasserie et Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.28840687767346,
+      "lng": 5.91433998013554,
+      "distance_km": 17.03,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Burgterrassen",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.43619808,
+      "lng": 6.21241192,
+      "distance_km": 17.07,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Os Arcades",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.28761905,
+      "lng": 5.91464285,
+      "distance_km": 17.11,
+      "food_group": "bar"
+    },
+    {
+      "name": "La Table de Marie",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.287122,
+      "lng": 5.915731,
+      "distance_km": 17.15,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L'empreinte",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.28706393,
+      "lng": 5.91512557,
+      "distance_km": 17.16,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 Faustine",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.28649765,
+      "lng": 5.91538282,
+      "distance_km": 17.22,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Adagio",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.28652725,
+      "lng": 5.91530882,
+      "distance_km": 17.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Gourmandine",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.58317552,
+      "lng": 5.88775128,
+      "distance_km": 17.28,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Comme Al' M\u00e2hon",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.28552173,
+      "lng": 5.91516681,
+      "distance_km": 17.33,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "No\u00ebl sur Salm",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.284812,
+      "lng": 5.914584,
+      "distance_km": 17.42,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Relais de la Fermette - Verviers",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.57958354,
+      "lng": 5.86524949,
+      "distance_km": 17.52,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Bowling",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.28325982,
+      "lng": 5.91417233,
+      "distance_km": 17.59,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Jardin du Bambou",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.28313983,
+      "lng": 5.9141017,
+      "distance_km": 17.61,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chez Sylvia",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.58078,
+      "lng": 5.86635,
+      "distance_km": 17.61,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pizzeria Incognito",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.28266957,
+      "lng": 5.91389044,
+      "distance_km": 17.66,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Restaurant Mercator",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.42532816,
+      "lng": 6.22255526,
+      "distance_km": 17.84,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Taverne Du Perron",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59083956,
+      "lng": 5.89554264,
+      "distance_km": 17.91,
+      "food_group": "bar"
+    },
+    {
+      "name": "Snackeria",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.41158576,
+      "lng": 6.22231866,
+      "distance_km": 18.0,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Barbotte Brasserie gourmande",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.58324,
+      "lng": 5.86038,
+      "distance_km": 18.04,
+      "food_group": "cafe"
+    },
+    {
+      "name": "NetfriteOff",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.57722625,
+      "lng": 5.83655273,
+      "distance_km": 18.26,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Le Bar \u00e0 Ka'",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.58084718,
+      "lng": 5.84138453,
+      "distance_km": 18.43,
+      "food_group": "bar"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.58435685,
+      "lng": 5.84776548,
+      "distance_km": 18.55,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Le Central",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.58125002,
+      "lng": 5.83882063,
+      "distance_km": 18.56,
+      "food_group": "bar"
+    },
+    {
+      "name": "Juste un moment",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.48536,
+      "lng": 5.71979,
+      "distance_km": 18.6,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "VicoQ",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.57008458,
+      "lng": 5.80942279,
+      "distance_km": 18.7,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Andr\u00e9a Massage",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.5862667,
+      "lng": 5.84905026,
+      "distance_km": 18.7,
+      "food_group": "bar"
+    },
+    {
+      "name": "Coffee Beanz",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.58816083,
+      "lng": 5.85500203,
+      "distance_km": 18.7,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Au Caf\u00e9 Gourmand",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.56734868,
+      "lng": 5.80328024,
+      "distance_km": 18.73,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Delacre-Lambermont",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.58065746790808,
+      "lng": 5.832419886337014,
+      "distance_km": 18.74,
+      "food_group": "bar"
+    },
+    {
+      "name": "Delivery Verviers",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.588797,
+      "lng": 5.855026,
+      "distance_km": 18.76,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "La pause caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.58936856,
+      "lng": 5.8557065,
+      "distance_km": 18.79,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Pita Fleurs",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59282455,
+      "lng": 5.86674987,
+      "distance_km": 18.82,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chez les filles Brasserie",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.590357422994806,
+      "lng": 5.857727888543136,
+      "distance_km": 18.83,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "1001 Saveurs chez Erhan",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59082133,
+      "lng": 5.85826381,
+      "distance_km": 18.86,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Level",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59201805,
+      "lng": 5.86093887,
+      "distance_km": 18.9,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Tigre - Verviers",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.59209055,
+      "lng": 5.86095572,
+      "distance_km": 18.91,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le D\u00f4me",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.59251769,
+      "lng": 5.86230561,
+      "distance_km": 18.91,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Snack Amigos",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.59247871,
+      "lng": 5.86233906,
+      "distance_km": 18.91,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Au 1912",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.48010639,
+      "lng": 5.71261234,
+      "distance_km": 18.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Taverne A'Lutze",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.52059125,
+      "lng": 6.20456649,
+      "distance_km": 18.93,
+      "food_group": "bar"
+    },
+    {
+      "name": "Pause Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.47919824,
+      "lng": 5.71215185,
+      "distance_km": 18.94,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Chatel - Verviers",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59263444,
+      "lng": 5.86188522,
+      "distance_km": 18.94,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.58892685,
+      "lng": 5.84949998,
+      "distance_km": 18.95,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Aux alentours",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59164262,
+      "lng": 5.85732864,
+      "distance_km": 18.97,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Au Vi Houget",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.58914322,
+      "lng": 5.84759877,
+      "distance_km": 19.03,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Les Saveurs Gourmandes Factory Coffee Verviers",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.5920245,
+      "lng": 5.8563235,
+      "distance_km": 19.04,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Seigneurie",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59295518,
+      "lng": 5.85962735,
+      "distance_km": 19.04,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Buvette",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.58748143,
+      "lng": 5.8421387,
+      "distance_km": 19.05,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Chapuis",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.59356402,
+      "lng": 5.86095111,
+      "distance_km": 19.06,
+      "food_group": "bar"
+    },
+    {
+      "name": "La Brasserie de La Ville dans La Ville",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59398,
+      "lng": 5.86253,
+      "distance_km": 19.06,
+      "food_group": "bar"
+    },
+    {
+      "name": "L'\u00c9toile",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59439073,
+      "lng": 5.86377665,
+      "distance_km": 19.06,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Ble D'or",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.59191195,
+      "lng": 5.85511816,
+      "distance_km": 19.07,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Soir\u00e9e \u00e9tudiante de Verviers",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.5935881913878,
+      "lng": 5.860739745465566,
+      "distance_km": 19.07,
+      "food_group": "bar"
+    },
+    {
+      "name": "Bar Carlsberg",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.5935428,
+      "lng": 5.8605263,
+      "distance_km": 19.07,
+      "food_group": "bar"
+    },
+    {
+      "name": "Snack Marhaba",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59215551,
+      "lng": 5.85536946,
+      "distance_km": 19.08,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Classic Bar",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59419396,
+      "lng": 5.86261041,
+      "distance_km": 19.08,
+      "food_group": "bar"
+    },
+    {
+      "name": "La Retenue",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59359795,
+      "lng": 5.86014313,
+      "distance_km": 19.09,
+      "food_group": "bar"
+    },
+    {
+      "name": "Georges CAFE",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.59361699,
+      "lng": 5.85984967,
+      "distance_km": 19.1,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Cozna",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59433884,
+      "lng": 5.86221751,
+      "distance_km": 19.1,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "El Camino",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59023019,
+      "lng": 5.84812019,
+      "distance_km": 19.12,
+      "food_group": "bar"
+    },
+    {
+      "name": "La F\u00e9e Tiche Crescend'eau",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.591178,
+      "lng": 5.850069,
+      "distance_km": 19.15,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Coffee Beanz Crescendo",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.5911607,
+      "lng": 5.85010456,
+      "distance_km": 19.15,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Au Relais",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.58536594,
+      "lng": 5.83243993,
+      "distance_km": 19.18,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chez Inan",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.59311028,
+      "lng": 5.85533959,
+      "distance_km": 19.18,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Pella",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59302709,
+      "lng": 5.85472472,
+      "distance_km": 19.19,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "THE winter terrasse",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59157171,
+      "lng": 5.84918811,
+      "distance_km": 19.22,
+      "food_group": "bar"
+    },
+    {
+      "name": "Woopy'snacks",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.47995673,
+      "lng": 5.70816567,
+      "distance_km": 19.23,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "AT Snack Membach",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.60998249,
+      "lng": 5.99973409,
+      "distance_km": 19.32,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "O'Bendo",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.59427983,
+      "lng": 5.85381267,
+      "distance_km": 19.34,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Snack 61",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.59461,
+      "lng": 5.85462,
+      "distance_km": 19.35,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Maison Des Gourmands - Verviers",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.59327291,
+      "lng": 5.84960512,
+      "distance_km": 19.37,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Beanz coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.59465094,
+      "lng": 5.85359179,
+      "distance_km": 19.39,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Ziza bar \u00e0 manger - sandwicherie",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.5938563,
+      "lng": 5.8505106,
+      "distance_km": 19.4,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Moon coffee",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.59389553,
+      "lng": 5.85067512,
+      "distance_km": 19.4,
+      "food_group": "cafe"
+    },
+    {
+      "name": "L'Esplanade",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.53828678,
+      "lng": 5.74750702,
+      "distance_km": 19.42,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Fr\u00e9ro",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.5386163,
+      "lng": 5.74750952,
+      "distance_km": 19.44,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Jans Bois",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.43043398,
+      "lng": 5.69702346,
+      "distance_km": 19.45,
+      "food_group": "bar"
+    },
+    {
+      "name": "Brasserie Arena",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.53855949,
+      "lng": 5.74667995,
+      "distance_km": 19.49,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Tearoom Rustique",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.611355,
+      "lng": 5.940767,
+      "distance_km": 19.49,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Aux Ambassadeurs",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.6113776,
+      "lng": 5.93965254,
+      "distance_km": 19.5,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pause Sal\u00e9e",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.4797158,
+      "lng": 5.7029185,
+      "distance_km": 19.59,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Brasserie St Georges",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.61255645,
+      "lng": 5.94045025,
+      "distance_km": 19.62,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Saint Frusquin",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.59125764,
+      "lng": 5.83200602,
+      "distance_km": 19.76,
+      "food_group": "bar"
+    },
+    {
+      "name": "UMAMI - R hotel",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.48410062,
+      "lng": 5.70087914,
+      "distance_km": 19.85,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "REMOUCHAMPS",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.48004999999999,
+      "lng": 5.698593999999957,
+      "distance_km": 19.89,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Ternell's",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.585943128731,
+      "lng": 6.129692619144622,
+      "distance_km": 19.97,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Brasserie Hertogenwald",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.61447819,
+      "lng": 6.01787905,
+      "distance_km": 19.98,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant Quadras",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.28446761,
+      "lng": 6.12216982,
+      "distance_km": 20.07,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Banneway Sprl 2",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.524027886427724,
+      "lng": 5.72189028476096,
+      "distance_km": 20.12,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Bistrone",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.61174,
+      "lng": 6.04691,
+      "distance_km": 20.13,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Corderie",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.60228425,
+      "lng": 5.8530355,
+      "distance_km": 20.17,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Stille Post",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.28281688,
+      "lng": 6.12421664,
+      "distance_km": 20.3,
+      "food_group": "bar"
+    },
+    {
+      "name": "L'Impr\u00e9vu",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.61072223,
+      "lng": 6.06390193,
+      "distance_km": 20.37,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Big Easy",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.28172659,
+      "lng": 6.12624931,
+      "distance_km": 20.48,
+      "food_group": "bar"
+    },
+    {
+      "name": "Cuv\u00e9e",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.2807,
+      "lng": 6.12632,
+      "distance_km": 20.58,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 Schulzen",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.28065152,
+      "lng": 6.12640867,
+      "distance_km": 20.59,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caf\u00e9 Ratskeller",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.28032091,
+      "lng": 6.12626005,
+      "distance_km": 20.62,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Fit \u00f3 Fago",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.2801127,
+      "lng": 6.12630328,
+      "distance_km": 20.64,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Kaffeer\u00f6sterei Soiron",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.61679125,
+      "lng": 6.04835097,
+      "distance_km": 20.7,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Teller's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.27952104,
+      "lng": 6.12685485,
+      "distance_km": 20.71,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Caf\u00e9 Trottinette",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.28079814,
+      "lng": 6.13038835,
+      "distance_km": 20.73,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Perreon",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.53022892,
+      "lng": 5.7165351,
+      "distance_km": 20.79,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le temps des choses",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.60899866,
+      "lng": 5.85429452,
+      "distance_km": 20.82,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chez Youn's - Restaurant marocain",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.60911272640379,
+      "lng": 5.854105506920684,
+      "distance_km": 20.84,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "O Schulmarjanne",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.2596333,
+      "lng": 6.06910284,
+      "distance_km": 20.93,
+      "food_group": "cafe"
+    },
+    {
+      "name": "At Snack Dison",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.61043126,
+      "lng": 5.85423211,
+      "distance_km": 20.97,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "L'Obra",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.32374,
+      "lng": 5.73481,
+      "distance_km": 20.99,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Hollywood Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.61069,
+      "lng": 5.85402,
+      "distance_km": 21.0,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Bistro DIE HUTTE",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.26327542,
+      "lng": 5.84834827,
+      "distance_km": 21.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Taverne de Soiron",
+      "name_en": null,
+      "category": "bar",
+      "lat": 50.5918758,
+      "lng": 5.78991603,
+      "distance_km": 21.46,
+      "food_group": "bar"
+    },
+    {
+      "name": "Friterie du Perron",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.61351692,
+      "lng": 5.83313496,
+      "distance_km": 21.91,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Cafe Restaurant Schwingsborn",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.54092332,
+      "lng": 6.23701032,
+      "distance_km": 22.05,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Imp\u00e9ria",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.57246078,
+      "lng": 5.73785817,
+      "distance_km": 22.34,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Restaurant Entre Nous",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.5524361,
+      "lng": 6.2344977,
+      "distance_km": 22.6,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Alte Molkerei H\u00f6fen",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.53397788,
+      "lng": 6.25342354,
+      "distance_km": 22.67,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 Thelen",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.55207747,
+      "lng": 6.2387786,
+      "distance_km": 22.82,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Monschauer Altstadt Imbiss",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.553370292161,
+      "lng": 6.2391715466338,
+      "distance_km": 22.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caffee roasting Wilh. Maassen",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.55263675,
+      "lng": 6.2417536,
+      "distance_km": 23.03,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Altes Getreidehaus und Remise",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.55334,
+      "lng": 6.241523,
+      "distance_km": 23.06,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Schokoladen Caf\u00e9 H\u00fcftgold, Monschau",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 50.55329954954591,
+      "lng": 6.241693994345314,
+      "distance_km": 23.07,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Monschauer Kartoffelhaus Restaurant Eifelstuebchen",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.554773,
+      "lng": 6.240247,
+      "distance_km": 23.08,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L\u00fctticher Hof",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.55331417,
+      "lng": 6.24178694,
+      "distance_km": 23.08,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Schlo\u00df-Cafe Royal",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.55394270857576,
+      "lng": 6.241280063377851,
+      "distance_km": 23.09,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe Am Roten Haus",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.55485655,
+      "lng": 6.24055415,
+      "distance_km": 23.1,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Braukeller Monschau",
+      "name_en": null,
+      "category": "pub",
+      "lat": 50.55465364863942,
+      "lng": 6.241348147557494,
+      "distance_km": 23.13,
+      "food_group": "bar"
+    },
+    {
+      "name": "Cafe Hirsch Oebel",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.5552287,
+      "lng": 6.24193156,
+      "distance_km": 23.2,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Weekend",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.5552488820625,
+      "lng": 6.241954498375,
+      "distance_km": 23.21,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Rur Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.55547577,
+      "lng": 6.24185661,
+      "distance_km": 23.22,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe Kaulard",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.55509928,
+      "lng": 6.24259567,
+      "distance_km": 23.23,
+      "food_group": "cafe"
+    },
+    {
+      "name": "MON Bistro",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.5555373,
+      "lng": 6.24215621,
+      "distance_km": 23.24,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Bahnhof Monschau",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 50.564025290963,
+      "lng": 6.2325471639633,
+      "distance_km": 23.24,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Hotel Bellevue",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.568247,
+      "lng": 6.229689,
+      "distance_km": 23.37,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Ferme des Loups",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 50.58354475,
+      "lng": 5.69828743,
+      "distance_km": 25.25,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.61726231,
+      "lng": 5.69494079,
+      "distance_km": 27.98,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Chez al\"hein",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 50.6146697,
+      "lng": 5.6886218,
+      "distance_km": 28.09,
+      "food_group": "fast_food"
+    }
+  ],
+  "overture_release": "2026-08-19.0"
+}
