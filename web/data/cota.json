@@ -8,14 +8,6 @@
   },
   "hotels": [
     {
-      "name": "Exhale-divorce-calculator",
-      "category": "hotel",
-      "lat": 30.070633,
-      "lng": -97.679242,
-      "distance_km": 7.83,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "Holiday Inn Express & Suites Austin Airport East by IHG",
       "category": "hotel",
       "lat": 30.20324871,
@@ -304,14 +296,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Best Buy Insurance",
-      "category": "hotel",
-      "lat": 30.215416,
-      "lng": -97.7449381,
-      "distance_km": 13.57,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Homewood Suites by Hilton Austin South Airport",
       "category": "hotel",
       "lat": 30.21338474,
@@ -333,14 +317,6 @@
       "lat": 30.20686762,
       "lng": -97.75617907,
       "distance_km": 13.79,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Solano Manor",
-      "category": "bed_and_breakfast",
-      "lat": 30.15860218,
-      "lng": -97.78145558,
-      "distance_km": 13.8,
       "access_tier": "Long Transfer"
     },
     {
@@ -448,27 +424,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Hospitality Suite",
-      "category": "hotel",
-      "lat": 30.214448,
-      "lng": -97.750983,
-      "distance_km": 13.93,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Days Inn by Wyndham Austin South",
       "category": "resort",
       "lat": 30.213322,
       "lng": -97.75399,
       "distance_km": 14.07,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Va",
-      "category": "hotel",
-      "lat": 30.220746,
-      "lng": -97.746629,
-      "distance_km": 14.09,
       "access_tier": "Long Transfer"
     },
     {
@@ -536,14 +496,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Casa DeLa Rosa",
-      "category": "resort",
-      "lat": 30.2361821,
-      "lng": -97.73055279,
-      "distance_km": 14.36,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Americas Best Value Inn Austin S",
       "category": "hotel",
       "lat": 30.226682,
@@ -565,14 +517,6 @@
       "lat": 30.226818,
       "lng": -97.744156,
       "distance_km": 14.4,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Rodeway Inn",
-      "category": "hotel",
-      "lat": 30.228697542267874,
-      "lng": -97.74304375065998,
-      "distance_km": 14.48,
       "access_tier": "Long Transfer"
     },
     {
@@ -600,22 +544,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Best Buy Insurance",
-      "category": "hotel",
-      "lat": 30.227862237930417,
-      "lng": -97.74565765676695,
-      "distance_km": 14.59,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "The Cabos",
-      "category": "resort",
-      "lat": 30.23708,
-      "lng": -97.73333,
-      "distance_km": 14.6,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Peers Hotel",
       "category": "resort",
       "lat": 30.2296,
@@ -629,14 +557,6 @@
       "lat": 30.23301819,
       "lng": -97.74019206,
       "distance_km": 14.66,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Funeral Kab Motel",
-      "category": "hotel",
-      "lat": 30.25322,
-      "lng": -97.7048,
-      "distance_km": 14.72,
       "access_tier": "Long Transfer"
     },
     {
@@ -661,14 +581,6 @@
       "lat": 30.23522233,
       "lng": -97.74148591,
       "distance_km": 14.93,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Skyline View Austin House by RedAwning",
-      "category": "hotel",
-      "lat": 30.245661,
-      "lng": -97.732817,
-      "distance_km": 15.34,
       "access_tier": "Long Transfer"
     },
     {
@@ -701,22 +613,6 @@
       "lat": 30.24106984,
       "lng": -97.74199362,
       "distance_km": 15.46,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Jbs Getaways L.l.c.",
-      "category": "bed_and_breakfast",
-      "lat": 30.2606168,
-      "lng": -97.7043771,
-      "distance_km": 15.46,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Kenwood Avenue",
-      "category": "hotel",
-      "lat": 30.24585,
-      "lng": -97.738999,
-      "distance_km": 15.7,
       "access_tier": "Long Transfer"
     },
     {
@@ -768,14 +664,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Marriott",
-      "category": "hotel",
-      "lat": 30.236122,
-      "lng": -97.758108,
-      "distance_km": 16.08,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Hotel Holly ATX",
       "category": "hotel",
       "lat": 30.254971416267,
@@ -816,14 +704,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Holiday Inn Austin-South",
-      "category": "hotel",
-      "lat": 30.23216,
-      "lng": -97.76572,
-      "distance_km": 16.3,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Bassman's B&B",
       "category": "bed_and_breakfast",
       "lat": 30.232670973629617,
@@ -852,14 +732,6 @@
       "category": "hotel",
       "lat": 30.0300407,
       "lng": -97.7630997,
-      "distance_km": 16.38,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "The Rusty Railway Hostel",
-      "category": "hotel",
-      "lat": 30.233569,
-      "lng": -97.765337,
       "distance_km": 16.38,
       "access_tier": "Long Transfer"
     },
@@ -896,27 +768,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Frame Treehouse ",
-      "category": "hotel",
-      "lat": 30.250104,
-      "lng": -97.748382,
-      "distance_km": 16.63,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Hotel Saint Cecilia",
       "category": "hotel",
       "lat": 30.25187659,
       "lng": -97.74688056,
       "distance_km": 16.69,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Frame Hotel - SoCo",
-      "category": "hotel",
-      "lat": 30.24937987,
-      "lng": -97.7507132,
-      "distance_km": 16.7,
       "access_tier": "Long Transfer"
     },
     {
@@ -968,14 +824,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Stay Alfred at Muse",
-      "category": "hotel",
-      "lat": 30.25408,
-      "lng": -97.74711,
-      "distance_km": 16.9,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Guild South Congress",
       "category": "hotel",
       "lat": 30.2540798187256,
@@ -1005,54 +853,6 @@
       "lat": 30.26468355,
       "lng": -97.7310602,
       "distance_km": 17.02,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "W Hotel",
-      "category": "hotel",
-      "lat": 30.2621620362,
-      "lng": -97.7359102659,
-      "distance_km": 17.03,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Roadrunners Roost Apartment Hotel: A Cozy, Productive Perch",
-      "category": "hotel",
-      "lat": 30.10826893,
-      "lng": -97.46598764,
-      "distance_km": 17.06,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "The Guild",
-      "category": "hotel",
-      "lat": 30.264491,
-      "lng": -97.732305,
-      "distance_km": 17.07,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "La Quinta Georgetown Hotel Austin",
-      "category": "hotel",
-      "lat": 30.26354,
-      "lng": -97.73479,
-      "distance_km": 17.1,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "1 Hotel Austin",
-      "category": "hotel",
-      "lat": 30.26158,
-      "lng": -97.7392,
-      "distance_km": 17.14,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Fairfiel Hotel Austin, Texas",
-      "category": "hotel",
-      "lat": 30.262413333333,
-      "lng": -97.737861666667,
-      "distance_km": 17.15,
       "access_tier": "Long Transfer"
     },
     {
@@ -1120,14 +920,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Franklin Bungalow Hostel",
-      "category": "hotel",
-      "lat": 30.26875,
-      "lng": -97.72964,
-      "distance_km": 17.35,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Candlewood Suites Buda - Austin Sw By Ihg",
       "category": "hotel",
       "lat": 30.0887612,
@@ -1149,14 +941,6 @@
       "lat": 30.0901923,
       "lng": -97.81574809,
       "distance_km": 17.45,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Texas Cyber Summit",
-      "category": "hotel",
-      "lat": 30.2607196,
-      "lng": -97.7467742,
-      "distance_km": 17.48,
       "access_tier": "Long Transfer"
     },
     {
@@ -1216,27 +1000,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Speakeasy Hotel",
-      "category": "hotel",
-      "lat": 30.265328,
-      "lng": -97.740973,
-      "distance_km": 17.59,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Austin Cosmopolitan",
       "category": "hotel",
       "lat": 30.265328,
       "lng": -97.740973,
       "distance_km": 17.59,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Hotel Trinity, Autograph Collection",
-      "category": "hotel",
-      "lat": 30.26597,
-      "lng": -97.74003,
-      "distance_km": 17.6,
       "access_tier": "Long Transfer"
     },
     {
@@ -1252,14 +1020,6 @@
       "category": "hotel",
       "lat": 30.264032288521,
       "lng": -97.743982249379,
-      "distance_km": 17.63,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Locale Hq",
-      "category": "hotel",
-      "lat": 30.272972,
-      "lng": -97.726816,
       "distance_km": 17.63,
       "access_tier": "Long Transfer"
     },
@@ -1280,43 +1040,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "The Thornton Hotel",
-      "category": "hotel",
-      "lat": 30.246098158018,
-      "lng": -97.769780182372,
-      "distance_km": 17.65,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Kasa Lady Bird Lake Austin",
       "category": "resort",
       "lat": 30.2651713,
       "lng": -97.7424241,
       "distance_km": 17.65,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Argyle Hotel",
-      "category": "hotel",
-      "lat": 30.265594,
-      "lng": -97.742005,
-      "distance_km": 17.67,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Austin Westminster Hotel",
-      "category": "hotel",
-      "lat": 30.265602,
-      "lng": -97.742044,
-      "distance_km": 17.67,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Habitat Suites",
-      "category": "hotel",
-      "lat": 30.26474706,
-      "lng": -97.743834,
-      "distance_km": 17.68,
       "access_tier": "Long Transfer"
     },
     {
@@ -1424,14 +1152,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "W Hotel & Residences",
-      "category": "hotel",
-      "lat": 30.264058620896996,
-      "lng": -97.746688396286,
-      "distance_km": 17.78,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Hyatt House Austin Downtown",
       "category": "hotel",
       "lat": 30.26965522,
@@ -1453,22 +1173,6 @@
       "lat": 30.28114,
       "lng": -97.71042,
       "distance_km": 17.79,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Parking Spot",
-      "category": "hotel",
-      "lat": 30.2646301,
-      "lng": -97.7462504,
-      "distance_km": 17.8,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Central Austin Oasis",
-      "category": "bed_and_breakfast",
-      "lat": 30.273408888108,
-      "lng": -97.729966305847,
-      "distance_km": 17.82,
       "access_tier": "Long Transfer"
     },
     {
@@ -1520,14 +1224,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Hyatt",
-      "category": "hotel",
-      "lat": 30.268194,
-      "lng": -97.741739,
-      "distance_km": 17.89,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Omni Austin Hotel Downtown",
       "category": "hotel",
       "lat": 30.26887061,
@@ -1576,27 +1272,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Breathe Deeply A Cozy Austin Cabin BNB",
-      "category": "bed_and_breakfast",
-      "lat": 30.13798699,
-      "lng": -97.82798263,
-      "distance_km": 17.98,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "The Stephen F. Austin Royal Sonesta Hotel",
       "category": "hotel",
       "lat": 30.269079787870208,
       "lng": -97.7419817386977,
       "distance_km": 17.99,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Lezby Inn",
-      "category": "hotel",
-      "lat": 30.2510483965,
-      "lng": -97.76903170450001,
-      "distance_km": 18.0,
       "access_tier": "Long Transfer"
     },
     {
@@ -1613,14 +1293,6 @@
       "lat": 30.26708387,
       "lng": -97.74603834,
       "distance_km": 18.02,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Guild Downtown",
-      "category": "hotel",
-      "lat": 30.265289,
-      "lng": -97.749438,
-      "distance_km": 18.04,
       "access_tier": "Long Transfer"
     },
     {
@@ -1680,14 +1352,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Marriot Austin,TX",
-      "category": "hotel",
-      "lat": 30.27087029957143,
-      "lng": -97.74282206871429,
-      "distance_km": 18.2,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Key to Austin Bed and Breakfast",
       "category": "bed_and_breakfast",
       "lat": 30.230130576553556,
@@ -1700,14 +1364,6 @@
       "category": "resort",
       "lat": 30.26984,
       "lng": -97.74626,
-      "distance_km": 18.28,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Austin Suites",
-      "category": "hotel",
-      "lat": 30.270339,
-      "lng": -97.745212,
       "distance_km": 18.28,
       "access_tier": "Long Transfer"
     },
@@ -1744,14 +1400,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "The Loren at Lady Bird Lake",
-      "category": "hotel",
-      "lat": 30.26397123684809,
-      "lng": -97.75682182822364,
-      "distance_km": 18.34,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Canopy by Hilton Austin Downtown",
       "category": "hotel",
       "lat": 30.27003882,
@@ -1784,14 +1432,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Aspen Downtown",
-      "category": "hotel",
-      "lat": 30.271595,
-      "lng": -97.747561,
-      "distance_km": 18.52,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "GuestSpaces",
       "category": "hotel",
       "lat": 30.228975,
@@ -1816,14 +1456,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Hotel Ella",
-      "category": "hotel",
-      "lat": 30.27303,
-      "lng": -97.74876,
-      "distance_km": 18.71,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Microtel Inn and Suites",
       "category": "hotel",
       "lat": 30.08418684,
@@ -1837,14 +1469,6 @@
       "lat": 30.27675649224859,
       "lng": -97.74201393127443,
       "distance_km": 18.72,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Ardor Hotel",
-      "category": "hotel",
-      "lat": 30.27213,
-      "lng": -97.75143,
-      "distance_km": 18.77,
       "access_tier": "Long Transfer"
     },
     {
@@ -1904,14 +1528,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Quintrooms",
-      "category": "hotel",
-      "lat": 30.238447,
-      "lng": -97.79668,
-      "distance_km": 19.02,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Marcy's Historic Hostel Cottage",
       "category": "hostel",
       "lat": 30.2748565187891,
@@ -1933,14 +1549,6 @@
       "lat": 30.2888889,
       "lng": -97.7231508,
       "distance_km": 19.06,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "At&t Hotel At the University of Texas At Austin",
-      "category": "hotel",
-      "lat": 30.28155,
-      "lng": -97.74014,
-      "distance_km": 19.08,
       "access_tier": "Long Transfer"
     },
     {
@@ -2024,35 +1632,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Kasa Campus Spaces At Ut Austin",
-      "category": "hotel",
-      "lat": 30.2836102,
-      "lng": -97.7414113,
-      "distance_km": 19.34,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "CT's Treehouse",
-      "category": "hostel",
-      "lat": 30.262303537979,
-      "lng": -97.775866041474,
-      "distance_km": 19.37,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Brava House",
       "category": "bed_and_breakfast",
       "lat": 30.27754502,
       "lng": -97.75449645,
       "distance_km": 19.44,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Homeaway",
-      "category": "hotel",
-      "lat": 30.242765,
-      "lng": -97.798422,
-      "distance_km": 19.45,
       "access_tier": "Long Transfer"
     },
     {
@@ -2077,14 +1661,6 @@
       "lat": 30.2337,
       "lng": -97.8081,
       "distance_km": 19.58,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Uber Snoozer Hostel Lodging",
-      "category": "hostel",
-      "lat": 30.274059,
-      "lng": -97.763402,
-      "distance_km": 19.62,
       "access_tier": "Long Transfer"
     },
     {
@@ -2120,14 +1696,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "A/C Hotel",
-      "category": "hotel",
-      "lat": 30.29044221,
-      "lng": -97.74309058,
-      "distance_km": 20.08,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Drifter Jack's Hostel",
       "category": "hostel",
       "lat": 30.291008569508534,
@@ -2152,14 +1720,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Courtyard By Marriott San Marcos",
-      "category": "hotel",
-      "lat": 30.067253,
-      "lng": -97.838585,
-      "distance_km": 20.35,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Residence Inn",
       "category": "hotel",
       "lat": 30.30746006,
@@ -2173,14 +1733,6 @@
       "lat": 29.989020124309313,
       "lng": -97.5080762195619,
       "distance_km": 20.48,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Mueller Airport",
-      "category": "hotel",
-      "lat": 30.30764,
-      "lng": -97.7093,
-      "distance_km": 20.52,
       "access_tier": "Long Transfer"
     },
     {
@@ -2232,14 +1784,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Hyde Park Cottage",
-      "category": "hotel",
-      "lat": 30.305833333333,
-      "lng": -97.73,
-      "distance_km": 21.05,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Extended Stay America",
       "category": "hotel",
       "lat": 30.237943,
@@ -2288,14 +1832,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Best Western Southgate Inn & Suites",
-      "category": "motel",
-      "lat": 30.03783378383407,
-      "lng": -97.84635942307081,
-      "distance_km": 22.39,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "La Quinta Inn and Suites",
       "category": "hotel",
       "lat": 30.03282252,
@@ -2304,27 +1840,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Empty Arms Hotel",
-      "category": "hotel",
-      "lat": 30.272245,
-      "lng": -97.814676,
-      "distance_km": 22.77,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Hotel Viata",
       "category": "hotel",
       "lat": 30.30107609,
       "lng": -97.82955197,
       "distance_km": 26.04,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Big Daves Last Resort",
-      "category": "hotel",
-      "lat": 29.95434535,
-      "lng": -97.84066588,
-      "distance_km": 27.62,
       "access_tier": "Long Transfer"
     }
   ],
@@ -2346,54 +1866,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "La Casa De La Pupusa ",
-      "category": "restaurant",
-      "lat": 30.120726,
-      "lng": -97.634828,
-      "distance_km": 1.47,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Zimples",
-      "category": "restaurant",
-      "lat": 30.15455,
-      "lng": -97.64276,
-      "distance_km": 2.42,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Modelo's Sport Bar",
-      "category": "bar",
-      "lat": 30.153364,
-      "lng": -97.67165,
-      "distance_km": 3.72,
-      "food_group": "bar"
-    },
-    {
-      "name": "Club 8 Segundos",
-      "category": "pub",
-      "lat": 30.153407,
-      "lng": -97.671712,
-      "distance_km": 3.73,
-      "food_group": "bar"
-    },
-    {
-      "name": "El rincon mexicano",
-      "category": "restaurant",
-      "lat": 30.16919,
-      "lng": -97.61902,
-      "distance_km": 4.57,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Benji's",
-      "category": "restaurant",
-      "lat": 30.175132,
-      "lng": -97.617654,
-      "distance_km": 5.22,
-      "food_group": "restaurant"
-    },
-    {
       "name": "The 183",
       "category": "bar",
       "lat": 30.1272611103301,
@@ -2407,22 +1879,6 @@
       "lat": 30.12733,
       "lng": -97.69528,
       "distance_km": 5.25,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Protein Life",
-      "category": "restaurant",
-      "lat": 30.174708434287716,
-      "lng": -97.61284476788403,
-      "distance_km": 5.39,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Cenizo Del Valle",
-      "category": "coffee_shop",
-      "lat": 30.15174238,
-      "lng": -97.58717625,
-      "distance_km": 5.6,
       "food_group": "cafe"
     },
     {
@@ -2450,30 +1906,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Laredo Taco Company",
-      "category": "restaurant",
-      "lat": 30.164716,
-      "lng": -97.693329,
-      "distance_km": 6.15,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Blazzin Bowl",
-      "category": "restaurant",
-      "lat": 30.110681880126,
-      "lng": -97.701072692871,
-      "distance_km": 6.27,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Pit Stop Bar and Grill",
-      "category": "bar",
-      "lat": 30.089955,
-      "lng": -97.596096,
-      "distance_km": 6.44,
-      "food_group": "bar"
-    },
-    {
       "name": "Cantina Guerrero",
       "category": "bar",
       "lat": 30.1741391,
@@ -2482,28 +1914,12 @@
       "food_group": "bar"
     },
     {
-      "name": "Club nutrici\u00f3n es vida",
-      "category": "restaurant",
-      "lat": 30.093995560025,
-      "lng": -97.694193744927,
-      "distance_km": 6.69,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Fernando's Mexican Food Truck",
       "category": "restaurant",
       "lat": 30.18710069683074,
       "lng": -97.60803222656251,
       "distance_km": 6.82,
       "food_group": "restaurant"
-    },
-    {
-      "name": "The Get Set",
-      "category": "bar",
-      "lat": 30.1933239,
-      "lng": -97.67085233,
-      "distance_km": 7.31,
-      "food_group": "bar"
     },
     {
       "name": "Ghedi International Inc",
@@ -2546,30 +1962,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Briggo Coffee Haus",
-      "category": "coffee_shop",
-      "lat": 30.20196645476959,
-      "lng": -97.66651572143218,
-      "distance_km": 8.07,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Antoja2 atx",
-      "category": "coffee_shop",
-      "lat": 30.15506995,
-      "lng": -97.72107112,
-      "distance_km": 8.08,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Saxon Pub",
-      "category": "bar",
-      "lat": 30.202277949984214,
-      "lng": -97.66569947147964,
-      "distance_km": 8.08,
-      "food_group": "bar"
-    },
-    {
       "name": "Cinnabon",
       "category": "restaurant",
       "lat": 30.201797,
@@ -2586,27 +1978,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Fara Cafe",
-      "category": "cafe",
-      "lat": 30.202369653043366,
-      "lng": -97.66687241561367,
-      "distance_km": 8.12,
-      "food_group": "cafe"
-    },
-    {
       "name": "Z Cafe",
       "category": "cafe",
       "lat": 30.20236784,
       "lng": -97.66743371,
       "distance_km": 8.14,
-      "food_group": "cafe"
-    },
-    {
-      "name": "South Congress Market (Austin Bergstrom)",
-      "category": "cafe",
-      "lat": 30.202542,
-      "lng": -97.667161,
-      "distance_km": 8.15,
       "food_group": "cafe"
     },
     {
@@ -2616,30 +1992,6 @@
       "lng": -97.67003690867568,
       "distance_km": 8.2,
       "food_group": "cafe"
-    },
-    {
-      "name": "Ruta Maya Coffee",
-      "category": "coffee_shop",
-      "lat": 30.202270742658612,
-      "lng": -97.66990666731752,
-      "distance_km": 8.21,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Planes Grains & Arugula",
-      "category": "restaurant",
-      "lat": 30.202217419603713,
-      "lng": -97.67011105160736,
-      "distance_km": 8.21,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Asleep At The Wheel RoadHouse",
-      "category": "pub",
-      "lat": 30.20218863786974,
-      "lng": -97.67034635985041,
-      "distance_km": 8.21,
-      "food_group": "bar"
     },
     {
       "name": "Cenizo",
@@ -2674,38 +2026,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Jaguar Brew Coffee",
-      "category": "coffee_shop",
-      "lat": 30.05958372,
-      "lng": -97.60745295,
-      "distance_km": 8.76,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Parkside",
-      "category": "restaurant",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Flyrite Chicken",
-      "category": "fast_food_restaurant",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Ray Benson's Roadhouse Bar",
-      "category": "bar",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "bar"
-    },
-    {
       "name": "I Vini",
       "category": "restaurant",
       "lat": 30.209579,
@@ -2714,60 +2034,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Costa Coffee - Aus Airport (gate 11)",
-      "category": "coffee_shop",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Hills Cafe",
-      "category": "cafe",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "cafe"
-    },
-    {
       "name": "Fara Caf\u00e9 Coffee Shop",
       "category": "restaurant",
       "lat": 30.209579,
       "lng": -97.663832,
       "distance_km": 8.81,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Caribou",
-      "category": "coffee_shop",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "cafe"
-    },
-    {
-      "name": "The Saxon Pub",
-      "category": "pub",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "bar"
-    },
-    {
-      "name": "Sky Bar",
-      "category": "bar",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "bar"
-    },
-    {
-      "name": "Jo's",
-      "category": "coffee_shop",
-      "lat": 30.209579,
-      "lng": -97.663832,
-      "distance_km": 8.81,
-      "food_group": "cafe"
     },
     {
       "name": "Breakfast tacos",
@@ -2858,14 +2130,6 @@
       "food_group": "bar"
     },
     {
-      "name": "El Gran Agazajo Sport Bar",
-      "category": "sports_bar",
-      "lat": 30.21330448,
-      "lng": -97.68383105,
-      "distance_km": 9.85,
-      "food_group": "bar"
-    },
-    {
       "name": "Hit The Spot Cafe",
       "category": "cafe",
       "lat": 30.187789338542455,
@@ -2888,14 +2152,6 @@
       "lng": -97.73424615803721,
       "distance_km": 10.18,
       "food_group": "cafe"
-    },
-    {
-      "name": "The Stronghold",
-      "category": "bar",
-      "lat": 30.154362264234404,
-      "lng": -97.74394085702401,
-      "distance_km": 10.18,
-      "food_group": "bar"
     },
     {
       "name": "The Waterhole Saloon",
@@ -3002,28 +2258,12 @@
       "food_group": "fast_food"
     },
     {
-      "name": "La Conga Restaurant",
-      "category": "restaurant",
-      "lat": 30.207979,
-      "lng": -97.72089,
-      "distance_km": 11.35,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Mi Bambuco Colombian Restaurant",
       "category": "restaurant",
       "lat": 30.207979,
       "lng": -97.72089,
       "distance_km": 11.35,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Good Times At Dry Creek",
-      "category": "bar",
-      "lat": 30.17814442,
-      "lng": -97.53390123,
-      "distance_km": 11.47,
-      "food_group": "bar"
     },
     {
       "name": "Ironwood Grill & Pub",
@@ -3034,36 +2274,12 @@
       "food_group": "bar"
     },
     {
-      "name": "KingCookster",
-      "category": "restaurant",
-      "lat": 30.18021,
-      "lng": -97.74726,
-      "distance_km": 11.49,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Texsue\u00f1o",
-      "category": "restaurant",
-      "lat": 30.2052465,
-      "lng": -97.727269,
-      "distance_km": 11.55,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Krispy Krunchy Chicken",
       "category": "fast_food_restaurant",
       "lat": 30.0985844,
       "lng": -97.7550176,
       "distance_km": 11.6,
       "food_group": "fast_food"
-    },
-    {
-      "name": "County Line Icehouse",
-      "category": "bar",
-      "lat": 30.176972,
-      "lng": -97.531414,
-      "distance_km": 11.63,
-      "food_group": "bar"
     },
     {
       "name": "Caribbean House",
@@ -3098,14 +2314,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Azteca Mexican Restaurants",
-      "category": "restaurant",
-      "lat": 30.211078,
-      "lng": -97.726661,
-      "distance_km": 11.98,
-      "food_group": "restaurant"
-    },
-    {
       "name": "McDonald's",
       "category": "fast_food_restaurant",
       "lat": 30.17578545,
@@ -3130,28 +2338,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "El Rancho Sports Bar",
-      "category": "bar",
-      "lat": 30.211989,
-      "lng": -97.729751,
-      "distance_km": 12.25,
-      "food_group": "bar"
-    },
-    {
       "name": "Taqueria Guerrero",
       "category": "fast_food_restaurant",
       "lat": 30.02509,
       "lng": -97.66831,
       "distance_km": 12.26,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Lamy Winnebago Ltd",
-      "category": "restaurant",
-      "lat": 30.208524,
-      "lng": -97.73387,
-      "distance_km": 12.27,
-      "food_group": "restaurant"
     },
     {
       "name": "Crow Bar",
@@ -3194,22 +2386,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "The Eastwood at Riverside",
-      "category": "pub",
-      "lat": 30.22882187154576,
-      "lng": -97.71232988618394,
-      "distance_km": 12.68,
-      "food_group": "bar"
-    },
-    {
-      "name": "La Carreta",
-      "category": "fast_food_restaurant",
-      "lat": 30.23716,
-      "lng": -97.69519,
-      "distance_km": 12.72,
-      "food_group": "fast_food"
-    },
-    {
       "name": "McDonald's",
       "category": "fast_food_restaurant",
       "lat": 30.2144205,
@@ -3234,22 +2410,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Taqueria La Tapatia",
-      "category": "restaurant",
-      "lat": 30.215991,
-      "lng": -97.735614,
-      "distance_km": 12.97,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Underground Kitchen",
-      "category": "restaurant",
-      "lat": 30.218063,
-      "lng": -97.733376,
-      "distance_km": 12.98,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Blue In Green",
       "category": "restaurant",
       "lat": 30.236757,
@@ -3258,36 +2418,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Up A Creek",
-      "category": "bar",
-      "lat": 30.08594360133199,
-      "lng": -97.51565010605584,
-      "distance_km": 13.14,
-      "food_group": "bar"
-    },
-    {
       "name": "Boundless Nutrition",
       "category": "restaurant",
       "lat": 30.2124977,
       "lng": -97.7427464,
       "distance_km": 13.19,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Ambion",
-      "category": "restaurant",
-      "lat": 30.213237,
-      "lng": -97.744941,
-      "distance_km": 13.4,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Mi Ranchito El Reyno Sport Bar and Restaurante",
-      "category": "bar",
-      "lat": 30.02639425,
-      "lng": -97.57547345,
-      "distance_km": 13.41,
-      "food_group": "bar"
     },
     {
       "name": "Dan's Hamburgers, Inc.",
@@ -3378,14 +2514,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Sweetwater's Bar",
-      "category": "bar",
-      "lat": 30.214566,
-      "lng": -97.750827,
-      "distance_km": 13.93,
-      "food_group": "bar"
-    },
-    {
       "name": "Clicks Billiards - Billiards, Games, Sports, Bar & Grill",
       "category": "sports_bar",
       "lat": 30.229972,
@@ -3399,14 +2527,6 @@
       "lat": 30.23569606,
       "lng": -97.72402363,
       "distance_km": 13.94,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Chipotle",
-      "category": "fast_food_restaurant",
-      "lat": 30.1993103,
-      "lng": -97.7643043,
-      "distance_km": 13.96,
       "food_group": "fast_food"
     },
     {
@@ -3434,14 +2554,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Sabrosuras ramos",
-      "category": "coffee_shop",
-      "lat": 30.230576025371327,
-      "lng": -97.73343086545427,
-      "distance_km": 14.03,
-      "food_group": "cafe"
-    },
-    {
       "name": "Ojos Locos Sports Cantina - South Austin",
       "category": "sports_bar",
       "lat": 30.19724896,
@@ -3456,14 +2568,6 @@
       "lng": -97.767046,
       "distance_km": 14.07,
       "food_group": "bar"
-    },
-    {
-      "name": "Cultura Coffee + Bar",
-      "category": "coffee_shop",
-      "lat": 30.250113,
-      "lng": -97.696002,
-      "distance_km": 14.07,
-      "food_group": "cafe"
     },
     {
       "name": "Wendy's",
@@ -3490,14 +2594,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Herbalife",
-      "category": "cafe",
-      "lat": 30.23720927078692,
-      "lng": -97.72410905916205,
-      "distance_km": 14.09,
-      "food_group": "cafe"
-    },
-    {
       "name": "KFC",
       "category": "fast_food_restaurant",
       "lat": 30.19048466,
@@ -3522,14 +2618,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Black Rock Coffee Bar",
-      "category": "coffee_shop",
-      "lat": 30.23647806,
-      "lng": -97.72602475,
-      "distance_km": 14.13,
-      "food_group": "cafe"
-    },
-    {
       "name": "Sri Kubera Inc",
       "category": "restaurant",
       "lat": 30.190635,
@@ -3544,14 +2632,6 @@
       "lng": -97.72525357,
       "distance_km": 14.18,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Rewind",
-      "category": "bar",
-      "lat": 30.22307,
-      "lng": -97.745817,
-      "distance_km": 14.22,
-      "food_group": "bar"
     },
     {
       "name": "IHOP",
@@ -3618,28 +2698,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Reverend Joe's Sombrero & Brewhouse",
-      "category": "restaurant",
-      "lat": 30.2290245675,
-      "lng": -97.7414943525,
-      "distance_km": 14.41,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Eastern Diner Llc",
       "category": "restaurant",
       "lat": 30.251408,
       "lng": -97.701822,
       "distance_km": 14.42,
       "food_group": "restaurant"
-    },
-    {
-      "name": "El Agazajo Bar & Grill",
-      "category": "bar",
-      "lat": 30.252314,
-      "lng": -97.699373,
-      "distance_km": 14.42,
-      "food_group": "bar"
     },
     {
       "name": "SONIC Drive In",
@@ -3714,22 +2778,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "El Lim\u00f3n Tacos",
-      "category": "restaurant",
-      "lat": 30.26315,
-      "lng": -97.62819,
-      "distance_km": 14.55,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Wicked Backyard",
-      "category": "restaurant",
-      "lat": 30.16659,
-      "lng": -97.78735,
-      "distance_km": 14.56,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Total Functionality Austin Llc",
       "category": "restaurant",
       "lat": 30.239869,
@@ -3770,59 +2818,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Nicolaza's ATX",
-      "category": "bar",
-      "lat": 30.172633,
-      "lng": -97.785683,
-      "distance_km": 14.59,
-      "food_group": "bar"
-    },
-    {
       "name": "Plantain Bar",
       "category": "restaurant",
       "lat": 30.17273,
       "lng": -97.7858,
       "distance_km": 14.6,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Red Shed Tavern",
-      "category": "pub",
-      "lat": 30.172718697440637,
-      "lng": -97.78578479654355,
-      "distance_km": 14.6,
-      "food_group": "bar"
-    },
-    {
-      "name": "Forking Vegan Llc",
-      "category": "restaurant",
-      "lat": 30.172716,
-      "lng": -97.785791,
-      "distance_km": 14.6,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Hell's Half Acre",
-      "category": "bar",
-      "lat": 30.15207,
-      "lng": -97.49096,
-      "distance_km": 14.6,
-      "food_group": "bar"
-    },
-    {
-      "name": "Kobe Bachi Hibachi",
-      "category": "restaurant",
-      "lat": 30.241502,
-      "lng": -97.72639,
-      "distance_km": 14.6,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Jersey Mike's Subs",
-      "category": "restaurant",
-      "lat": 30.162156,
-      "lng": -97.789186,
-      "distance_km": 14.61,
       "food_group": "restaurant"
     },
     {
@@ -3858,22 +2858,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Mayfield DQ",
-      "category": "fast_food_restaurant",
-      "lat": 30.162744203533,
-      "lng": -97.789435386658,
-      "distance_km": 14.65,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Buzzmill Coffee",
-      "category": "coffee_shop",
-      "lat": 30.241661983347033,
-      "lng": -97.72693108440126,
-      "distance_km": 14.65,
-      "food_group": "cafe"
-    },
-    {
       "name": "The Buzz Mill",
       "category": "bar",
       "lat": 30.24168438,
@@ -3896,14 +2880,6 @@
       "lng": -97.7268,
       "distance_km": 14.66,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Lamrite",
-      "category": "bar",
-      "lat": 30.252341,
-      "lng": -97.705347,
-      "distance_km": 14.66,
-      "food_group": "bar"
     },
     {
       "name": "TGI Fridays",
@@ -3946,14 +2922,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Cocktails Nightclub",
-      "category": "bar",
-      "lat": 30.24091488976517,
-      "lng": -97.72885103504177,
-      "distance_km": 14.69,
-      "food_group": "bar"
-    },
-    {
       "name": "Chili's Grill & Bar",
       "category": "restaurant",
       "lat": 30.157564,
@@ -3966,14 +2934,6 @@
       "category": "sports_bar",
       "lat": 30.21852304,
       "lng": -97.75752829,
-      "distance_km": 14.7,
-      "food_group": "bar"
-    },
-    {
-      "name": "1836 Saloon",
-      "category": "bar",
-      "lat": 30.2410401,
-      "lng": -97.72884033,
       "distance_km": 14.7,
       "food_group": "bar"
     },
@@ -4114,34 +3074,10 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Juicy Fruits",
-      "category": "coffee_shop",
-      "lat": 30.191673711327052,
-      "lng": -97.77880168026942,
-      "distance_km": 14.77,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Mother\u2019s Food Truck Park",
-      "category": "restaurant",
-      "lat": 30.19201,
-      "lng": -97.77874,
-      "distance_km": 14.78,
-      "food_group": "restaurant"
-    },
-    {
       "name": "I35 & Slaughter",
       "category": "fast_food_restaurant",
       "lat": 30.163631652339845,
       "lng": -97.7905848969791,
-      "distance_km": 14.78,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Jack in the Box",
-      "category": "fast_food_restaurant",
-      "lat": 30.16362809537863,
-      "lng": -97.79058901099008,
       "distance_km": 14.78,
       "food_group": "fast_food"
     },
@@ -4152,14 +3088,6 @@
       "lng": -97.761606,
       "distance_km": 14.78,
       "food_group": "cafe"
-    },
-    {
-      "name": "Third Base Sports Bar",
-      "category": "sports_bar",
-      "lat": 30.160605035640838,
-      "lng": -97.79146490631176,
-      "distance_km": 14.79,
-      "food_group": "bar"
     },
     {
       "name": "Marker 37 Llc",
@@ -4242,14 +3170,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "The Loud Juice Cafe",
-      "category": "cafe",
-      "lat": 30.216,
-      "lng": -97.76183,
-      "distance_km": 14.84,
-      "food_group": "cafe"
-    },
-    {
       "name": "Spokesman",
       "category": "coffee_shop",
       "lat": 30.21552108,
@@ -4270,14 +3190,6 @@
       "category": "fast_food_restaurant",
       "lat": 30.19280774,
       "lng": -97.77949903,
-      "distance_km": 14.88,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Boricua and cruzan cuisine",
-      "category": "fast_food_restaurant",
-      "lat": 30.191672,
-      "lng": -97.780113,
       "distance_km": 14.88,
       "food_group": "fast_food"
     },
@@ -4336,14 +3248,6 @@
       "lng": -97.79153811,
       "distance_km": 14.95,
       "food_group": "fast_food"
-    },
-    {
-      "name": "The Office Bar & Beer Garden",
-      "category": "bar",
-      "lat": 30.256512,
-      "lng": -97.702006,
-      "distance_km": 14.95,
-      "food_group": "bar"
     },
     {
       "name": "C & S Accomplished Austin Paint And Auto Body, Llc",
@@ -4410,14 +3314,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Lavaca Street Bar",
-      "category": "bar",
-      "lat": 30.2585,
-      "lng": -97.6996,
-      "distance_km": 15.07,
-      "food_group": "bar"
-    },
-    {
       "name": "Do-rite Barbecue Llc",
       "category": "restaurant",
       "lat": 30.258513,
@@ -4466,14 +3362,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Divest Dive Bar",
-      "category": "bar",
-      "lat": 30.254192885105926,
-      "lng": -97.71235339525114,
-      "distance_km": 15.14,
-      "food_group": "bar"
-    },
-    {
       "name": "Food Made From Scratch, Llc",
       "category": "restaurant",
       "lat": 30.253588,
@@ -4514,14 +3402,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Mozarts Coffee Roasters",
-      "category": "coffee_shop",
-      "lat": 30.202848,
-      "lng": -97.777001,
-      "distance_km": 15.21,
-      "food_group": "cafe"
-    },
-    {
       "name": "Ocean Exim Inc",
       "category": "restaurant",
       "lat": 30.2206748,
@@ -4536,14 +3416,6 @@
       "lng": -97.761855,
       "distance_km": 15.21,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Dk Cafe",
-      "category": "cafe",
-      "lat": 30.25617,
-      "lng": -97.709383,
-      "distance_km": 15.21,
-      "food_group": "cafe"
     },
     {
       "name": "E. Cesar Chavez",
@@ -4570,14 +3442,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Wake Up Eastside",
-      "category": "coffee_shop",
-      "lat": 30.132509784342,
-      "lng": -97.79972076416,
-      "distance_km": 15.25,
-      "food_group": "cafe"
-    },
-    {
       "name": "Residence by Anthony Martin",
       "category": "restaurant",
       "lat": 30.2540592,
@@ -4592,46 +3456,6 @@
       "lng": -97.76509758571598,
       "distance_km": 15.27,
       "food_group": "bar"
-    },
-    {
-      "name": "Old Rail Coffee Pub",
-      "category": "coffee_shop",
-      "lat": 30.26101678873419,
-      "lng": -97.69797207485742,
-      "distance_km": 15.27,
-      "food_group": "cafe"
-    },
-    {
-      "name": "St. Benedict Coffee",
-      "category": "coffee_shop",
-      "lat": 30.260879119112456,
-      "lng": -97.69884146812501,
-      "distance_km": 15.28,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Mercado Sin Nombre",
-      "category": "coffee_shop",
-      "lat": 30.256136,
-      "lng": -97.711649,
-      "distance_km": 15.3,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Noa Noa Bar",
-      "category": "sports_bar",
-      "lat": 30.213401,
-      "lng": -97.770218,
-      "distance_km": 15.31,
-      "food_group": "bar"
-    },
-    {
-      "name": "Swerl Rolled Ice Cream",
-      "category": "restaurant",
-      "lat": 30.21846,
-      "lng": -97.7658,
-      "distance_km": 15.31,
-      "food_group": "restaurant"
     },
     {
       "name": "Merfolk\u2019s Specialty Coffee",
@@ -4650,14 +3474,6 @@
       "food_group": "bar"
     },
     {
-      "name": "The Git Out",
-      "category": "bar",
-      "lat": 30.21261303021222,
-      "lng": -97.77107120939002,
-      "distance_km": 15.33,
-      "food_group": "bar"
-    },
-    {
       "name": "Restaurant Sam",
       "category": "restaurant",
       "lat": 30.2157248,
@@ -4672,22 +3488,6 @@
       "lng": -97.764573,
       "distance_km": 15.38,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Jo's Coffeehouse, Meadows Cafe",
-      "category": "cafe",
-      "lat": 30.229188358705507,
-      "lng": -97.75600981685342,
-      "distance_km": 15.39,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Jo's Coffee Shop",
-      "category": "coffee_shop",
-      "lat": 30.2293187875,
-      "lng": -97.755799775,
-      "distance_km": 15.39,
-      "food_group": "cafe"
     },
     {
       "name": "Austin Eastciders",
@@ -4778,14 +3578,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "East Austin Coffee",
-      "category": "coffee_shop",
-      "lat": 30.25511,
-      "lng": -97.7181,
-      "distance_km": 15.48,
-      "food_group": "cafe"
-    },
-    {
       "name": "Eden's Cove Farm",
       "category": "restaurant",
       "lat": 30.043036,
@@ -4850,60 +3642,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Fourths - IV - Austin",
-      "category": "restaurant",
-      "lat": 30.22472333,
-      "lng": -97.76357995,
-      "distance_km": 15.59,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Stomping grounds",
-      "category": "bar",
-      "lat": 30.226787203136528,
-      "lng": -97.76148908274287,
-      "distance_km": 15.59,
-      "food_group": "bar"
-    },
-    {
       "name": "Little Drinks Lounge",
       "category": "bar",
       "lat": 30.226756801297928,
       "lng": -97.76149213314058,
       "distance_km": 15.59,
       "food_group": "bar"
-    },
-    {
-      "name": "THe Concord",
-      "category": "cafe",
-      "lat": 30.25764607,
-      "lng": -97.71499435,
-      "distance_km": 15.59,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Snack House",
-      "category": "fast_food_restaurant",
-      "lat": 30.183910875011,
-      "lng": -97.792261093855,
-      "distance_km": 15.6,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Oui's Thai",
-      "category": "restaurant",
-      "lat": 30.14089176444542,
-      "lng": -97.8030985008786,
-      "distance_km": 15.6,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Bat & Brew Cafe",
-      "category": "cafe",
-      "lat": 30.22536787,
-      "lng": -97.76302719,
-      "distance_km": 15.6,
-      "food_group": "cafe"
     },
     {
       "name": "Greater Goods Coffee Roasters",
@@ -4962,14 +3706,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "The Rad-dish",
-      "category": "restaurant",
-      "lat": 30.185247,
-      "lng": -97.792145,
-      "distance_km": 15.65,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Mama Dearest",
       "category": "bar",
       "lat": 30.258455573100484,
@@ -4992,30 +3728,6 @@
       "lng": -97.792829,
       "distance_km": 15.68,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Qdoba Mexican Eats",
-      "category": "restaurant",
-      "lat": 30.18441,
-      "lng": -97.792829,
-      "distance_km": 15.68,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Barstool Bites",
-      "category": "restaurant",
-      "lat": 30.18441,
-      "lng": -97.792829,
-      "distance_km": 15.68,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Hasta La Luna",
-      "category": "restaurant",
-      "lat": 30.175048,
-      "lng": -97.796815,
-      "distance_km": 15.69,
-      "food_group": "restaurant"
     },
     {
       "name": "Kelly\u2019s Irish Pub",
@@ -5048,14 +3760,6 @@
       "lng": -97.7102328,
       "distance_km": 15.71,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Castro St.",
-      "category": "bar",
-      "lat": 30.26204,
-      "lng": -97.70702,
-      "distance_km": 15.71,
-      "food_group": "bar"
     },
     {
       "name": "One Nutrition",
@@ -5106,14 +3810,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "The Puffing Pot",
-      "category": "restaurant",
-      "lat": 30.1968935,
-      "lng": -97.7877791,
-      "distance_km": 15.8,
-      "food_group": "restaurant"
-    },
-    {
       "name": "The Wheel South",
       "category": "bar",
       "lat": 30.23132804,
@@ -5128,14 +3824,6 @@
       "lng": -97.75956740932901,
       "distance_km": 15.8,
       "food_group": "bar"
-    },
-    {
-      "name": "Hot Mama's Catering & Events",
-      "category": "cafe",
-      "lat": 30.259186,
-      "lng": -97.716179,
-      "distance_km": 15.8,
-      "food_group": "cafe"
     },
     {
       "name": "The Front Page",
@@ -5159,14 +3847,6 @@
       "lat": 30.2314071655273,
       "lng": -97.7596893310547,
       "distance_km": 15.82,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Caff\u00e9 Medici",
-      "category": "coffee_shop",
-      "lat": 30.267688,
-      "lng": -97.693647,
-      "distance_km": 15.83,
       "food_group": "cafe"
     },
     {
@@ -5290,22 +3970,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Gold Diggers Lounge",
-      "category": "bar",
-      "lat": 30.270796644582,
-      "lng": -97.595092773438,
-      "distance_km": 15.97,
-      "food_group": "bar"
-    },
-    {
-      "name": "The Texas Roadstand",
-      "category": "restaurant",
-      "lat": 30.0911673631963,
-      "lng": -97.48214204464716,
-      "distance_km": 15.98,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Lauren Hubele",
       "category": "restaurant",
       "lat": 30.24368493727137,
@@ -5354,30 +4018,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Aqui Estoy",
-      "category": "coffee_shop",
-      "lat": 30.222711,
-      "lng": -97.771645,
-      "distance_km": 16.04,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Chiyaya Bakery",
-      "category": "coffee_shop",
-      "lat": 30.26268,
-      "lng": -97.71396,
-      "distance_km": 16.05,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Sunset Valley Farmers Market",
-      "category": "restaurant",
-      "lat": 30.23228,
-      "lng": -97.762282,
-      "distance_km": 16.06,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Kitty Cohen's",
       "category": "bar",
       "lat": 30.26183885,
@@ -5400,14 +4040,6 @@
       "lng": -97.71636565737776,
       "distance_km": 16.07,
       "food_group": "bar"
-    },
-    {
-      "name": "Menlo Food Labs, Llc",
-      "category": "restaurant",
-      "lat": 30.24165,
-      "lng": -97.751176,
-      "distance_km": 16.08,
-      "food_group": "restaurant"
     },
     {
       "name": "The Lost Well, Llc",
@@ -5474,22 +4106,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Austin Brewskee-Ball",
-      "category": "bar",
-      "lat": 30.26296,
-      "lng": -97.71475,
-      "distance_km": 16.11,
-      "food_group": "bar"
-    },
-    {
-      "name": "Pocket Austin",
-      "category": "bar",
-      "lat": 30.26334,
-      "lng": -97.71401,
-      "distance_km": 16.12,
-      "food_group": "bar"
-    },
-    {
       "name": "Chalmers",
       "category": "bar",
       "lat": 30.25777426,
@@ -5527,22 +4143,6 @@
       "lat": 30.261865,
       "lng": -97.718256,
       "distance_km": 16.15,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Green Gate Farms",
-      "category": "restaurant",
-      "lat": 30.278052,
-      "lng": -97.638332,
-      "distance_km": 16.15,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Gopuff",
-      "category": "restaurant",
-      "lat": 30.269923,
-      "lng": -97.697226,
-      "distance_km": 16.17,
       "food_group": "restaurant"
     },
     {
@@ -5594,27 +4194,11 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Pura Vida Brews",
-      "category": "cafe",
-      "lat": 30.2424044,
-      "lng": -97.75269472,
-      "distance_km": 16.24,
-      "food_group": "cafe"
-    },
-    {
       "name": "Cuv\u00e9e Coffee",
       "category": "coffee_shop",
       "lat": 30.26144018152835,
       "lng": -97.72120822510985,
       "distance_km": 16.24,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Brother Friend Coffee & Men's Goods",
-      "category": "cafe",
-      "lat": 30.23078669,
-      "lng": -97.76648367,
-      "distance_km": 16.25,
       "food_group": "cafe"
     },
     {
@@ -5632,14 +4216,6 @@
       "lng": -97.77255629932024,
       "distance_km": 16.26,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Cafe Sharky",
-      "category": "restaurant",
-      "lat": 30.224873,
-      "lng": -97.772542,
-      "distance_km": 16.26,
-      "food_group": "restaurant"
     },
     {
       "name": "The Meteor",
@@ -5686,14 +4262,6 @@
       "category": "coffee_shop",
       "lat": 30.26162,
       "lng": -97.72273,
-      "distance_km": 16.33,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Hometown Coffee",
-      "category": "coffee_shop",
-      "lat": 30.273439,
-      "lng": -97.690109,
       "distance_km": 16.33,
       "food_group": "cafe"
     },
@@ -5746,14 +4314,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Sunrise Tacos & Subs",
-      "category": "restaurant",
-      "lat": 30.235441,
-      "lng": -97.763694,
-      "distance_km": 16.4,
-      "food_group": "restaurant"
-    },
-    {
       "name": "McDonald's",
       "category": "fast_food_restaurant",
       "lat": 30.27223918,
@@ -5786,28 +4346,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Carmen's Hideaway",
-      "category": "restaurant",
-      "lat": 30.261944,
-      "lng": -97.724149,
-      "distance_km": 16.43,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Tx French Bread",
       "category": "restaurant",
       "lat": 30.246181,
       "lng": -97.7511,
       "distance_km": 16.45,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Falcon Coffees",
-      "category": "coffee_shop",
-      "lat": 30.26239,
-      "lng": -97.72364,
-      "distance_km": 16.45,
-      "food_group": "cafe"
     },
     {
       "name": "Mexico Tipico",
@@ -5888,14 +4432,6 @@
       "lng": -97.741966,
       "distance_km": 16.48,
       "food_group": "restaurant"
-    },
-    {
-      "name": "High Brew Coffee",
-      "category": "coffee_shop",
-      "lat": 30.236967,
-      "lng": -97.763245,
-      "distance_km": 16.49,
-      "food_group": "cafe"
     },
     {
       "name": "Caf\u00e9 No S\u00e9",
@@ -5994,26 +4530,10 @@
       "food_group": "bar"
     },
     {
-      "name": "White Kitchen",
-      "category": "fast_food_restaurant",
-      "lat": 30.26183602,
-      "lng": -97.72695656,
-      "distance_km": 16.55,
-      "food_group": "fast_food"
-    },
-    {
       "name": "Green Muse Cafe",
       "category": "restaurant",
       "lat": 30.241415,
       "lng": -97.758928,
-      "distance_km": 16.56,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Barstool Bites",
-      "category": "restaurant",
-      "lat": 30.2418613,
-      "lng": -97.7584324,
       "distance_km": 16.56,
       "food_group": "restaurant"
     },
@@ -6130,30 +4650,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Breck's Brewery",
-      "category": "bar",
-      "lat": 30.25602,
-      "lng": -97.73962,
-      "distance_km": 16.65,
-      "food_group": "bar"
-    },
-    {
-      "name": "Cuvee Coffee & Bar",
-      "category": "coffee_shop",
-      "lat": 30.25645897,
-      "lng": -97.73883744,
-      "distance_km": 16.65,
-      "food_group": "cafe"
-    },
-    {
-      "name": "The Eastern",
-      "category": "bar",
-      "lat": 30.262876,
-      "lng": -97.726825,
-      "distance_km": 16.65,
-      "food_group": "bar"
-    },
-    {
       "name": "TOMS Austin",
       "category": "coffee_shop",
       "lat": 30.24978183283354,
@@ -6175,14 +4671,6 @@
       "lat": 30.262072,
       "lng": -97.728678,
       "distance_km": 16.66,
-      "food_group": "cafe"
-    },
-    {
-      "name": "La La Land",
-      "category": "coffee_shop",
-      "lat": 30.2496,
-      "lng": -97.749831,
-      "distance_km": 16.67,
       "food_group": "cafe"
     },
     {
@@ -6216,14 +4704,6 @@
       "lng": -97.749153,
       "distance_km": 16.69,
       "food_group": "restaurant"
-    },
-    {
-      "name": "East Village Cafe Llc",
-      "category": "coffee_shop",
-      "lat": 30.2664855,
-      "lng": -97.7201334,
-      "distance_km": 16.69,
-      "food_group": "cafe"
     },
     {
       "name": "Mars Restaurant & Bar",
@@ -6262,14 +4742,6 @@
       "category": "restaurant",
       "lat": 30.2503995,
       "lng": -97.7493639,
-      "distance_km": 16.71,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Bobs burgers",
-      "category": "restaurant",
-      "lat": 30.26325322,
-      "lng": -97.72746235,
       "distance_km": 16.71,
       "food_group": "restaurant"
     },
@@ -6330,14 +4802,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Black Cat Coffee",
-      "category": "coffee_shop",
-      "lat": 30.244493443033,
-      "lng": -97.758035838669,
-      "distance_km": 16.75,
-      "food_group": "cafe"
-    },
-    {
       "name": "South First",
       "category": "fast_food_restaurant",
       "lat": 30.243995,
@@ -6378,22 +4842,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Patika Coffee",
-      "category": "coffee_shop",
-      "lat": 30.25025,
-      "lng": -97.75066,
-      "distance_km": 16.78,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Cenote",
-      "category": "cafe",
-      "lat": 30.2606032,
-      "lng": -97.7339362,
-      "distance_km": 16.78,
-      "food_group": "cafe"
-    },
-    {
       "name": "Sightseer Coffee Bar",
       "category": "coffee_shop",
       "lat": 30.246134129575374,
@@ -6415,22 +4863,6 @@
       "lat": 30.2514323,
       "lng": -97.7492307,
       "distance_km": 16.79,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Takoba",
-      "category": "bar",
-      "lat": 30.264139,
-      "lng": -97.72737,
-      "distance_km": 16.79,
-      "food_group": "bar"
-    },
-    {
-      "name": "Big Mama\u2019s kitchen",
-      "category": "restaurant",
-      "lat": 30.278624,
-      "lng": -97.686952,
-      "distance_km": 16.8,
       "food_group": "restaurant"
     },
     {
@@ -6456,14 +4888,6 @@
       "lng": -97.7562281,
       "distance_km": 16.82,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Boni's Bar Next Door",
-      "category": "bar",
-      "lat": 30.24697125,
-      "lng": -97.75583235,
-      "distance_km": 16.82,
-      "food_group": "bar"
     },
     {
       "name": "Doc's Bar & Grill",
@@ -6504,14 +4928,6 @@
       "lng": -97.72772703,
       "distance_km": 16.82,
       "food_group": "cafe"
-    },
-    {
-      "name": "Coquito Austin ",
-      "category": "bar",
-      "lat": 30.26423,
-      "lng": -97.72764,
-      "distance_km": 16.82,
-      "food_group": "bar"
     },
     {
       "name": "Rocky's Bar",
@@ -6562,14 +4978,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Sauce Odyssey",
-      "category": "restaurant",
-      "lat": 30.2643475,
-      "lng": -97.7279408,
-      "distance_km": 16.84,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Rio Rita",
       "category": "bar",
       "lat": 30.264013533945214,
@@ -6584,14 +4992,6 @@
       "lng": -97.4840551569349,
       "distance_km": 16.85,
       "food_group": "bar"
-    },
-    {
-      "name": "Swedish Hill South First",
-      "category": "cafe",
-      "lat": 30.2471403,
-      "lng": -97.7561354,
-      "distance_km": 16.85,
-      "food_group": "cafe"
     },
     {
       "name": "Half Step",
@@ -6646,14 +5046,6 @@
       "category": "bar",
       "lat": 30.259395,
       "lng": -97.738231,
-      "distance_km": 16.89,
-      "food_group": "bar"
-    },
-    {
-      "name": "Bungalow",
-      "category": "bar",
-      "lat": 30.259377650373413,
-      "lng": -97.7383178472519,
       "distance_km": 16.89,
       "food_group": "bar"
     },
@@ -6744,14 +5136,6 @@
       "lng": -97.81688079999999,
       "distance_km": 16.94,
       "food_group": "fast_food"
-    },
-    {
-      "name": "The Blackheart",
-      "category": "bar",
-      "lat": 30.259664,
-      "lng": -97.7386419,
-      "distance_km": 16.94,
-      "food_group": "bar"
     },
     {
       "name": "The Silo On 7th",
@@ -6850,14 +5234,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Elizabeth St. Caf\u00ed\u00a9",
-      "category": "restaurant",
-      "lat": 30.24985991,
-      "lng": -97.7547437,
-      "distance_km": 16.99,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Elizabeth Street Cafe",
       "category": "cafe",
       "lat": 30.24979537,
@@ -6882,14 +5258,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Tenderfix By Noah Schnapp",
-      "category": "fast_food_restaurant",
-      "lat": 30.2609572,
-      "lng": -97.7373672,
-      "distance_km": 16.99,
-      "food_group": "fast_food"
-    },
-    {
       "name": "Sway Thai",
       "category": "restaurant",
       "lat": 30.250111,
@@ -6904,14 +5272,6 @@
       "lng": -97.74746185359353,
       "distance_km": 17.0,
       "food_group": "cafe"
-    },
-    {
-      "name": "Don Milagro ATX",
-      "category": "restaurant",
-      "lat": 30.26072,
-      "lng": -97.737886,
-      "distance_km": 17.0,
-      "food_group": "restaurant"
     },
     {
       "name": "Lustre Pearl Rainey",
@@ -6954,14 +5314,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Eastside Chix",
-      "category": "fast_food_restaurant",
-      "lat": 30.264821,
-      "lng": -97.730598,
-      "distance_km": 17.01,
-      "food_group": "fast_food"
-    },
-    {
       "name": "Bars",
       "category": "pub",
       "lat": 30.260826205648,
@@ -6990,14 +5342,6 @@
       "category": "sports_bar",
       "lat": 30.260862606800465,
       "lng": -97.73826734563846,
-      "distance_km": 17.03,
-      "food_group": "bar"
-    },
-    {
-      "name": "Placeholder Tiki Bar",
-      "category": "bar",
-      "lat": 30.260847,
-      "lng": -97.738251,
       "distance_km": 17.03,
       "food_group": "bar"
     },
@@ -7098,22 +5442,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "OMG Oh My Goatness",
-      "category": "restaurant",
-      "lat": 30.250902356524,
-      "lng": -97.754628296518,
-      "distance_km": 17.07,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Food Trucks",
-      "category": "restaurant",
-      "lat": 30.250967,
-      "lng": -97.75469841,
-      "distance_km": 17.08,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Costa Coffee BaristaBot",
       "category": "coffee_shop",
       "lat": 30.26396,
@@ -7136,22 +5464,6 @@
       "lng": -97.7315493,
       "distance_km": 17.08,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Shokunin",
-      "category": "restaurant",
-      "lat": 30.2647,
-      "lng": -97.73213,
-      "distance_km": 17.08,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Ruta Maya",
-      "category": "coffee_shop",
-      "lat": 30.2516097,
-      "lng": -97.7539557,
-      "distance_km": 17.09,
-      "food_group": "cafe"
     },
     {
       "name": "Bubble Me Bubble Tea",
@@ -7218,14 +5530,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Comunidad Specialty Coffee & Cold Press Juice",
-      "category": "coffee_shop",
-      "lat": 30.26503623,
-      "lng": -97.73187551,
-      "distance_km": 17.1,
-      "food_group": "cafe"
-    },
-    {
       "name": "Al Campo Marfa \u2022 Rustic South American Food",
       "category": "restaurant",
       "lat": 30.27564,
@@ -7264,14 +5568,6 @@
       "lng": -97.72464393845037,
       "distance_km": 17.14,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Fry Baby",
-      "category": "fast_food_restaurant",
-      "lat": 30.257262243556227,
-      "lng": -97.74657059836471,
-      "distance_km": 17.15,
-      "food_group": "fast_food"
     },
     {
       "name": "Room 725",
@@ -7370,14 +5666,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Mark's Cafe",
-      "category": "coffee_shop",
-      "lat": 30.253044,
-      "lng": -97.753641,
-      "distance_km": 17.2,
-      "food_group": "cafe"
-    },
-    {
       "name": "Daphne Lynn Pattison Dba Pattison Law Firm Pc",
       "category": "restaurant",
       "lat": 30.2648998,
@@ -7386,36 +5674,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Tacos and Deli",
-      "category": "fast_food_restaurant",
-      "lat": 30.26514,
-      "lng": -97.73416,
-      "distance_km": 17.22,
-      "food_group": "fast_food"
-    },
-    {
       "name": "Rick Ford\u2019s",
       "category": "restaurant",
       "lat": 30.265626,
       "lng": -97.733291,
       "distance_km": 17.22,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Atrium Cafe",
-      "category": "cafe",
-      "lat": 30.2623475,
-      "lng": -97.7396881,
-      "distance_km": 17.24,
-      "food_group": "cafe"
-    },
-    {
-      "name": "The Organic Dive Bar",
-      "category": "bar",
-      "lat": 30.265377,
-      "lng": -97.734031,
-      "distance_km": 17.24,
-      "food_group": "bar"
     },
     {
       "name": "Moe\u2019s Tavern",
@@ -7446,22 +5710,6 @@
       "category": "cafe",
       "lat": 30.261532,
       "lng": -97.741668,
-      "distance_km": 17.27,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Halal Austin Shawarma (downtown )",
-      "category": "restaurant",
-      "lat": 30.265778,
-      "lng": -97.73403,
-      "distance_km": 17.27,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Cultivo",
-      "category": "cafe",
-      "lat": 30.27502090343907,
-      "lng": -97.71327316656522,
       "distance_km": 17.27,
       "food_group": "cafe"
     },
@@ -7506,28 +5754,12 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Dandelion Cafe, Llc",
-      "category": "restaurant",
-      "lat": 30.2687491,
-      "lng": -97.7287441,
-      "distance_km": 17.3,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Try Hard Coffee Roasters",
       "category": "coffee_shop",
       "lat": 30.2687491,
       "lng": -97.7287441,
       "distance_km": 17.3,
       "food_group": "cafe"
-    },
-    {
-      "name": "BarBelle Austin",
-      "category": "bar",
-      "lat": 30.27158,
-      "lng": -97.72279,
-      "distance_km": 17.31,
-      "food_group": "bar"
     },
     {
       "name": "Radio Rosewood",
@@ -7618,14 +5850,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Empanada Parlour",
-      "category": "restaurant",
-      "lat": 30.2661881,
-      "lng": -97.7356718,
-      "distance_km": 17.4,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Zax Restaurant & Bar",
       "category": "restaurant",
       "lat": 30.258949,
@@ -7682,26 +5906,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "Midnight Cowboy Modeling",
-      "category": "pub",
-      "lat": 30.24821,
-      "lng": -97.76373,
-      "distance_km": 17.42,
-      "food_group": "bar"
-    },
-    {
       "name": "Waller Creek Pub House",
       "category": "pub",
       "lat": 30.266446,
       "lng": -97.735764,
-      "distance_km": 17.42,
-      "food_group": "bar"
-    },
-    {
-      "name": "Legendary White Swan",
-      "category": "bar",
-      "lat": 30.27397647,
-      "lng": -97.71958691,
       "distance_km": 17.42,
       "food_group": "bar"
     },
@@ -7760,22 +5968,6 @@
       "lng": -97.7843305872557,
       "distance_km": 17.44,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Reina Rooftop",
-      "category": "bar",
-      "lat": 30.26395232,
-      "lng": -97.74067668,
-      "distance_km": 17.44,
-      "food_group": "bar"
-    },
-    {
-      "name": "Bacchus And Brown",
-      "category": "restaurant",
-      "lat": 30.273863,
-      "lng": -97.72037,
-      "distance_km": 17.44,
-      "food_group": "restaurant"
     },
     {
       "name": "Krispy Krunchy Chicken",
@@ -7840,14 +6032,6 @@
       "lng": -97.741852,
       "distance_km": 17.47,
       "food_group": "bar"
-    },
-    {
-      "name": "Shopper\u2019s Food Mart Eatery",
-      "category": "restaurant",
-      "lat": 30.277001976796544,
-      "lng": -97.71330993039544,
-      "distance_km": 17.47,
-      "food_group": "restaurant"
     },
     {
       "name": "Marker 10 Spirits & Cuisine",
@@ -7930,44 +6114,12 @@
       "food_group": "bar"
     },
     {
-      "name": "Holy Mountain",
-      "category": "bar",
-      "lat": 30.266959,
-      "lng": -97.736125,
-      "distance_km": 17.49,
-      "food_group": "bar"
-    },
-    {
-      "name": "The Swing in",
-      "category": "restaurant",
-      "lat": 30.266900472109413,
-      "lng": -97.73612139375284,
-      "distance_km": 17.49,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "El Tigre Coffee Roasters",
-      "category": "coffee_shop",
-      "lat": 30.273622,
-      "lng": -97.722199,
-      "distance_km": 17.49,
-      "food_group": "cafe"
-    },
-    {
       "name": "Arlo Grey by Kristen Kish",
       "category": "restaurant",
       "lat": 30.262625702860728,
       "lng": -97.74404166314567,
       "distance_km": 17.5,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Sake Mama",
-      "category": "bar",
-      "lat": 30.266352,
-      "lng": -97.737635,
-      "distance_km": 17.51,
-      "food_group": "bar"
     },
     {
       "name": "Revolucion Coffee + Juice",
@@ -7984,14 +6136,6 @@
       "lng": -97.76884188917384,
       "distance_km": 17.52,
       "food_group": "cafe"
-    },
-    {
-      "name": "Michael Wranischar",
-      "category": "restaurant",
-      "lat": 30.19005,
-      "lng": -97.81087,
-      "distance_km": 17.52,
-      "food_group": "restaurant"
     },
     {
       "name": "Sandy's Hamburgers",
@@ -8066,14 +6210,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Chavez",
-      "category": "restaurant",
-      "lat": 30.263059353497873,
-      "lng": -97.74410783283602,
-      "distance_km": 17.54,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Dirty Dog Bar",
       "category": "bar",
       "lat": 30.266459,
@@ -8088,14 +6224,6 @@
       "lng": -97.738107,
       "distance_km": 17.55,
       "food_group": "bar"
-    },
-    {
-      "name": "Rio Grande Mexican Restaurant",
-      "category": "restaurant",
-      "lat": 30.26485,
-      "lng": -97.741157,
-      "distance_km": 17.55,
-      "food_group": "restaurant"
     },
     {
       "name": "Legend Coffee Company",
@@ -8138,27 +6266,11 @@
       "food_group": "bar"
     },
     {
-      "name": "Drink",
-      "category": "bar",
-      "lat": 30.263519,
-      "lng": -97.743608,
-      "distance_km": 17.56,
-      "food_group": "bar"
-    },
-    {
       "name": "Plush",
       "category": "bar",
       "lat": 30.267325604488764,
       "lng": -97.73675443676372,
       "distance_km": 17.56,
-      "food_group": "bar"
-    },
-    {
-      "name": "Soho Lounge",
-      "category": "bar",
-      "lat": 30.266464,
-      "lng": -97.73853,
-      "distance_km": 17.57,
       "food_group": "bar"
     },
     {
@@ -8176,14 +6288,6 @@
       "lng": -97.7401793,
       "distance_km": 17.57,
       "food_group": "cafe"
-    },
-    {
-      "name": "Qdoba Mexican Eats",
-      "category": "fast_food_restaurant",
-      "lat": 30.281503,
-      "lng": -97.702805,
-      "distance_km": 17.57,
-      "food_group": "fast_food"
     },
     {
       "name": "Sawadee Thailand",
@@ -8226,14 +6330,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Sip Haus - Austin",
-      "category": "cafe",
-      "lat": 30.26790782,
-      "lng": -97.73638372,
-      "distance_km": 17.59,
-      "food_group": "cafe"
-    },
-    {
       "name": "Smitty Management Llc",
       "category": "restaurant",
       "lat": 30.201789,
@@ -8266,14 +6362,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Big Bang Bar",
-      "category": "bar",
-      "lat": 30.266681,
-      "lng": -97.738805,
-      "distance_km": 17.6,
-      "food_group": "bar"
-    },
-    {
       "name": "Sonic Drive-in, Austin, Airport Blvd, Lp",
       "category": "restaurant",
       "lat": 30.281811,
@@ -8291,14 +6379,6 @@
     },
     {
       "name": "Buckshot",
-      "category": "bar",
-      "lat": 30.26715,
-      "lng": -97.738335,
-      "distance_km": 17.62,
-      "food_group": "bar"
-    },
-    {
-      "name": "Rowdy",
       "category": "bar",
       "lat": 30.26715,
       "lng": -97.738335,
@@ -8362,36 +6442,12 @@
       "food_group": "bar"
     },
     {
-      "name": "RoofTop Bar",
-      "category": "bar",
-      "lat": 30.26681448321038,
-      "lng": -97.73919829865422,
-      "distance_km": 17.63,
-      "food_group": "bar"
-    },
-    {
-      "name": "Salsaritas",
-      "category": "restaurant",
-      "lat": 30.266457,
-      "lng": -97.739869,
-      "distance_km": 17.63,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Valhalla",
       "category": "bar",
       "lat": 30.26802807430922,
       "lng": -97.73677827744241,
       "distance_km": 17.63,
       "food_group": "bar"
-    },
-    {
-      "name": "Tiny House Coffee",
-      "category": "cafe",
-      "lat": 30.258905,
-      "lng": -97.75253,
-      "distance_km": 17.64,
-      "food_group": "cafe"
     },
     {
       "name": "6th Street Austin, Texas",
@@ -8450,14 +6506,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Mozart's Coffee Roesters",
-      "category": "coffee_shop",
-      "lat": 30.261989,
-      "lng": -97.747815,
-      "distance_km": 17.65,
-      "food_group": "cafe"
-    },
-    {
       "name": "Pour Choices",
       "category": "bar",
       "lat": 30.26698002,
@@ -8474,35 +6522,11 @@
       "food_group": "bar"
     },
     {
-      "name": "Malone Specialty Coffee",
-      "category": "coffee_shop",
-      "lat": 30.266593311257807,
-      "lng": -97.73984759399558,
-      "distance_km": 17.65,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Southern Unique Creations",
-      "category": "restaurant",
-      "lat": 30.266587,
-      "lng": -97.740025,
-      "distance_km": 17.65,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Metal And Lace: Steampunk Lounge",
       "category": "restaurant",
       "lat": 30.268295,
       "lng": -97.736758,
       "distance_km": 17.65,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Bakehouse Restaurant and Bar",
-      "category": "restaurant",
-      "lat": 30.217574018657682,
-      "lng": -97.79648162762967,
-      "distance_km": 17.66,
       "food_group": "restaurant"
     },
     {
@@ -8546,14 +6570,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Strange Brew Austin Coffee",
-      "category": "coffee_shop",
-      "lat": 30.217925511806545,
-      "lng": -97.79633828838053,
-      "distance_km": 17.67,
-      "food_group": "cafe"
-    },
-    {
       "name": "White Shoes Marketing, Llc",
       "category": "restaurant",
       "lat": 30.258944,
@@ -8594,14 +6610,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Full English Cafe",
-      "category": "cafe",
-      "lat": 30.218850597823593,
-      "lng": -97.79581223294349,
-      "distance_km": 17.68,
-      "food_group": "cafe"
-    },
-    {
       "name": "Lazydaze",
       "category": "coffee_shop",
       "lat": 30.21780836,
@@ -8618,14 +6626,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Coreanos",
-      "category": "restaurant",
-      "lat": 30.267918,
-      "lng": -97.738054,
-      "distance_km": 17.68,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Papi's Deli",
       "category": "fast_food_restaurant",
       "lat": 30.272689,
@@ -8640,14 +6640,6 @@
       "lng": -97.681089,
       "distance_km": 17.68,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Praxis Coffee Cart",
-      "category": "coffee_shop",
-      "lat": 30.199853,
-      "lng": -97.807991,
-      "distance_km": 17.69,
-      "food_group": "cafe"
     },
     {
       "name": "Blind Pig Pub",
@@ -8754,14 +6746,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Sandbox Cafe",
-      "category": "cafe",
-      "lat": 30.26392,
-      "lng": -97.74594,
-      "distance_km": 17.72,
-      "food_group": "cafe"
-    },
-    {
       "name": "The Trophy Club",
       "category": "bar",
       "lat": 30.26736053522648,
@@ -8818,35 +6802,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Rogue Radish",
-      "category": "restaurant",
-      "lat": 30.265581754252164,
-      "lng": -97.74321019801742,
-      "distance_km": 17.73,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Frost Tower",
       "category": "fast_food_restaurant",
       "lat": 30.266022,
       "lng": -97.742381,
       "distance_km": 17.73,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Flattrack Coffee",
-      "category": "coffee_shop",
-      "lat": 30.2743,
-      "lng": -97.72623,
-      "distance_km": 17.73,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Long John Silver's",
-      "category": "fast_food_restaurant",
-      "lat": 30.2303508,
-      "lng": -97.7871541,
-      "distance_km": 17.74,
       "food_group": "fast_food"
     },
     {
@@ -8856,22 +6816,6 @@
       "lng": -97.78715197668647,
       "distance_km": 17.74,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Solstice Coffee Cart",
-      "category": "coffee_shop",
-      "lat": 30.25156,
-      "lng": -97.76439,
-      "distance_km": 17.74,
-      "food_group": "cafe"
-    },
-    {
-      "name": "E. 6th Street Pub Crawl Austin Texas",
-      "category": "pub",
-      "lat": 30.26740953663824,
-      "lng": -97.74027121592648,
-      "distance_km": 17.74,
-      "food_group": "bar"
     },
     {
       "name": "Moontower Cider Company",
@@ -8904,30 +6848,6 @@
       "lng": -97.76363738,
       "distance_km": 17.75,
       "food_group": "cafe"
-    },
-    {
-      "name": "The Dirty 6",
-      "category": "pub",
-      "lat": 30.267219,
-      "lng": -97.740648,
-      "distance_km": 17.75,
-      "food_group": "bar"
-    },
-    {
-      "name": "Latitude 30",
-      "category": "bar",
-      "lat": 30.267219,
-      "lng": -97.740648,
-      "distance_km": 17.75,
-      "food_group": "bar"
-    },
-    {
-      "name": "Gloria's Latin Cuisine",
-      "category": "restaurant",
-      "lat": 30.26758,
-      "lng": -97.74015,
-      "distance_km": 17.75,
-      "food_group": "restaurant"
     },
     {
       "name": "Rojo Red",
@@ -8994,28 +6914,12 @@
       "food_group": "bar"
     },
     {
-      "name": "HeyWire",
-      "category": "bar",
-      "lat": 30.2829,
-      "lng": -97.57793,
-      "distance_km": 17.76,
-      "food_group": "bar"
-    },
-    {
       "name": "DQ Grill & Chill",
       "category": "fast_food_restaurant",
       "lat": 30.216445,
       "lng": -97.798671,
       "distance_km": 17.77,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Happy Lobster",
-      "category": "restaurant",
-      "lat": 30.26546326,
-      "lng": -97.74416962,
-      "distance_km": 17.77,
-      "food_group": "restaurant"
     },
     {
       "name": "Houndstooth Coffee",
@@ -9058,14 +6962,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Desnudo Coffee: South Lamar",
-      "category": "coffee_shop",
-      "lat": 30.24969694,
-      "lng": -97.76730438,
-      "distance_km": 17.78,
-      "food_group": "cafe"
-    },
-    {
       "name": "Out Of Nowhere Atx",
       "category": "restaurant",
       "lat": 30.265693,
@@ -9098,14 +6994,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Quesoff III",
-      "category": "bar",
-      "lat": 30.270014,
-      "lng": -97.736072,
-      "distance_km": 17.78,
-      "food_group": "bar"
-    },
-    {
       "name": "Meditindia",
       "category": "restaurant",
       "lat": 30.231121,
@@ -9130,22 +7018,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Austin - Chicago Bears Watch Party",
-      "category": "bar",
-      "lat": 30.267611579156657,
-      "lng": -97.7408671369947,
-      "distance_km": 17.79,
-      "food_group": "bar"
-    },
-    {
-      "name": "Bourbon Girl",
-      "category": "bar",
-      "lat": 30.26762860836767,
-      "lng": -97.74082415692138,
-      "distance_km": 17.79,
-      "food_group": "bar"
-    },
-    {
       "name": "Bikinis Sports Bar & Grill",
       "category": "sports_bar",
       "lat": 30.267765,
@@ -9162,14 +7034,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Jo\u2019s Coffee",
-      "category": "coffee_shop",
-      "lat": 30.270938,
-      "lng": -97.734458,
-      "distance_km": 17.79,
-      "food_group": "cafe"
-    },
-    {
       "name": "Houndstooth Coffee",
       "category": "coffee_shop",
       "lat": 30.28147267,
@@ -9184,14 +7048,6 @@
       "lng": -97.80610188,
       "distance_km": 17.8,
       "food_group": "cafe"
-    },
-    {
-      "name": "Las Fabulosas Quesadillas",
-      "category": "restaurant",
-      "lat": 30.25178,
-      "lng": -97.76501,
-      "distance_km": 17.8,
-      "food_group": "restaurant"
     },
     {
       "name": "Friends Bar",
@@ -9250,14 +7106,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Asleep At The Wheel",
-      "category": "cafe",
-      "lat": 30.232215,
-      "lng": -97.786459,
-      "distance_km": 17.82,
-      "food_group": "cafe"
-    },
-    {
       "name": "Barlata Tapas Bar",
       "category": "bar",
       "lat": 30.25247343,
@@ -9274,35 +7122,11 @@
       "food_group": "restaurant"
     },
     {
-      "name": "5th Street Giants",
-      "category": "bar",
-      "lat": 30.266849,
-      "lng": -97.742845,
-      "distance_km": 17.83,
-      "food_group": "bar"
-    },
-    {
       "name": "Jo's Coffee",
       "category": "coffee_shop",
       "lat": 30.26495421,
       "lng": -97.74612367,
       "distance_km": 17.83,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Hometown Bar",
-      "category": "bar",
-      "lat": 30.2678,
-      "lng": -97.7412,
-      "distance_km": 17.83,
-      "food_group": "bar"
-    },
-    {
-      "name": "Mour Caf\u00e9 + Bar",
-      "category": "cafe",
-      "lat": 30.265907269229753,
-      "lng": -97.74464808962503,
-      "distance_km": 17.84,
       "food_group": "cafe"
     },
     {
@@ -9386,14 +7210,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Color Cafe ",
-      "category": "cafe",
-      "lat": 30.28092,
-      "lng": -97.71308,
-      "distance_km": 17.86,
-      "food_group": "cafe"
-    },
-    {
       "name": "El Meson Inc",
       "category": "restaurant",
       "lat": 30.249254,
@@ -9426,14 +7242,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Thundercloud Subs",
-      "category": "restaurant",
-      "lat": 30.26721,
-      "lng": -97.74297,
-      "distance_km": 17.87,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Haraz Coffee House",
       "category": "coffee_shop",
       "lat": 30.267153,
@@ -9442,34 +7250,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "Perla's Seafood",
-      "category": "restaurant",
-      "lat": 30.26715427,
-      "lng": -97.74306102,
-      "distance_km": 17.87,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Merit Coffee",
       "category": "coffee_shop",
       "lat": 30.25526303694794,
       "lng": -97.76171738730093,
-      "distance_km": 17.88,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Burnpile LLC",
-      "category": "bar",
-      "lat": 30.26703,
-      "lng": -97.74353,
-      "distance_km": 17.88,
-      "food_group": "bar"
-    },
-    {
-      "name": "Lucky Lab Coffee Co.",
-      "category": "coffee_shop",
-      "lat": 30.267696827916406,
-      "lng": -97.74243721953445,
       "distance_km": 17.88,
       "food_group": "cafe"
     },
@@ -9490,22 +7274,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "ChineseYumies",
-      "category": "restaurant",
-      "lat": 30.24775,
-      "lng": -97.77127,
-      "distance_km": 17.89,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Funky Sol",
-      "category": "coffee_shop",
-      "lat": 30.250824,
-      "lng": -97.767563,
-      "distance_km": 17.89,
-      "food_group": "cafe"
-    },
-    {
       "name": "Stonehouse Coffee Bar",
       "category": "coffee_shop",
       "lat": 30.255258488146403,
@@ -9522,14 +7290,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Austin Java - City Hall",
-      "category": "coffee_shop",
-      "lat": 30.2650449,
-      "lng": -97.7471051,
-      "distance_km": 17.89,
-      "food_group": "cafe"
-    },
-    {
       "name": "1886 Cafe and Bakery",
       "category": "cafe",
       "lat": 30.26798357,
@@ -9542,14 +7302,6 @@
       "category": "restaurant",
       "lat": 30.26889251654322,
       "lng": -97.74045665241003,
-      "distance_km": 17.89,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Sba",
-      "category": "restaurant",
-      "lat": 30.2693657,
-      "lng": -97.7394738,
       "distance_km": 17.89,
       "food_group": "restaurant"
     },
@@ -9584,14 +7336,6 @@
       "lng": -97.7437573624173,
       "distance_km": 17.9,
       "food_group": "bar"
-    },
-    {
-      "name": "Progress Coffee",
-      "category": "coffee_shop",
-      "lat": 30.2676862,
-      "lng": -97.7426779,
-      "distance_km": 17.9,
-      "food_group": "cafe"
     },
     {
       "name": "Extreme Pita",
@@ -9674,22 +7418,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Ash And Order",
-      "category": "coffee_shop",
-      "lat": 30.267653738872745,
-      "lng": -97.74315827697414,
-      "distance_km": 17.92,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Fat Rabbit Social House",
-      "category": "restaurant",
-      "lat": 30.267653738872745,
-      "lng": -97.74315827697414,
-      "distance_km": 17.92,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Slake Cafe & Bar",
       "category": "cafe",
       "lat": 30.2687463124899,
@@ -9738,14 +7466,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Texas Tavern",
-      "category": "pub",
-      "lat": 30.26688,
-      "lng": -97.745187,
-      "distance_km": 17.95,
-      "food_group": "bar"
-    },
-    {
       "name": "Fourth & Co",
       "category": "bar",
       "lat": 30.26687969916067,
@@ -9754,28 +7474,12 @@
       "food_group": "bar"
     },
     {
-      "name": "Arj Entertainment",
-      "category": "restaurant",
-      "lat": 30.266534,
-      "lng": -97.745654,
-      "distance_km": 17.95,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Lonesome Dove Western Bistro",
       "category": "restaurant",
       "lat": 30.267292336806594,
       "lng": -97.7443789994866,
       "distance_km": 17.95,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Be More Pacific",
-      "category": "fast_food_restaurant",
-      "lat": 30.267317,
-      "lng": -97.744291,
-      "distance_km": 17.95,
-      "food_group": "fast_food"
     },
     {
       "name": "LUNA Rooftop",
@@ -9800,22 +7504,6 @@
       "lng": -97.759149,
       "distance_km": 17.96,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Saba Blue Water Cafe",
-      "category": "restaurant",
-      "lat": 30.266986,
-      "lng": -97.745164,
-      "distance_km": 17.96,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Jessica's Original Cheesesteak",
-      "category": "fast_food_restaurant",
-      "lat": 30.2671,
-      "lng": -97.74483,
-      "distance_km": 17.96,
-      "food_group": "fast_food"
     },
     {
       "name": "This Too Shall Pass - TTSP",
@@ -9850,14 +7538,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "The Dallas Cafe",
-      "category": "cafe",
-      "lat": 30.26924,
-      "lng": -97.74116,
-      "distance_km": 17.96,
-      "food_group": "cafe"
-    },
-    {
       "name": "Caffe Medici",
       "category": "coffee_shop",
       "lat": 30.255955,
@@ -9870,14 +7550,6 @@
       "category": "restaurant",
       "lat": 30.258271,
       "lng": -97.758887,
-      "distance_km": 17.97,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Alonti Catering",
-      "category": "restaurant",
-      "lat": 30.258287,
-      "lng": -97.758947,
       "distance_km": 17.97,
       "food_group": "restaurant"
     },
@@ -9954,14 +7626,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Icon Group Sjt Of Austin Llc",
-      "category": "restaurant",
-      "lat": 30.265802,
-      "lng": -97.747661,
-      "distance_km": 17.99,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Cafe Ruckus",
       "category": "cafe",
       "lat": 30.265491245605432,
@@ -9976,14 +7640,6 @@
       "lng": -97.7441783,
       "distance_km": 17.99,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Whole Pets Austin",
-      "category": "coffee_shop",
-      "lat": 30.268003,
-      "lng": -97.743977,
-      "distance_km": 17.99,
-      "food_group": "cafe"
     },
     {
       "name": "James Coney Island",
@@ -10010,14 +7666,6 @@
       "food_group": "bar"
     },
     {
-      "name": "White Dove Logistics",
-      "category": "restaurant",
-      "lat": 30.26740114,
-      "lng": -97.74514508,
-      "distance_km": 18.0,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Buffalo Wings and Rings",
       "category": "restaurant",
       "lat": 30.282889,
@@ -10040,14 +7688,6 @@
       "lng": -97.822176,
       "distance_km": 18.01,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Gourdough's Public House",
-      "category": "bar",
-      "lat": 30.26746324068794,
-      "lng": -97.74527026264877,
-      "distance_km": 18.01,
-      "food_group": "bar"
     },
     {
       "name": "Chick-fil-A",
@@ -10090,14 +7730,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Crazy Wing's Tx.",
-      "category": "restaurant",
-      "lat": 30.04511,
-      "lng": -97.79876,
-      "distance_km": 18.03,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Carol's Cafe",
       "category": "restaurant",
       "lat": 30.26663532431611,
@@ -10120,14 +7752,6 @@
       "lng": -97.82196,
       "distance_km": 18.04,
       "food_group": "cafe"
-    },
-    {
-      "name": "Bun on the run burgers",
-      "category": "fast_food_restaurant",
-      "lat": 30.266223,
-      "lng": -97.747843,
-      "distance_km": 18.04,
-      "food_group": "fast_food"
     },
     {
       "name": "Dutch Bros. Coffee",
@@ -10162,28 +7786,12 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Johnson Llc",
-      "category": "restaurant",
-      "lat": 30.265882,
-      "lng": -97.748924,
-      "distance_km": 18.07,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Subway",
       "category": "fast_food_restaurant",
       "lat": 30.08699721,
       "lng": -97.82146206,
       "distance_km": 18.08,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Swan",
-      "category": "coffee_shop",
-      "lat": 30.268013,
-      "lng": -97.745632,
-      "distance_km": 18.08,
-      "food_group": "cafe"
     },
     {
       "name": "Thistle Cafe",
@@ -10222,22 +7830,6 @@
       "category": "restaurant",
       "lat": 30.265651,
       "lng": -97.7497464,
-      "distance_km": 18.09,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Shipwreck'd Pirate Bar at The Eleanor",
-      "category": "bar",
-      "lat": 30.26765886,
-      "lng": -97.74629502,
-      "distance_km": 18.09,
-      "food_group": "bar"
-    },
-    {
-      "name": "Caprice",
-      "category": "restaurant",
-      "lat": 30.269830345816256,
-      "lng": -97.74250209011804,
       "distance_km": 18.09,
       "food_group": "restaurant"
     },
@@ -10322,14 +7914,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Jean-Lucs Bistro",
-      "category": "restaurant",
-      "lat": 30.269385,
-      "lng": -97.743759,
-      "distance_km": 18.11,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Et Bakery, Llc",
       "category": "restaurant",
       "lat": 30.270155,
@@ -10346,36 +7930,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Roselle Pizzeria",
-      "category": "restaurant",
-      "lat": 30.247511,
-      "lng": -97.775028,
-      "distance_km": 18.12,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "GM Culinary",
-      "category": "restaurant",
-      "lat": 30.266156,
-      "lng": -97.749537,
-      "distance_km": 18.12,
-      "food_group": "restaurant"
-    },
-    {
       "name": "The Iron Bear",
       "category": "bar",
       "lat": 30.268541,
       "lng": -97.745497,
       "distance_km": 18.12,
       "food_group": "bar"
-    },
-    {
-      "name": "The Hideout Coffee Bar",
-      "category": "coffee_shop",
-      "lat": 30.26829546262612,
-      "lng": -97.74593372761468,
-      "distance_km": 18.12,
-      "food_group": "cafe"
     },
     {
       "name": "Caff\u00e9 Medici",
@@ -10386,27 +7946,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Media Mode, Llc",
-      "category": "restaurant",
-      "lat": 30.2872521,
-      "lng": -97.7012187,
-      "distance_km": 18.12,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Sonic Drive In",
       "category": "fast_food_restaurant",
       "lat": 30.08574103,
       "lng": -97.82156697,
       "distance_km": 18.13,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Delicias Snacks",
-      "category": "fast_food_restaurant",
-      "lat": 30.08817441,
-      "lng": -97.82247541,
-      "distance_km": 18.14,
       "food_group": "fast_food"
     },
     {
@@ -10442,14 +7986,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Black Sheep Coffee Austin",
-      "category": "coffee_shop",
-      "lat": 30.2677,
-      "lng": -97.7475,
-      "distance_km": 18.15,
-      "food_group": "cafe"
-    },
-    {
       "name": "Maiko Sushi Lounge",
       "category": "restaurant",
       "lat": 30.268636,
@@ -10462,14 +7998,6 @@
       "category": "restaurant",
       "lat": 30.26945945,
       "lng": -97.74433078,
-      "distance_km": 18.15,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "ROTE SHAQ",
-      "category": "restaurant",
-      "lat": 30.270398007938,
-      "lng": -97.742790222168,
       "distance_km": 18.15,
       "food_group": "restaurant"
     },
@@ -10496,22 +8024,6 @@
       "lng": -97.749959,
       "distance_km": 18.16,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Cheers Cafe",
-      "category": "cafe",
-      "lat": 30.272119,
-      "lng": -97.739651,
-      "distance_km": 18.16,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Cuvee Coffee",
-      "category": "coffee_shop",
-      "lat": 30.24683,
-      "lng": -97.77653,
-      "distance_km": 18.17,
-      "food_group": "cafe"
     },
     {
       "name": "Sonic Drive In",
@@ -10658,14 +8170,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Bananarama",
-      "category": "fast_food_restaurant",
-      "lat": 30.2696742957,
-      "lng": -97.7451745687,
-      "distance_km": 18.21,
-      "food_group": "fast_food"
-    },
-    {
       "name": "Caffe Aragona",
       "category": "coffee_shop",
       "lat": 30.271477301276786,
@@ -10706,14 +8210,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "M-E-R",
-      "category": "restaurant",
-      "lat": 30.24514,
-      "lng": -97.77924,
-      "distance_km": 18.23,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Maria After Hours",
       "category": "restaurant",
       "lat": 30.245947636161006,
@@ -10735,14 +8231,6 @@
       "lat": 30.17205159,
       "lng": -97.82532114,
       "distance_km": 18.24,
-      "food_group": "bar"
-    },
-    {
-      "name": "BarCrwlr Austin",
-      "category": "bar",
-      "lat": 30.269687713275403,
-      "lng": -97.74595812568667,
-      "distance_km": 18.25,
       "food_group": "bar"
     },
     {
@@ -10778,58 +8266,10 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Native South Food Park",
-      "category": "restaurant",
-      "lat": 30.170331307908153,
-      "lng": -97.82612063775701,
-      "distance_km": 18.27,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Hummus Cuisine",
-      "category": "restaurant",
-      "lat": 30.17035646464441,
-      "lng": -97.82604775935302,
-      "distance_km": 18.27,
-      "food_group": "restaurant"
-    },
-    {
       "name": "The Coffee Bean & Tea Leaf",
       "category": "coffee_shop",
       "lat": 30.262713831324493,
       "lng": -97.75742907255844,
-      "distance_km": 18.27,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Capitol Vending and Coffee",
-      "category": "coffee_shop",
-      "lat": 30.26157,
-      "lng": -97.759128,
-      "distance_km": 18.27,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Mexican Restaurant Polvo\u2019s South",
-      "category": "restaurant",
-      "lat": 30.26728401437633,
-      "lng": -97.75039669786433,
-      "distance_km": 18.27,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Edwin's Sports Bar",
-      "category": "bar",
-      "lat": 30.27028,
-      "lng": -97.74522,
-      "distance_km": 18.27,
-      "food_group": "bar"
-    },
-    {
-      "name": "JavaChoice",
-      "category": "coffee_shop",
-      "lat": 30.27028,
-      "lng": -97.74522,
       "distance_km": 18.27,
       "food_group": "cafe"
     },
@@ -10858,14 +8298,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Moontower Pie Works",
-      "category": "restaurant",
-      "lat": 30.261666,
-      "lng": -97.759596,
-      "distance_km": 18.3,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Paggi House",
       "category": "restaurant",
       "lat": 30.2635306,
@@ -10880,14 +8312,6 @@
       "lng": -97.78320775,
       "distance_km": 18.31,
       "food_group": "bar"
-    },
-    {
-      "name": "Belvin Haus Llc",
-      "category": "restaurant",
-      "lat": 30.1753644,
-      "lng": -97.8250454,
-      "distance_km": 18.31,
-      "food_group": "restaurant"
     },
     {
       "name": "Pretty Thai For A White Guy",
@@ -10936,14 +8360,6 @@
       "lng": -97.749817,
       "distance_km": 18.32,
       "food_group": "bar"
-    },
-    {
-      "name": "Apollo Cafe",
-      "category": "coffee_shop",
-      "lat": 30.2720464,
-      "lng": -97.7429184,
-      "distance_km": 18.32,
-      "food_group": "cafe"
     },
     {
       "name": "Manchaca Sports Bar",
@@ -11018,14 +8434,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Cheesy Macs",
-      "category": "restaurant",
-      "lat": 30.173238,
-      "lng": -97.826201,
-      "distance_km": 18.36,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Albert Ice Dance Partners Llc",
       "category": "restaurant",
       "lat": 30.268674,
@@ -11042,28 +8450,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Loafy Loafs",
-      "category": "restaurant",
-      "lat": 30.2674,
-      "lng": -97.75201,
-      "distance_km": 18.37,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Little Woodrow's West 6th",
       "category": "sports_bar",
       "lat": 30.269672819624084,
       "lng": -97.74806499481203,
       "distance_km": 18.37,
       "food_group": "bar"
-    },
-    {
-      "name": "Civil Goat Coffee",
-      "category": "coffee_shop",
-      "lat": 30.285258,
-      "lng": -97.71463,
-      "distance_km": 18.37,
-      "food_group": "cafe"
     },
     {
       "name": "Blended Culture",
@@ -11080,14 +8472,6 @@
       "lng": -97.8249518,
       "distance_km": 18.38,
       "food_group": "bar"
-    },
-    {
-      "name": "Thai Tara",
-      "category": "restaurant",
-      "lat": 30.269465,
-      "lng": -97.748757,
-      "distance_km": 18.38,
-      "food_group": "restaurant"
     },
     {
       "name": "Zen Market",
@@ -11146,14 +8530,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Elaine's Pork & Pie",
-      "category": "cafe",
-      "lat": 30.284050076183668,
-      "lng": -97.71937545245162,
-      "distance_km": 18.42,
-      "food_group": "cafe"
-    },
-    {
       "name": "School House Pub",
       "category": "pub",
       "lat": 30.28426144,
@@ -11176,14 +8552,6 @@
       "lng": -97.7814509,
       "distance_km": 18.43,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Wendy's",
-      "category": "fast_food_restaurant",
-      "lat": 30.23866,
-      "lng": -97.788645,
-      "distance_km": 18.43,
-      "food_group": "fast_food"
     },
     {
       "name": "Nova Hospitality Group Llc",
@@ -11250,14 +8618,6 @@
       "food_group": "bar"
     },
     {
-      "name": "PolyphonicCoffee",
-      "category": "coffee_shop",
-      "lat": 30.164103,
-      "lng": -97.829617,
-      "distance_km": 18.46,
-      "food_group": "cafe"
-    },
-    {
       "name": "Flipnotics",
       "category": "coffee_shop",
       "lat": 30.2619606,
@@ -11296,14 +8656,6 @@
       "lng": -97.78880057,
       "distance_km": 18.48,
       "food_group": "cafe"
-    },
-    {
-      "name": "Barstool Bites",
-      "category": "restaurant",
-      "lat": 30.1633546,
-      "lng": -97.8300288,
-      "distance_km": 18.48,
-      "food_group": "restaurant"
     },
     {
       "name": "The Hive",
@@ -11410,14 +8762,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Carmack Concepts",
-      "category": "bar",
-      "lat": 30.2698761,
-      "lng": -97.7503451,
-      "distance_km": 18.51,
-      "food_group": "bar"
-    },
-    {
       "name": "Woody's Bar",
       "category": "sports_bar",
       "lat": 30.26989017,
@@ -11430,14 +8774,6 @@
       "category": "bar",
       "lat": 30.270270555263018,
       "lng": -97.74965286254884,
-      "distance_km": 18.51,
-      "food_group": "bar"
-    },
-    {
-      "name": "Clam's Farmers",
-      "category": "bar",
-      "lat": 30.28543,
-      "lng": -97.71801,
       "distance_km": 18.51,
       "food_group": "bar"
     },
@@ -11498,14 +8834,6 @@
       "food_group": "bar"
     },
     {
-      "name": "The Lobby Social Bar",
-      "category": "bar",
-      "lat": 30.27026,
-      "lng": -97.75005,
-      "distance_km": 18.53,
-      "food_group": "bar"
-    },
-    {
       "name": "The Ranch",
       "category": "bar",
       "lat": 30.27034924209482,
@@ -11546,28 +8874,12 @@
       "food_group": "bar"
     },
     {
-      "name": "Barstool Bites",
-      "category": "restaurant",
-      "lat": 30.270419,
-      "lng": -97.750009,
-      "distance_km": 18.54,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Marfa Lights Bar",
       "category": "bar",
       "lat": 30.270353854992557,
       "lng": -97.75019466539024,
       "distance_km": 18.54,
       "food_group": "bar"
-    },
-    {
-      "name": "El Super Pollo",
-      "category": "restaurant",
-      "lat": 30.29951,
-      "lng": -97.64551,
-      "distance_km": 18.54,
-      "food_group": "restaurant"
     },
     {
       "name": "The BackWood Bar",
@@ -11634,22 +8946,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Bars in Austin TX",
-      "category": "bar",
-      "lat": 30.274266,
-      "lng": -97.743543,
-      "distance_km": 18.56,
-      "food_group": "bar"
-    },
-    {
-      "name": "Minimo Coffee & Matcha",
-      "category": "coffee_shop",
-      "lat": 30.27006751,
-      "lng": -97.75113129,
-      "distance_km": 18.57,
-      "food_group": "cafe"
-    },
-    {
       "name": "Arby's",
       "category": "fast_food_restaurant",
       "lat": 30.084725,
@@ -11664,14 +8960,6 @@
       "lng": -97.83432714104848,
       "distance_km": 18.59,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Theluckducksouth",
-      "category": "bar",
-      "lat": 30.16492,
-      "lng": -97.83093,
-      "distance_km": 18.6,
-      "food_group": "bar"
     },
     {
       "name": "Lola Savannah Coffee Lounge -- Downtown",
@@ -11778,14 +9066,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Daisy Coffee Co.",
-      "category": "coffee_shop",
-      "lat": 30.147377,
-      "lng": -97.834426,
-      "distance_km": 18.66,
-      "food_group": "cafe"
-    },
-    {
       "name": "Four Brothers Venezuelan Kitchen",
       "category": "restaurant",
       "lat": 30.263528,
@@ -11794,26 +9074,10 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Barstool Bites",
-      "category": "restaurant",
-      "lat": 30.224999,
-      "lng": -97.803384,
-      "distance_km": 18.67,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Cafe Monet Art and Clay Studio",
       "category": "cafe",
       "lat": 30.23060892,
       "lng": -97.7989526,
-      "distance_km": 18.67,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Elk Dog Coffee",
-      "category": "coffee_shop",
-      "lat": 30.15351321,
-      "lng": -97.8337338,
       "distance_km": 18.67,
       "food_group": "cafe"
     },
@@ -11834,28 +9098,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Bistrolli's",
-      "category": "restaurant",
-      "lat": 30.274423,
-      "lng": -97.745757,
-      "distance_km": 18.69,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Starbucks",
       "category": "coffee_shop",
       "lat": 30.2698195,
       "lng": -97.7539941,
       "distance_km": 18.7,
       "food_group": "cafe"
-    },
-    {
-      "name": "Hivemind Market Research",
-      "category": "restaurant",
-      "lat": 30.27845,
-      "lng": -97.738291,
-      "distance_km": 18.7,
-      "food_group": "restaurant"
     },
     {
       "name": "Coffee Cup",
@@ -11890,27 +9138,11 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Justa Java Co.",
-      "category": "coffee_shop",
-      "lat": 30.27671,
-      "lng": -97.74209,
-      "distance_km": 18.72,
-      "food_group": "cafe"
-    },
-    {
       "name": "Blissful Prospecting",
       "category": "restaurant",
       "lat": 30.276717,
       "lng": -97.742096,
       "distance_km": 18.72,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Next Level Clucker Austin",
-      "category": "restaurant",
-      "lat": 30.270515061840204,
-      "lng": -97.75332048109469,
-      "distance_km": 18.73,
       "food_group": "restaurant"
     },
     {
@@ -11938,44 +9170,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Ramirez El Unico Mex-Tex Cafe",
-      "category": "cafe",
-      "lat": 30.151905,
-      "lng": -97.834729,
-      "distance_km": 18.74,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Castaways",
-      "category": "restaurant",
-      "lat": 30.286185197742522,
-      "lng": -97.72195920395056,
-      "distance_km": 18.74,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "601 Whole Foods Global Suport Office",
-      "category": "restaurant",
-      "lat": 30.27073309211897,
-      "lng": -97.75342206560174,
-      "distance_km": 18.76,
-      "food_group": "restaurant"
-    },
-    {
       "name": "La Colombe Coffee Workshop",
       "category": "coffee_shop",
       "lat": 30.2706503,
       "lng": -97.7535618,
       "distance_km": 18.76,
       "food_group": "cafe"
-    },
-    {
-      "name": "El zombreraso's",
-      "category": "bar",
-      "lat": 30.175362,
-      "lng": -97.830091,
-      "distance_km": 18.78,
-      "food_group": "bar"
     },
     {
       "name": "Atx Barrel + Bites",
@@ -12010,14 +9210,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Home Run Cafe",
-      "category": "cafe",
-      "lat": 30.2793515,
-      "lng": -97.7393345,
-      "distance_km": 18.83,
-      "food_group": "cafe"
-    },
-    {
       "name": "15th Street Cafe",
       "category": "coffee_shop",
       "lat": 30.27756086,
@@ -12050,28 +9242,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Casey's Guitar Bar",
-      "category": "bar",
-      "lat": 30.159393,
-      "lng": -97.835054,
-      "distance_km": 18.88,
-      "food_group": "bar"
-    },
-    {
       "name": "Texican Cafe Brodie Oaks Inc",
       "category": "restaurant",
       "lat": 30.236438,
       "lng": -97.796766,
       "distance_km": 18.89,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Moma's Cafe",
-      "category": "cafe",
-      "lat": 30.267400978782,
-      "lng": -97.76107,
-      "distance_km": 18.89,
-      "food_group": "cafe"
     },
     {
       "name": "Sixth & Lamar Inc",
@@ -12194,22 +9370,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "ls fast food",
-      "category": "fast_food_restaurant",
-      "lat": 30.27331884,
-      "lng": -97.75356688,
-      "distance_km": 19.0,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Tamales nueva esperanza",
-      "category": "coffee_shop",
-      "lat": 30.30313165405266,
-      "lng": -97.65741712536084,
-      "distance_km": 19.0,
-      "food_group": "cafe"
-    },
-    {
       "name": "Mel's Meals",
       "category": "fast_food_restaurant",
       "lat": 30.273508433599318,
@@ -12258,14 +9418,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "The Annex Bar",
-      "category": "bar",
-      "lat": 30.272642,
-      "lng": -97.75573,
-      "distance_km": 19.06,
-      "food_group": "bar"
-    },
-    {
       "name": "Wendy's",
       "category": "fast_food_restaurant",
       "lat": 30.28282107,
@@ -12288,14 +9440,6 @@
       "lng": -97.74268905,
       "distance_km": 19.07,
       "food_group": "bar"
-    },
-    {
-      "name": "Jester Java Cafe",
-      "category": "coffee_shop",
-      "lat": 30.283027647199035,
-      "lng": -97.7369478016856,
-      "distance_km": 19.08,
-      "food_group": "cafe"
     },
     {
       "name": "Better Half Coffee Bar Llc",
@@ -12354,28 +9498,12 @@
       "food_group": "bar"
     },
     {
-      "name": "The Cherry Pit",
-      "category": "bar",
-      "lat": 30.29069,
-      "lng": -97.72024,
-      "distance_km": 19.13,
-      "food_group": "bar"
-    },
-    {
       "name": "Coffee Cartel",
       "category": "coffee_shop",
       "lat": 30.30055518,
       "lng": -97.68518489,
       "distance_km": 19.13,
       "food_group": "cafe"
-    },
-    {
-      "name": "Om-Le Road",
-      "category": "restaurant",
-      "lat": 30.30059350982867,
-      "lng": -97.68516182899477,
-      "distance_km": 19.13,
-      "food_group": "restaurant"
     },
     {
       "name": "Shellers Barrelhouse Bar",
@@ -12410,14 +9538,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Under The Oaks Cafe",
-      "category": "cafe",
-      "lat": 30.287233271097453,
-      "lng": -97.72939009969397,
-      "distance_km": 19.15,
-      "food_group": "cafe"
-    },
-    {
       "name": "Pecan Square Caf\u00e9",
       "category": "cafe",
       "lat": 30.272962227585232,
@@ -12432,22 +9552,6 @@
       "lng": -97.75741717542132,
       "distance_km": 19.19,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Lowa",
-      "category": "bar",
-      "lat": 30.27693,
-      "lng": -97.75092,
-      "distance_km": 19.19,
-      "food_group": "bar"
-    },
-    {
-      "name": "Cain's",
-      "category": "fast_food_restaurant",
-      "lat": 30.281504,
-      "lng": -97.742438,
-      "distance_km": 19.19,
-      "food_group": "fast_food"
     },
     {
       "name": "Raising Cane's",
@@ -12546,14 +9650,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Kung Fu Tea",
-      "category": "restaurant",
-      "lat": 30.2828713,
-      "lng": -97.7417609,
-      "distance_km": 19.29,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Streamway Coffee",
       "category": "coffee_shop",
       "lat": 30.29654,
@@ -12575,14 +9671,6 @@
       "lat": 30.282656,
       "lng": -97.742427,
       "distance_km": 19.3,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Elixer Coffee",
-      "category": "coffee_shop",
-      "lat": 30.296656452242054,
-      "lng": -97.70776459019147,
-      "distance_km": 19.31,
       "food_group": "cafe"
     },
     {
@@ -12674,14 +9762,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Empowered Coffee",
-      "category": "coffee_shop",
-      "lat": 30.2724041,
-      "lng": -97.7614372,
-      "distance_km": 19.36,
-      "food_group": "cafe"
-    },
-    {
       "name": "Panjabi Swag Austin",
       "category": "restaurant",
       "lat": 30.291783,
@@ -12695,22 +9775,6 @@
       "lat": 30.29885672,
       "lng": -97.70164988,
       "distance_km": 19.36,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Cafe Matisse",
-      "category": "coffee_shop",
-      "lat": 30.283729,
-      "lng": -97.741752,
-      "distance_km": 19.37,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Cafe' Delighte",
-      "category": "cafe",
-      "lat": 30.293068,
-      "lng": -97.720161,
-      "distance_km": 19.37,
       "food_group": "cafe"
     },
     {
@@ -12736,14 +9800,6 @@
       "lng": -97.72026657227359,
       "distance_km": 19.38,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Austin New England Patriots Fan Club",
-      "category": "pub",
-      "lat": 30.29812,
-      "lng": -97.70533,
-      "distance_km": 19.39,
-      "food_group": "bar"
     },
     {
       "name": "Teji's Indian Restaurant and Grocery",
@@ -12818,14 +9874,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Jugos Naturales Adelitas",
-      "category": "fast_food_restaurant",
-      "lat": 30.29421,
-      "lng": -97.72047,
-      "distance_km": 19.5,
-      "food_group": "fast_food"
-    },
-    {
       "name": "Tropical Sno Shaved Ice",
       "category": "restaurant",
       "lat": 30.2305833,
@@ -12874,43 +9922,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Union Coffee House",
-      "category": "coffee_shop",
-      "lat": 30.285932,
-      "lng": -97.741046,
-      "distance_km": 19.55,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Starbucks",
-      "category": "coffee_shop",
-      "lat": 30.28595709922236,
-      "lng": -97.74112148601485,
-      "distance_km": 19.56,
-      "food_group": "cafe"
-    },
-    {
       "name": "Chipotle Mexican Grill",
       "category": "fast_food_restaurant",
       "lat": 30.28564345,
       "lng": -97.74192863,
       "distance_km": 19.56,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "CTRUS",
-      "category": "restaurant",
-      "lat": 30.300394,
-      "lng": -97.703391,
-      "distance_km": 19.57,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "KUT's Views and Brews",
-      "category": "fast_food_restaurant",
-      "lat": 30.286142,
-      "lng": -97.741261,
-      "distance_km": 19.58,
       "food_group": "fast_food"
     },
     {
@@ -12922,26 +9938,10 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Pretzel Maker",
-      "category": "restaurant",
-      "lat": 30.2432,
-      "lng": -97.800063,
-      "distance_km": 19.6,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Psycha Delhi",
       "category": "restaurant",
       "lat": 30.285932160470836,
       "lng": -97.74215742187464,
-      "distance_km": 19.6,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Pollo Rico #8",
-      "category": "restaurant",
-      "lat": 30.296227,
-      "lng": -97.717657,
       "distance_km": 19.6,
       "food_group": "restaurant"
     },
@@ -12960,14 +9960,6 @@
       "lng": -97.69996626,
       "distance_km": 19.6,
       "food_group": "cafe"
-    },
-    {
-      "name": "Taco Bell",
-      "category": "fast_food_restaurant",
-      "lat": 30.28659060955896,
-      "lng": -97.74136467392815,
-      "distance_km": 19.63,
-      "food_group": "fast_food"
     },
     {
       "name": "Trippy Buck Coffee",
@@ -12992,14 +9984,6 @@
       "lng": -97.74473166,
       "distance_km": 19.65,
       "food_group": "cafe"
-    },
-    {
-      "name": "Alan Mora/ Realtor",
-      "category": "restaurant",
-      "lat": 30.28643,
-      "lng": -97.7423,
-      "distance_km": 19.66,
-      "food_group": "restaurant"
     },
     {
       "name": "Daydreamer Coffee",
@@ -13048,14 +10032,6 @@
       "lng": -97.764249,
       "distance_km": 19.73,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Lil Mexico Bar-n-Grill",
-      "category": "bar",
-      "lat": 30.20537,
-      "lng": -97.82845,
-      "distance_km": 19.74,
-      "food_group": "bar"
     },
     {
       "name": "Pita Pit - Guadalupe",
@@ -13162,14 +10138,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "American Raku Incorporated",
-      "category": "restaurant",
-      "lat": 30.286656,
-      "lng": -97.745099,
-      "distance_km": 19.81,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Victory Lap",
       "category": "sports_bar",
       "lat": 30.28797976,
@@ -13218,27 +10186,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Four Brothers Venezuelan Food",
-      "category": "restaurant",
-      "lat": 30.28842,
-      "lng": -97.74179,
-      "distance_km": 19.83,
-      "food_group": "restaurant"
-    },
-    {
       "name": "The Coffee Bean & Tea Leaf",
       "category": "coffee_shop",
       "lat": 30.297982,
       "lng": -97.718819,
       "distance_km": 19.83,
-      "food_group": "cafe"
-    },
-    {
-      "name": "BarleyBean",
-      "category": "coffee_shop",
-      "lat": 30.286960468392216,
-      "lng": -97.74496634187119,
-      "distance_km": 19.84,
       "food_group": "cafe"
     },
     {
@@ -13287,14 +10239,6 @@
       "lat": 30.279495,
       "lng": -97.759382,
       "distance_km": 19.88,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Jessica Cafe",
-      "category": "cafe",
-      "lat": 30.2877,
-      "lng": -97.744861,
-      "distance_km": 19.9,
       "food_group": "cafe"
     },
     {
@@ -13386,14 +10330,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "J.C.'S Roadhouse",
-      "category": "bar",
-      "lat": 29.95552,
-      "lng": -97.6765,
-      "distance_km": 20.0,
-      "food_group": "bar"
-    },
-    {
       "name": "Torres Taqueria #2",
       "category": "restaurant",
       "lat": 30.29037406481,
@@ -13434,14 +10370,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Tingy",
-      "category": "restaurant",
-      "lat": 30.290746,
-      "lng": -97.741815,
-      "distance_km": 20.05,
-      "food_group": "restaurant"
-    },
-    {
       "name": "The Tastegasm",
       "category": "restaurant",
       "lat": 30.290746,
@@ -13472,14 +10400,6 @@
       "lng": -97.6647583,
       "distance_km": 20.06,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Astra - Restaurant & Bar",
-      "category": "restaurant",
-      "lat": 30.08417,
-      "lng": -97.84205,
-      "distance_km": 20.07,
-      "food_group": "restaurant"
     },
     {
       "name": "Kerbey Lane Cafe",
@@ -13520,14 +10440,6 @@
       "lng": -97.7413034,
       "distance_km": 20.11,
       "food_group": "bar"
-    },
-    {
-      "name": "Leona Botanical Cafe & Bar",
-      "category": "cafe",
-      "lat": 30.21757869,
-      "lng": -97.82600652,
-      "distance_km": 20.12,
-      "food_group": "cafe"
     },
     {
       "name": "Cuatro's",
@@ -13582,14 +10494,6 @@
       "category": "restaurant",
       "lat": 30.290519,
       "lng": -97.744708,
-      "distance_km": 20.17,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Crunchy Center",
-      "category": "restaurant",
-      "lat": 30.29054151,
-      "lng": -97.74468254,
       "distance_km": 20.17,
       "food_group": "restaurant"
     },
@@ -13746,14 +10650,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Chaveloerm",
-      "category": "restaurant",
-      "lat": 30.08203468,
-      "lng": -97.84408164,
-      "distance_km": 20.33,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Guadalupe & 28th",
       "category": "fast_food_restaurant",
       "lat": 30.293457507026552,
@@ -13768,14 +10664,6 @@
       "lng": -97.81906484,
       "distance_km": 20.36,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Partida\u2019s Kitchen",
-      "category": "restaurant",
-      "lat": 30.08130799,
-      "lng": -97.84420475,
-      "distance_km": 20.36,
-      "food_group": "restaurant"
     },
     {
       "name": "Ramen-ya Holding Company Llc",
@@ -13866,14 +10754,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Spider House Patio Bar & Cafe",
-      "category": "bar",
-      "lat": 30.29547901056866,
-      "lng": -97.74172531292336,
-      "distance_km": 20.51,
-      "food_group": "bar"
-    },
-    {
       "name": "Tweedy's Bar",
       "category": "bar",
       "lat": 30.295503287620818,
@@ -13928,14 +10808,6 @@
       "lng": -97.743088,
       "distance_km": 20.53,
       "food_group": "restaurant"
-    },
-    {
-      "name": "San Pedro House and Bar and Club",
-      "category": "bar",
-      "lat": 30.293937641889045,
-      "lng": -97.74559447242571,
-      "distance_km": 20.54,
-      "food_group": "bar"
     },
     {
       "name": "29th & Guadalupe",
@@ -14000,14 +10872,6 @@
       "lng": -97.742913,
       "distance_km": 20.58,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Intel AN4 Cafe",
-      "category": "cafe",
-      "lat": 30.26245420874438,
-      "lng": -97.79412883719729,
-      "distance_km": 20.59,
-      "food_group": "cafe"
     },
     {
       "name": "Fabi + Rosi",
@@ -14186,14 +11050,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Enchanted Rock",
-      "category": "bar",
-      "lat": 30.05611,
-      "lng": -97.83838,
-      "distance_km": 20.81,
-      "food_group": "bar"
-    },
-    {
       "name": "Uncle Nicky's Italian Specialties",
       "category": "restaurant",
       "lat": 30.304892,
@@ -14234,14 +11090,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Brewja Cafe",
-      "category": "coffee_shop",
-      "lat": 30.03125353,
-      "lng": -97.82310956,
-      "distance_km": 20.84,
-      "food_group": "cafe"
-    },
-    {
       "name": "Sandella's Flatbread Cafe",
       "category": "cafe",
       "lat": 30.29982960743194,
@@ -14258,28 +11106,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Texas Auto Graphics",
-      "category": "restaurant",
-      "lat": 30.046945,
-      "lng": -97.83417,
-      "distance_km": 20.88,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Knomad Bar",
       "category": "bar",
       "lat": 30.31261455,
       "lng": -97.70482972,
       "distance_km": 20.91,
       "food_group": "bar"
-    },
-    {
-      "name": "The Coffee Trailer",
-      "category": "coffee_shop",
-      "lat": 30.30963,
-      "lng": -97.71524,
-      "distance_km": 20.91,
-      "food_group": "cafe"
     },
     {
       "name": "Civil Goat",
@@ -14418,28 +11250,12 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Barstool Bites",
-      "category": "restaurant",
-      "lat": 30.257806,
-      "lng": -97.807067,
-      "distance_km": 21.16,
-      "food_group": "restaurant"
-    },
-    {
       "name": "S&j Enterprises Inc",
       "category": "restaurant",
       "lat": 30.257806,
       "lng": -97.807067,
       "distance_km": 21.16,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Texas Popcorn Co",
-      "category": "fast_food_restaurant",
-      "lat": 30.258301,
-      "lng": -97.806974,
-      "distance_km": 21.19,
-      "food_group": "fast_food"
     },
     {
       "name": "QDOBA Mexican Eats",
@@ -14456,14 +11272,6 @@
       "lng": -97.775758,
       "distance_km": 21.2,
       "food_group": "cafe"
-    },
-    {
-      "name": "Simon's Sushi Barton Creek",
-      "category": "restaurant",
-      "lat": 30.258136715000603,
-      "lng": -97.80742480844013,
-      "distance_km": 21.21,
-      "food_group": "restaurant"
     },
     {
       "name": "Lake Austin Coffee Spot",
@@ -14666,22 +11474,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Soap Creek Saloon",
-      "category": "bar",
-      "lat": 30.2720551,
-      "lng": -97.8009264,
-      "distance_km": 21.81,
-      "food_group": "bar"
-    },
-    {
-      "name": "Westlake Texas 78746 News",
-      "category": "restaurant",
-      "lat": 30.2728,
-      "lng": -97.80017,
-      "distance_km": 21.82,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Pepperbox Coffee",
       "category": "cafe",
       "lat": 30.308650189488095,
@@ -14698,27 +11490,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Trianon Coffee",
-      "category": "coffee_shop",
-      "lat": 30.273117256024136,
-      "lng": -97.8005600380127,
-      "distance_km": 21.87,
-      "food_group": "cafe"
-    },
-    {
       "name": "Tiny Boxwoods Austin",
       "category": "cafe",
       "lat": 30.30598647,
       "lng": -97.74963012,
       "distance_km": 21.9,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Coco's Cafe",
-      "category": "cafe",
-      "lat": 30.27401,
-      "lng": -97.80018,
-      "distance_km": 21.91,
       "food_group": "cafe"
     },
     {
@@ -14794,22 +11570,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Victoria Provisions",
-      "category": "restaurant",
-      "lat": 30.307186,
-      "lng": -97.75017,
-      "distance_km": 22.04,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Promised Grounds",
-      "category": "coffee_shop",
-      "lat": 30.28428,
-      "lng": -97.78929,
-      "distance_km": 22.06,
-      "food_group": "cafe"
-    },
-    {
       "name": "The Steeping Room",
       "category": "restaurant",
       "lat": 30.3125205,
@@ -14866,28 +11626,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Serranos Cafe & Cantina - Mopac, Ltd",
-      "category": "restaurant",
-      "lat": 30.2631801,
-      "lng": -97.814848,
-      "distance_km": 22.11,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Maz\u00far Coffee",
       "category": "coffee_shop",
       "lat": 30.31164029,
       "lng": -97.74230264,
       "distance_km": 22.14,
       "food_group": "cafe"
-    },
-    {
-      "name": "Kerbey Lane Doll Shoppe",
-      "category": "restaurant",
-      "lat": 30.308159,
-      "lng": -97.750395,
-      "distance_km": 22.15,
-      "food_group": "restaurant"
     },
     {
       "name": "Anderson's Coffee Company",
@@ -14914,28 +11658,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Spicy South",
-      "category": "restaurant",
-      "lat": 30.23579,
-      "lng": -97.83923,
-      "distance_km": 22.22,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Fortis Realty Svc Llc",
       "category": "restaurant",
       "lat": 30.275147,
       "lng": -97.803883,
       "distance_km": 22.25,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Dutch Bros Coffee",
-      "category": "coffee_shop",
-      "lat": 30.037785973039437,
-      "lng": -97.84519523358142,
-      "distance_km": 22.3,
-      "food_group": "cafe"
     },
     {
       "name": "Fara Coffee",
@@ -14970,14 +11698,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Benton Enterprises",
-      "category": "restaurant",
-      "lat": 30.235892033277416,
-      "lng": -97.84394172848766,
-      "distance_km": 22.62,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Mozart's Coffee Roasters",
       "category": "coffee_shop",
       "lat": 30.29547986,
@@ -15010,14 +11730,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Motzarts Cafe Austin Tx",
-      "category": "cafe",
-      "lat": 30.2956096667,
-      "lng": -97.7844421667,
-      "distance_km": 22.75,
-      "food_group": "cafe"
-    },
-    {
       "name": "Revolution Vegan Kitchen",
       "category": "restaurant",
       "lat": 30.269425066369518,
@@ -15048,14 +11760,6 @@
       "lng": -97.80617788,
       "distance_km": 22.78,
       "food_group": "cafe"
-    },
-    {
-      "name": "Chicken Salad Chick",
-      "category": "restaurant",
-      "lat": 30.03026029,
-      "lng": -97.84618343,
-      "distance_km": 22.79,
-      "food_group": "restaurant"
     },
     {
       "name": "Bsdb Restaurant Llc",
@@ -15178,44 +11882,12 @@
       "food_group": "bar"
     },
     {
-      "name": "Comedor, Llc",
-      "category": "restaurant",
-      "lat": 30.282834,
-      "lng": -97.821216,
-      "distance_km": 24.04,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Wicked Wings",
       "category": "pub",
       "lat": 29.99859,
       "lng": -97.84231,
       "distance_km": 24.45,
       "food_group": "bar"
-    },
-    {
-      "name": "Starbucks",
-      "category": "coffee_shop",
-      "lat": 29.9962,
-      "lng": -97.84431,
-      "distance_km": 24.76,
-      "food_group": "cafe"
-    },
-    {
-      "name": "EZ-Taco and More",
-      "category": "restaurant",
-      "lat": 29.98424898,
-      "lng": -97.83412675,
-      "distance_km": 24.86,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Bombay Grill",
-      "category": "restaurant",
-      "lat": 30.294655,
-      "lng": -97.8227239,
-      "distance_km": 25.07,
-      "food_group": "restaurant"
     },
     {
       "name": "Starbucks",
@@ -15258,14 +11930,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Waterfall Cafe",
-      "category": "coffee_shop",
-      "lat": 30.29547,
-      "lng": -97.8245,
-      "distance_km": 25.25,
-      "food_group": "cafe"
-    },
-    {
       "name": "Whole Foods Market Express Caf\u00e9",
       "category": "cafe",
       "lat": 30.2905,
@@ -15298,27 +11962,11 @@
       "food_group": "bar"
     },
     {
-      "name": "Taqueria Tuzantla Michoac\u00e1n ",
-      "category": "restaurant",
-      "lat": 29.95776,
-      "lng": -97.45741,
-      "distance_km": 26.3,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Cakes by Diana Torres",
       "category": "restaurant",
       "lat": 29.968307012111456,
       "lng": -97.83805710527761,
       "distance_km": 26.34,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Firehouse Subs",
-      "category": "restaurant",
-      "lat": 30.289691,
-      "lng": -97.435453,
-      "distance_km": 26.36,
       "food_group": "restaurant"
     },
     {
