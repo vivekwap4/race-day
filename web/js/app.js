@@ -43,13 +43,6 @@ const map = new maplibregl.Map({
 
 map.addControl(new maplibregl.NavigationControl(), "bottom-right");
 
-// Swapping map styles (see toggleTheme) removes any custom sources/layers,
-// so re-add the hotel/food cluster layer whenever a new style finishes
-// loading — covers both the toggle and the very first load.
-map.on("style.load", () => {
-  if (state.currentData) renderClusterLayer();
-});
-
 init();
 
 async function init() {
@@ -123,17 +116,28 @@ function toggleTheme() {
   applyTheme();
 
   // setStyle can reset the camera to a default zoomed-out view when
-  // switching between structurally different styles (light <-> dark here).
-  // Save the current view and restore it once the new style is loaded, so
-  // toggling theme doesn't silently zoom back out to a world view.
+  // switching between structurally different styles (light <-> dark here),
+  // and it also removes any custom sources/layers we'd added (the hotel/
+  // food clusters). Handle both explicitly here rather than relying on a
+  // separate persistent listener, which raced against this one on the same
+  // event and led to the cluster layer sometimes not coming back.
   const preservedCenter = map.getCenter();
   const preservedZoom = map.getZoom();
+
   map.setStyle(mapStyleFor(state.theme));
+
   map.once("style.load", () => {
     map.jumpTo({ center: preservedCenter, zoom: preservedZoom });
+    if (!state.currentData) return;
+    // "style.load" fires once the style document itself is parsed, but the
+    // style's own tile sources may still be loading — isStyleLoaded() is
+    // the real signal that it's safe to add our own source/layers on top.
+    if (map.isStyleLoaded()) {
+      renderClusterLayer();
+    } else {
+      map.once("idle", renderClusterLayer);
+    }
   });
-  // renderClusterLayer() gets called again automatically via the
-  // persistent "style.load" listener registered near map init.
 }
 
 function applyTheme() {
