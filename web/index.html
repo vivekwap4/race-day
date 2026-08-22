@@ -7,15 +7,23 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4/dist/maplibre-gl.css" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
-<body>
+<body data-theme="dark">
   <div id="map"></div>
 
   <div id="map-overlay">
-    <div id="circuit-picker">
-      <label for="circuit-select" class="sr-only">Choose a circuit</label>
-      <select id="circuit-select">
-        <option value="">Loading circuits…</option>
-      </select>
+    <div id="top-controls">
+      <div id="circuit-picker">
+        <label for="circuit-select" class="sr-only">Choose a circuit</label>
+        <select id="circuit-select">
+          <option value="">Loading circuits…</option>
+        </select>
+      </div>
+      <button id="theme-toggle" class="icon-button" aria-label="Toggle dark or light theme" title="Toggle theme">
+        <span id="theme-icon">&#9728;</span>
+      </button>
+      <button id="lang-toggle" class="icon-button" aria-label="Toggle language" title="Toggle language">
+        <span id="lang-label">EN</span>
+      </button>
     </div>
 
     <div id="layer-filters" class="pill-row" role="group" aria-label="Map layers">
@@ -57,8 +65,12 @@
       </div>
 
       <div class="panel-section">
-        <p class="section-label">Hotels near the circuit</p>
+        <div class="section-header">
+          <p class="section-label">In this view</p>
+          <span id="in-view-count" class="count-badge">0</span>
+        </div>
         <div id="hotel-list"></div>
+        <p id="pan-hint" class="muted small">Pan or zoom the map to update this list</p>
       </div>
     </div>
 

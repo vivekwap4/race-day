@@ -54,12 +54,13 @@ WALKABLE_KM = 1.5
 SHORT_TRANSFER_KM = 10.0
 # anything beyond SHORT_TRANSFER_KM is "Long Transfer"
 
-MIN_CONFIDENCE = 0.8
 # Overture places below this confidence score get dropped. Overture aggregates
 # places from multiple providers without manual verification, so low-confidence
 # matches sometimes carry garbage names (e.g. an unrelated string or domain-like
-# text where a business name should be). We found a real example scoring 0.77
-# and checked the surrounding band before picking 0.8 — see README.
+# text where a business name should be). We found a real example scoring 0.77,
+# so the threshold sits comfortably above that. Still a judgment call, not
+# an Overture-defined "correct" cutoff — see README.
+MIN_CONFIDENCE = 0.8
 
 
 def haversine_km(lat1, lng1, lat2, lng2):
@@ -95,13 +96,14 @@ def get_connection():
 
 
 def query_places(con, base_path, xmin, ymin, xmax, ymax):
-    """Pull the places theme within a bounding box. Returns rows with name,
-    primary category, confidence, and lon/lat. Filters out low-confidence
-    records here rather than in Python, so the bad rows never leave the
-    query in the first place."""
+    """Pull the places theme within a bounding box. Returns rows with the
+    local/primary name, an English variant if Overture has one, primary
+    category, confidence, and lon/lat. Filters out low-confidence records
+    here rather than in Python, so the bad rows never leave the query."""
     sql = f"""
         SELECT
             names."primary" AS name,
+            names.common['en'] AS name_en,
             categories."primary" AS category,
             confidence,
             ST_X(geometry) AS lng,
@@ -117,12 +119,13 @@ def query_places(con, base_path, xmin, ymin, xmax, ymax):
 
 def classify_places(rows, center_lat, center_lng):
     hotels, food = [], []
-    for name, category, confidence, lng, lat in rows:
+    for name, name_en, category, confidence, lng, lat in rows:
         if category is None:
             continue
         dist = round(haversine_km(center_lat, center_lng, lat, lng), 2)
         record = {
             "name": name,
+            "name_en": name_en,
             "category": category,
             "lat": lat,
             "lng": lng,

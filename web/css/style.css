@@ -7,8 +7,54 @@ html, body {
   padding: 0;
   height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  color: #1c1c1a;
-  background: #f5f4f0;
+}
+
+/* --- Theme tokens --- */
+
+body[data-theme="dark"] {
+  --bg: #0d1117;
+  --panel-bg: #10151c;
+  --card-bg: #161b22;
+  --border: #232a35;
+  --text-primary: #f5f4ef;
+  --text-secondary: #9aa1ac;
+  --text-muted: #565b64;
+  --accent: #e63946;
+  --accent-text: #ffb3ba;
+  --tier-walk-bg: #103023;
+  --tier-walk-text: #4fd18b;
+  --tier-short-bg: #14203a;
+  --tier-short-text: #6ea8fe;
+  --tier-long-bg: #3a2a12;
+  --tier-long-text: #f0b25e;
+  --control-bg: #161b22;
+  --shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+}
+
+body[data-theme="light"] {
+  --bg: #f5f4f0;
+  --panel-bg: #ffffff;
+  --card-bg: #ffffff;
+  --border: #e6e3da;
+  --text-primary: #1c1c1a;
+  --text-secondary: #6b6a64;
+  --text-muted: #a3a199;
+  --accent: #c0392b;
+  --accent-text: #c0392b;
+  --tier-walk-bg: #e1f0e6;
+  --tier-walk-text: #1f6d3a;
+  --tier-short-bg: #eaeefb;
+  --tier-short-text: #33449a;
+  --tier-long-bg: #faf0dd;
+  --tier-long-text: #97650f;
+  --control-bg: #ffffff;
+  --shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
 .sr-only {
@@ -24,11 +70,11 @@ html, body {
 }
 
 .muted {
-  color: #6b6a64;
+  color: var(--text-secondary);
 }
 
 .small {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 #map {
@@ -52,14 +98,42 @@ html, body {
   width: 300px;
 }
 
+#top-controls {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+#circuit-picker {
+  flex: 1;
+}
+
 #circuit-picker select {
   width: 100%;
   padding: 10px 12px;
   font-size: 14px;
   border-radius: 10px;
-  border: 1px solid #ddd9cf;
-  background: #ffffff;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--border);
+  background: var(--control-bg);
+  color: var(--text-primary);
+  box-shadow: var(--shadow);
+}
+
+.icon-button {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--control-bg);
+  color: var(--text-primary);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: var(--shadow);
 }
 
 .pill-row {
@@ -72,16 +146,17 @@ html, body {
   font-size: 12px;
   padding: 6px 12px;
   border-radius: 999px;
-  border: 1px solid #ddd9cf;
-  background: #ffffff;
+  border: 1px solid var(--border);
+  background: var(--control-bg);
+  color: var(--text-primary);
   cursor: pointer;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  box-shadow: var(--shadow);
 }
 
 .pill.active {
-  background: #1c1c1a;
+  background: var(--accent);
   color: #ffffff;
-  border-color: #1c1c1a;
+  border-color: var(--accent);
 }
 
 /* --- Side panel --- */
@@ -92,8 +167,8 @@ html, body {
   right: 0;
   bottom: 0;
   width: 380px;
-  background: #ffffff;
-  border-left: 1px solid #e6e3da;
+  background: var(--panel-bg);
+  border-left: 1px solid var(--border);
   overflow-y: auto;
   padding: 20px;
 }
@@ -101,7 +176,7 @@ html, body {
 .panel-section {
   padding-bottom: 16px;
   margin-bottom: 16px;
-  border-bottom: 1px solid #eeece5;
+  border-bottom: 1px solid var(--border);
 }
 
 .panel-section:last-child {
@@ -112,6 +187,7 @@ html, body {
   font-size: 19px;
   font-weight: 600;
   margin: 0 0 2px;
+  letter-spacing: -0.01em;
 }
 
 #circuit-location {
@@ -119,12 +195,28 @@ html, body {
   margin: 0;
 }
 
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
 .section-label {
-  font-size: 12px;
+  font-size: 11px;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: #6b6a64;
-  margin: 0 0 10px;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+.count-badge {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: var(--tier-short-bg);
+  color: var(--tier-short-text);
 }
 
 .row-button {
@@ -134,9 +226,10 @@ html, body {
   align-items: center;
   padding: 10px 12px;
   font-size: 13px;
-  background: #f5f4f0;
-  border: 1px solid #eeece5;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
   border-radius: 10px;
+  color: var(--text-primary);
   cursor: pointer;
   text-align: left;
 }
@@ -150,26 +243,28 @@ html, body {
   justify-content: space-between;
   align-items: center;
   padding: 12px;
-  border: 1px solid #eeece5;
+  border: 1px solid var(--border);
   border-radius: 10px;
   margin-bottom: 8px;
   cursor: pointer;
-  background: #ffffff;
+  background: var(--card-bg);
+  transition: border-color 0.15s ease;
 }
 
 .hotel-card:hover {
-  border-color: #ccc7ba;
+  border-color: var(--accent);
 }
 
 .hotel-name {
   font-size: 14px;
   font-weight: 600;
   margin: 0;
+  color: var(--text-primary);
 }
 
 .hotel-distance {
   font-size: 12px;
-  color: #6b6a64;
+  color: var(--text-secondary);
   margin: 4px 0 0;
 }
 
@@ -182,18 +277,18 @@ html, body {
 }
 
 .tier-Walkable {
-  background: #e1f0e6;
-  color: #1f6d3a;
+  background: var(--tier-walk-bg);
+  color: var(--tier-walk-text);
 }
 
-.tier-Short.tier-Transfer, .tier-Short-Transfer {
-  background: #eaeefb;
-  color: #33449a;
+.tier-Short-Transfer {
+  background: var(--tier-short-bg);
+  color: var(--tier-short-text);
 }
 
 .tier-Long-Transfer {
-  background: #faf0dd;
-  color: #97650f;
+  background: var(--tier-long-bg);
+  color: var(--tier-long-text);
 }
 
 .detail-row {
@@ -201,7 +296,8 @@ html, body {
   justify-content: space-between;
   font-size: 13px;
   padding: 8px 0;
-  border-bottom: 1px solid #f2f0e9;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-primary);
 }
 
 .detail-row:last-child {
@@ -210,8 +306,22 @@ html, body {
 
 .empty-state {
   font-size: 13px;
-  color: #6b6a64;
+  color: var(--text-secondary);
   padding: 12px 0;
+}
+
+/* --- MapLibre cluster bubble overrides --- */
+
+.cluster-bubble {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #ffffff;
+  font-weight: 600;
+  border: 2px solid var(--panel-bg);
+  box-shadow: var(--shadow);
 }
 
 @media (max-width: 860px) {
@@ -223,6 +333,6 @@ html, body {
     top: 55%;
     width: 100%;
     border-left: none;
-    border-top: 1px solid #e6e3da;
+    border-top: 1px solid var(--border);
   }
 }
