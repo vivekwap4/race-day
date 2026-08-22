@@ -40,22 +40,6 @@
       "access_tier": "Walkable"
     },
     {
-      "name": "\u5927\u548c\u8358",
-      "category": "hotel",
-      "lat": 34.85402203,
-      "lng": 136.53234712,
-      "distance_km": 1.45,
-      "access_tier": "Walkable"
-    },
-    {
-      "name": "Domitory Sumiyosi",
-      "category": "hostel",
-      "lat": 34.856467930711,
-      "lng": 136.52986870505,
-      "distance_km": 1.8,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "\u9234\u9e7f\u30ed\u30a4\u30e4\u30eb\u30db\u30c6\u30eb",
       "category": "hotel",
       "lat": 34.86331402,
@@ -64,27 +48,11 @@
       "access_tier": "Short Transfer"
     },
     {
-      "name": "\u30b9\u30dd\u30fc\u30c4\u30de\u30f3\u30cf\u30a6\u30b9\u9234\u9e7f",
-      "category": "hotel",
-      "lat": 34.83693275,
-      "lng": 136.51378199,
-      "distance_km": 2.58,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "\u30b5\u30f3\u30ad\u30e5\u30fc\u9234\u9e7f",
       "category": "hotel",
       "lat": 34.86689562,
       "lng": 136.53371396,
       "distance_km": 2.73,
-      "access_tier": "Short Transfer"
-    },
-    {
-      "name": "\u9234\u9e7f\u30bb\u30f3\u30c8\u30e9\u30eb\u30db\u30c6\u30eb",
-      "category": "hotel",
-      "lat": 34.86906322,
-      "lng": 136.53499489,
-      "distance_km": 2.94,
       "access_tier": "Short Transfer"
     },
     {
@@ -112,14 +80,6 @@
       "access_tier": "Short Transfer"
     },
     {
-      "name": "\u9234\u9e7f \u30b9\u30c8\u30fc\u30ea\u30a2\u30db\u30c6\u30eb",
-      "category": "hotel",
-      "lat": 34.873930629926676,
-      "lng": 136.54203326294768,
-      "distance_km": 3.43,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "Suzuka Storia Hotel",
       "category": "hotel",
       "lat": 34.87392378,
@@ -133,14 +93,6 @@
       "lat": 34.87446279,
       "lng": 136.53659939,
       "distance_km": 3.51,
-      "access_tier": "Short Transfer"
-    },
-    {
-      "name": "HOTEL MARION",
-      "category": "motel",
-      "lat": 34.874992,
-      "lng": 136.5432,
-      "distance_km": 3.55,
       "access_tier": "Short Transfer"
     },
     {
@@ -192,14 +144,6 @@
       "access_tier": "Short Transfer"
     },
     {
-      "name": "Comfort Inn",
-      "category": "hotel",
-      "lat": 34.836463381609505,
-      "lng": 136.5885062728413,
-      "distance_km": 4.4,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "\u9b5a\u8981",
       "category": "hotel",
       "lat": 34.82499973,
@@ -232,35 +176,11 @@
       "access_tier": "Short Transfer"
     },
     {
-      "name": "\u767d\u5b50\u30b9\u30c8\u30fc\u30ea\u30a2\u30db\u30c6\u30eb",
-      "category": "hotel",
-      "lat": 34.83518000477572,
-      "lng": 136.59010641242614,
-      "distance_km": 4.57,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "\u30db\u30c6\u30eb\u30cf\u30a4\u30b7\u30c6\u30a3",
       "category": "hotel",
       "lat": 34.83531279,
       "lng": 136.5908086,
       "distance_km": 4.63,
-      "access_tier": "Short Transfer"
-    },
-    {
-      "name": "\u5b89\u585a\u56e3\u5730",
-      "category": "hotel",
-      "lat": 34.86747968125973,
-      "lng": 136.58241466940348,
-      "distance_km": 4.65,
-      "access_tier": "Short Transfer"
-    },
-    {
-      "name": "\u3044\u3061\u5eb5",
-      "category": "bed_and_breakfast",
-      "lat": 34.801797030805,
-      "lng": 136.55249471427,
-      "distance_km": 4.71,
       "access_tier": "Short Transfer"
     },
     {
@@ -272,14 +192,6 @@
       "access_tier": "Short Transfer"
     },
     {
-      "name": "\u65b0\u307f\u3084\u3053",
-      "category": "hotel",
-      "lat": 34.83286145,
-      "lng": 136.59318279,
-      "distance_km": 4.9,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "\u5408\u540d\u4f1a\u793e\u9b5a\u534a\u697c",
       "category": "hotel",
       "lat": 34.8836232,
@@ -288,35 +200,11 @@
       "access_tier": "Short Transfer"
     },
     {
-      "name": "SanaHotel\u9234\u9e7f",
-      "category": "hotel",
-      "lat": 34.88573081,
-      "lng": 136.58000109,
-      "distance_km": 5.93,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "\u52a0\u7f8e\u4ead\u65c5\u9928",
       "category": "hotel",
       "lat": 34.88865654,
       "lng": 136.58214839,
       "distance_km": 6.31,
-      "access_tier": "Short Transfer"
-    },
-    {
-      "name": "\u4e09\u91cd\u770c\u99ac\u4e8b\u516c\u82d1",
-      "category": "hotel",
-      "lat": 34.902013482188764,
-      "lng": 136.55251998561317,
-      "distance_km": 6.63,
-      "access_tier": "Short Transfer"
-    },
-    {
-      "name": "Eco hotel Kameyama",
-      "category": "hotel",
-      "lat": 34.852477149444944,
-      "lng": 136.4561331605886,
-      "distance_km": 7.81,
       "access_tier": "Short Transfer"
     },
     {
@@ -360,22 +248,6 @@
       "access_tier": "Short Transfer"
     },
     {
-      "name": "\u521d\u6d0b",
-      "category": "hotel",
-      "lat": 34.8839419,
-      "lng": 136.6237118,
-      "distance_km": 8.81,
-      "access_tier": "Short Transfer"
-    },
-    {
-      "name": "\u9b5a\u7fa9\u65c5\u9928",
-      "category": "bed_and_breakfast",
-      "lat": 34.762608383059366,
-      "lng": 136.5009708802882,
-      "distance_km": 9.67,
-      "access_tier": "Short Transfer"
-    },
-    {
       "name": "MIO\u30ea\u30be\u30fc\u30c8",
       "category": "resort",
       "lat": 34.92527127,
@@ -389,14 +261,6 @@
       "lat": 34.85632764,
       "lng": 136.42930902,
       "distance_km": 10.3,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "SS BLUE",
-      "category": "hotel",
-      "lat": 34.90335,
-      "lng": 136.63013714,
-      "distance_km": 10.54,
       "access_tier": "Long Transfer"
     },
     {
@@ -429,22 +293,6 @@
       "lat": 34.8586979,
       "lng": 136.41801449,
       "distance_km": 11.36,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u5b89\u6771\u82d1",
-      "category": "hotel",
-      "lat": 34.753466666667,
-      "lng": 136.47036666667003,
-      "distance_km": 11.87,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u30a8\u30eb\u30c8\u30de",
-      "category": "motel",
-      "lat": 34.857349,
-      "lng": 136.411209,
-      "distance_km": 11.95,
       "access_tier": "Long Transfer"
     },
     {
@@ -512,14 +360,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "\u5929\u7136\u6e29\u6cc9 \u3051\u3084\u304d\u306e\u6e6f \u30c9\u30fc\u30df\u30fc\u30a4\u30f3\u6d25",
-      "category": "hotel",
-      "lat": 34.73342984290081,
-      "lng": 136.5118648820544,
-      "distance_km": 12.48,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Apoa Hotel Tsu",
       "category": "hotel",
       "lat": 34.733173,
@@ -541,14 +381,6 @@
       "lat": 34.73315337,
       "lng": 136.51217589,
       "distance_km": 12.51,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u30d0\u30fc\u30e0\u30af\u30fc\u30d8\u30f3\u5c02\u9580\u5e97\u3000\u30c8\u30ad\u30ce\u30ef",
-      "category": "hotel",
-      "lat": 34.7336553,
-      "lng": 136.5084145,
-      "distance_km": 12.53,
       "access_tier": "Long Transfer"
     },
     {
@@ -608,14 +440,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Business Ryokan Wakakusa",
-      "category": "hotel",
-      "lat": 34.72124454,
-      "lng": 136.5098841,
-      "distance_km": 13.84,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "\u30d3\u30b8\u30cd\u30b9\u65c5\u9928 \u82e5\u8349",
       "category": "hotel",
       "lat": 34.721225,
@@ -632,43 +456,11 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "\u767d\u6d5c\u65c5\u9928",
-      "category": "hotel",
-      "lat": 34.71730725,
-      "lng": 136.52410795,
-      "distance_km": 14.07,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u6d25\u90fd\u30db\u30c6\u30eb",
-      "category": "hotel",
-      "lat": 34.71886324,
-      "lng": 136.51123175,
-      "distance_km": 14.08,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "Hotel \u6d25 Center Palace",
       "category": "resort",
       "lat": 34.7187288,
       "lng": 136.5110572,
       "distance_km": 14.1,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u5929\u7136\u6e29\u6cc9\u3051\u3084\u304d\u306e\u6e6f \u30c9\u30fc\u30df\u30fc\u30a4\u30f3\u6d25",
-      "category": "hotel",
-      "lat": 34.7167,
-      "lng": 136.517,
-      "distance_km": 14.22,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u30b2\u30b9\u30c8\u30cf\u30a6\u30b9\u30a4\u30ed\u30f3\u30b4",
-      "category": "bed_and_breakfast",
-      "lat": 34.7167,
-      "lng": 136.517,
-      "distance_km": 14.22,
       "access_tier": "Long Transfer"
     },
     {
@@ -685,14 +477,6 @@
       "lat": 34.71575277,
       "lng": 136.52003782,
       "distance_km": 14.29,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Mio City",
-      "category": "hotel",
-      "lat": 34.95496031,
-      "lng": 136.6195046,
-      "distance_km": 14.35,
       "access_tier": "Long Transfer"
     },
     {
@@ -728,14 +512,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Cocopa Resort JAPAN",
-      "category": "hotel",
-      "lat": 34.7097336,
-      "lng": 136.5045567,
-      "distance_km": 15.2,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "\u56db\u65e5\u5e02\u30b7\u30c6\u30a3\u30db\u30c6\u30eb\u30a2\u30cd\u30c3\u30af\u30b9",
       "category": "hotel",
       "lat": 34.96454897,
@@ -756,14 +532,6 @@
       "category": "bed_and_breakfast",
       "lat": 34.966463,
       "lng": 136.6165,
-      "distance_km": 15.35,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "MIO\u30d7\u30e9\u30b6",
-      "category": "hotel",
-      "lat": 34.97400342,
-      "lng": 136.5945904,
       "distance_km": 15.35,
       "access_tier": "Long Transfer"
     },
@@ -816,22 +584,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "\u30b3\u30f3\u30d5\u30a9\u30fc\u30c8\u30db\u30c6\u30eb \u56db\u65e5\u5e02(Comfort Hotel Yokkaichi)",
-      "category": "hotel",
-      "lat": 34.96573043589545,
-      "lng": 136.61951583936826,
-      "distance_km": 15.4,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u65b0\u56db\u65e5\u5e02\u30db\u30c6\u30eb",
-      "category": "hotel",
-      "lat": 34.96574796508402,
-      "lng": 136.6195811233297,
-      "distance_km": 15.41,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "\u6771\u6a2aInn \u8fd1\u9244\u56db\u65e5\u5e02\u99c5\u5317\u53e3",
       "category": "hotel",
       "lat": 34.9640054,
@@ -864,30 +616,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "Sunset Terrace Mie",
-      "category": "hotel",
-      "lat": 34.9770577,
-      "lng": 136.5909697,
-      "distance_km": 15.58,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u7f8e\u5948\u6708",
-      "category": "hotel",
-      "lat": 34.963090614846,
-      "lng": 136.62963299925,
-      "distance_km": 15.6,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u30eb\u30fc\u30c8\u30a4\u30f3\u56db\u65e5\u5e02",
-      "category": "hotel",
-      "lat": 34.97448,
-      "lng": 136.6014025,
-      "distance_km": 15.61,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "\u30db\u30c6\u30eb\u30a8\u30b3\u30ce\u56db\u65e5\u5e02",
       "category": "hotel",
       "lat": 34.9690264,
@@ -901,14 +629,6 @@
       "lat": 34.96814604,
       "lng": 136.61958134,
       "distance_km": 15.64,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u6771\u6a2a\u30a4\u30f3 \u8fd1\u9244\u56db\u65e5\u5e02\u99c5\u5317\u53e3",
-      "category": "bed_and_breakfast",
-      "lat": 34.96805317802053,
-      "lng": 136.6202958401347,
-      "distance_km": 15.66,
       "access_tier": "Long Transfer"
     },
     {
@@ -976,14 +696,6 @@
       "access_tier": "Long Transfer"
     },
     {
-      "name": "\u4e09\u91cd\u30c4\u30fc\u30ea\u30b9\u30c8",
-      "category": "hotel",
-      "lat": 34.97493313,
-      "lng": 136.47705423,
-      "distance_km": 15.78,
-      "access_tier": "Long Transfer"
-    },
-    {
       "name": "\u56db\u65e5\u5e02\u30d6\u30e9\u30f3\u30c1\u30e3\u30da\u30eb\u30af\u30ea\u30b9\u30de\u30b9",
       "category": "hotel",
       "lat": 34.96972242,
@@ -1006,22 +718,6 @@
       "lng": 136.61817353,
       "distance_km": 15.83,
       "access_tier": "Long Transfer"
-    },
-    {
-      "name": "Chibakan",
-      "category": "hotel",
-      "lat": 34.96578624,
-      "lng": 136.63080945,
-      "distance_km": 15.91,
-      "access_tier": "Long Transfer"
-    },
-    {
-      "name": "\u30db\u30c6\u30eb\u30a2\u30c6\u30c3\u30b5",
-      "category": "hotel",
-      "lat": 34.974714571515115,
-      "lng": 136.61000922627102,
-      "distance_km": 15.93,
-      "access_tier": "Long Transfer"
     }
   ],
   "food": [
@@ -1042,14 +738,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u3067\u3093\u3067\u3093\u30ab\u30d5\u30a7",
-      "category": "cafe",
-      "lat": 34.847176,
-      "lng": 136.541507,
-      "distance_km": 0.46,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30b0\u30ea\u30eb",
       "category": "restaurant",
       "lat": 34.84791445,
@@ -1064,22 +752,6 @@
       "lng": 136.5559511,
       "distance_km": 1.37,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u30df\u30fc\u30c8",
-      "category": "coffee_shop",
-      "lat": 34.85578235,
-      "lng": 136.543313,
-      "distance_km": 1.43,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30c6\u30a3\u30fc\u30dd\u30a4\u30f3\u30c8",
-      "category": "restaurant",
-      "lat": 34.8555221,
-      "lng": 136.5453316,
-      "distance_km": 1.44,
-      "food_group": "restaurant"
     },
     {
       "name": "nico cafe",
@@ -1106,44 +778,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u30ea\u30e5\u30fc\u30b8",
-      "category": "coffee_shop",
-      "lat": 34.8363147,
-      "lng": 136.56115458,
-      "distance_km": 1.99,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Dorfcafe",
-      "category": "coffee_shop",
-      "lat": 34.85445367,
-      "lng": 136.55813945,
-      "distance_km": 2.01,
-      "food_group": "cafe"
-    },
-    {
-      "name": "New Gato verde",
-      "category": "bar",
-      "lat": 34.858470201113974,
-      "lng": 136.52847363694724,
-      "distance_km": 2.06,
-      "food_group": "bar"
-    },
-    {
       "name": "Bistro\u3076\u3063\u3055\u3093\u5c4b",
       "category": "restaurant",
       "lat": 34.86173191,
       "lng": 136.54240657,
       "distance_km": 2.08,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Cafe room b",
-      "category": "coffee_shop",
-      "lat": 34.86157962,
-      "lng": 136.54556191,
-      "distance_km": 2.1,
-      "food_group": "cafe"
     },
     {
       "name": "\u30d7\u30ea\u30de\u30ab\u30d5\u30a7",
@@ -1210,27 +850,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u5927\u8846\u5bb6\u5ead\u5c45\u9152\u5c4b\u304f\u3046\u304f\u3046",
-      "category": "bar",
-      "lat": 34.85634063,
-      "lng": 136.52017243,
-      "distance_km": 2.4,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30a8\u30f3\u30bc\u30eb",
       "category": "bar",
       "lat": 34.8539,
       "lng": 136.563721,
       "distance_km": 2.4,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30ef\u30a4\u30ef\u30a4",
-      "category": "bar",
-      "lat": 34.86473213,
-      "lng": 136.54157162,
-      "distance_km": 2.41,
       "food_group": "bar"
     },
     {
@@ -1242,36 +866,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u56db\u3007\u516b\u73c8\u7432\u5e97",
-      "category": "cafe",
-      "lat": 34.8310245,
-      "lng": 136.56357195,
-      "distance_km": 2.46,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u3075\u3046\u305b\u3093",
-      "category": "coffee_shop",
-      "lat": 34.85556455,
-      "lng": 136.51852238,
-      "distance_km": 2.48,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u5d6f\u5ce8\u91ce\u73c8\u7432\u9928\u9234\u9e7f\u4f4f\u5409\u5e97",
       "category": "coffee_shop",
       "lat": 34.86481468,
       "lng": 136.53402616,
       "distance_km": 2.5,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u30ec\u30b9\u30c8\u30e9\u30f3 \u30b6\u30fb\u30ac\u30fc\u30c7\u30f3",
-      "category": "restaurant",
-      "lat": 34.83693908,
-      "lng": 136.51378398,
-      "distance_km": 2.58,
-      "food_group": "restaurant"
     },
     {
       "name": "\u9053\u4f2f\u9152\u5834 \u3042\u307e",
@@ -1298,14 +898,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "platina",
-      "category": "bar",
-      "lat": 34.86775988,
-      "lng": 136.54220309,
-      "distance_km": 2.74,
-      "food_group": "bar"
-    },
-    {
       "name": "\u5c45\u9152\u5c4b\u53cb\u8535",
       "category": "bar",
       "lat": 34.86739123,
@@ -1314,68 +906,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30ce\u30d6\u30b7\u30e7\u30a6",
-      "category": "bar",
-      "lat": 34.86738476,
-      "lng": 136.5484725,
-      "distance_km": 2.79,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u592a\u90ce\u8336\u5c4b\u938c\u5009\u5e73\u7530\u5e97",
-      "category": "cafe",
-      "lat": 34.86875993,
-      "lng": 136.54317338,
-      "distance_km": 2.86,
-      "food_group": "cafe"
-    },
-    {
-      "name": "KUKOS Show & Bar",
-      "category": "bar",
-      "lat": 34.86878272,
-      "lng": 136.54244703,
-      "distance_km": 2.86,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b1\u30fc\u30ad\u30cf\u30a6\u30b9 \u30ea\u30e5\u30fc\u30d9\u30c3\u30af",
-      "category": "cafe",
-      "lat": 34.868538330593395,
-      "lng": 136.54579673053544,
-      "distance_km": 2.86,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u713c\u9ce5\u5c02\u9580\u5e97\u3059\u307f",
       "category": "restaurant",
       "lat": 34.8688,
       "lng": 136.544007,
       "distance_km": 2.87,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u30c7\u30a3\u30c3\u30d1\u30fc\u30c0\u30f3 \u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u9234\u9e7f\u5e97",
-      "category": "restaurant",
-      "lat": 34.868555,
-      "lng": 136.534571,
-      "distance_km": 2.89,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5927\u8846\u9152\u5834\u6d6a\u82b1",
-      "category": "bar",
-      "lat": 34.86879339,
-      "lng": 136.53462746,
-      "distance_km": 2.92,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u307e\u307f\u3080\u3081\u30e2\u30b0\u30e2\u30b0",
-      "category": "fast_food_restaurant",
-      "lat": 34.8688479,
-      "lng": 136.5475854,
-      "distance_km": 2.93,
-      "food_group": "fast_food"
     },
     {
       "name": "Cafe Naif Blanc",
@@ -1410,46 +946,6 @@
       "food_group": "bar"
     },
     {
-      "name": "Bar BONES",
-      "category": "bar",
-      "lat": 34.86999192,
-      "lng": 136.54532111,
-      "distance_km": 3.02,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30db\u3063\u3068",
-      "category": "bar",
-      "lat": 34.87075898597,
-      "lng": 136.54250314203,
-      "distance_km": 3.08,
-      "food_group": "bar"
-    },
-    {
-      "name": "Kuu",
-      "category": "cafe",
-      "lat": 34.837337,
-      "lng": 136.574117,
-      "distance_km": 3.09,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u91d1\u83ccupcafe\u308a\u307c\u3093",
-      "category": "cafe",
-      "lat": 34.817149811697874,
-      "lng": 136.5532049789447,
-      "distance_km": 3.09,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30d3\u30b9\u30c8\u30ed \u30a2\u30df",
-      "category": "restaurant",
-      "lat": 34.87098609,
-      "lng": 136.54195671,
-      "distance_km": 3.1,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Cafe Cub Suzuka",
       "category": "cafe",
       "lat": 34.87105081,
@@ -1466,27 +962,11 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u6d0b\u98a8\u5c45\u9152\u5c4b Hinata \u9234\u9e7f",
-      "category": "bar",
-      "lat": 34.86199549,
-      "lng": 136.56627749,
-      "distance_km": 3.12,
-      "food_group": "bar"
-    },
-    {
       "name": "HINATA\u9234\u9e7f",
       "category": "bar",
       "lat": 34.86210462,
       "lng": 136.56621109,
       "distance_km": 3.12,
-      "food_group": "bar"
-    },
-    {
-      "name": "snack Dear(\u30c7\u30a3\u30a2\u30fc)",
-      "category": "bar",
-      "lat": 34.87103653,
-      "lng": 136.54532497,
-      "distance_km": 3.13,
       "food_group": "bar"
     },
     {
@@ -1498,28 +978,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u5c45\u9152\u5c4b\u53cb\u8535",
-      "category": "bar",
-      "lat": 34.87155175508594,
-      "lng": 136.54252742479747,
-      "distance_km": 3.17,
-      "food_group": "bar"
-    },
-    {
       "name": "Joyfull Suzuka-Asahigaoka",
       "category": "restaurant",
       "lat": 34.84706882,
       "lng": 136.57550178,
       "distance_km": 3.18,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "category": "bar",
-      "lat": 34.87184655,
-      "lng": 136.54251172,
-      "distance_km": 3.2,
-      "food_group": "bar"
     },
     {
       "name": "\u70ad\u706b\u713c\u9ce5\u9cf3 \u304a\u304a\u3068\u308a",
@@ -1538,14 +1002,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u89b3\u5409\u5c45\u9152\u5c4b",
-      "category": "bar",
-      "lat": 34.83366485,
-      "lng": 136.57423377,
-      "distance_km": 3.21,
-      "food_group": "bar"
-    },
-    {
       "name": "\u3042\u308c\u3041\u308c\u3041",
       "category": "restaurant",
       "lat": 34.8721585,
@@ -1554,34 +1010,10 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u771f\u4e2d\u3055\u3068\u307f\u5065\u5eb7Karaoke\u79cb\u6c38",
-      "category": "coffee_shop",
-      "lat": 34.815419,
-      "lng": 136.552645,
-      "distance_km": 3.26,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Mr. Kanso",
-      "category": "bar",
-      "lat": 34.87224897,
-      "lng": 136.54531538,
-      "distance_km": 3.27,
-      "food_group": "bar"
-    },
-    {
       "name": "Curry and Cafe Minemine",
       "category": "cafe",
       "lat": 34.87203179,
       "lng": 136.5473183,
-      "distance_km": 3.27,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30a2\u30b5\u30d2\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
-      "category": "cafe",
-      "lat": 34.85089552,
-      "lng": 136.57550238,
       "distance_km": 3.27,
       "food_group": "cafe"
     },
@@ -1600,14 +1032,6 @@
       "lng": 136.54266122,
       "distance_km": 3.29,
       "food_group": "bar"
-    },
-    {
-      "name": "PORCO",
-      "category": "restaurant",
-      "lat": 34.87195716,
-      "lng": 136.54891372,
-      "distance_km": 3.29,
-      "food_group": "restaurant"
     },
     {
       "name": "\u30c9\u30c8\u30fc\u30eb\u30b3\u30fc\u30d2\u30fc\u30b7\u30e7\u30c3\u30d7",
@@ -1642,14 +1066,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30c7\u30a3\u30aa\u30b9",
-      "category": "pub",
-      "lat": 34.87299241,
-      "lng": 136.54234213,
-      "distance_km": 3.33,
-      "food_group": "bar"
-    },
-    {
       "name": "\u6d77\u9bae\u9152\u5834\u30b5\u30ab\u30ca\u30ce\u30cf\u30ca\u30d3",
       "category": "bar",
       "lat": 34.872922355428,
@@ -1674,14 +1090,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u5782\u6d8e\u306e\u7684 \u305f\u307e\u308a\u5834",
-      "category": "bar",
-      "lat": 34.87331495019677,
-      "lng": 136.54250334970092,
-      "distance_km": 3.36,
-      "food_group": "bar"
-    },
-    {
       "name": "\u82e5\u9bf1\u5bb6\u9234\u9e7f\u30d9\u30eb\u30b7\u30c6\u30a3\u5e97",
       "category": "restaurant",
       "lat": 34.872483,
@@ -1698,92 +1106,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30e9\u30a6\u30f3\u30b8\u30e0\u30fc\u30f3",
-      "category": "restaurant",
-      "lat": 34.87343415,
-      "lng": 136.54253539,
-      "distance_km": 3.38,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30d7\u30ed\u30b9\u30d0\u30a1",
-      "category": "restaurant",
-      "lat": 34.87349264,
-      "lng": 136.54236764,
-      "distance_km": 3.38,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9",
-      "category": "fast_food_restaurant",
-      "lat": 34.87266357452584,
-      "lng": 136.53169434644636,
-      "distance_km": 3.4,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "Jambar",
-      "category": "bar",
-      "lat": 34.87368399,
-      "lng": 136.5417668,
-      "distance_km": 3.4,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30ad\u30e7\u30f3\u30b7\u30fc\u30d5\u30e9\u30f3\u30ad\u30fc",
-      "category": "restaurant",
-      "lat": 34.873694,
-      "lng": 136.54166,
-      "distance_km": 3.4,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30dc\u30f3\u30dc\u30f3",
       "category": "coffee_shop",
       "lat": 34.87339929,
       "lng": 136.54618623,
       "distance_km": 3.4,
       "food_group": "cafe"
-    },
-    {
-      "name": "Bullz Kitchen",
-      "category": "bar",
-      "lat": 34.87375129,
-      "lng": 136.54161894,
-      "distance_km": 3.41,
-      "food_group": "bar"
-    },
-    {
-      "name": "Marhaba internacional bar",
-      "category": "bar",
-      "lat": 34.8737777,
-      "lng": 136.54176061,
-      "distance_km": 3.41,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u306f\u306a\u308c\u5bb6",
-      "category": "bar",
-      "lat": 34.87389172,
-      "lng": 136.54147909,
-      "distance_km": 3.42,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30aa\u30b9\u30c6\u30ea\u30fc\u30a2\u30b3\u30f3\u30c9\u30a9",
-      "category": "bar",
-      "lat": 34.87382666,
-      "lng": 136.54170617,
-      "distance_km": 3.42,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6c34\u4e43\u6ce2",
-      "category": "restaurant",
-      "lat": 34.87367042,
-      "lng": 136.54490275,
-      "distance_km": 3.42,
-      "food_group": "restaurant"
     },
     {
       "name": "\u4e32\u30ab\u30c4\u7530\u4e2d \u9234\u9e7f\u30cf\u30f3\u30bf\u30fc\u5e97",
@@ -1802,35 +1130,11 @@
       "food_group": "fast_food"
     },
     {
-      "name": "\u56db\u516d\u6642\u4e2d",
-      "category": "fast_food_restaurant",
-      "lat": 34.873993,
-      "lng": 136.545407,
-      "distance_km": 3.46,
-      "food_group": "fast_food"
-    },
-    {
       "name": "Vainqueur",
       "category": "sports_bar",
       "lat": 34.87420029,
       "lng": 136.54400367,
       "distance_km": 3.47,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d5\u30a9\u30fc\u30ec\u30c6\u30a3\u306e\u5e97",
-      "category": "restaurant",
-      "lat": 34.87420985,
-      "lng": 136.54400171,
-      "distance_km": 3.47,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u9ce5\u5143",
-      "category": "bar",
-      "lat": 34.874399,
-      "lng": 136.542799,
-      "distance_km": 3.48,
       "food_group": "bar"
     },
     {
@@ -1848,14 +1152,6 @@
       "lng": 136.5414412,
       "distance_km": 3.49,
       "food_group": "bar"
-    },
-    {
-      "name": "\u4e43\u753a\u73c8\u7432\u5e97",
-      "category": "cafe",
-      "lat": 34.872956374011146,
-      "lng": 136.52899396502974,
-      "distance_km": 3.5,
-      "food_group": "cafe"
     },
     {
       "name": "SAMURAI Champions Bar",
@@ -1906,14 +1202,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u70ad\u306e\u9ac4\u307e\u3067",
-      "category": "restaurant",
-      "lat": 34.87477171,
-      "lng": 136.54198661,
-      "distance_km": 3.52,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u5275\u4f5c\u9244\u677fDining&Bar Ejima",
       "category": "bar",
       "lat": 34.866882324219,
@@ -1938,14 +1226,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "marche",
-      "category": "cafe",
-      "lat": 34.87436319,
-      "lng": 136.53156302,
-      "distance_km": 3.58,
-      "food_group": "cafe"
-    },
-    {
       "name": "Brio Cafe",
       "category": "coffee_shop",
       "lat": 34.87416495,
@@ -1962,28 +1242,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Yokubaru Suzuka Store",
-      "category": "cafe",
-      "lat": 34.87506802,
-      "lng": 136.53351207,
-      "distance_km": 3.62,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u3059\u304d\u5bb6",
       "category": "fast_food_restaurant",
       "lat": 34.8743935,
       "lng": 136.52973122,
       "distance_km": 3.63,
       "food_group": "fast_food"
-    },
-    {
-      "name": "La esquina",
-      "category": "coffee_shop",
-      "lat": 34.87089439,
-      "lng": 136.52006369,
-      "distance_km": 3.63,
-      "food_group": "cafe"
     },
     {
       "name": "\u304b\u3064\u3084",
@@ -1994,44 +1258,12 @@
       "food_group": "fast_food"
     },
     {
-      "name": "\u3057\u3083\u304b\u308a\u304d 55",
-      "category": "restaurant",
-      "lat": 34.83029136,
-      "lng": 136.57871341,
-      "distance_km": 3.73,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u9152\u697d\u5834\u3061\u3087\u3046\u3061\u3093",
-      "category": "restaurant",
-      "lat": 34.876379,
-      "lng": 136.534813,
-      "distance_km": 3.74,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u304b\u3075\u3047\u5de5\u623f\u8336\u8535",
       "category": "coffee_shop",
       "lat": 34.8730881,
       "lng": 136.5221941,
       "distance_km": 3.75,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u30b8\u30f3\u30df\u30c3\u30af\u30b9\u30c8\u30a6\u30e9\u30b9",
-      "category": "restaurant",
-      "lat": 34.87419489,
-      "lng": 136.55810624,
-      "distance_km": 3.79,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3066\u3052\u3066\u3052\u3060\u3044\u306b\u3093\u3050 \u306a\u3093\u3066\u3093",
-      "category": "bar",
-      "lat": 34.87515987,
-      "lng": 136.55594762,
-      "distance_km": 3.82,
-      "food_group": "bar"
     },
     {
       "name": "\u9152\u5834\u306e\u30c7\u30a3\u30ac\u30fc",
@@ -2066,35 +1298,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Sabber",
-      "category": "cafe",
-      "lat": 34.87701114,
-      "lng": 136.54903891,
-      "distance_km": 3.84,
-      "food_group": "cafe"
-    },
-    {
-      "name": "KUZUcafe \u30af\u30ba\u30ab\u30d5\u30a7",
-      "category": "cafe",
-      "lat": 34.819715477805,
-      "lng": 136.57220236954,
-      "distance_km": 3.86,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u9234\u9e7f\uff2d\uff25\uff27\uff21\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6\uff35\uff2e\uff39\u5e97",
       "category": "fast_food_restaurant",
       "lat": 34.85267227301701,
       "lng": 136.58174247222559,
       "distance_km": 3.87,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9 \u9234\u9e7fMEGA\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6UNY\u5e97",
-      "category": "fast_food_restaurant",
-      "lat": 34.85334,
-      "lng": 136.581614,
-      "distance_km": 3.88,
       "food_group": "fast_food"
     },
     {
@@ -2114,60 +1322,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Korakuen Suzuka Shiroko",
-      "category": "restaurant",
-      "lat": 34.830229,
-      "lng": 136.581017,
-      "distance_km": 3.92,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\uff12\uff13\u53f7\u9234\u9e7f\u78ef\u5c71\u5e97",
       "category": "fast_food_restaurant",
       "lat": 34.817833190829404,
       "lng": 136.57121544922992,
       "distance_km": 3.94,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u3084\u3059\u307f\u6642\u9593\u9234\u9e7f\u5e97",
-      "category": "cafe",
-      "lat": 34.817203,
-      "lng": 136.570767,
-      "distance_km": 3.96,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30af\u30e9\u30a4\u30b9\u30e9\u30fc \u30b8\u30fc\u30d7 \u30c0\u30c3\u30b8\u4e09\u91cd",
-      "category": "bar",
-      "lat": 34.87493281906,
-      "lng": 136.56066158281,
-      "distance_km": 3.97,
-      "food_group": "bar"
-    },
-    {
-      "name": "CALM",
-      "category": "coffee_shop",
-      "lat": 34.857469461204,
-      "lng": 136.58162246902,
-      "distance_km": 4.04,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7&\u96d1\u8ca8 \u304f\u308b\u308a",
-      "category": "cafe",
-      "lat": 34.83927802,
-      "lng": 136.58536612,
-      "distance_km": 4.07,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u672c\u5bb6\u304b\u307e\u3069\u3084 \u9234\u9e7f\u767d\u5b50\u5e97",
-      "category": "restaurant",
-      "lat": 34.83933418105447,
-      "lng": 136.5853757537794,
-      "distance_km": 4.07,
-      "food_group": "restaurant"
     },
     {
       "name": "\u30b5\u30f3\u30e1\u30fc\u30c8",
@@ -2202,14 +1362,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u305f\u3093\u307d\u307d",
-      "category": "cafe",
-      "lat": 34.8783766,
-      "lng": 136.5555758,
-      "distance_km": 4.14,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u652f\u7559\u6bd4\u4e9c\u73c8\u7432\u5e97\u9234\u9e7f\u4e2d\u592e\u901a\u308a\u5e97",
       "category": "coffee_shop",
       "lat": 34.87519001,
@@ -2218,42 +1370,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u5320",
-      "category": "pub",
-      "lat": 34.83470458,
-      "lng": 136.58578699,
-      "distance_km": 4.19,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u4e32\u685d",
-      "category": "bar",
-      "lat": 34.87970368,
-      "lng": 136.55246009,
-      "distance_km": 4.2,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30df\u30b5\u30ef\u30db\u30fc\u30e0\u6771\u6d77\u3000\u9234\u9e7f\u5c55\u793a\u5834",
-      "category": "cafe",
-      "lat": 34.840893807191,
-      "lng": 136.58696651459,
-      "distance_km": 4.2,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30ab\u30d5\u30a7 \u30ca\u30c3\u30da\u30ca\u30c3\u30da",
       "category": "cafe",
       "lat": 34.87974007,
       "lng": 136.55250577,
-      "distance_km": 4.21,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Santabe",
-      "category": "coffee_shop",
-      "lat": 34.88040208,
-      "lng": 136.54872503,
       "distance_km": 4.21,
       "food_group": "cafe"
     },
@@ -2274,44 +1394,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u305f\u3053\u306e\u52a9\u767d\u5b50\u5e97",
-      "category": "bar",
-      "lat": 34.83647687,
-      "lng": 136.5868594,
-      "distance_km": 4.25,
-      "food_group": "bar"
-    },
-    {
-      "name": "Bull\u2019s coffee",
-      "category": "cafe",
-      "lat": 34.80600558,
-      "lng": 136.55275681,
-      "distance_km": 4.26,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30d5\u30e9\u30f3\u30dc\u30ef\u30fc\u30ba",
-      "category": "coffee_shop",
-      "lat": 34.83696906,
-      "lng": 136.58739021,
-      "distance_km": 4.29,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u304a\u597d\u307f\u713c\u304d \u5f25\u592a\u90ce",
       "category": "restaurant",
       "lat": 34.87797966,
       "lng": 136.56153618,
       "distance_km": 4.31,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Kibohcoffee",
-      "category": "coffee_shop",
-      "lat": 34.8105983,
-      "lng": 136.5667425,
-      "distance_km": 4.31,
-      "food_group": "cafe"
     },
     {
       "name": "\u9234\u9e7f\u4e2d\u592e\u901a\u308a\u5e97",
@@ -2328,14 +1416,6 @@
       "lng": 136.56750435,
       "distance_km": 4.34,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u3086\u308b\u30fb\u3054\u3061\u30fb\u3054\u3063\u3057\u30fc",
-      "category": "coffee_shop",
-      "lat": 34.81559818,
-      "lng": 136.57480005,
-      "distance_km": 4.34,
-      "food_group": "cafe"
     },
     {
       "name": "\u5409\u91ce\u5bb6",
@@ -2386,28 +1466,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u8089\u9152\u5834 \u3064\u308b\u304e",
-      "category": "bar",
-      "lat": 34.8357909,
-      "lng": 136.5883514,
-      "distance_km": 4.4,
-      "food_group": "bar"
-    },
-    {
       "name": "Coffee Jazz Carrera",
       "category": "cafe",
       "lat": 34.84291925,
       "lng": 136.58947369,
       "distance_km": 4.42,
       "food_group": "cafe"
-    },
-    {
-      "name": "Uotami Shiroko West Entrance Ekimae",
-      "category": "restaurant",
-      "lat": 34.8347426,
-      "lng": 136.5884021,
-      "distance_km": 4.42,
-      "food_group": "restaurant"
     },
     {
       "name": "\u30ab\u30d5\u30a7 \u30c9 \u30d5\u30d5",
@@ -2434,44 +1498,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "SACHI CAFE",
-      "category": "cafe",
-      "lat": 34.842955,
-      "lng": 136.589508,
-      "distance_km": 4.43,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u305f\u3093\u304f\u3089\u3044\u3093",
       "category": "pub",
       "lat": 34.83860768,
       "lng": 136.58937519,
       "distance_km": 4.44,
       "food_group": "bar"
-    },
-    {
-      "name": "\u30ac\u30fc\u30eb\u30ba\u30d0\u30fc \u30d4\u30a8\u30ed",
-      "category": "bar",
-      "lat": 34.83502768,
-      "lng": 136.5889104,
-      "distance_km": 4.46,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30cb\u30af\u30d0\u30eb\u30fb\u30d7\u30ed\u30d9\u30c3\u30c1\u30e7 \u767d\u5b50\u99c5\u524d\u5e97",
-      "category": "restaurant",
-      "lat": 34.835091333150864,
-      "lng": 136.58892474442433,
-      "distance_km": 4.46,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "THE SILVER DRAGON IN MANHATTAN",
-      "category": "restaurant",
-      "lat": 34.835091333150864,
-      "lng": 136.58892474442433,
-      "distance_km": 4.46,
-      "food_group": "restaurant"
     },
     {
       "name": "\u30b9\u30ca\u30c3\u30af WANOS",
@@ -2498,44 +1530,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u3057\u307e\u3057\u307e",
-      "category": "pub",
-      "lat": 34.834993,
-      "lng": 136.589041,
-      "distance_km": 4.48,
-      "food_group": "bar"
-    },
-    {
       "name": "Early Santa Monica",
       "category": "bar",
       "lat": 34.834879,
       "lng": 136.589152,
       "distance_km": 4.49,
       "food_group": "bar"
-    },
-    {
-      "name": "\u96a0\u308c\u5eb5\u500b\u5ba4\u306e\u305f\u308f\u308f \u767d\u5b50\u99c5\u524d\u5e97",
-      "category": "bar",
-      "lat": 34.83516123250321,
-      "lng": 136.58918527620966,
-      "distance_km": 4.49,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u9152\u83dc",
-      "category": "bar",
-      "lat": 34.83581371,
-      "lng": 136.58941647,
-      "distance_km": 4.49,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b0\u30c3\u30c9\u30bf\u30a4\u30e0",
-      "category": "restaurant",
-      "lat": 34.84258148,
-      "lng": 136.49175364,
-      "distance_km": 4.49,
-      "food_group": "restaurant"
     },
     {
       "name": "\u3059\u304d\u5bb6 \u9234\u9e7f\u897f\u6761\u5e97",
@@ -2546,28 +1546,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Showa Shokudo Shiroko Ekimae",
-      "category": "restaurant",
-      "lat": 34.8356227404762,
-      "lng": 136.58983285321105,
-      "distance_km": 4.53,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30c9\u30df\u30ce\u30fb\u30d4\u30b6",
       "category": "fast_food_restaurant",
       "lat": 34.875675,
       "lng": 136.57106,
       "distance_km": 4.54,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7 \u30f4\u30eb\u30b9\u30c8",
-      "category": "cafe",
-      "lat": 34.88348296581415,
-      "lng": 136.53340433708732,
-      "distance_km": 4.54,
-      "food_group": "cafe"
     },
     {
       "name": "\u662d\u548c\u98df\u5802\u767d\u5b50\u99c5\u524d\u5e97",
@@ -2642,36 +1626,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30ab\u30c1\u30e5\u30fc\u30b7\u30e3",
-      "category": "cafe",
-      "lat": 34.85596441,
-      "lng": 136.49280288,
-      "distance_km": 4.62,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u307e\u3086\u30e9\u30d3hcooks",
       "category": "cafe",
       "lat": 34.8763000515,
       "lng": 136.57136512012,
       "distance_km": 4.62,
       "food_group": "cafe"
-    },
-    {
-      "name": "A's JARDIN",
-      "category": "restaurant",
-      "lat": 34.85452265,
-      "lng": 136.58965221,
-      "distance_km": 4.62,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5409",
-      "category": "restaurant",
-      "lat": 34.83895766,
-      "lng": 136.59140965,
-      "distance_km": 4.62,
-      "food_group": "restaurant"
     },
     {
       "name": "\u307e\u3055\u304b\u3064\u98df\u5802\u6c5f\u5cf6\u672c\u5e97",
@@ -2690,28 +1650,12 @@
       "food_group": "fast_food"
     },
     {
-      "name": "AC\u30ab\u30d5\u30a7",
-      "category": "cafe",
-      "lat": 34.8362355,
-      "lng": 136.5912683,
-      "distance_km": 4.65,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u3052\u3093\u304d\u3084",
       "category": "bar",
       "lat": 34.84077386,
       "lng": 136.59182629,
       "distance_km": 4.65,
       "food_group": "bar"
-    },
-    {
-      "name": "\u307d\u3068\u308a",
-      "category": "restaurant",
-      "lat": 34.83925479,
-      "lng": 136.59187108,
-      "distance_km": 4.66,
-      "food_group": "restaurant"
     },
     {
       "name": "\u30d8\u30eb\u30b7\u30fc\u30e1\u30eb\u30b7\u30fc\uff08\u9234\u9e7f\u5e02\u30ea\u30cf\u30d3\u30ea\u578b\u534a\u65e5\u30c7\u30a4\u30b5\u30fc\u30d3\u30b9\uff09",
@@ -2727,14 +1671,6 @@
       "lat": 34.86250675,
       "lng": 136.5864788,
       "distance_km": 4.68,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Plaspa Pizza Suzuka",
-      "category": "restaurant",
-      "lat": 34.87931242,
-      "lng": 136.56759913,
-      "distance_km": 4.7,
       "food_group": "restaurant"
     },
     {
@@ -2754,38 +1690,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30b8\u30e5\u30ea\u30b3",
-      "category": "cafe",
-      "lat": 34.85016126215283,
-      "lng": 136.59189596862026,
-      "distance_km": 4.71,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u4e09\u91cd\u73c8\u7432",
-      "category": "coffee_shop",
-      "lat": 34.801735,
-      "lng": 136.55363,
-      "distance_km": 4.74,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Ruang \u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u30b9 \u30eb\u30a2\u30f3",
-      "category": "bar",
-      "lat": 34.8401064,
-      "lng": 136.5929239,
-      "distance_km": 4.75,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u97f3\u53cb",
-      "category": "bar",
-      "lat": 34.87942785,
-      "lng": 136.56889795,
-      "distance_km": 4.77,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30ab\u30ec\u30e9",
       "category": "cafe",
       "lat": 34.84122266,
@@ -2802,22 +1706,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u3059\u305a\u304b\u306e\u3076\u3069\u3046",
-      "category": "cafe",
-      "lat": 34.8079519,
-      "lng": 136.5709184,
-      "distance_km": 4.77,
-      "food_group": "cafe"
-    },
-    {
-      "name": "SEROW coffee",
-      "category": "coffee_shop",
-      "lat": 34.87984876,
-      "lng": 136.56829185,
-      "distance_km": 4.79,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30d3\u30a2\u30ec\u30b9\u30c8\u30e9\u30f3 \u30ea\u30d9\u30e9\u30eb",
       "category": "bar",
       "lat": 34.84133991,
@@ -2826,44 +1714,12 @@
       "food_group": "bar"
     },
     {
-      "name": "BAR FACE",
-      "category": "bar",
-      "lat": 34.8413191,
-      "lng": 136.59341125,
-      "distance_km": 4.79,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u9b5a\u5bcc\u9234\u9e7f",
-      "category": "restaurant",
-      "lat": 34.87366775,
-      "lng": 136.50373942,
-      "distance_km": 4.81,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u73c8\u7432\u5c4b\u3089\u3093\u3077\u9234\u9e7f\u5e97",
       "category": "coffee_shop",
       "lat": 34.88595052,
       "lng": 136.54833674,
       "distance_km": 4.81,
       "food_group": "cafe"
-    },
-    {
-      "name": "Soo",
-      "category": "cafe",
-      "lat": 34.84212754,
-      "lng": 136.59365575,
-      "distance_km": 4.81,
-      "food_group": "cafe"
-    },
-    {
-      "name": "gemini",
-      "category": "bar",
-      "lat": 34.87900835,
-      "lng": 136.57073613,
-      "distance_km": 4.83,
-      "food_group": "bar"
     },
     {
       "name": "\u548c\u304b\u3075\u3047\u3068\u96d1\u8ca8 \u305d\u3089\u3084",
@@ -2890,22 +1746,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u4e00\u529b\u9b5a\u9053\u697d",
-      "category": "restaurant",
-      "lat": 34.832024,
-      "lng": 136.592441,
-      "distance_km": 4.85,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u990a\u8001\u4e43\u7027\u767d\u5b50\u5e97",
-      "category": "bar",
-      "lat": 34.8354306,
-      "lng": 136.5937222,
-      "distance_km": 4.89,
-      "food_group": "bar"
-    },
-    {
       "name": "\u305b\u3063\u3061\u3083\u3093",
       "category": "bar",
       "lat": 34.83196254,
@@ -2922,27 +1762,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30d1\u30da\u30c1\u30e5\u30a2",
-      "category": "bar",
-      "lat": 34.87909354,
-      "lng": 136.57273108,
-      "distance_km": 4.94,
-      "food_group": "bar"
-    },
-    {
       "name": "\u4f0a\u52e2\u864e\u73c8\u7432",
       "category": "cafe",
       "lat": 34.86680354,
       "lng": 136.58734,
       "distance_km": 4.98,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7 \u30ec\u30b9\u30c8 \u5bb6\u96fb\u4f4f\u307e\u3044\u308b\u9928YAMADA\u9234\u9e7f\u5e97",
-      "category": "cafe",
-      "lat": 34.868955,
-      "lng": 136.587041,
-      "distance_km": 5.09,
       "food_group": "cafe"
     },
     {
@@ -2978,30 +1802,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u9234\u9e7f\u30c4\u30a4\u30f3\u30b5\u30fc\u30ad\u30c3\u30c8 \u30b2\u30fc\u30c8\u6a2a\u81ea\u8ca9\u6a5f",
-      "category": "cafe",
-      "lat": 34.812432,
-      "lng": 136.497817,
-      "distance_km": 5.21,
-      "food_group": "cafe"
-    },
-    {
-      "name": "MOA cafe \u6d25\u6cb3\u82b8\u5e97",
-      "category": "cafe",
-      "lat": 34.796963,
-      "lng": 136.552983,
-      "distance_km": 5.25,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u3082\u3082\u306e\u6728",
-      "category": "cafe",
-      "lat": 34.845294,
-      "lng": 136.599814,
-      "distance_km": 5.37,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30b3\u30b3\u30b9 \u9234\u9e7f\u4e2d\u592e\u5e97",
       "category": "restaurant",
       "lat": 34.87634041,
@@ -3018,22 +1818,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "\u30aa\u30ec\u30f3\u30b8\u30da\u30b3\u30fc\u55ab\u8336",
-      "category": "cafe",
-      "lat": 34.86019688,
-      "lng": 136.48509856,
-      "distance_km": 5.44,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u5ddd\u6238\u7d05\u8336",
-      "category": "coffee_shop",
-      "lat": 34.86025175,
-      "lng": 136.4851055,
-      "distance_km": 5.45,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30e9\u30fc\u30e1\u30f3\u9b41\u529b\u5c4b",
       "category": "fast_food_restaurant",
       "lat": 34.8786074,
@@ -3048,14 +1832,6 @@
       "lng": 136.5307255,
       "distance_km": 5.49,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Luana",
-      "category": "cafe",
-      "lat": 34.84079023,
-      "lng": 136.60179563,
-      "distance_km": 5.55,
-      "food_group": "cafe"
     },
     {
       "name": "\u57dc\u83f4",
@@ -3082,22 +1858,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u3057\u3083\u3076\u3057\u3083\u3076 \u3059\u304d\u713c\u304d \u307e\u3068\u5834",
-      "category": "restaurant",
-      "lat": 34.877036,
-      "lng": 136.587173,
-      "distance_km": 5.66,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u55ab\u8336\u30c4\u30eb",
-      "category": "coffee_shop",
-      "lat": 34.88229034,
-      "lng": 136.58123621,
-      "distance_km": 5.7,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30de\u30a4\u30eb\u30c9",
       "category": "coffee_shop",
       "lat": 34.79200244,
@@ -3106,34 +1866,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u5927\u4ebaCafe \u30ec\u30e8\u30f3",
-      "category": "cafe",
-      "lat": 34.87114887,
-      "lng": 136.48842474,
-      "distance_km": 5.72,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u55ab\u8336\u30b1\u30bb\u30e9\u30bb\u30e9",
-      "category": "cafe",
-      "lat": 34.88344302,
-      "lng": 136.58001115,
-      "distance_km": 5.73,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30ab\u30eb\u30c7\u30a3\u30fc",
       "category": "cafe",
       "lat": 34.8814157,
       "lng": 136.58348891,
-      "distance_km": 5.76,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Lien \u30a4\u30de\u30c9\u30ad",
-      "category": "cafe",
-      "lat": 34.88141905,
-      "lng": 136.583488,
       "distance_km": 5.76,
       "food_group": "cafe"
     },
@@ -3162,30 +1898,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30b7\u30eb\u30af\u30ed\u30fc\u30c9",
-      "category": "coffee_shop",
-      "lat": 34.79092877,
-      "lng": 136.54624309,
-      "distance_km": 5.82,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Bikou Coffee",
-      "category": "coffee_shop",
-      "lat": 34.8557038,
-      "lng": 136.47891206,
-      "distance_km": 5.84,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30b5\u30e9\u30c0\u306e\u304d\u3082\u3061",
-      "category": "cafe",
-      "lat": 34.85786459034857,
-      "lng": 136.47961747865023,
-      "distance_km": 5.84,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u4e9c\u6708",
       "category": "cafe",
       "lat": 34.88265631,
@@ -3202,36 +1914,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Rotary",
-      "category": "restaurant",
-      "lat": 34.88395108,
-      "lng": 136.58186992,
-      "distance_km": 5.88,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "question",
-      "category": "bar",
-      "lat": 34.88401276,
-      "lng": 136.58195038,
-      "distance_km": 5.89,
-      "food_group": "bar"
-    },
-    {
       "name": "\u307f\u307e\u3064",
       "category": "coffee_shop",
       "lat": 34.88316243,
       "lng": 136.58339318,
       "distance_km": 5.9,
       "food_group": "cafe"
-    },
-    {
-      "name": "Chantilly Beach Side Cafe",
-      "category": "restaurant",
-      "lat": 34.84425063,
-      "lng": 136.60564975,
-      "distance_km": 5.9,
-      "food_group": "restaurant"
     },
     {
       "name": "\u30b7\u30fc\u30de\u30ea\u30f3\u3000\u30ec\u30f3\u30bf\u30eb\u30ba",
@@ -3282,59 +1970,11 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Borracho \u307c\u3089\u30fc\u3061\u3087",
-      "category": "restaurant",
-      "lat": 34.84659576416,
-      "lng": 136.60789489746,
-      "distance_km": 6.12,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Curitiba Mie",
-      "category": "pub",
-      "lat": 34.8849097,
-      "lng": 136.5866533,
-      "distance_km": 6.24,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30ab\u30d5\u30a7\u30aa\u30f3\u30d6\u30e9\u30de\u30a4\u30d5",
       "category": "coffee_shop",
       "lat": 34.78749324,
       "lng": 136.55350445,
       "distance_km": 6.29,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u5317\u91ce\u3042\u3089\u308c",
-      "category": "restaurant",
-      "lat": 34.85147178,
-      "lng": 136.60943073,
-      "distance_km": 6.31,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3064\u30cf\u30c3\u30c1",
-      "category": "cafe",
-      "lat": 34.794991,
-      "lng": 136.504383,
-      "distance_km": 6.31,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30d1\u30c6\u30a3\u30b9\u30ea\u30fc&\u30d6\u30fc\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc \u30e9\u30fb\u30d1\u30eb\u30e0\u30fb\u30c9\u30fc\u30eb",
-      "category": "cafe",
-      "lat": 34.793150336454744,
-      "lng": 136.50653536483318,
-      "distance_km": 6.38,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30a4\u30eb\u30fb\u30de\u30fc\u30ec",
-      "category": "coffee_shop",
-      "lat": 34.85031547,
-      "lng": 136.61119738,
-      "distance_km": 6.46,
       "food_group": "cafe"
     },
     {
@@ -3386,22 +2026,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u9234\u9e7f\u307f\u3069\u308a\u306e\u5927\u5730",
-      "category": "cafe",
-      "lat": 34.8937013,
-      "lng": 136.50055061,
-      "distance_km": 6.73,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30b3\u30b8\u30b3\u30b8",
-      "category": "coffee_shop",
-      "lat": 34.86138458,
-      "lng": 136.47022682,
-      "distance_km": 6.77,
-      "food_group": "cafe"
-    },
-    {
       "name": "cozy-cozy",
       "category": "coffee_shop",
       "lat": 34.86162889,
@@ -3410,52 +2034,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u8efd\u98df\u55ab\u8336\u5ead\u306e\u9ce5",
-      "category": "coffee_shop",
-      "lat": 34.85799245,
-      "lng": 136.46762964,
-      "distance_km": 6.9,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u5f69\u7fbd",
-      "category": "bar",
-      "lat": 34.86932076292772,
-      "lng": 136.47173072589945,
-      "distance_km": 6.96,
-      "food_group": "bar"
-    },
-    {
       "name": "\u6804\u990a\u3054\u306f\u3093\u30e4\u30b7\u306e\u6728\u98df\u5802",
       "category": "restaurant",
       "lat": 34.88567002,
       "lng": 136.48455249,
       "distance_km": 6.99,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Bali Cafe",
-      "category": "cafe",
-      "lat": 34.88566552,
-      "lng": 136.48448813,
-      "distance_km": 7.0,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Cafe Iconi",
-      "category": "cafe",
-      "lat": 34.871709,
-      "lng": 136.472304,
-      "distance_km": 7.03,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u3061\u3087\u3063\u3068\u604b",
-      "category": "bar",
-      "lat": 34.86902139,
-      "lng": 136.47070913,
-      "distance_km": 7.03,
-      "food_group": "bar"
     },
     {
       "name": "\u82f1\u4f1a\u8a71\u304b\u3075\u3047\u30ab\u30ed\u30e9\u30a4\u30ca",
@@ -3474,28 +2058,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u6a39\u91cc",
-      "category": "coffee_shop",
-      "lat": 34.89509626,
-      "lng": 136.59273124,
-      "distance_km": 7.46,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30b3\u30df\u30e5\u30cb\u30c6\u30a3Cafe\u3076\u3093\u3076\u3093",
       "category": "cafe",
       "lat": 34.8482694,
       "lng": 136.4580639,
       "distance_km": 7.59,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u7acb\u3061\u5451\u307f\u9152\u5834\u3000\u30b9\u30bf\u30f3\u30c9\u6e80\u8239\u5c4b",
-      "category": "bar",
-      "lat": 34.8536831,
-      "lng": 136.4585539,
-      "distance_km": 7.62,
-      "food_group": "bar"
     },
     {
       "name": "\u30ec\u30b9\u30c8\u30e9\u30f3\u30df\u30e4\u30b3",
@@ -3506,100 +2074,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u4e09\u91cd\u73c8\u7432",
-      "category": "cafe",
-      "lat": 34.85207897,
-      "lng": 136.45773634,
-      "distance_km": 7.66,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30b9\u30aa\u30fc",
-      "category": "restaurant",
-      "lat": 34.9114435,
-      "lng": 136.5515371,
-      "distance_km": 7.66,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30ab\u30e4\u30de\u30b3\u30fc\u30d2\u30fc",
-      "category": "coffee_shop",
-      "lat": 34.852367401123,
-      "lng": 136.45774841309,
-      "distance_km": 7.67,
-      "food_group": "cafe"
-    },
-    {
       "name": "Mana",
       "category": "cafe",
       "lat": 34.77485248,
       "lng": 136.52898584,
       "distance_km": 7.67,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u30ec\u30b9\u30c8\u30e9\u30f3\u30b9\u30aa\u30fc",
-      "category": "restaurant",
-      "lat": 34.91172847,
-      "lng": 136.55154984,
-      "distance_km": 7.69,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5409\u5099\u8def",
-      "category": "bar",
-      "lat": 34.85419012,
-      "lng": 136.45754255,
-      "distance_km": 7.71,
-      "food_group": "bar"
-    },
-    {
-      "name": "Cassia \u30ab\u30b7\u30a2",
-      "category": "bar",
-      "lat": 34.8541803,
-      "lng": 136.4575261,
-      "distance_km": 7.72,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d0\u30f3\u30c9\u30fc\u30eb\u6b27\u98a8\u5bb6\u5ead\u6599\u7406",
-      "category": "restaurant",
-      "lat": 34.84153433,
-      "lng": 136.45631866,
-      "distance_km": 7.73,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30d7\u30c1",
-      "category": "cafe",
-      "lat": 34.8517543,
-      "lng": 136.45632363,
-      "distance_km": 7.79,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Obanzaika Puchi",
-      "category": "restaurant",
-      "lat": 34.85176575,
-      "lng": 136.45630133,
-      "distance_km": 7.79,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5b99",
-      "category": "bar",
-      "lat": 34.85264339,
-      "lng": 136.4560339,
-      "distance_km": 7.83,
-      "food_group": "bar"
-    },
-    {
-      "name": "Grilled Beef Tarafuku Kameyama",
-      "category": "restaurant",
-      "lat": 34.8521,
-      "lng": 136.45571,
-      "distance_km": 7.85,
-      "food_group": "restaurant"
     },
     {
       "name": "\u6d0b\u83d3\u5b50&\u30d1\u30f3\u3000\u30b7\u30e3\u30c8\u30fc",
@@ -3631,38 +2111,6 @@
       "lat": 34.8547995,
       "lng": 136.4544536,
       "distance_km": 8.0,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Kameyama-juku",
-      "category": "restaurant",
-      "lat": 34.8547995,
-      "lng": 136.4544536,
-      "distance_km": 8.0,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7\u30ec\u30b9\u30c8\u30e9\u30f3 \u30b5\u30f3\u30d7\u30e9\u30b6",
-      "category": "coffee_shop",
-      "lat": 34.8531091,
-      "lng": 136.45351051,
-      "distance_km": 8.06,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ad\u30c3\u30c1\u30f3\u30b5\u30fc\u30d3\u30b9\u30fb\u30b3\u30a2",
-      "category": "restaurant",
-      "lat": 34.78744588,
-      "lng": 136.4837207,
-      "distance_km": 8.1,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u4e14\u5ea7",
-      "category": "coffee_shop",
-      "lat": 34.8617312,
-      "lng": 136.45481428,
-      "distance_km": 8.13,
       "food_group": "cafe"
     },
     {
@@ -3703,30 +2151,6 @@
       "lat": 34.85193105,
       "lng": 136.45087416,
       "distance_km": 8.28,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u85e4\u82b1\u5ead",
-      "category": "restaurant",
-      "lat": 34.9059026,
-      "lng": 136.59087247,
-      "distance_km": 8.33,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u6e6f\u9738\u9f9c\u5c71\u5e97",
-      "category": "restaurant",
-      "lat": 34.85,
-      "lng": 136.45,
-      "distance_km": 8.34,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3044\u3061\u3058\u304f\u306e\u5b9f",
-      "category": "coffee_shop",
-      "lat": 34.90690334,
-      "lng": 136.5912308,
-      "distance_km": 8.45,
       "food_group": "cafe"
     },
     {
@@ -3786,43 +2210,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u5c45\u9152\u5c4b\u548c",
-      "category": "bar",
-      "lat": 34.87770271,
-      "lng": 136.62795657,
-      "distance_km": 8.82,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b9\u30ac\u30ad\u30e4",
-      "category": "restaurant",
-      "lat": 34.76397752,
-      "lng": 136.53428532,
-      "distance_km": 8.82,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30ab\u30e1\u30e4\u30de\u30ed\u30fc\u30bd\u30af",
-      "category": "bar",
-      "lat": 34.85184222000001,
-      "lng": 136.444592,
-      "distance_km": 8.85,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30a8\u30b8\u30bd\u30f3\u4f11\u61a9\u6240",
       "category": "cafe",
       "lat": 34.867137,
       "lng": 136.448413,
       "distance_km": 8.86,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u68ee",
-      "category": "cafe",
-      "lat": 34.855814,
-      "lng": 136.443886,
-      "distance_km": 8.97,
       "food_group": "cafe"
     },
     {
@@ -3866,14 +2258,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Bread and Coffee Te-Te",
-      "category": "cafe",
-      "lat": 34.76000661,
-      "lng": 136.52524181,
-      "distance_km": 9.35,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30ab\u30d5\u30a7\u30ec\u30b9\u30c8\u3052\u3044\u306e\u3046",
       "category": "cafe",
       "lat": 34.81481547,
@@ -3888,22 +2272,6 @@
       "lng": 136.44694626,
       "distance_km": 9.48,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u548c\u6d0b\u30c0\u30a4\u30cb\u30f3\u30b0 \u307f\u304f\u3089",
-      "category": "restaurant",
-      "lat": 34.778416,
-      "lng": 136.47194,
-      "distance_km": 9.56,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u4f0a\u52e2\u3046\u3069\u3093ga\u30d1\u30f3",
-      "category": "cafe",
-      "lat": 34.7780114,
-      "lng": 136.472155,
-      "distance_km": 9.59,
-      "food_group": "cafe"
     },
     {
       "name": "\u98db\u8eca\u89d2",
@@ -3922,30 +2290,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Baby Face Planet",
-      "category": "restaurant",
-      "lat": 34.80634886,
-      "lng": 136.44585952,
-      "distance_km": 9.6,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5bfaCafe \u84ee\u5fc3\u5eb5",
-      "category": "cafe",
-      "lat": 34.762057,
-      "lng": 136.503589,
-      "distance_km": 9.64,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u307a\u3071\u3042\u3089\u3093\u3069\u30c8\u30de\u30c8",
-      "category": "cafe",
-      "lat": 34.760213912141936,
-      "lng": 136.51014097323124,
-      "distance_km": 9.64,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u305f\u3086\u305f\u3046",
       "category": "cafe",
       "lat": 34.762785771175,
@@ -3954,27 +2298,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u3068\u308a\u3044\u3061 \u6d25\u5927\u91cc\u5e97",
-      "category": "restaurant",
-      "lat": 34.766859,
-      "lng": 136.488028,
-      "distance_km": 9.76,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Cafe Iconi",
       "category": "cafe",
       "lat": 34.80409124283911,
       "lng": 136.445020765705,
       "distance_km": 9.78,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u73c8\u7432\u3053\u3053\u308d",
-      "category": "cafe",
-      "lat": 34.76083064,
-      "lng": 136.50263195,
-      "distance_km": 9.8,
       "food_group": "cafe"
     },
     {
@@ -4010,14 +2338,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u7740\u7269\u306e\u518d\u30c7\u30d3\u30e5\u30fc\u8a08\u753b  \u300c\u3075\u3058\u305c\u3093\u300d",
-      "category": "restaurant",
-      "lat": 34.7570043,
-      "lng": 136.5062761,
-      "distance_km": 10.08,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u611b\u6210\u30d9\u30ea\u30fc&\u30ab\u30d5\u30a7",
       "category": "cafe",
       "lat": 34.93366285,
@@ -4031,14 +2351,6 @@
       "lat": 34.751719706252,
       "lng": 136.52257370806,
       "distance_km": 10.3,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Mirai Seeds Specialty Coffees",
-      "category": "coffee_shop",
-      "lat": 34.82165022,
-      "lng": 136.43012967,
-      "distance_km": 10.4,
       "food_group": "cafe"
     },
     {
@@ -4074,14 +2386,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "\u30c8\u30f3\u30ac\u30e9\u30b7",
-      "category": "bar",
-      "lat": 34.927942,
-      "lng": 136.593007,
-      "distance_km": 10.56,
-      "food_group": "bar"
-    },
-    {
       "name": "\u7af9\u5c3e\u8336\u696d",
       "category": "coffee_shop",
       "lat": 34.83300018310547,
@@ -4098,44 +2402,12 @@
       "food_group": "bar"
     },
     {
-      "name": "TOMIYYA",
-      "category": "restaurant",
-      "lat": 34.7490885,
-      "lng": 136.52093756,
-      "distance_km": 10.61,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5929\u5922",
-      "category": "bar",
-      "lat": 34.904236,
-      "lng": 136.631495,
-      "distance_km": 10.69,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d4\u30fc\u30a2\u30f3\u30c9\u30d3\u30fc",
-      "category": "cafe",
-      "lat": 34.7548937,
-      "lng": 136.49372832,
-      "distance_km": 10.72,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u6960\u98ef\u5e97",
       "category": "restaurant",
       "lat": 34.90471311,
       "lng": 136.63215243,
       "distance_km": 10.77,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u3082\u304f\u308c\u3093",
-      "category": "bar",
-      "lat": 34.9312376,
-      "lng": 136.59015785,
-      "distance_km": 10.78,
-      "food_group": "bar"
     },
     {
       "name": "\u677e\u5c4b\u5546\u5e97",
@@ -4154,60 +2426,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30b3\u30e1\u30c0\u73c8\u7432 \u56db\u65e5\u5e02\u53e4\u5c0f\u66fd\u5e97",
-      "category": "cafe",
-      "lat": 34.92874270210036,
-      "lng": 136.59788003068383,
-      "distance_km": 10.84,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30b9\u30ca\u30c3\u30afQueen",
-      "category": "pub",
-      "lat": 34.7464163,
-      "lng": 136.5229884,
-      "distance_km": 10.88,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u9234\u9e7fIC",
-      "category": "fast_food_restaurant",
-      "lat": 34.931675,
-      "lng": 136.4896479,
-      "distance_km": 10.91,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "\u30b8\u30e3\u30f3\u30ac\u4e09\u56db\u90ce",
-      "category": "bar",
-      "lat": 34.74638637,
-      "lng": 136.52062213,
-      "distance_km": 10.91,
-      "food_group": "bar"
-    },
-    {
       "name": "\u65b0\u6642\u4ee3\u3000\u4e09\u91cd\u5927\u524d\u5e97",
       "category": "restaurant",
       "lat": 34.74648904603343,
       "lng": 136.5199641323219,
       "distance_km": 10.91,
       "food_group": "restaurant"
-    },
-    {
-      "name": "Sangria",
-      "category": "restaurant",
-      "lat": 34.74646069,
-      "lng": 136.5139338,
-      "distance_km": 11.03,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3069\u3093\u3050\u308a",
-      "category": "bar",
-      "lat": 34.93110635,
-      "lng": 136.59838381,
-      "distance_km": 11.1,
-      "food_group": "bar"
     },
     {
       "name": "\u84bc\u306e\u6708",
@@ -4231,14 +2455,6 @@
       "lat": 34.74815976,
       "lng": 136.50279528,
       "distance_km": 11.12,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "\u5409\u91ce\u5bb6",
-      "category": "fast_food_restaurant",
-      "lat": 34.74454439,
-      "lng": 136.51910287,
-      "distance_km": 11.14,
       "food_group": "fast_food"
     },
     {
@@ -4306,14 +2522,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "cohak",
-      "category": "restaurant",
-      "lat": 34.93049055,
-      "lng": 136.47714637,
-      "distance_km": 11.33,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30df\u30b2\u30eb\u30d5\u30a2\u30cb\u306a\u3093\u3070\u30c0\u30a4\u30cb\u30f3\u30b0\u30e1\u30be\u30f3",
       "category": "restaurant",
       "lat": 34.7442728,
@@ -4338,38 +2546,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u30df\u30eb\u30ad\u30fc",
-      "category": "coffee_shop",
-      "lat": 34.94503229,
-      "lng": 136.53490252,
-      "distance_km": 11.35,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Guten Appetit",
-      "category": "restaurant",
-      "lat": 34.940613,
-      "lng": 136.577683,
-      "distance_km": 11.35,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30a8\u30b9\u30dd\u30a2\u30fc\u30eb",
-      "category": "coffee_shop",
-      "lat": 34.91609262,
-      "lng": 136.62820209,
-      "distance_km": 11.36,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u7b2c7\u98df\u5802",
-      "category": "restaurant",
-      "lat": 34.74251649,
-      "lng": 136.51876929,
-      "distance_km": 11.37,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Spice Restaurant Charm",
       "category": "restaurant",
       "lat": 34.74241491,
@@ -4386,52 +2562,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Lilac",
-      "category": "bar",
-      "lat": 34.7430783,
-      "lng": 136.51425192,
-      "distance_km": 11.39,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30b3\u30e1\u30c0\u73c8\u7432\u5e97\u6d25\u30fb\u770c\u7dcf\u5408\u6587\u5316\u30bb\u30f3\u30bf\u30fc\u524d\u5e97",
       "category": "coffee_shop",
       "lat": 34.74468213,
       "lng": 136.50602459,
       "distance_km": 11.4,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u30ad\u30fc\u30b9.\u30ab\u30f3\u30c8\u30ea\u30fc\u30ab\u30d5\u30a7",
-      "category": "cafe",
-      "lat": 34.938151,
-      "lng": 136.492862,
-      "distance_km": 11.44,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u6c5f\u6238\u6a4b \u305b\u3093\u3079\u308d",
-      "category": "bar",
-      "lat": 34.74251045,
-      "lng": 136.51474378,
-      "distance_km": 11.44,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u304b\u3081\u3084\u307e\u5730\u30d3\u30fc\u30eb\u4e7e\u676f\u306e\u3046\u305f",
-      "category": "restaurant",
-      "lat": 34.85855941,
-      "lng": 136.41664563,
-      "distance_km": 11.48,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5b89\u5168",
-      "category": "restaurant",
-      "lat": 34.85855572,
-      "lng": 136.4166433,
-      "distance_km": 11.48,
-      "food_group": "restaurant"
     },
     {
       "name": "\u30c7\u30a4\u30b5\u30fc\u30d3\u30b9\u306f\u3089\u304b\u3089",
@@ -4450,27 +2586,11 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u55ab\u8336\u3067\u3081\u3067\u3081",
-      "category": "restaurant",
-      "lat": 34.94653888,
-      "lng": 136.52796045,
-      "distance_km": 11.56,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Riz Cafe",
       "category": "cafe",
       "lat": 34.74389542,
       "lng": 136.50167194,
       "distance_km": 11.6,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Poseidon",
-      "category": "cafe",
-      "lat": 34.75117021,
-      "lng": 136.48079684,
-      "distance_km": 11.61,
       "food_group": "cafe"
     },
     {
@@ -4498,26 +2618,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u6d0b\u98df\u5c4b\u30b0\u30eb\u30de\u30f3",
-      "category": "restaurant",
-      "lat": 34.73878396,
-      "lng": 136.52239661,
-      "distance_km": 11.72,
-      "food_group": "restaurant"
-    },
-    {
       "name": "ci patisserie cake & sweet",
       "category": "coffee_shop",
       "lat": 34.94560558,
       "lng": 136.57294877,
-      "distance_km": 11.76,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u533f\u540d -Tokumei",
-      "category": "cafe",
-      "lat": 34.945398342292,
-      "lng": 136.57355277595,
       "distance_km": 11.76,
       "food_group": "cafe"
     },
@@ -4554,14 +2658,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "SAN Coffee Shop",
-      "category": "coffee_shop",
-      "lat": 34.86773661,
-      "lng": 136.41430664,
-      "distance_km": 11.88,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u5009\u5f0f\u73c8\u7432\u5e97 \u30a4\u30aa\u30f3\u30bf\u30a6\u30f3\u56db\u65e5\u5e02\u6cca\u5e97",
       "category": "coffee_shop",
       "lat": 34.938318,
@@ -4574,14 +2670,6 @@
       "category": "coffee_shop",
       "lat": 34.92973542,
       "lng": 136.6179677,
-      "distance_km": 11.92,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Bisuyuu Cafe",
-      "category": "cafe",
-      "lat": 34.93819761,
-      "lng": 136.60142918,
       "distance_km": 11.92,
       "food_group": "cafe"
     },
@@ -4600,14 +2688,6 @@
       "lng": 136.60158,
       "distance_km": 11.96,
       "food_group": "fast_food"
-    },
-    {
-      "name": "caffe dolce",
-      "category": "coffee_shop",
-      "lat": 34.73750802,
-      "lng": 136.51542424,
-      "distance_km": 11.97,
-      "food_group": "cafe"
     },
     {
       "name": "\u6738\u3082\u304f\u3081",
@@ -4634,14 +2714,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30a4\u30f3\u30c9\u30ec\u30b9\u30c8\u30e9\u30f3\u30ca\u30f3\u30cf\u30a6\u30b9\u30a4\u30aa\u30f3\u30bf\u30a6\u30f3\u56db\u65e5\u5e02\u6cca\u5e97",
-      "category": "restaurant",
-      "lat": 34.939023601988545,
-      "lng": 136.60130722922196,
-      "distance_km": 12.0,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30d0\u30ed\u30f3",
       "category": "cafe",
       "lat": 34.73732332,
@@ -4658,44 +2730,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30a2\u30fc\u30d0\u30f3\u30ab\u30d5\u30a7",
-      "category": "coffee_shop",
-      "lat": 34.73665207,
-      "lng": 136.51840682,
-      "distance_km": 12.01,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u30d5\u30e9\u30a4\u30c9\u30c1\u30ad\u30f3",
       "category": "fast_food_restaurant",
       "lat": 34.73665652,
       "lng": 136.51840071,
       "distance_km": 12.01,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u30d4\u30cd\u30fc\u30c9 \u30a4\u30aa\u30f3\u6d25\u5e97",
-      "category": "restaurant",
-      "lat": 34.73656706524073,
-      "lng": 136.51850690127299,
-      "distance_km": 12.02,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3071\u308b\u3057\u304a\u306f\u307e",
-      "category": "coffee_shop",
-      "lat": 34.93038878,
-      "lng": 136.61890348,
-      "distance_km": 12.03,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Nest",
-      "category": "cafe",
-      "lat": 34.94529574,
-      "lng": 136.58446596,
-      "distance_km": 12.04,
-      "food_group": "cafe"
     },
     {
       "name": "\u73c8\u7432\u5c4b\u3089\u3093\u3077 \u56db\u65e5\u5e02\u6cca\u5e97",
@@ -4706,44 +2746,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30ab\u30cd\u30c3\u30ab\u30a1",
-      "category": "restaurant",
-      "lat": 34.93144534782489,
-      "lng": 136.6186011677552,
-      "distance_km": 12.11,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u30d5\u30e9\u30a4\u30c9\u30c1\u30ad\u30f3",
       "category": "fast_food_restaurant",
       "lat": 34.940084,
       "lng": 136.601429,
       "distance_km": 12.11,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u6843\u592a\u90ce\u5869\u6d5c\u4e2d\u91cc\u5e97",
-      "category": "cafe",
-      "lat": 34.93154957947433,
-      "lng": 136.6185639455075,
-      "distance_km": 12.12,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Babyface planets \u56db\u65e5\u5e02\u5e97",
-      "category": "restaurant",
-      "lat": 34.94020512000704,
-      "lng": 136.6014672549796,
-      "distance_km": 12.12,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u65e5\u5370\u98df\u54c1\u958b\u767a",
-      "category": "restaurant",
-      "lat": 34.94317451,
-      "lng": 136.5938169,
-      "distance_km": 12.13,
-      "food_group": "restaurant"
     },
     {
       "name": "Riderscafe AS ONE",
@@ -4778,38 +2786,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30b5\u30ed\u30f3\u30ab\u30d5\u30a7 \u9999\u97f3",
-      "category": "cafe",
-      "lat": 34.94261482,
-      "lng": 136.59895619,
-      "distance_km": 12.26,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Bar Rosso",
-      "category": "bar",
-      "lat": 34.73567,
-      "lng": 136.510953,
-      "distance_km": 12.26,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u65e5\u672c\u30a2\u30a8\u30ed\u30b8\u30eb\u5869\u6d5c\u30af\u30e9\u30d6",
-      "category": "bar",
-      "lat": 34.9282577,
-      "lng": 136.62649743,
-      "distance_km": 12.27,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u9903\u5b50\u306e\u5e97\u6e80\u5dde",
-      "category": "restaurant",
-      "lat": 34.931201,
-      "lng": 136.622586,
-      "distance_km": 12.3,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u9ad8\u91ce\u30b3\u30fc\u30d2\u30fc\u8c46\u8ca9\u58f2",
       "category": "coffee_shop",
       "lat": 34.73465132,
@@ -4818,36 +2794,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u3058\u3041\u3093\u304c\u9152\u5834",
-      "category": "bar",
-      "lat": 34.93682,
-      "lng": 136.61285,
-      "distance_km": 12.31,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3082\u304f\u3082\u304f",
-      "category": "bar",
-      "lat": 34.95230553,
-      "lng": 136.56384572,
-      "distance_km": 12.32,
-      "food_group": "bar"
-    },
-    {
       "name": "\u3059\u304d\u5bb6",
       "category": "fast_food_restaurant",
       "lat": 34.93011039,
       "lng": 136.62490377,
       "distance_km": 12.34,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u3044\u307e\u5bb6",
-      "category": "bar",
-      "lat": 34.93159555,
-      "lng": 136.62255186,
-      "distance_km": 12.34,
-      "food_group": "bar"
     },
     {
       "name": "\u30eb\u30fb\u30d9\u30fc\u30eb \u30a2\u30b9\u30c8\u5e97",
@@ -4863,14 +2815,6 @@
       "lat": 34.73493455,
       "lng": 136.50986598,
       "distance_km": 12.36,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Caffe Cappuccio Amare",
-      "category": "cafe",
-      "lat": 34.734470209775175,
-      "lng": 136.5113580188675,
-      "distance_km": 12.38,
       "food_group": "cafe"
     },
     {
@@ -4922,44 +2866,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u8c5a\u5320\u521d\u4ee3\u751a\u56db\u90ce",
-      "category": "restaurant",
-      "lat": 34.73345452,
-      "lng": 136.51541484,
-      "distance_km": 12.41,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u306f\u306a\u306e\u821e\u6d25\u99c5\u524d\u5e97",
-      "category": "bar",
-      "lat": 34.73405256,
-      "lng": 136.51171203,
-      "distance_km": 12.42,
-      "food_group": "bar"
-    },
-    {
       "name": "Stone & Cafe Ange",
       "category": "cafe",
       "lat": 34.95158934,
       "lng": 136.574933,
       "distance_km": 12.45,
       "food_group": "cafe"
-    },
-    {
-      "name": "Malibu",
-      "category": "bar",
-      "lat": 34.94553685,
-      "lng": 136.59619446,
-      "distance_km": 12.45,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3068\u308a\u91d1 the 2nd \u6d25\u99c5\u6771\u53e3",
-      "category": "bar",
-      "lat": 34.73355511,
-      "lng": 136.51239241,
-      "distance_km": 12.46,
-      "food_group": "bar"
     },
     {
       "name": "\u30c9\u30c8\u30fc\u30eb\u30b3\u30fc\u30d2\u30fc\u30b7\u30e7\u30c3\u30d7 \u6d25\u99c5",
@@ -5002,22 +2914,6 @@
       "food_group": "bar"
     },
     {
-      "name": "88 Cafe",
-      "category": "cafe",
-      "lat": 34.9458456,
-      "lng": 136.59608369,
-      "distance_km": 12.48,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Cat Cafe 285",
-      "category": "cafe",
-      "lat": 34.73197496,
-      "lng": 136.52110781,
-      "distance_km": 12.49,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u9152\u697d",
       "category": "bar",
       "lat": 34.93187123,
@@ -5032,14 +2928,6 @@
       "lng": 136.60301098,
       "distance_km": 12.49,
       "food_group": "bar"
-    },
-    {
-      "name": "\u30b7\u30e3\u30eb\u30dc\u30f3\u30fb\u30c7\u30fb\u30dc\u30a2",
-      "category": "restaurant",
-      "lat": 34.73386231,
-      "lng": 136.50886813,
-      "distance_km": 12.5,
-      "food_group": "restaurant"
     },
     {
       "name": "\u5343\u96c5",
@@ -5074,22 +2962,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "winebar las",
-      "category": "bar",
-      "lat": 34.7329787,
-      "lng": 136.51272143,
-      "distance_km": 12.51,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u5c71\u6ce2\u5b50\u5c4b",
-      "category": "bar",
-      "lat": 34.73324227,
-      "lng": 136.51104843,
-      "distance_km": 12.52,
-      "food_group": "bar"
-    },
-    {
       "name": "\u512a\u6708",
       "category": "restaurant",
       "lat": 34.73314665,
@@ -5098,52 +2970,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u4e32\u3082\u3093\u5bb6\u30fb\u3084\u3063\u3066\u308b\u3088",
-      "category": "bar",
-      "lat": 34.73322774,
-      "lng": 136.51096773,
-      "distance_km": 12.52,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30f2\u30f3",
-      "category": "bar",
-      "lat": 34.73318482,
-      "lng": 136.51102662,
-      "distance_km": 12.52,
-      "food_group": "bar"
-    },
-    {
-      "name": "Bar Taillevent",
-      "category": "bar",
-      "lat": 34.73305783,
-      "lng": 136.51221085,
-      "distance_km": 12.52,
-      "food_group": "bar"
-    },
-    {
       "name": "\u65e5\u672c\u9152 \u306e\u307f\u305f\u3044\u5c4b",
       "category": "bar",
       "lat": 34.732965,
       "lng": 136.512746,
       "distance_km": 12.52,
       "food_group": "bar"
-    },
-    {
-      "name": "\u3066\u3070\u305e\u3046",
-      "category": "bar",
-      "lat": 34.73312007,
-      "lng": 136.51101022,
-      "distance_km": 12.53,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3068\u308d\u308a\u5929\u4f7f\u306e\u308f\u3089\u3073\u3082\u3061 \u6d25\u5e97",
-      "category": "cafe",
-      "lat": 34.733358,
-      "lng": 136.508738,
-      "distance_km": 12.55,
-      "food_group": "cafe"
     },
     {
       "name": "\u306a\u3064\u3081\u85ac\u5c40 cafe\u85ac\u98df\u540c\u6e90",
@@ -5178,58 +3010,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u6696\u6642\u3084",
-      "category": "bar",
-      "lat": 34.7327644,
-      "lng": 136.51135622,
-      "distance_km": 12.56,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b8\u30e7\u30fc\u30ba\u30d0\u30fc",
-      "category": "bar",
-      "lat": 34.73277671,
-      "lng": 136.51139629,
-      "distance_km": 12.56,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6c11\u82b8\u5c45\u9152\u5c4b\u30fb\u304a\u98df\u4e8b\u51e6\u516b\u306e\u5de3",
-      "category": "bar",
-      "lat": 34.73274838,
-      "lng": 136.51086599,
-      "distance_km": 12.58,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b7\u30e3\u30f3\u30d1\u30fc\u30cb\u30e5",
-      "category": "bar",
-      "lat": 34.73259675,
-      "lng": 136.5115668,
-      "distance_km": 12.58,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b9\u30ca\u30c3\u30af \u30d4\u30a2\u30b9",
-      "category": "bar",
-      "lat": 34.73263128,
-      "lng": 136.51082108,
-      "distance_km": 12.59,
-      "food_group": "bar"
-    },
-    {
       "name": "\u864e\u3068\u3055\u304f\u3089",
       "category": "bar",
       "lat": 34.73254885,
       "lng": 136.51118464,
-      "distance_km": 12.59,
-      "food_group": "bar"
-    },
-    {
-      "name": "HINATA\u6d25\u99c5\u524d\u5e97",
-      "category": "bar",
-      "lat": 34.73254618089858,
-      "lng": 136.5111869359892,
       "distance_km": 12.59,
       "food_group": "bar"
     },
@@ -5248,22 +3032,6 @@
       "lng": 136.51079380342,
       "distance_km": 12.6,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u4e00\u671f\u5802Cafe",
-      "category": "cafe",
-      "lat": 34.77100471738175,
-      "lng": 136.43449329803994,
-      "distance_km": 12.6,
-      "food_group": "cafe"
-    },
-    {
-      "name": "BAR NYB NewYork Back Raise \u30dd\u30fc\u30ab\u30fc&\u30b7\u30fc\u30b7\u30e3",
-      "category": "bar",
-      "lat": 34.73245851,
-      "lng": 136.5109184,
-      "distance_km": 12.61,
-      "food_group": "bar"
     },
     {
       "name": "Jo's Bar",
@@ -5298,22 +3066,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "CAPITAL \u90fd",
-      "category": "bar",
-      "lat": 34.73170488,
-      "lng": 136.51078677,
-      "distance_km": 12.69,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u307e\u3064\u304b\u305c",
-      "category": "bar",
-      "lat": 34.73174533,
-      "lng": 136.51076589,
-      "distance_km": 12.69,
-      "food_group": "bar"
-    },
-    {
       "name": "\u3089\u3093\u3077\u6d25\u4e2d\u592e\u5e97",
       "category": "coffee_shop",
       "lat": 34.73659434,
@@ -5338,14 +3090,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u5c45\u9152\u5c4b\u304a\u304b\u3048\u308a \u6d25\u99c5\u897f\u53e3\u5e97",
-      "category": "bar",
-      "lat": 34.73160802,
-      "lng": 136.50896183,
-      "distance_km": 12.74,
-      "food_group": "bar"
-    },
-    {
       "name": "\u672c\u683c\u6d77\u9bae\u5c45\u9152\u5c4b \u306f\u308b\u3084",
       "category": "bar",
       "lat": 34.73120949,
@@ -5367,22 +3111,6 @@
       "lat": 34.951843,
       "lng": 136.58653,
       "distance_km": 12.78,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u307e\u308b\u305f\u3051",
-      "category": "restaurant",
-      "lat": 34.7307571,
-      "lng": 136.51047406,
-      "distance_km": 12.8,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Dining\u4ea4",
-      "category": "restaurant",
-      "lat": 34.73075382,
-      "lng": 136.51050644,
-      "distance_km": 12.8,
       "food_group": "restaurant"
     },
     {
@@ -5418,14 +3146,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u82b1\u54b2",
-      "category": "bar",
-      "lat": 34.73015162,
-      "lng": 136.51058448,
-      "distance_km": 12.86,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30de\u30f3\u30c9\u30eb\u30fc\u30e9",
       "category": "coffee_shop",
       "lat": 34.73047247,
@@ -5442,14 +3162,6 @@
       "food_group": "fast_food"
     },
     {
-      "name": "Casa di Buu",
-      "category": "restaurant",
-      "lat": 34.94987738,
-      "lng": 136.59633879,
-      "distance_km": 12.9,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u53e4\u6c11\u5bb6\u304b\u3075\u3047 \u304d\u30fc\u3077",
       "category": "cafe",
       "lat": 34.8516876,
@@ -5463,14 +3175,6 @@
       "lat": 34.743676,
       "lng": 136.46812503,
       "distance_km": 12.9,
-      "food_group": "cafe"
-    },
-    {
-      "name": "cafe\u5354\u594f\u66f2",
-      "category": "cafe",
-      "lat": 34.72958106,
-      "lng": 136.51142588,
-      "distance_km": 12.91,
       "food_group": "cafe"
     },
     {
@@ -5554,28 +3258,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30e9\u30b9\u30af\u30a8\u30d0\u30b9",
-      "category": "coffee_shop",
-      "lat": 34.93852,
-      "lng": 136.6248,
-      "distance_km": 13.08,
-      "food_group": "cafe"
-    },
-    {
       "name": "\uff11\u53f7\u7dda\u56db\u65e5\u5e02\u5e97",
       "category": "fast_food_restaurant",
       "lat": 34.94762127650073,
       "lng": 136.6069002567828,
       "distance_km": 13.08,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u5927\u97f3\u5c4b",
-      "category": "restaurant",
-      "lat": 34.7368171,
-      "lng": 136.47905528,
-      "distance_km": 13.1,
-      "food_group": "restaurant"
     },
     {
       "name": "\u4e09\u83f1\u30b1\u30df\u30ab\u30eb \u6771\u90a6\u9580",
@@ -5594,14 +3282,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u9152\u5eb5\u6708",
-      "category": "bar",
-      "lat": 34.95069051,
-      "lng": 136.60180241,
-      "distance_km": 13.19,
-      "food_group": "bar"
-    },
-    {
       "name": "\u864e\u4e09\u6cbb",
       "category": "restaurant",
       "lat": 34.95068202,
@@ -5616,14 +3296,6 @@
       "lng": 136.39589188,
       "distance_km": 13.28,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u30b3\u30fc\u30d2\u30fc\u5c4b\u30cb\u30b3",
-      "category": "coffee_shop",
-      "lat": 34.95439378,
-      "lng": 136.59559951,
-      "distance_km": 13.34,
-      "food_group": "cafe"
     },
     {
       "name": "CoCo\u58f1\u756a\u5c4b",
@@ -5642,36 +3314,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u4e38\u30ce\u5185\u30a2\u30aa\u30ae\u30ea\u5f01\u5f53",
-      "category": "restaurant",
-      "lat": 34.724763459577794,
-      "lng": 136.51386191553843,
-      "distance_km": 13.39,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Cafe\u30fbde\u30fbbeans",
-      "category": "cafe",
-      "lat": 34.72560457354629,
-      "lng": 136.5063297020513,
-      "distance_km": 13.44,
-      "food_group": "cafe"
-    },
-    {
       "name": "Paisible",
       "category": "coffee_shop",
       "lat": 34.96039393,
       "lng": 136.57671247,
       "distance_km": 13.44,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u56db\u65e5\u5e02\u8fce\u8cd3\u9928\uff3a\uff25\uff2e",
-      "category": "restaurant",
-      "lat": 34.95748528,
-      "lng": 136.59023135,
-      "distance_km": 13.49,
-      "food_group": "restaurant"
     },
     {
       "name": "\u306a\u304b\u536f \u6d25\u4e59\u90e8\u5e97",
@@ -5706,14 +3354,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u304a\u591a\u798f",
-      "category": "restaurant",
-      "lat": 34.94668565,
-      "lng": 136.62070313,
-      "distance_km": 13.62,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Colorful Coffee",
       "category": "coffee_shop",
       "lat": 34.7360307,
@@ -5730,75 +3370,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Jin",
-      "category": "coffee_shop",
-      "lat": 34.73600016,
-      "lng": 136.46845012,
-      "distance_km": 13.63,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30da\u30d1\u30fc\u30df\u30f3\u30c8",
-      "category": "coffee_shop",
-      "lat": 34.72280112,
-      "lng": 136.5101882,
-      "distance_km": 13.67,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30b7\u30e3\u30ed\u30fc\u30e0",
-      "category": "cafe",
-      "lat": 34.84955551,
-      "lng": 136.39143629,
-      "distance_km": 13.67,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u82b1\u91cc",
-      "category": "coffee_shop",
-      "lat": 34.96596929,
-      "lng": 136.53229384,
-      "distance_km": 13.69,
-      "food_group": "cafe"
-    },
-    {
-      "name": "KEITH",
-      "category": "cafe",
-      "lat": 34.722700093376936,
-      "lng": 136.50936757323123,
-      "distance_km": 13.7,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Denmaru",
-      "category": "restaurant",
-      "lat": 34.72145302,
-      "lng": 136.5164219,
-      "distance_km": 13.71,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u4f1d\u4e38 \u6d25\u4e59\u90e8\u5e97",
       "category": "restaurant",
       "lat": 34.72145249,
       "lng": 136.5164252,
       "distance_km": 13.71,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u9b5a\u78ef\u5546\u5e97",
-      "category": "cafe",
-      "lat": 34.72209403858434,
-      "lng": 136.51050951369805,
-      "distance_km": 13.74,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30c0\u30a4\u30cb\u30f3\u30b0 \u5fcd",
-      "category": "restaurant",
-      "lat": 34.72105994,
-      "lng": 136.51761664,
-      "distance_km": 13.74,
       "food_group": "restaurant"
     },
     {
@@ -5810,26 +3386,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "T2\u306e\u83d3\u5b50\u5de5\u623f \u5317\u4e38\u4e4b\u5185\u5e97",
-      "category": "coffee_shop",
-      "lat": 34.721914737301034,
-      "lng": 136.51057183742523,
-      "distance_km": 13.76,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u306a\u304a\u304d\u306e\u305f\u3044\u713c\u304d",
       "category": "coffee_shop",
       "lat": 34.72176385,
       "lng": 136.51141646,
-      "distance_km": 13.76,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ca\u30ac\u30f2\u85ac\u5c40",
-      "category": "coffee_shop",
-      "lat": 34.85285984,
-      "lng": 136.39071323,
       "distance_km": 13.76,
       "food_group": "cafe"
     },
@@ -5850,30 +3410,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u8c46\u306e\u6e6f\u3067\u3059",
-      "category": "bar",
-      "lat": 34.721368560052916,
-      "lng": 136.51106516016387,
-      "distance_km": 13.81,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u5275\u5927\u9580\u5e97",
-      "category": "bar",
-      "lat": 34.72077511,
-      "lng": 136.51429344,
-      "distance_km": 13.82,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3068\u308a\u307c\u3046\u305a",
-      "category": "restaurant",
-      "lat": 34.721196466951,
-      "lng": 136.51166968031,
-      "distance_km": 13.82,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30b8\u30e3\u30b9\u30c8\u30fb\u30b5\u30fc\u30c6\u30a3\u30fc",
       "category": "pub",
       "lat": 34.72096114,
@@ -5890,14 +3426,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u83dc\u98df\u5065\u7f8e\u304a\u3055\u3080",
-      "category": "restaurant",
-      "lat": 34.72039094,
-      "lng": 136.51481879,
-      "distance_km": 13.85,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30b5\u30f3\u30e2\u30ea\u30c3\u30c4",
       "category": "cafe",
       "lat": 34.72068114,
@@ -5910,14 +3438,6 @@
       "category": "coffee_shop",
       "lat": 34.8531919,
       "lng": 136.38964584,
-      "distance_km": 13.86,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u5c0f\u4e07\u8336\u5c4b",
-      "category": "cafe",
-      "lat": 34.85317335,
-      "lng": 136.38959622,
       "distance_km": 13.86,
       "food_group": "cafe"
     },
@@ -5946,46 +3466,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u6d77\u8cca",
-      "category": "restaurant",
-      "lat": 34.72053346,
-      "lng": 136.5119218,
-      "distance_km": 13.89,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30cb\u30e5\u30fc\u30fb\u30b5\u30f3",
-      "category": "pub",
-      "lat": 34.7204988,
-      "lng": 136.51197305,
-      "distance_km": 13.89,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30cf\u30ca\u30b3",
-      "category": "restaurant",
-      "lat": 34.72039556,
-      "lng": 136.51268975,
-      "distance_km": 13.89,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3079\u3063\u3074\u3093\u304b\u3093",
-      "category": "pub",
-      "lat": 34.72036878,
-      "lng": 136.51194524,
-      "distance_km": 13.9,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3055\u304f\u3089",
-      "category": "bar",
-      "lat": 34.71984329,
-      "lng": 136.51530736,
-      "distance_km": 13.9,
-      "food_group": "bar"
-    },
-    {
       "name": "Answer",
       "category": "bar",
       "lat": 34.72033907,
@@ -6010,28 +3490,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30a6\u30c3\u30ad\u30fc\u306f\u3046\u3059",
-      "category": "bar",
-      "lat": 34.71980395,
-      "lng": 136.51471109,
-      "distance_km": 13.92,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30a6\u30fc\u30ce\u30dc\u30fc\u30ce",
       "category": "cafe",
       "lat": 34.85328834,
       "lng": 136.3889317,
       "distance_km": 13.92,
       "food_group": "cafe"
-    },
-    {
-      "name": "Gossip",
-      "category": "restaurant",
-      "lat": 34.72020901,
-      "lng": 136.51158158,
-      "distance_km": 13.93,
-      "food_group": "restaurant"
     },
     {
       "name": "Darts & Dining Bar Fix Daimon",
@@ -6058,42 +3522,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "Tsugaru",
-      "category": "restaurant",
-      "lat": 34.719607,
-      "lng": 136.5155878,
-      "distance_km": 13.93,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30d7\u30ec\u30a4\u30dc\u30fc\u30a4\u30af\u30e9\u30d6",
-      "category": "bar",
-      "lat": 34.71984885,
-      "lng": 136.51316138,
-      "distance_km": 13.94,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30ad\u30e3\u30f3\u30d7\u30d0\u30fc \u30e9\u30f3\u30bf\u30f3",
       "category": "bar",
       "lat": 34.71975135,
       "lng": 136.51369911,
-      "distance_km": 13.94,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30f4\u30a7\u30c8\u30ca\u30e0\u30ab\u30d5\u30a7 \u30a2\u30f3\u30b3\u30e0\u30c1\u30e5\u30a2",
-      "category": "cafe",
-      "lat": 34.719765,
-      "lng": 136.513859,
-      "distance_km": 13.94,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u307e\u3063\u3061\u3083\u3093",
-      "category": "pub",
-      "lat": 34.71976997,
-      "lng": 136.5137051,
       "distance_km": 13.94,
       "food_group": "bar"
     },
@@ -6122,68 +3554,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30b8\u30a7\u30ea\u30fc\u30ba\u30dd\u30c3\u30d7\u30b3\u30fc\u30f3                        Jerrys Lucky Pop Mie",
-      "category": "cafe",
-      "lat": 34.7197828,
-      "lng": 136.5127992,
-      "distance_km": 13.95,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Reason",
-      "category": "bar",
-      "lat": 34.71974329,
-      "lng": 136.51339378,
-      "distance_km": 13.95,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b9\u30af\u30fc\u30d7",
-      "category": "pub",
-      "lat": 34.71960233,
-      "lng": 136.51390285,
-      "distance_km": 13.95,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u304a\u713c\u5c4b",
-      "category": "fast_food_restaurant",
-      "lat": 34.71957283447432,
-      "lng": 136.51407976881856,
-      "distance_km": 13.95,
-      "food_group": "fast_food"
-    },
-    {
       "name": "\u3059\u304d\u5bb6",
       "category": "fast_food_restaurant",
       "lat": 34.72304324,
       "lng": 136.49621155,
       "distance_km": 13.96,
       "food_group": "fast_food"
-    },
-    {
-      "name": "Kirari",
-      "category": "bar",
-      "lat": 34.71984734,
-      "lng": 136.51199427,
-      "distance_km": 13.96,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u76f8\u5e2d Dining Bar Coin",
-      "category": "bar",
-      "lat": 34.7196723,
-      "lng": 136.5130884,
-      "distance_km": 13.96,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d7\u30eb\u30df\u30a8\u30fc\u30eb",
-      "category": "restaurant",
-      "lat": 34.71948221,
-      "lng": 136.51336352,
-      "distance_km": 13.98,
-      "food_group": "restaurant"
     },
     {
       "name": "Bar and Lounge Cart",
@@ -6194,28 +3570,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30d2\u30fc\u30ea\u30f3\u30b0\u30a8\u30e0",
-      "category": "bar",
-      "lat": 34.71952401,
-      "lng": 136.51195181,
-      "distance_km": 13.99,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30d3\u30c3\u30b0\u30d9\u30f3",
       "category": "bar",
       "lat": 34.71969116,
       "lng": 136.51111062,
       "distance_km": 13.99,
       "food_group": "bar"
-    },
-    {
-      "name": "\u73c8\u7432\u5c4b\u7460\u5b87\u79f0",
-      "category": "coffee_shop",
-      "lat": 34.95706764,
-      "lng": 136.60594529,
-      "distance_km": 13.99,
-      "food_group": "cafe"
     },
     {
       "name": "\u30b9\u30ca\u30c3\u30af\u30c1\u30e5\u30fc\u30ea\u30c3\u30d7",
@@ -6234,34 +3594,10 @@
       "food_group": "bar"
     },
     {
-      "name": "paripori.",
-      "category": "bar",
-      "lat": 34.7191617,
-      "lng": 136.51319628,
-      "distance_km": 14.01,
-      "food_group": "bar"
-    },
-    {
       "name": "Darts and American Bar Line",
       "category": "bar",
       "lat": 34.71917154,
       "lng": 136.51273883,
-      "distance_km": 14.02,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30b7\u30e4\u30c8\u30a6",
-      "category": "coffee_shop",
-      "lat": 34.71943044,
-      "lng": 136.5112435,
-      "distance_km": 14.02,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Snow Drop",
-      "category": "bar",
-      "lat": 34.7190856,
-      "lng": 136.5135658,
       "distance_km": 14.02,
       "food_group": "bar"
     },
@@ -6274,30 +3610,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u30d9\u30c8\u30ca\u30e0\u30b3\u30fc\u30d2\u30fc \u30e2\u30af",
-      "category": "cafe",
-      "lat": 34.7198802,
-      "lng": 136.50673202,
-      "distance_km": 14.05,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u9d3b\u306e\u5de3",
-      "category": "pub",
-      "lat": 34.71856179,
-      "lng": 136.51500964,
-      "distance_km": 14.05,
-      "food_group": "bar"
-    },
-    {
-      "name": "\uff46",
-      "category": "restaurant",
-      "lat": 34.71853265,
-      "lng": 136.51497995,
-      "distance_km": 14.05,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Dining EMI",
       "category": "cafe",
       "lat": 34.7189735,
@@ -6306,42 +3618,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u3064\u307f\u304d\u30d7\u30e9\u30b6",
-      "category": "coffee_shop",
-      "lat": 34.71892957,
-      "lng": 136.51125536,
-      "distance_km": 14.07,
-      "food_group": "cafe"
-    },
-    {
-      "name": "CROWS NEST",
-      "category": "bar",
-      "lat": 34.71885809894899,
-      "lng": 136.5118439990452,
-      "distance_km": 14.07,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30e9\u30a4\u30a2\u30fc",
-      "category": "bar",
-      "lat": 34.71885512,
-      "lng": 136.51187149,
-      "distance_km": 14.07,
-      "food_group": "bar"
-    },
-    {
       "name": "\u7119\u714e\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "category": "coffee_shop",
       "lat": 34.72468237,
       "lng": 136.48642563,
-      "distance_km": 14.08,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7\u30d7\u30e9\u30c3\u30c4",
-      "category": "coffee_shop",
-      "lat": 34.7190501,
-      "lng": 136.51024981,
       "distance_km": 14.08,
       "food_group": "cafe"
     },
@@ -6354,51 +3634,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u6850",
-      "category": "coffee_shop",
-      "lat": 34.71866467,
-      "lng": 136.51155964,
-      "distance_km": 14.1,
-      "food_group": "cafe"
-    },
-    {
-      "name": "RestaurantThe venuebarkaraoke",
-      "category": "restaurant",
-      "lat": 34.71853410670661,
-      "lng": 136.51225320667788,
-      "distance_km": 14.1,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Y Coffee",
-      "category": "coffee_shop",
-      "lat": 34.71851979,
-      "lng": 136.51174716,
-      "distance_km": 14.11,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30ec\u30b9\u30c8\u30e9\u30f3\u9ed2\u304c\u306d",
       "category": "restaurant",
       "lat": 34.718510798845,
       "lng": 136.51117801666,
       "distance_km": 14.12,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u4e2d\u6751",
-      "category": "coffee_shop",
-      "lat": 34.71950589,
-      "lng": 136.50449195,
-      "distance_km": 14.14,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Gran De Bar Novel Kamayan",
-      "category": "restaurant",
-      "lat": 34.71836071,
-      "lng": 136.51106169,
-      "distance_km": 14.14,
       "food_group": "restaurant"
     },
     {
@@ -6410,43 +3650,11 @@
       "food_group": "cafe"
     },
     {
-      "name": "Danlo",
-      "category": "cafe",
-      "lat": 34.71809227,
-      "lng": 136.51181541,
-      "distance_km": 14.15,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30b5\u30f3\u30e9\u30f3\u30c1",
-      "category": "restaurant",
-      "lat": 34.71811007,
-      "lng": 136.51172261,
-      "distance_km": 14.15,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Tonku 2",
-      "category": "coffee_shop",
-      "lat": 34.7180629,
-      "lng": 136.51227131,
-      "distance_km": 14.15,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30b4\u30c1\u30a3\u30ab\u30d5\u30a7",
       "category": "cafe",
       "lat": 34.71748438,
       "lng": 136.51397118,
       "distance_km": 14.18,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30c4\u30a1\u30e9\u30c8\u30a5\u30b9\u30c8\u30e9\u30cf\u30ab\u30af\u8a9e\u30ea\u30ad",
-      "category": "cafe",
-      "lat": 34.71748341,
-      "lng": 136.51226292,
-      "distance_km": 14.21,
       "food_group": "cafe"
     },
     {
@@ -6458,44 +3666,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u30b3\u30ca\u30ba\u30ab\u30d5\u30a7 \u6d25",
-      "category": "cafe",
-      "lat": 34.7167,
-      "lng": 136.517,
-      "distance_km": 14.22,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u3068\u308a\u713c\u304d\u5c02\u9580\u5e97\u3000\u4e8c\u4ee3\u76ee\u300c\u305d\u3046\u3058\u308d\u3046\u300d",
       "category": "restaurant",
       "lat": 34.7167,
       "lng": 136.517,
       "distance_km": 14.22,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u30dd\u30eb\u30bf\u30d5\u30a9\u30eb\u30c8\u30a5\u30fc\u30ca",
-      "category": "coffee_shop",
-      "lat": 34.7167,
-      "lng": 136.517,
-      "distance_km": 14.22,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u5451\u3093\u3060\u308a\u98df\u3079\u305f\u308a\u306e\u30ef\u30a4\u30f3\u30d0\u30fc\u3000Ebiiro",
-      "category": "bar",
-      "lat": 34.7167,
-      "lng": 136.517,
-      "distance_km": 14.22,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30e9\u30a6\u30f3\u30b8\u3000\u30b8\u30e5\u30cd\u30b9",
-      "category": "bar",
-      "lat": 34.7167,
-      "lng": 136.517,
-      "distance_km": 14.22,
-      "food_group": "bar"
     },
     {
       "name": "\u6771\u6d0b\u8ed2\u304a\u3082\u3066\u306a\u3057\u30c7\u30b9\u30af",
@@ -6510,14 +3686,6 @@
       "category": "cafe",
       "lat": 34.71721562,
       "lng": 136.51317404,
-      "distance_km": 14.23,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30cf\u30af\u30dc\u30bf\u30f3",
-      "category": "coffee_shop",
-      "lat": 34.71758884,
-      "lng": 136.5105118,
       "distance_km": 14.23,
       "food_group": "cafe"
     },
@@ -6546,14 +3714,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u6771\u6d0b\u8ed2 \u304a\u3082\u3066\u306a\u3057\u30c7\u30b9\u30af\u30fb\u304a\u3082\u3066\u306a\u3057\u6599\u7406\u30bb\u30f3\u30bf\u30fc",
-      "category": "restaurant",
-      "lat": 34.717082,
-      "lng": 136.509504,
-      "distance_km": 14.3,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u98f2\u307f\u55b0\u3044\u51e6\u304b\u304b\u3057",
       "category": "bar",
       "lat": 34.71556776,
@@ -6570,28 +3730,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "kosanji.drop",
-      "category": "coffee_shop",
-      "lat": 34.958920757329444,
-      "lng": 136.6101093003666,
-      "distance_km": 14.34,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30b5\u30f3\u30de\u30eb\u30b3",
       "category": "coffee_shop",
       "lat": 34.71643282,
       "lng": 136.5102514,
       "distance_km": 14.36,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u725b\u305f\u3093\u5c02\u9580\u5e97\u5fd7",
-      "category": "restaurant",
-      "lat": 34.71650632300607,
-      "lng": 136.5097931620153,
-      "distance_km": 14.36,
-      "food_group": "restaurant"
     },
     {
       "name": "Heart Poppo",
@@ -6602,27 +3746,11 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30d7\u30ec\u30fc\u30b4\u30c9\u30a5\u30fc\u30a8",
-      "category": "restaurant",
-      "lat": 34.7162524,
-      "lng": 136.5115636,
-      "distance_km": 14.36,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u6d25\u65b0\u753a\u30a2\u30eb\u30c6\u5e97",
       "category": "fast_food_restaurant",
       "lat": 34.72120823980262,
       "lng": 136.48728641705046,
       "distance_km": 14.41,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9",
-      "category": "fast_food_restaurant",
-      "lat": 34.72102805118302,
-      "lng": 136.4876541112461,
-      "distance_km": 14.42,
       "food_group": "fast_food"
     },
     {
@@ -6666,44 +3794,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30bb\u30fc\u30e9",
-      "category": "coffee_shop",
-      "lat": 34.95798159,
-      "lng": 136.614999,
-      "distance_km": 14.45,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7 \u30d5\u30ed\u30fc\u30e9",
-      "category": "cafe",
-      "lat": 34.71672117,
-      "lng": 136.50349943,
-      "distance_km": 14.46,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u6210\u57ce\u30d1\u30fc\u30e9\u30fc \u6d25\u677e\u83f1\u5e97",
-      "category": "cafe",
-      "lat": 34.71547,
-      "lng": 136.509852,
-      "distance_km": 14.47,
-      "food_group": "cafe"
-    },
-    {
       "name": "3rd Cafe",
       "category": "cafe",
       "lat": 34.71650995,
       "lng": 136.50432984,
       "distance_km": 14.47,
       "food_group": "cafe"
-    },
-    {
-      "name": "Brasserie NA GI SA",
-      "category": "bar",
-      "lat": 34.71486115,
-      "lng": 136.51398959,
-      "distance_km": 14.47,
-      "food_group": "bar"
     },
     {
       "name": "\u3084\u53f0\u305a\u3057 \u6d25\u65b0\u753a",
@@ -6714,22 +3810,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u98a8",
-      "category": "bar",
-      "lat": 34.71489287,
-      "lng": 136.51190057,
-      "distance_km": 14.5,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6642\u91d1\u5c4b",
-      "category": "restaurant",
-      "lat": 34.9693888,
-      "lng": 136.58058513,
-      "distance_km": 14.5,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u7e01\u3084",
       "category": "restaurant",
       "lat": 34.71711485,
@@ -6738,43 +3818,11 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u713c\u9ce5\u7dd1\u3084",
-      "category": "bar",
-      "lat": 34.71714561,
-      "lng": 136.49950312,
-      "distance_km": 14.51,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30eb\u30fc\u30c8",
       "category": "coffee_shop",
       "lat": 34.71714826,
       "lng": 136.49950377,
       "distance_km": 14.51,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u6b63\u7530",
-      "category": "coffee_shop",
-      "lat": 34.71607918,
-      "lng": 136.50444533,
-      "distance_km": 14.51,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Yakiniku Restaurant Ichiban",
-      "category": "restaurant",
-      "lat": 34.7169699,
-      "lng": 136.4999235,
-      "distance_km": 14.52,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30cf\u30c3\u30c8\u30ea\u73c8\u7432",
-      "category": "cafe",
-      "lat": 34.71534122,
-      "lng": 136.50799818,
-      "distance_km": 14.52,
       "food_group": "cafe"
     },
     {
@@ -6791,22 +3839,6 @@
       "lat": 34.71513579,
       "lng": 136.50861073,
       "distance_km": 14.53,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3072\u3060\u307e\u308a\u89aa\u5b50\u30ab\u30d5\u30a7 Pocafe",
-      "category": "cafe",
-      "lat": 34.742911,
-      "lng": 136.438836,
-      "distance_km": 14.53,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Porto Yokkaichi",
-      "category": "restaurant",
-      "lat": 34.952066942623176,
-      "lng": 136.62918726904297,
-      "distance_km": 14.54,
       "food_group": "restaurant"
     },
     {
@@ -6842,28 +3874,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u304a\u5ea7\u6577\u5036\u697d\u90e8",
-      "category": "bar",
-      "lat": 34.71739544924572,
-      "lng": 136.49644620072132,
-      "distance_km": 14.56,
-      "food_group": "bar"
-    },
-    {
       "name": "Sandwich & Cafe Peer",
       "category": "cafe",
       "lat": 34.7162032,
       "lng": 136.50112265,
       "distance_km": 14.57,
       "food_group": "cafe"
-    },
-    {
-      "name": "Takakura",
-      "category": "restaurant",
-      "lat": 34.962421,
-      "lng": 136.60707694,
-      "distance_km": 14.57,
-      "food_group": "restaurant"
     },
     {
       "name": "\u5c45\u9152\u5c4b \u660e\u77f3",
@@ -6874,28 +3890,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Coucou",
-      "category": "cafe",
-      "lat": 34.71537088326653,
-      "lng": 136.50491810751646,
-      "distance_km": 14.58,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u98a8\u6765\u574a\u6d25\u65b0\u753a\u5e97",
       "category": "bar",
       "lat": 34.71536112,
       "lng": 136.50495234,
       "distance_km": 14.58,
       "food_group": "bar"
-    },
-    {
-      "name": "\u30bd\u30fc\u30b9\u30d1\u30f3",
-      "category": "restaurant",
-      "lat": 34.71327191,
-      "lng": 136.51825577,
-      "distance_km": 14.58,
-      "food_group": "restaurant"
     },
     {
       "name": "Pocafe",
@@ -6906,34 +3906,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30a4\u30bf\u30ea\u30a2\u6599\u7406 SANLUCIO",
-      "category": "restaurant",
-      "lat": 34.9691951316522,
-      "lng": 136.584799150171,
-      "distance_km": 14.58,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u307e\u3064\u305c\u3093\u30d5\u30fc\u30c9\u30b5\u30fc\u30d3\u30b9",
-      "category": "cafe",
-      "lat": 34.71371423762628,
-      "lng": 136.51457189071897,
-      "distance_km": 14.59,
-      "food_group": "cafe"
-    },
-    {
       "name": "mooncafe",
       "category": "coffee_shop",
       "lat": 34.7156648,
       "lng": 136.50270356,
-      "distance_km": 14.6,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ab\u30e9\u30d5\u30eb\u306e\u305f\u307e\u3054",
-      "category": "cafe",
-      "lat": 34.714523800010234,
-      "lng": 136.50867695000395,
       "distance_km": 14.6,
       "food_group": "cafe"
     },
@@ -6952,22 +3928,6 @@
       "lng": 136.60628478,
       "distance_km": 14.62,
       "food_group": "cafe"
-    },
-    {
-      "name": "The Melting pOt Bar, Club, Cafe",
-      "category": "bar",
-      "lat": 34.715092854272,
-      "lng": 136.50385669954,
-      "distance_km": 14.63,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u7530\u3005",
-      "category": "bar",
-      "lat": 34.71463929,
-      "lng": 136.50630547,
-      "distance_km": 14.63,
-      "food_group": "bar"
     },
     {
       "name": "\u30d6\u30eb\u30c3\u30af\u30d5\u30a1\u30cb\u30c1\u30e3\u30fc\u30bb\u30f3\u30bf\u30fc\uff06\u30ab\u30d5\u30a7\u30b9\u30bf\u30f3\u30c9",
@@ -7010,22 +3970,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u682a\u5f0f\u4f1a\u793e\u30ed\u30b4\u30b9",
-      "category": "restaurant",
-      "lat": 34.96234,
-      "lng": 136.60934,
-      "distance_km": 14.65,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30a2\u30c9\u30ab\u30d5\u30a7",
-      "category": "cafe",
-      "lat": 34.71506373,
-      "lng": 136.50283136,
-      "distance_km": 14.66,
-      "food_group": "cafe"
-    },
-    {
       "name": "Kiss Cafe",
       "category": "cafe",
       "lat": 34.71180131,
@@ -7040,22 +3984,6 @@
       "lng": 136.59195385,
       "distance_km": 14.68,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u98df\u5e9c",
-      "category": "restaurant",
-      "lat": 34.96599511,
-      "lng": 136.59985644,
-      "distance_km": 14.68,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u304b\u3075\u3047\u308c\u3059\u3068\u3086\u3093",
-      "category": "coffee_shop",
-      "lat": 34.96557357,
-      "lng": 136.60119248,
-      "distance_km": 14.68,
-      "food_group": "cafe"
     },
     {
       "name": "\u30ec\u30e2\u30f3",
@@ -7082,22 +4010,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u30ab\u30d5\u30a7\u30fb\u30e2\u30f3\u30af\u30fc\u30eb",
-      "category": "coffee_shop",
-      "lat": 34.95963275,
-      "lng": 136.61743657,
-      "distance_km": 14.71,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u5c45\u9152\u5c4b\u5c71\u3061\u3083\u3093",
-      "category": "bar",
-      "lat": 34.96631886,
-      "lng": 136.59999095,
-      "distance_km": 14.72,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30d5\u30fc\u30c9\u30d0\u30fc\u30fb\u30df\u30c3\u30b7\u30e7\u30f3",
       "category": "bar",
       "lat": 34.96955458,
@@ -7111,38 +4023,6 @@
       "lat": 34.96273003,
       "lng": 136.61092464,
       "distance_km": 14.75,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u6709\u9650\u4f1a\u793e\u3000\u8eca\u529b",
-      "category": "bar",
-      "lat": 34.71268,
-      "lng": 136.5111,
-      "distance_km": 14.76,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7.\u30c9.\u862d",
-      "category": "cafe",
-      "lat": 34.96282164,
-      "lng": 136.61082559,
-      "distance_km": 14.76,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ec\u30b9\u30c8\u30e9\u30f3 \u3084\u304b\u305f",
-      "category": "restaurant",
-      "lat": 34.95813409,
-      "lng": 136.62187517,
-      "distance_km": 14.77,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u3068\u308a\u3042\u3093 \u677e\u672c\u8857\u9053\u5e97",
-      "category": "restaurant",
-      "lat": 34.97013430766537,
-      "lng": 136.58850436113462,
-      "distance_km": 14.77,
       "food_group": "restaurant"
     },
     {
@@ -7162,52 +4042,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Shabu Tei",
-      "category": "restaurant",
-      "lat": 34.9593836,
-      "lng": 136.6201863,
-      "distance_km": 14.81,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30ec\u30b3\u30f3\u30d1\u30f3\u30b9",
-      "category": "cafe",
-      "lat": 34.95777,
-      "lng": 136.624542,
-      "distance_km": 14.85,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u6771\u6d0b\u8ed2",
       "category": "restaurant",
       "lat": 34.7145264,
       "lng": 136.4967722,
       "distance_km": 14.86,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u9ea6",
-      "category": "coffee_shop",
-      "lat": 34.71056781,
-      "lng": 136.51982566,
-      "distance_km": 14.86,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7\u30d7\u30e9\u30b9\u30b1\u30fc\u30ad \u30af\u30af\u30fc",
-      "category": "cafe",
-      "lat": 34.71197776,
-      "lng": 136.50747171,
-      "distance_km": 14.9,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ad\u30cf\u30fc\u30ca",
-      "category": "cafe",
-      "lat": 34.71404317,
-      "lng": 136.49509518,
-      "distance_km": 14.95,
-      "food_group": "cafe"
     },
     {
       "name": "\u6797\u6a8e\u73c8\u7432",
@@ -7232,38 +4072,6 @@
       "lng": 136.599415,
       "distance_km": 14.99,
       "food_group": "cafe"
-    },
-    {
-      "name": "Souk",
-      "category": "cafe",
-      "lat": 34.96586845,
-      "lng": 136.60895076,
-      "distance_km": 14.99,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30de\u30a4\u30f3\u30c9\u30cf\u30a6\u30b9",
-      "category": "cafe",
-      "lat": 34.96454972,
-      "lng": 136.61232108,
-      "distance_km": 14.99,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u732b\u753a\u6587\u5eab",
-      "category": "coffee_shop",
-      "lat": 34.96622371,
-      "lng": 136.60817296,
-      "distance_km": 15.0,
-      "food_group": "cafe"
-    },
-    {
-      "name": "MORY MORY",
-      "category": "restaurant",
-      "lat": 34.965881,
-      "lng": 136.609017,
-      "distance_km": 15.0,
-      "food_group": "restaurant"
     },
     {
       "name": "Airside Cafe",
@@ -7306,35 +4114,11 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30b3\u30fc\u30d2\u30fc\u30b7\u30e7\u30c3\u30d7\u30ca\u30dd\u30ec\u30aa\u30f3",
-      "category": "coffee_shop",
-      "lat": 34.961305,
-      "lng": 136.623029,
-      "distance_km": 15.12,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u6cd7\u7fe0\u5eb5",
       "category": "cafe",
       "lat": 34.96445937,
       "lng": 136.6160397,
       "distance_km": 15.13,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Eel cafe (\u30a4\u30fc\u30eb\u30ab\u30d5\u30a7\uff09",
-      "category": "cafe",
-      "lat": 34.709716549077,
-      "lng": 136.50724862214,
-      "distance_km": 15.15,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u516d\u8ff7\u9928",
-      "category": "coffee_shop",
-      "lat": 34.95967111,
-      "lng": 136.62693701,
-      "distance_km": 15.15,
       "food_group": "cafe"
     },
     {
@@ -7344,14 +4128,6 @@
       "lng": 136.57678219,
       "distance_km": 15.18,
       "food_group": "bar"
-    },
-    {
-      "name": "Gruto tsuminami",
-      "category": "restaurant",
-      "lat": 34.7097336,
-      "lng": 136.5045567,
-      "distance_km": 15.2,
-      "food_group": "restaurant"
     },
     {
       "name": "CoCo\u58f1\u756a\u5c4b",
@@ -7375,38 +4151,6 @@
       "lat": 34.96627485,
       "lng": 136.61345054,
       "distance_km": 15.21,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u98df\u4e8b\u51e6\u304b\u305a",
-      "category": "restaurant",
-      "lat": 34.9666953,
-      "lng": 136.6125278,
-      "distance_km": 15.21,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30af\u30ed\u30ef\u30c3\u30b5\u30f3",
-      "category": "coffee_shop",
-      "lat": 34.72058838,
-      "lng": 136.46671846,
-      "distance_km": 15.22,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30d6\u30c6\u30a3\u30c3\u30af \u30c9\u30a5 \u30d0\u30f3 \u30b9\u30ba\u30e4",
-      "category": "bar",
-      "lat": 34.966749153553145,
-      "lng": 136.61246246138023,
-      "distance_km": 15.22,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d6\u30eb\u30fc\u30c8",
-      "category": "restaurant",
-      "lat": 34.96390751,
-      "lng": 136.61995211,
-      "distance_km": 15.24,
       "food_group": "restaurant"
     },
     {
@@ -7442,38 +4186,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Kitchen ABOUT 2\u53f7\u5e97",
-      "category": "bar",
-      "lat": 34.965942316688,
-      "lng": 136.61596041732,
-      "distance_km": 15.27,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6674\u30ec\u30ab\u30d5\u30a7",
-      "category": "coffee_shop",
-      "lat": 34.96544068,
-      "lng": 136.61709534,
-      "distance_km": 15.27,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Kotetsu Cafe",
-      "category": "cafe",
-      "lat": 34.710135664714,
-      "lng": 136.49876697501,
-      "distance_km": 15.28,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u5730\u8c5a\u3060\u3044\u306b\u3093\u3050 \u8c5a\u885b\u9580",
-      "category": "bar",
-      "lat": 34.96595897,
-      "lng": 136.61594978,
-      "distance_km": 15.28,
-      "food_group": "bar"
-    },
-    {
       "name": "rush cafe",
       "category": "cafe",
       "lat": 34.708772,
@@ -7482,60 +4194,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "Happy Heart Komeda Coffee Franchise",
-      "category": "coffee_shop",
-      "lat": 34.96730567,
-      "lng": 136.61283749,
-      "distance_km": 15.29,
-      "food_group": "cafe"
-    },
-    {
-      "name": "CafeTrefle",
-      "category": "coffee_shop",
-      "lat": 34.9659919,
-      "lng": 136.61629839,
-      "distance_km": 15.29,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u4e09\u91cd",
-      "category": "restaurant",
-      "lat": 34.964661925279124,
-      "lng": 136.619434919388,
-      "distance_km": 15.29,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u30d1\u30c6\u30a3\u30b9\u30ea\u30fc\u3000\u30e9\u30fb\u30d1\u30eb\u30e0\u30fb\u30c9\u30fc\u30eb",
       "category": "restaurant",
       "lat": 34.7080642,
       "lng": 136.5088428,
       "distance_km": 15.3,
       "food_group": "restaurant"
-    },
-    {
-      "name": "\u9ed2\u8239",
-      "category": "bar",
-      "lat": 34.96560941,
-      "lng": 136.61734513,
-      "distance_km": 15.3,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6211\u6d41garu\uff5e\u6e29\u6545\u77e5\u65b0style\uff5e\u767d\u5b50\u5e97",
-      "category": "bar",
-      "lat": 34.7087892,
-      "lng": 136.5040122,
-      "distance_km": 15.31,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u8535\u3057\u3063\u304f \u56db\u65e5\u5e02\u99c5\u524d\u5e97",
-      "category": "bar",
-      "lat": 34.9658247,
-      "lng": 136.61751108,
-      "distance_km": 15.33,
-      "food_group": "bar"
     },
     {
       "name": "Nanacy",
@@ -7562,31 +4226,7 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u3071\u3093\u304b\u3075\u3047\u30d6\u30eb\u30fc\u30df\u30f3\u30b0",
-      "category": "cafe",
-      "lat": 34.9667,
-      "lng": 136.617,
-      "distance_km": 15.39,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30d4\u30ae\u30fc\u30d1\u30fc\u30e9\u30fc\uff06\u3053\u3076\u305f\u306e\u5bb6",
-      "category": "cafe",
-      "lat": 34.9667,
-      "lng": 136.617,
-      "distance_km": 15.39,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u56db\u65e5\u5e02\u99ac\u8089\u9152\u5834 \u99ac\u55b0\u308d\u3046",
-      "category": "bar",
-      "lat": 34.9667,
-      "lng": 136.617,
-      "distance_km": 15.39,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d9\u30fc\u30ab\u30ea\u30fc&\u30ab\u30d5\u30a7 \u98a8\u306e\u30c6\u30e9\u30b9",
       "category": "cafe",
       "lat": 34.9667,
       "lng": 136.617,
@@ -7600,46 +4240,6 @@
       "lng": 136.617,
       "distance_km": 15.39,
       "food_group": "bar"
-    },
-    {
-      "name": "\u30ef\u30a4\u30e2\u30d0\u30a4\u30eb\u30a4\u30aa\u30f3\u30bf\u30a6\u30f3\u56db\u65e5\u5e02\u6cca",
-      "category": "cafe",
-      "lat": 34.9667,
-      "lng": 136.617,
-      "distance_km": 15.39,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u306f\u307e\u306f\u304b",
-      "category": "bar",
-      "lat": 34.9667,
-      "lng": 136.617,
-      "distance_km": 15.39,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u733fCafe",
-      "category": "cafe",
-      "lat": 34.96669896,
-      "lng": 136.61716005,
-      "distance_km": 15.4,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u9152\u30d0\u30fc\u30fb\u30b2\u30c3\u30c8\u30fc",
-      "category": "restaurant",
-      "lat": 34.96682398,
-      "lng": 136.61698307,
-      "distance_km": 15.4,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30ab\u30d5\u30a7\u30fb\u30c9\u30fb\u30af\u30ea\u30a8\u56db\u65e5\u5e02\u5e97",
-      "category": "cafe",
-      "lat": 34.96568446,
-      "lng": 136.61956206,
-      "distance_km": 15.4,
-      "food_group": "cafe"
     },
     {
       "name": "\u30e2\u30ce\u30b0\u30e9\u30f3\u30c7",
@@ -7666,30 +4266,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "Bar Aqua",
-      "category": "bar",
-      "lat": 34.96898856,
-      "lng": 136.61201224,
-      "distance_km": 15.42,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u304a\u9152\u306e\u7f8e\u8853\u9928\u8fd1\u9244\u56db\u65e5\u5e02\u99c5\u5e97",
-      "category": "bar",
-      "lat": 34.966442,
-      "lng": 136.618549,
-      "distance_km": 15.43,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d1\u30c9\u30c3\u30af",
-      "category": "cafe",
-      "lat": 34.96224537,
-      "lng": 136.6277005,
-      "distance_km": 15.43,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u5929\u7136\u5927\u6d77\u8001\u30d5\u30e9\u30a4\u3068\u73c8\u7432\u306e\u5e97\u3000\u7018\u5c71\u2015rozan\u2015",
       "category": "coffee_shop",
       "lat": 34.972555357144614,
@@ -7704,22 +4280,6 @@
       "lng": 136.61842346191,
       "distance_km": 15.45,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u83ef\u3007\u5c0f\u50e7",
-      "category": "restaurant",
-      "lat": 34.96448,
-      "lng": 136.6235,
-      "distance_km": 15.45,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5c71\u5c0f\u5c4b\u30ab\u30d5\u30a7 \u671b\u4ed9\u8358",
-      "category": "cafe",
-      "lat": 34.921417037327714,
-      "lng": 136.4009591560131,
-      "distance_km": 15.46,
-      "food_group": "cafe"
     },
     {
       "name": "\u30b5\u30ed\u30f3\u30c9\u30c6\u30e2\u30ed\u30be\u30d5",
@@ -7746,14 +4306,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "CAFFE CIAO PRESSO \u56db\u65e5\u5e02\u99c5\u5e97",
-      "category": "cafe",
-      "lat": 34.96687356442541,
-      "lng": 136.61853153562345,
-      "distance_km": 15.47,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9",
       "category": "fast_food_restaurant",
       "lat": 34.97661339,
@@ -7770,36 +4322,12 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u4f11\u696d\u4e2d\u30fbCafe & Wine Bar Wim\uff08\u30a6\u30a3\u30e0 \u56db\u65e5\u5e02 \u672c\u5e97\uff09",
-      "category": "cafe",
-      "lat": 34.96757993,
-      "lng": 136.61699041,
-      "distance_km": 15.48,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u6771\u5317\u5546\u5e97\u56db\u65e5\u5e02\u99c5\u524d\u5e97",
-      "category": "bar",
-      "lat": 34.96658692,
-      "lng": 136.6197131,
-      "distance_km": 15.49,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30bf\u30ea\u30fc\u30ba\u30b3\u30fc\u30d2\u30fc\u8fd1\u9244\u56db\u65e5\u5e02\u5e97",
       "category": "coffee_shop",
       "lat": 34.967033333333,
       "lng": 136.61853,
       "distance_km": 15.49,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u662d\u548c\u98df\u5802\u56db\u65e5\u5e02\u99c5\u524d\u5e97",
-      "category": "bar",
-      "lat": 34.96624453,
-      "lng": 136.6203666,
-      "distance_km": 15.49,
-      "food_group": "bar"
     },
     {
       "name": "BAR EAST",
@@ -7810,30 +4338,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u55ab\u8336\u3082\u3050\u3089",
-      "category": "cafe",
-      "lat": 34.96774132,
-      "lng": 136.6172217,
-      "distance_km": 15.5,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30e9\u30a6\u30f3\u30b8 \u30d0\u30fc \u30b7\u30e3\u30eb\u30eb\u30fc",
-      "category": "restaurant",
-      "lat": 34.96788215,
-      "lng": 136.61670651,
-      "distance_km": 15.5,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30d1\u30fc\u30af\u30b5\u30a4\u30c9\u30ab\u30d5\u30a7",
-      "category": "restaurant",
-      "lat": 34.967863,
-      "lng": 136.616822,
-      "distance_km": 15.5,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u65e5\u672c\u9152\u5834\u5927\u611f\u8b1d",
       "category": "pub",
       "lat": 34.96664345,
@@ -7842,36 +4346,12 @@
       "food_group": "bar"
     },
     {
-      "name": "Caf\u00e9 & Meal MUJI",
-      "category": "cafe",
-      "lat": 34.967083,
-      "lng": 136.618655,
-      "distance_km": 15.5,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u56db\u65e5\u5e02\u5eb5",
-      "category": "restaurant",
-      "lat": 34.9671223,
-      "lng": 136.61855633,
-      "distance_km": 15.5,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Tully's Coffee Kintetsu Yokkaichi",
       "category": "coffee_shop",
       "lat": 34.96720384,
       "lng": 136.61835499,
       "distance_km": 15.5,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u9752\u9b5a\u5c02\u9580\u9752\u307e\u308b",
-      "category": "bar",
-      "lat": 34.9661842,
-      "lng": 136.6207694,
-      "distance_km": 15.5,
-      "food_group": "bar"
     },
     {
       "name": "\u304a\u306b\u304e\u308a\u306e\u6843\u592a\u90ce \u8acf\u8a2a\u5e97",
@@ -7886,22 +4366,6 @@
       "category": "bar",
       "lat": 34.96628124,
       "lng": 136.6204617,
-      "distance_km": 15.5,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u548c\u4f0a\u548c\u4f0a\u30d0\u30fc\u30eb \u30a6\u30a7\u30b9\u30bf\u306e\u304b\u307e\u3069",
-      "category": "bar",
-      "lat": 34.9663091,
-      "lng": 136.62038384,
-      "distance_km": 15.5,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u828b\u8535\u56db\u65e5\u5e02\u5e97",
-      "category": "bar",
-      "lat": 34.96641925,
-      "lng": 136.62034961,
       "distance_km": 15.5,
       "food_group": "bar"
     },
@@ -7922,14 +4386,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30b3\u30c8\u30e9\u30b3\u30fc\u30d2\u30fc",
-      "category": "coffee_shop",
-      "lat": 34.97027302,
-      "lng": 136.61070375,
-      "distance_km": 15.5,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u56db\u65e5\u5e02\u829d\u7530\u5e97",
       "category": "fast_food_restaurant",
       "lat": 34.97020214033941,
@@ -7938,44 +4394,12 @@
       "food_group": "fast_food"
     },
     {
-      "name": "\u30d1\u30eb\u30df\u30a8\u30fc\u30eb",
-      "category": "cafe",
-      "lat": 34.967923798700596,
-      "lng": 136.61683619951154,
-      "distance_km": 15.51,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u30d3\u30d0\u30fc\u30c1\u30a7",
       "category": "bar",
       "lat": 34.96676601,
       "lng": 136.61978019,
       "distance_km": 15.51,
       "food_group": "bar"
-    },
-    {
-      "name": "six flips \u30b7\u30c3\u30af\u30b9\u30d5\u30ea\u30c3\u30d7\u30b9",
-      "category": "cafe",
-      "lat": 34.967043,
-      "lng": 136.619036,
-      "distance_km": 15.51,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u4eac\u6a3d",
-      "category": "bar",
-      "lat": 34.96708546667615,
-      "lng": 136.619031728823,
-      "distance_km": 15.51,
-      "food_group": "bar"
-    },
-    {
-      "name": "Green Patio",
-      "category": "cafe",
-      "lat": 34.96714,
-      "lng": 136.618826,
-      "distance_km": 15.51,
-      "food_group": "cafe"
     },
     {
       "name": "Faveur",
@@ -8002,22 +4426,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u56db\u65e5\u5e02\u30cf\u30ef\u30a4\u30a2\u30f3\u30d3\u30a2\u30ac\u30fc\u30c7\u30f3",
-      "category": "restaurant",
-      "lat": 34.967129,
-      "lng": 136.61898,
-      "distance_km": 15.52,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u306d\u305a\u307f\u5c0f\u50e7\u56db\u65e5\u5e02\u6a4b",
-      "category": "bar",
-      "lat": 34.96632318,
-      "lng": 136.62087595,
-      "distance_km": 15.52,
-      "food_group": "bar"
-    },
-    {
       "name": "BAR REASON",
       "category": "bar",
       "lat": 34.96618288,
@@ -8040,30 +4448,6 @@
       "lng": 136.61545631,
       "distance_km": 15.53,
       "food_group": "cafe"
-    },
-    {
-      "name": "Yakiniku Matsuzakaen",
-      "category": "bar",
-      "lat": 34.9654418,
-      "lng": 136.6231585,
-      "distance_km": 15.53,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u55ab\u8336\u3075\u308c\u3042\u3044",
-      "category": "cafe",
-      "lat": 34.96519183586505,
-      "lng": 136.62367915056947,
-      "distance_km": 15.53,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30ab\u30a8\u30e9\u56db\u65e5\u5e02",
-      "category": "bar",
-      "lat": 34.96527,
-      "lng": 136.623758,
-      "distance_km": 15.54,
-      "food_group": "bar"
     },
     {
       "name": "\u3068\u308d\u308a\u5929\u4f7f\u306e\u308f\u3089\u3073\u3082\u3061 \u56db\u65e5\u5e02\u5e97",
@@ -8104,22 +4488,6 @@
       "lng": 136.62194143,
       "distance_km": 15.55,
       "food_group": "cafe"
-    },
-    {
-      "name": "Nous",
-      "category": "pub",
-      "lat": 34.9651153,
-      "lng": 136.6244072,
-      "distance_km": 15.55,
-      "food_group": "bar"
-    },
-    {
-      "name": "ZEUS GROUP",
-      "category": "pub",
-      "lat": 34.9651153,
-      "lng": 136.6244072,
-      "distance_km": 15.55,
-      "food_group": "bar"
     },
     {
       "name": "\u304a\u3046\u3061\u3054\u306f\u3093\u5bfa\u5b50\u5c4b",
@@ -8178,22 +4546,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "ROPE",
-      "category": "restaurant",
-      "lat": 34.96727829,
-      "lng": 136.61975733,
-      "distance_km": 15.56,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u304a\u304f\u3091 \u56db\u65e5\u5e02\u5e97",
-      "category": "bar",
-      "lat": 34.96629012,
-      "lng": 136.62203274,
-      "distance_km": 15.56,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30d7\u30ea\u30e2\u30d4\u30a2\u30c3\u30c8",
       "category": "cafe",
       "lat": 34.97697998,
@@ -8210,30 +4562,6 @@
       "food_group": "cafe"
     },
     {
-      "name": "yapparinancurry (\u3084\u3063\u3071\u308a\u30ca\u30f3\u30ab\u30ec\u30fc)",
-      "category": "restaurant",
-      "lat": 34.96911671,
-      "lng": 136.6154737,
-      "distance_km": 15.57,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u9280\u3076\u3057",
-      "category": "bar",
-      "lat": 34.96724067,
-      "lng": 136.62004748,
-      "distance_km": 15.57,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3060\u3044\u306b\u3093\u3050",
-      "category": "restaurant",
-      "lat": 34.96716962,
-      "lng": 136.62039189,
-      "distance_km": 15.58,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u500b\u5ba4\u30a4\u30bf\u30ea\u30a2\u30f3\u00d7\u8089\u30d0\u30eb \u30df\u30eb\u30c6\u30a3\u30fc\u30ed \u56db\u65e5\u5e02\u5e97",
       "category": "bar",
       "lat": 34.96712335,
@@ -8247,22 +4575,6 @@
       "lat": 34.96699846,
       "lng": 136.62084395,
       "distance_km": 15.58,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u5927\u9ed2\u56db\u65e5\u5e02\u5e97",
-      "category": "bar",
-      "lat": 34.96762217,
-      "lng": 136.61981572,
-      "distance_km": 15.6,
-      "food_group": "bar"
-    },
-    {
-      "name": "Kitanosakaba\u5317\u6d77\u9053\u30d0\u30eb",
-      "category": "bar",
-      "lat": 34.9675953,
-      "lng": 136.6198944,
-      "distance_km": 15.6,
       "food_group": "bar"
     },
     {
@@ -8306,51 +4618,11 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Cafe Espoir",
-      "category": "cafe",
-      "lat": 34.963090614846,
-      "lng": 136.62963299925,
-      "distance_km": 15.6,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30bf\u30c3\u30d7",
-      "category": "cafe",
-      "lat": 34.963090614846,
-      "lng": 136.62963299925,
-      "distance_km": 15.6,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30d1\u30d6 \u30d5\u30a3\u30ea\u30c3\u30d7\u30de\u30fc\u30ed\u30a6",
-      "category": "pub",
-      "lat": 34.963090614846,
-      "lng": 136.62963299925,
-      "distance_km": 15.6,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3082\u3093\u3058\u5f25",
-      "category": "bar",
-      "lat": 34.9643958,
-      "lng": 136.6270656,
-      "distance_km": 15.6,
-      "food_group": "bar"
-    },
-    {
       "name": "\u6c34\u9670",
       "category": "bar",
       "lat": 34.96658847,
       "lng": 136.62226135,
       "distance_km": 15.6,
-      "food_group": "bar"
-    },
-    {
-      "name": "Jewel Yokkaichi",
-      "category": "bar",
-      "lat": 34.96751936,
-      "lng": 136.62037128,
-      "distance_km": 15.61,
       "food_group": "bar"
     },
     {
@@ -8362,22 +4634,6 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Caffe Vitale",
-      "category": "cafe",
-      "lat": 34.96712473,
-      "lng": 136.62130263,
-      "distance_km": 15.61,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u9244\u795e\u56db\u65e5\u5e02",
-      "category": "bar",
-      "lat": 34.967159,
-      "lng": 136.621009,
-      "distance_km": 15.61,
-      "food_group": "bar"
-    },
-    {
       "name": "\u5225\u90b8\u82b1\u706b \u304a\u306b\u304b\u3044",
       "category": "restaurant",
       "lat": 34.96717222,
@@ -8386,68 +4642,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u305f\u308f\u308f",
-      "category": "bar",
-      "lat": 34.96717892,
-      "lng": 136.62107291,
-      "distance_km": 15.61,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u96a0\u308c\u5eb5\u500b\u5ba4\u306e\u305f\u308f\u308f \u56db\u65e5\u5e02\u5e97",
-      "category": "bar",
-      "lat": 34.96717685,
-      "lng": 136.62107271,
-      "distance_km": 15.61,
-      "food_group": "bar"
-    },
-    {
-      "name": "in domo GORO",
-      "category": "bar",
-      "lat": 34.96685348,
-      "lng": 136.62179763,
-      "distance_km": 15.61,
-      "food_group": "bar"
-    },
-    {
       "name": "\u8acf\u8a2a\u6804\u753a\u73c8\u7432",
       "category": "coffee_shop",
       "lat": 34.96683808,
       "lng": 136.62173899,
       "distance_km": 15.61,
       "food_group": "cafe"
-    },
-    {
-      "name": "Boba Station",
-      "category": "restaurant",
-      "lat": 34.96950683,
-      "lng": 136.61548228,
-      "distance_km": 15.61,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30de\u30af\u30c9\u30ca\u30eb\u30c9 \u30a4\u30aa\u30f3\u56db\u65e5\u5e02\u5c3e\u5e73\u30d5\u30fc\u30c9\u30b3\u30fc\u30c8\u5e97",
-      "category": "fast_food_restaurant",
-      "lat": 34.977337124600915,
-      "lng": 136.59107848307798,
-      "distance_km": 15.61,
-      "food_group": "fast_food"
-    },
-    {
-      "name": "AFCAFE",
-      "category": "cafe",
-      "lat": 34.96801977,
-      "lng": 136.61933093,
-      "distance_km": 15.62,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u56db\u65e5\u5e02\u99c5\u524d\u3001\u98f2\u98df\u5e97",
-      "category": "bar",
-      "lat": 34.967449894207,
-      "lng": 136.62059797918,
-      "distance_km": 15.62,
-      "food_group": "bar"
     },
     {
       "name": "Lanai",
@@ -8506,27 +4706,11 @@
       "food_group": "bar"
     },
     {
-      "name": "\u306b\u3083\u3093\u30c8\u30ea\u30fcBAR",
-      "category": "bar",
-      "lat": 34.96710865446274,
-      "lng": 136.6216707464818,
-      "distance_km": 15.63,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30bf\u30e2\u30d9\u30fc\u30b9",
       "category": "coffee_shop",
       "lat": 34.96973908,
       "lng": 136.61525617,
       "distance_km": 15.63,
-      "food_group": "cafe"
-    },
-    {
-      "name": "BUBU cafe",
-      "category": "cafe",
-      "lat": 34.96893211,
-      "lng": 136.61756135,
-      "distance_km": 15.64,
       "food_group": "cafe"
     },
     {
@@ -8538,34 +4722,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u4f0a\u9152\u5c4b VERDE",
-      "category": "restaurant",
-      "lat": 34.9681214042446,
-      "lng": 136.61969906865735,
-      "distance_km": 15.64,
-      "food_group": "restaurant"
-    },
-    {
       "name": "Please",
       "category": "bar",
       "lat": 34.96807852,
       "lng": 136.61971885,
-      "distance_km": 15.64,
-      "food_group": "bar"
-    },
-    {
-      "name": "Salt",
-      "category": "restaurant",
-      "lat": 34.96808558,
-      "lng": 136.61969392,
-      "distance_km": 15.64,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Mimurasu Bistro Izakaya",
-      "category": "bar",
-      "lat": 34.96806345,
-      "lng": 136.61968053,
       "distance_km": 15.64,
       "food_group": "bar"
     },
@@ -8594,14 +4754,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30e2\u30f3\u30d6\u30e9\u30f3",
-      "category": "coffee_shop",
-      "lat": 34.96714128,
-      "lng": 136.62180289,
-      "distance_km": 15.64,
-      "food_group": "cafe"
-    },
-    {
       "name": "Savoy",
       "category": "bar",
       "lat": 34.9671494,
@@ -8618,34 +4770,10 @@
       "food_group": "cafe"
     },
     {
-      "name": "\u662d\u548c\u30ab\u30d5\u30a7",
-      "category": "cafe",
-      "lat": 34.96688866,
-      "lng": 136.62253922,
-      "distance_km": 15.64,
-      "food_group": "cafe"
-    },
-    {
       "name": "\u304f\u3057\u3069\u308d\u307c\u3046",
       "category": "bar",
       "lat": 34.96788914,
       "lng": 136.62031903,
-      "distance_km": 15.65,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u304b\u3089\u3042\u3052KING",
-      "category": "bar",
-      "lat": 34.96791211,
-      "lng": 136.62020486,
-      "distance_km": 15.65,
-      "food_group": "bar"
-    },
-    {
-      "name": "KAYA",
-      "category": "pub",
-      "lat": 34.96774523,
-      "lng": 136.62062326,
       "distance_km": 15.65,
       "food_group": "bar"
     },
@@ -8698,42 +4826,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30b7\u30e3\u30a2\u30fb\u30a2\u30ba\u30ca\u30d6\u30eb \u56db\u65e5\u5e02\u5e97",
-      "category": "restaurant",
-      "lat": 34.967689773134296,
-      "lng": 136.6210696184918,
-      "distance_km": 15.66,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "H2O",
-      "category": "bar",
-      "lat": 34.96769234,
-      "lng": 136.62107641,
-      "distance_km": 15.66,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6d0b\u98df\u98df\u5802\u4e38\u4e00",
-      "category": "bar",
-      "lat": 34.96769016,
-      "lng": 136.62107767,
-      "distance_km": 15.66,
-      "food_group": "bar"
-    },
-    {
       "name": "Harrys",
       "category": "bar",
       "lat": 34.96772739,
       "lng": 136.6210202,
-      "distance_km": 15.66,
-      "food_group": "bar"
-    },
-    {
-      "name": "Silly Billy",
-      "category": "bar",
-      "lat": 34.96753249,
-      "lng": 136.62134272,
       "distance_km": 15.66,
       "food_group": "bar"
     },
@@ -8746,34 +4842,10 @@
       "food_group": "bar"
     },
     {
-      "name": "1 Up",
-      "category": "bar",
-      "lat": 34.96730185,
-      "lng": 136.62186085,
-      "distance_km": 15.66,
-      "food_group": "bar"
-    },
-    {
       "name": "\u5927\u89b3\u4ead\u652f\u5e97\u6d25\u99c5\u897f\u53e3\u5e97",
       "category": "restaurant",
       "lat": 34.968414381601,
       "lng": 136.61959655199,
-      "distance_km": 15.67,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30ab\u30c6\u30a3\u30b5\u30fc\u30af",
-      "category": "restaurant",
-      "lat": 34.968434104929585,
-      "lng": 136.61958734898644,
-      "distance_km": 15.67,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30c0\u30a4\u30cb\u30f3\u30b0\u30dc\u30ec\u30ed",
-      "category": "restaurant",
-      "lat": 34.969117525800335,
-      "lng": 136.61788364825568,
       "distance_km": 15.67,
       "food_group": "restaurant"
     },
@@ -8786,59 +4858,11 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30d6\u30eb\u30c9\u30c3\u30b0",
-      "category": "bar",
-      "lat": 34.96761461,
-      "lng": 136.62141422,
-      "distance_km": 15.67,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30d0\u30fc \u3053\u3063\u3057\u30fc",
       "category": "bar",
       "lat": 34.9676478,
       "lng": 136.62139692,
       "distance_km": 15.67,
-      "food_group": "bar"
-    },
-    {
-      "name": "Secret Answer",
-      "category": "restaurant",
-      "lat": 34.96776697,
-      "lng": 136.62117287,
-      "distance_km": 15.67,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u56db\u65e5\u5e02\u99ac\u8089\u9152\u5834\u99ac\u55b0\u308d\u3046",
-      "category": "bar",
-      "lat": 34.967604,
-      "lng": 136.621601,
-      "distance_km": 15.67,
-      "food_group": "bar"
-    },
-    {
-      "name": "Iron Tiger",
-      "category": "restaurant",
-      "lat": 34.96742182,
-      "lng": 136.62187392,
-      "distance_km": 15.67,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u6854\u6897\u5c4b\u56db\u65e5\u5e02\u652f\u5e97",
-      "category": "restaurant",
-      "lat": 34.97367903,
-      "lng": 136.60572039,
-      "distance_km": 15.67,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u500b\u5ba4\u713c\u304d\u9ce5\u5927 \u8fd1\u9244\u56db\u65e5\u5e02\u99c5\u524d",
-      "category": "bar",
-      "lat": 34.968348,
-      "lng": 136.620119,
-      "distance_km": 15.68,
       "food_group": "bar"
     },
     {
@@ -8848,30 +4872,6 @@
       "lng": 136.6212994,
       "distance_km": 15.68,
       "food_group": "bar"
-    },
-    {
-      "name": "Bar Barock",
-      "category": "bar",
-      "lat": 34.96784883,
-      "lng": 136.62122078,
-      "distance_km": 15.68,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u5927\u8846\u30d3\u30b9\u30c8\u30ed \u30b2\u30e9\u30b2\u30e9",
-      "category": "bar",
-      "lat": 34.96784921,
-      "lng": 136.62122937,
-      "distance_km": 15.68,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3068\u308a\u305b\u3093 \u56db\u65e5\u5e02",
-      "category": "restaurant",
-      "lat": 34.96791042,
-      "lng": 136.62111655,
-      "distance_km": 15.68,
-      "food_group": "restaurant"
     },
     {
       "name": "\u80b4",
@@ -8888,14 +4888,6 @@
       "lng": 136.62022962,
       "distance_km": 15.68,
       "food_group": "bar"
-    },
-    {
-      "name": "Takazushi",
-      "category": "restaurant",
-      "lat": 34.9667367,
-      "lng": 136.6237101,
-      "distance_km": 15.68,
-      "food_group": "restaurant"
     },
     {
       "name": "\u9244\u677fBAR\u30d6\u30eb\u30af",
@@ -8930,34 +4922,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u713c\u9ce5\u51e6 \u304d\u308f\u307f",
-      "category": "bar",
-      "lat": 34.968366,
-      "lng": 136.620184,
-      "distance_km": 15.69,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u304f\u304c\u306b\u5bb6",
-      "category": "bar",
-      "lat": 34.968158,
-      "lng": 136.620688,
-      "distance_km": 15.69,
-      "food_group": "bar"
-    },
-    {
       "name": "\u766a",
       "category": "bar",
       "lat": 34.96775237,
       "lng": 136.62151935,
-      "distance_km": 15.69,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3084\u53f0\u305a\u3057",
-      "category": "bar",
-      "lat": 34.9677333,
-      "lng": 136.6217721,
       "distance_km": 15.69,
       "food_group": "bar"
     },
@@ -8978,14 +4946,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u3068\u308a\u3042\u307f\u96c5",
-      "category": "bar",
-      "lat": 34.9674731,
-      "lng": 136.6221888,
-      "distance_km": 15.69,
-      "food_group": "bar"
-    },
-    {
       "name": "Lanzic",
       "category": "bar",
       "lat": 34.96754564,
@@ -9000,30 +4960,6 @@
       "lng": 136.61694362,
       "distance_km": 15.69,
       "food_group": "bar"
-    },
-    {
-      "name": "Loose Foods and Bar",
-      "category": "bar",
-      "lat": 34.96972457,
-      "lng": 136.61694399,
-      "distance_km": 15.69,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30af\u30e9\u30fc\u30b8\u30e5",
-      "category": "bar",
-      "lat": 34.96972024,
-      "lng": 136.61693916,
-      "distance_km": 15.69,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6f01\u5e2b\u6599\u7406\u306e\u5e97\u756a\u5c4b",
-      "category": "restaurant",
-      "lat": 34.96972033,
-      "lng": 136.61694077,
-      "distance_km": 15.69,
-      "food_group": "restaurant"
     },
     {
       "name": "Bar K2",
@@ -9050,44 +4986,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u4e09\u6d66",
-      "category": "pub",
-      "lat": 34.96844342,
-      "lng": 136.62026336,
-      "distance_km": 15.7,
-      "food_group": "bar"
-    },
-    {
       "name": "The Bar Yanagi",
       "category": "bar",
       "lat": 34.96846,
       "lng": 136.62027824,
       "distance_km": 15.7,
       "food_group": "bar"
-    },
-    {
-      "name": "\u30d3\u30fc\u30b7\u30a2\u30d5\u30eb\u682a\u5f0f\u4f1a\u793e",
-      "category": "restaurant",
-      "lat": 34.9681369,
-      "lng": 136.6209333,
-      "distance_km": 15.7,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5451\u3082\u3046\u3084",
-      "category": "restaurant",
-      "lat": 34.96743658,
-      "lng": 136.62266589,
-      "distance_km": 15.7,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Lol Dining & Patisserie",
-      "category": "cafe",
-      "lat": 34.96747617,
-      "lng": 136.62244726,
-      "distance_km": 15.7,
-      "food_group": "cafe"
     },
     {
       "name": "\u9ce5\u4e00",
@@ -9106,38 +5010,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u98a8\u795e",
-      "category": "bar",
-      "lat": 34.96900931,
-      "lng": 136.61914055,
-      "distance_km": 15.71,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3060\u308c\u3084\u307f\u713c\u914eBAR&TAKOYAKI,OHANA",
-      "category": "bar",
-      "lat": 34.968663,
-      "lng": 136.619975,
-      "distance_km": 15.71,
-      "food_group": "bar"
-    },
-    {
-      "name": "Breath",
-      "category": "bar",
-      "lat": 34.96830379,
-      "lng": 136.62071888,
-      "distance_km": 15.71,
-      "food_group": "bar"
-    },
-    {
-      "name": "Futariya",
-      "category": "restaurant",
-      "lat": 34.96834613,
-      "lng": 136.62073186,
-      "distance_km": 15.71,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u56db\u65e5\u5e02\u9152\u5834\u304e\u306a\u304e\u306a",
       "category": "bar",
       "lat": 34.96823814,
@@ -9146,44 +5018,12 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30af\u30ec\u30a4\u30b8\u30fc \u30b3\u30e8\u30fc\u30c6",
-      "category": "restaurant",
-      "lat": 34.9677608,
-      "lng": 136.62218913,
-      "distance_km": 15.71,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Bistro Bolero",
-      "category": "restaurant",
-      "lat": 34.96949188,
-      "lng": 136.61789517,
-      "distance_km": 15.71,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u5c45\u5fc3\u5bb6",
-      "category": "restaurant",
-      "lat": 34.97001325,
-      "lng": 136.61676882,
-      "distance_km": 15.71,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u56db\u65e5\u5e02\u30df\u30b5\u30e4",
       "category": "cafe",
       "lat": 34.969533437022,
       "lng": 136.61818604157,
       "distance_km": 15.72,
       "food_group": "cafe"
-    },
-    {
-      "name": "Aqua",
-      "category": "bar",
-      "lat": 34.97008719,
-      "lng": 136.61678447,
-      "distance_km": 15.72,
-      "food_group": "bar"
     },
     {
       "name": "\u30d0\u30fc \u30c0\u30d6\u30eb \u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
@@ -9198,22 +5038,6 @@
       "category": "bar",
       "lat": 34.96939587,
       "lng": 136.6187027,
-      "distance_km": 15.73,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u5929\u9818\u5c4b",
-      "category": "restaurant",
-      "lat": 34.96944567,
-      "lng": 136.61847189,
-      "distance_km": 15.73,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "Korea Terrace Dining \u30a2\u30a4\u30c9\u30b3\u30ed",
-      "category": "bar",
-      "lat": 34.96944483,
-      "lng": 136.61847018,
       "distance_km": 15.73,
       "food_group": "bar"
     },
@@ -9258,34 +5082,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u4e00\u5fc3",
-      "category": "bar",
-      "lat": 34.96928451,
-      "lng": 136.61927235,
-      "distance_km": 15.74,
-      "food_group": "bar"
-    },
-    {
       "name": "\u4e09\u55b0\u64b0\u9152\u4e09\u91cd\u4eba\u5225\u90b8",
       "category": "bar",
       "lat": 34.96926344,
       "lng": 136.61928344,
-      "distance_km": 15.74,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30a6\u30a4\u30f3\u30af",
-      "category": "bar",
-      "lat": 34.96925021,
-      "lng": 136.6192234,
-      "distance_km": 15.74,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u840c\u6a39",
-      "category": "pub",
-      "lat": 34.96931081,
-      "lng": 136.61923171,
       "distance_km": 15.74,
       "food_group": "bar"
     },
@@ -9314,51 +5114,11 @@
       "food_group": "bar"
     },
     {
-      "name": "\u306e\u3063\u304f\u30fb\u304a\u3093",
-      "category": "cafe",
-      "lat": 34.96775708,
-      "lng": 136.62298325,
-      "distance_km": 15.75,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Soluna",
-      "category": "bar",
-      "lat": 34.96994224,
-      "lng": 136.61797606,
-      "distance_km": 15.75,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30d6\u30e9\u30a4\u30a2\u30f3",
       "category": "bar",
       "lat": 34.96992391,
       "lng": 136.61791064,
       "distance_km": 15.75,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30db\u30ef\u30a4\u30c8\u30d6\u30eb\u30fc",
-      "category": "bar",
-      "lat": 34.96888973,
-      "lng": 136.62060569,
-      "distance_km": 15.76,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6afb\u304f\u3089\u3076",
-      "category": "bar",
-      "lat": 34.96907173,
-      "lng": 136.62011607,
-      "distance_km": 15.76,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30d5\u30eb\u30cf\u30a6\u30b9",
-      "category": "bar",
-      "lat": 34.967129,
-      "lng": 136.624574,
-      "distance_km": 15.76,
       "food_group": "bar"
     },
     {
@@ -9370,66 +5130,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u5c45\u9152\u5c4b\u7121\u540d",
-      "category": "bar",
-      "lat": 34.96920187,
-      "lng": 136.61988051,
-      "distance_km": 15.76,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u56db\u5b63\u83dc\u30c0\u30a4\u30cb\u30f3\u30b0 \u4e1e",
-      "category": "bar",
-      "lat": 34.96920616,
-      "lng": 136.61988427,
-      "distance_km": 15.76,
-      "food_group": "bar"
-    },
-    {
-      "name": "Konohacafe",
-      "category": "coffee_shop",
-      "lat": 34.97302115,
-      "lng": 136.6101113,
-      "distance_km": 15.76,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u308c\u3093\u5451\u307f\u51e6",
-      "category": "bar",
-      "lat": 34.96882295,
-      "lng": 136.62102618,
-      "distance_km": 15.77,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u308c\u3044",
-      "category": "bar",
-      "lat": 34.9688202,
-      "lng": 136.62102852,
-      "distance_km": 15.77,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6708\u6b69",
-      "category": "bar",
-      "lat": 34.96881113,
-      "lng": 136.62102947,
-      "distance_km": 15.77,
-      "food_group": "bar"
-    },
-    {
       "name": "Subway Bar",
       "category": "bar",
       "lat": 34.96881653,
       "lng": 136.62110684,
-      "distance_km": 15.77,
-      "food_group": "bar"
-    },
-    {
-      "name": "Beret Bar",
-      "category": "bar",
-      "lat": 34.96873017,
-      "lng": 136.62125291,
       "distance_km": 15.77,
       "food_group": "bar"
     },
@@ -9474,34 +5178,10 @@
       "food_group": "bar"
     },
     {
-      "name": "APOLLO",
-      "category": "bar",
-      "lat": 34.96938394,
-      "lng": 136.61997771,
-      "distance_km": 15.78,
-      "food_group": "bar"
-    },
-    {
       "name": "Seven Mountains",
       "category": "bar",
       "lat": 34.96938389,
       "lng": 136.61997022,
-      "distance_km": 15.78,
-      "food_group": "bar"
-    },
-    {
-      "name": "Irie Bar Freedom",
-      "category": "bar",
-      "lat": 34.96938256,
-      "lng": 136.61997393,
-      "distance_km": 15.78,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u6773\u5b50",
-      "category": "pub",
-      "lat": 34.96938237,
-      "lng": 136.61992569,
       "distance_km": 15.78,
       "food_group": "bar"
     },
@@ -9514,50 +5194,10 @@
       "food_group": "bar"
     },
     {
-      "name": "Wasabi",
-      "category": "restaurant",
-      "lat": 34.969067860966,
-      "lng": 136.62103404236,
-      "distance_km": 15.79,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30b9\u30ab\u30a4\u30e9\u30d6",
-      "category": "bar",
-      "lat": 34.96888686,
-      "lng": 136.62129346,
-      "distance_km": 15.79,
-      "food_group": "bar"
-    },
-    {
-      "name": "Patissiere KOBE Jeanne d'Arc",
-      "category": "restaurant",
-      "lat": 34.96501159668,
-      "lng": 136.62969970703,
-      "distance_km": 15.79,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30a2\u30df\u30fc\u30b4",
-      "category": "bar",
-      "lat": 34.96961072,
-      "lng": 136.61974316,
-      "distance_km": 15.79,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30ae\u30aa\u30f3\u30b7\u30b0\u30de \u30ab\u30d5\u30a7",
       "category": "coffee_shop",
       "lat": 34.97433455,
       "lng": 136.60710091,
-      "distance_km": 15.79,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Gion sigma",
-      "category": "cafe",
-      "lat": 34.97433624,
-      "lng": 136.60710504,
       "distance_km": 15.79,
       "food_group": "cafe"
     },
@@ -9568,22 +5208,6 @@
       "lng": 136.60869758,
       "distance_km": 15.79,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u305f\u307e\u3061\u3083\u3093",
-      "category": "bar",
-      "lat": 34.96491583,
-      "lng": 136.6301028,
-      "distance_km": 15.8,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u5360\u3044 Bar Fino",
-      "category": "bar",
-      "lat": 34.97047494,
-      "lng": 136.61786962,
-      "distance_km": 15.8,
-      "food_group": "bar"
     },
     {
       "name": "gasto \u30ac\u30b9\u30c8",
@@ -9618,34 +5242,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30d1\u30fc\u30e9\u30fc\u30a4\u30c8\u30a6",
-      "category": "coffee_shop",
-      "lat": 34.96502673,
-      "lng": 136.63050826,
-      "distance_km": 15.83,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u77f3\u72e9",
-      "category": "bar",
-      "lat": 34.969783,
-      "lng": 136.620143,
-      "distance_km": 15.83,
-      "food_group": "bar"
-    },
-    {
       "name": "Atlas",
       "category": "cafe",
       "lat": 34.96542337,
       "lng": 136.63001106,
-      "distance_km": 15.84,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30d3\u30fc\u30e0",
-      "category": "cafe",
-      "lat": 34.96807095,
-      "lng": 136.62440055,
       "distance_km": 15.84,
       "food_group": "cafe"
     },
@@ -9674,38 +5274,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30eb\u30fc\u30bb",
-      "category": "bar",
-      "lat": 34.97001904,
-      "lng": 136.61995886,
-      "distance_km": 15.84,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u3055\u304f\u3089",
-      "category": "bar",
-      "lat": 34.97003354,
-      "lng": 136.619962,
-      "distance_km": 15.84,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30cb\u30e5\u30fc\u30d1\u30fc\u30c8\u30ca\u30fc",
-      "category": "bar",
-      "lat": 34.970201,
-      "lng": 136.619508,
-      "distance_km": 15.84,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u30e9\u30a6\u30f3\u30b8\u30d4\u30e5\u30a2",
-      "category": "bar",
-      "lat": 34.97018404,
-      "lng": 136.61951496,
-      "distance_km": 15.84,
-      "food_group": "bar"
-    },
-    {
       "name": "\u796d\u308a\u5c45\u9152\u5c4b\u306f\u3054\u3044\u305f",
       "category": "bar",
       "lat": 34.97026812,
@@ -9714,34 +5282,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u306f\u307e\u304b\u306f",
-      "category": "bar",
-      "lat": 34.96891668,
-      "lng": 136.62263297,
-      "distance_km": 15.85,
-      "food_group": "bar"
-    },
-    {
       "name": "\u30b9\u30ca\u30c3\u30af\u9ed2\u732b",
       "category": "bar",
       "lat": 34.96943285,
       "lng": 136.62170926,
-      "distance_km": 15.86,
-      "food_group": "bar"
-    },
-    {
-      "name": "Cafe Garuda",
-      "category": "cafe",
-      "lat": 34.96964533222636,
-      "lng": 136.62123608192846,
-      "distance_km": 15.86,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u548c\u98df\u5e0c\u671b",
-      "category": "bar",
-      "lat": 34.97004381777043,
-      "lng": 136.62026437869912,
       "distance_km": 15.86,
       "food_group": "bar"
     },
@@ -9762,26 +5306,10 @@
       "food_group": "restaurant"
     },
     {
-      "name": "Chion The 3rd Time",
-      "category": "bar",
-      "lat": 34.96937164,
-      "lng": 136.62185206,
-      "distance_km": 15.86,
-      "food_group": "bar"
-    },
-    {
       "name": "\u6f01\u5e2b\u305a\u3057 \u53f8\u4e38",
       "category": "bar",
       "lat": 34.96965947,
       "lng": 136.62135566,
-      "distance_km": 15.87,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u548c\u5408",
-      "category": "bar",
-      "lat": 34.97009212,
-      "lng": 136.62046823,
       "distance_km": 15.87,
       "food_group": "bar"
     },
@@ -9802,44 +5330,12 @@
       "food_group": "bar"
     },
     {
-      "name": "Cuneta Cafe",
-      "category": "restaurant",
-      "lat": 34.97169591,
-      "lng": 136.61684543,
-      "distance_km": 15.88,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u7a7a",
-      "category": "bar",
-      "lat": 34.9698081,
-      "lng": 136.62149147,
-      "distance_km": 15.89,
-      "food_group": "bar"
-    },
-    {
       "name": "\u6d77\u96f2\u53f0",
       "category": "pub",
       "lat": 34.97157355,
       "lng": 136.61736881,
       "distance_km": 15.89,
       "food_group": "bar"
-    },
-    {
-      "name": "\u307f\u3061\u308b",
-      "category": "coffee_shop",
-      "lat": 34.97155505,
-      "lng": 136.61736313,
-      "distance_km": 15.89,
-      "food_group": "cafe"
-    },
-    {
-      "name": "jam",
-      "category": "coffee_shop",
-      "lat": 34.97460177,
-      "lng": 136.6096122,
-      "distance_km": 15.9,
-      "food_group": "cafe"
     },
     {
       "name": "\u91ce\u7530\u30d5\u30a1\u30fc\u30e0\u30ab\u30d5\u30a7",
@@ -9858,34 +5354,10 @@
       "food_group": "bar"
     },
     {
-      "name": "\u5927\u9ed2\u5c4b\u6d25\u5e02\u7247\u7530\u5e97",
-      "category": "restaurant",
-      "lat": 34.718187,
-      "lng": 136.454415,
-      "distance_km": 15.98,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u30d5\u30af\u30ef\u30e9\u30a4\u30d3\u30eb",
-      "category": "cafe",
-      "lat": 34.96705661,
-      "lng": 136.63062843,
-      "distance_km": 16.02,
-      "food_group": "cafe"
-    },
-    {
       "name": "Cafe MONACA",
       "category": "cafe",
       "lat": 34.96705672,
       "lng": 136.63060741,
-      "distance_km": 16.02,
-      "food_group": "cafe"
-    },
-    {
-      "name": "Question Coffee Stand",
-      "category": "coffee_shop",
-      "lat": 34.96700998,
-      "lng": 136.63056758,
       "distance_km": 16.02,
       "food_group": "cafe"
     },
@@ -9898,14 +5370,6 @@
       "food_group": "bar"
     },
     {
-      "name": "\u30ea\u30b9\u30c8\u30e9\u30f3\u30c6 \u30d5\u30fc\u30c9",
-      "category": "restaurant",
-      "lat": 34.96844011,
-      "lng": 136.62834654,
-      "distance_km": 16.05,
-      "food_group": "restaurant"
-    },
-    {
       "name": "\u304b\u307e\u3069\u3084\u30cb\u30e5\u30fc\u30b7\u30f3\u30c1\u30e7\u30a6\u5e97",
       "category": "restaurant",
       "lat": 34.96734973,
@@ -9914,92 +5378,12 @@
       "food_group": "restaurant"
     },
     {
-      "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
-      "category": "pub",
-      "lat": 34.96996453,
-      "lng": 136.62508132,
-      "distance_km": 16.06,
-      "food_group": "bar"
-    },
-    {
       "name": "\u5409\u91ce\u5bb6",
       "category": "fast_food_restaurant",
       "lat": 34.96541379,
       "lng": 136.63494336,
       "distance_km": 16.07,
       "food_group": "fast_food"
-    },
-    {
-      "name": "\u30a8\u30ea\u30ab",
-      "category": "coffee_shop",
-      "lat": 34.96700207,
-      "lng": 136.63168861,
-      "distance_km": 16.07,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u3057\u3083\u3093\u3068",
-      "category": "coffee_shop",
-      "lat": 34.97002134,
-      "lng": 136.62552015,
-      "distance_km": 16.08,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u8089\u6599\u7406\u9676\u5229",
-      "category": "bar",
-      "lat": 34.96629114658576,
-      "lng": 136.63373339343704,
-      "distance_km": 16.1,
-      "food_group": "bar"
-    },
-    {
-      "name": "\u677e\u5c4b",
-      "category": "restaurant",
-      "lat": 34.96785103,
-      "lng": 136.63145457,
-      "distance_km": 16.14,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u82b1\u6797\u7cd6",
-      "category": "coffee_shop",
-      "lat": 34.97197328,
-      "lng": 136.62246635,
-      "distance_km": 16.14,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u3055\u3093\u3068\u3059",
-      "category": "coffee_shop",
-      "lat": 34.96877106,
-      "lng": 136.63148764,
-      "distance_km": 16.23,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u30dc\u30b8\u30e3\u30ca\u30e9\u30e4\u30fb\u30b7\u30e5\u30b7\u30a7\u30fb\u30b8\u30e5",
-      "category": "restaurant",
-      "lat": 34.97008133,
-      "lng": 136.63277333,
-      "distance_km": 16.41,
-      "food_group": "restaurant"
-    },
-    {
-      "name": "\u56fd\u905323\u53f7(\u540d\u962a\u56fd\u9053)\u4e0b\u308a Coc\u56db\u65e5\u5e02\u524d\u30aa\u30fc\u30d3\u30b9",
-      "category": "cafe",
-      "lat": 34.9695806,
-      "lng": 136.6389415,
-      "distance_km": 16.66,
-      "food_group": "cafe"
-    },
-    {
-      "name": "\u4e09\u91cd\u4e38Go\u30d7\u30ed\u30b8\u30a7\u30af\u30c8",
-      "category": "cafe",
-      "lat": 34.973649892806,
-      "lng": 136.63509532668,
-      "distance_km": 16.86,
-      "food_group": "cafe"
     },
     {
       "name": "\u307f\u3084\u3056\u304d",
@@ -10056,14 +5440,6 @@
       "lng": 136.39024493,
       "distance_km": 17.89,
       "food_group": "cafe"
-    },
-    {
-      "name": "\u4e00\u7c92\u5eb5",
-      "category": "restaurant",
-      "lat": 34.7184196,
-      "lng": 136.3937132,
-      "distance_km": 19.32,
-      "food_group": "restaurant"
     }
   ],
   "overture_release": "2026-08-19.0"
