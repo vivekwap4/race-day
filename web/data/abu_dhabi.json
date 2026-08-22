@@ -1,0 +1,2912 @@
+{
+  "circuit": {
+    "key": "abu_dhabi",
+    "name": "Yas Marina Circuit",
+    "location": "Abu Dhabi, UAE",
+    "lat": 24.4672,
+    "lng": 54.6031
+  },
+  "hotels": [
+    {
+      "name": "W Hotels",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.46748905,
+      "lng": 54.60443248,
+      "distance_km": 0.14,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "W Abu Dhabi \u2013 Yas Island",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.46739754,
+      "lng": 54.60501809,
+      "distance_km": 0.2,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Friends of the YAS-Viceroy & W Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.467402,
+      "lng": 54.606059,
+      "distance_km": 0.3,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Yas Island Rotana Hotel",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.466189,
+      "lng": 54.599413,
+      "distance_km": 0.39,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Centro Yas Island",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4653556,
+      "lng": 54.5988508,
+      "distance_km": 0.48,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Park Inn by Radisson, Abu Dhabi Yas Island",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.4680372,
+      "lng": 54.5984338,
+      "distance_km": 0.48,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Radisson Blu Hotel, Abu Dhabi Yas Island",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.467486,
+      "lng": 54.597931,
+      "distance_km": 0.52,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Spa At Raddison Blu",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.467473217641,
+      "lng": 54.597997639955,
+      "distance_km": 0.52,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Crowne Plaza Abu Dhabi - Yas Island",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.46563211,
+      "lng": 54.59760723,
+      "distance_km": 0.58,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hilton Abu Dhabi Yas Island",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4595915,
+      "lng": 54.60107108,
+      "distance_km": 0.87,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "OYO HOME 1527 1 Br With Gym And Parking Slot",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4563821,
+      "lng": 54.6129226,
+      "distance_km": 1.56,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Spacious 3bhk With Maid Room",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.454730720951492,
+      "lng": 54.6160008418824,
+      "distance_km": 1.9,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "C14 - Al Zeina - Khalifa City",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.453375526544168,
+      "lng": 54.61457329325459,
+      "distance_km": 1.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO 1541 Home 1 Bedroom Apartment with Balconya",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4533281,
+      "lng": 54.6145644,
+      "distance_km": 1.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO 1595 Home One Bedroom Apartment Al rahah",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.457999,
+      "lng": 54.6196952,
+      "distance_km": 1.97,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Emirates Palace, Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.485440519886332,
+      "lng": 54.60784944995065,
+      "distance_km": 2.08,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hilton Abu Dhabi Yas Island",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 24.4858442,
+      "lng": 54.6133718,
+      "distance_km": 2.32,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "The WB Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.48959616,
+      "lng": 54.59851729,
+      "distance_km": 2.53,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "DoubleTree by Hilton Abu Dhabi Yas Island Residences",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.48942119,
+      "lng": 54.5975235,
+      "distance_km": 2.53,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Park Inn by Radisson Abu Dhabi Yas Island",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.49105453,
+      "lng": 54.59861755,
+      "distance_km": 2.69,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO 1401 Home 1 BR With Spacious Rooms View Towards Airport",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.44409682040527,
+      "lng": 54.6139610082379,
+      "distance_km": 2.79,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Etihad Plaza - Adcp Apartments",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.44397988510159,
+      "lng": 54.613535282882594,
+      "distance_km": 2.79,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "The WB Abu Dhabi, Curio Collection By Hilton",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.49289703,
+      "lng": 54.60522461,
+      "distance_km": 2.87,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO 1415 Home 1 BR Spacious Rooms With Parking",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4415785,
+      "lng": 54.6081245,
+      "distance_km": 2.89,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO 1563 Home 1 BR With Amazing View Towards Masdar City",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4401908,
+      "lng": 54.608968,
+      "distance_km": 3.06,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO HOME 1449 Spacious 2 Br With Balcony",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4401908,
+      "lng": 54.608968,
+      "distance_km": 3.06,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u0641\u0646\u062f\u0642 \u0634\u0627\u0637\u0626 \u0627\u0644\u0631\u0627\u062d\u0629",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.438410623557,
+      "lng": 54.572267532349,
+      "distance_km": 4.47,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Al Raha Beach Hotel Villas",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.43787304,
+      "lng": 54.56990076,
+      "distance_km": 4.68,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Pearl Rotana, Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.43056,
+      "lng": 54.63678,
+      "distance_km": 5.31,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Premier Inn Abu Dhabi International Airport",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.42850002,
+      "lng": 54.64147457,
+      "distance_km": 5.8,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Mirfa Hotel",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.45406,
+      "lng": 54.67394,
+      "distance_km": 7.32,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Al Rawda Arjaan By Rotana",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.40101674,
+      "lng": 54.59192589,
+      "distance_km": 7.45,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO HOME 1525 1 Br With Swimming Pool",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4021962,
+      "lng": 54.5707816,
+      "distance_km": 7.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "OYO HOME 1526 1 Br With The Amazing View With Balcony",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4021962,
+      "lng": 54.5707816,
+      "distance_km": 7.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Marriott Hotel Al Forsan, Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4071402,
+      "lng": 54.5482096,
+      "distance_km": 8.69,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "VOGO Abu Dhabi Golf Resort and Spa",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.41972,
+      "lng": 54.52848,
+      "distance_km": 9.22,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Emirates Park Resort",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.54555224,
+      "lng": 54.67412322,
+      "distance_km": 11.29,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Novotel Abu Dhabi Gate",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.39605895,
+      "lng": 54.51787528,
+      "distance_km": 11.71,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "ibis Abu Dhabi Gate",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.39582106,
+      "lng": 54.51777624,
+      "distance_km": 11.73,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Le Arabia Hotel Apartment",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.37303567,
+      "lng": 54.53714003,
+      "distance_km": 12.42,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Fairmont Bab Al Bahr",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.41517768,
+      "lng": 54.4903944,
+      "distance_km": 12.79,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Traders Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.41257018,
+      "lng": 54.49149915,
+      "distance_km": 12.83,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "OYO HOME 1481 Spacious Furnished Two Br Apartment",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.3977245,
+      "lng": 54.5002261,
+      "distance_km": 12.97,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Shangri-La Qaryat Al Beri",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4066011,
+      "lng": 54.49080558,
+      "distance_km": 13.21,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Poolside At The Shangri-La",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.406891368531,
+      "lng": 54.490146141439,
+      "distance_km": 13.26,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "The Ritz-Carlton Abu Dhabi, Grand Canal",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.412,
+      "lng": 54.486061,
+      "distance_km": 13.34,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ritz Calton Hotel Abu dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.4119908577806,
+      "lng": 54.485621098751686,
+      "distance_km": 13.38,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "The Ritz-Carlton Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.41171996,
+      "lng": 54.48485971,
+      "distance_km": 13.47,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "ibis Abu Dhabi Gate",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.40193561,
+      "lng": 54.48789158,
+      "distance_km": 13.74,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Park Rotana Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.42429533,
+      "lng": 54.47326181,
+      "distance_km": 13.98,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Park Arjaan by Rotana",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.42360982,
+      "lng": 54.47336483,
+      "distance_km": 14.0,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Yas Plaza Hotels",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.39694,
+      "lng": 54.4884,
+      "distance_km": 14.0,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "OYO HOME 1543 2bedroom Apartment With Fully Sea View",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.3699557,
+      "lng": 54.6944023,
+      "distance_km": 14.23,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Khenaizi Village",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.342493172507133,
+      "lng": 54.561903235583735,
+      "distance_km": 14.48,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Capital Centre Arjaan by Rotana",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.42876025,
+      "lng": 54.46358345,
+      "distance_km": 14.76,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Erth Abu Dhabi",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.51225860875,
+      "lng": 54.740345478058,
+      "distance_km": 14.76,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ramada by Wyndham Abu Dhabi Downtown",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.361144,
+      "lng": 54.514912,
+      "distance_km": 14.79,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Armed Forces Officer Club Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.3997935,
+      "lng": 54.4739384,
+      "distance_km": 15.07,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Afoch Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.3994144911258,
+      "lng": 54.47392994141926,
+      "distance_km": 15.09,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Gravity Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.3440198,
+      "lng": 54.53652101,
+      "distance_km": 15.27,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Andalus Al Seef Resort & Spa",
+      "name_en": null,
+      "category": "resort",
+      "lat": 24.43457288,
+      "lng": 54.4556568,
+      "distance_km": 15.36,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Andalus Hotels & Resorts",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.435890763714987,
+      "lng": 54.45482383736542,
+      "distance_km": 15.41,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Millennium Al Rawdah Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.42160313,
+      "lng": 54.45654013,
+      "distance_km": 15.68,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Pura Eco Retreat - Jubail Island",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.57076663589344,
+      "lng": 54.480206724256355,
+      "distance_km": 16.95,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Zaya Nurai Island",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 24.549819326196,
+      "lng": 54.456103070829,
+      "distance_km": 17.48,
+      "access_tier": "Long Transfer"
+    }
+  ],
+  "food": [
+    {
+      "name": "Choices",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4662596,
+      "lng": 54.59916243,
+      "distance_km": 0.41,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Y Bar",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.4664077,
+      "lng": 54.59902298,
+      "distance_km": 0.42,
+      "food_group": "bar"
+    },
+    {
+      "name": "Assymetri International Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.46734331,
+      "lng": 54.59805637,
+      "distance_km": 0.51,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Belgium Beer cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.467116,
+      "lng": 54.597993,
+      "distance_km": 0.52,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Sands Pool Bar",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.46841333,
+      "lng": 54.59791809,
+      "distance_km": 0.54,
+      "food_group": "bar"
+    },
+    {
+      "name": "Stills Restaurant and Bar",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4654028,
+      "lng": 54.59756629,
+      "distance_km": 0.59,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "c.mondo",
+      "name_en": null,
+      "category": "pub",
+      "lat": 24.4626819,
+      "lng": 54.60624955,
+      "distance_km": 0.59,
+      "food_group": "bar"
+    },
+    {
+      "name": "Mika",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.46576674,
+      "lng": 54.60936071,
+      "distance_km": 0.65,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Star Deck",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.465999615821,
+      "lng": 54.609411576659,
+      "distance_km": 0.65,
+      "food_group": "bar"
+    },
+    {
+      "name": "Bla Bla Bar",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.46645877,
+      "lng": 54.60952093,
+      "distance_km": 0.66,
+      "food_group": "bar"
+    },
+    {
+      "name": "NOWHERE",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.47406177,
+      "lng": 54.60262682,
+      "distance_km": 0.76,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Neighborhood Cafe and Bar",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.46088109,
+      "lng": 54.60000016,
+      "distance_km": 0.77,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Graphos Social Kitchen",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.45913842206923,
+      "lng": 54.60135496358817,
+      "distance_km": 0.91,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Central",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4588874,
+      "lng": 54.60213355,
+      "distance_km": 0.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Carnita Abu Dhabi",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.457755,
+      "lng": 54.60057,
+      "distance_km": 1.08,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Amara Restaurant & Caf\u00e9",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4784,
+      "lng": 54.60418,
+      "distance_km": 1.25,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Ladur\u00e9e UAE",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.46101,
+      "lng": 54.61423,
+      "distance_km": 1.32,
+      "food_group": "cafe"
+    },
+    {
+      "name": "LIV Yas Beach",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.461166555,
+      "lng": 54.59128567623076,
+      "distance_km": 1.37,
+      "food_group": "bar"
+    },
+    {
+      "name": "Yas Marina Circuit North Grandstand oasis Lounge Bar",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.479259490967,
+      "lng": 54.606742858887,
+      "distance_km": 1.39,
+      "food_group": "bar"
+    },
+    {
+      "name": "Costa Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.45222322,
+      "lng": 54.60486158,
+      "distance_km": 1.67,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Berri's UAE",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.45219143,
+      "lng": 54.60490003,
+      "distance_km": 1.68,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Keg Room Abu Dhabi",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.45663,
+      "lng": 54.61497,
+      "distance_km": 1.68,
+      "food_group": "bar"
+    },
+    {
+      "name": "Desert Lotus Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4512384,
+      "lng": 54.60111776,
+      "distance_km": 1.79,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Salt and Caramel",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.45071471,
+      "lng": 54.60077014,
+      "distance_km": 1.85,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Crafty Fox Yas Links",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.483982,
+      "lng": 54.6007928,
+      "distance_km": 1.88,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.48482029,
+      "lng": 54.60710783,
+      "distance_km": 2.0,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4526009,
+      "lng": 54.6160617,
+      "distance_km": 2.09,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Karaz Restaurant The Fountains (Yas Mall) - \u0645\u0637\u0639\u0645 \u0643\u0631\u0632 \u0627\u0644\u0646\u0648\u0627\u0641\u064a\u0631 (\u064a\u0627\u0633 \u0645\u0648\u0644 )",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.48555615,
+      "lng": 54.60906806,
+      "distance_km": 2.13,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Papa John's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.480396,
+      "lng": 54.618768,
+      "distance_km": 2.16,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Chocomelt Yas Mall",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.48753744,
+      "lng": 54.60771162,
+      "distance_km": 2.31,
+      "food_group": "cafe"
+    },
+    {
+      "name": "L'ETO",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.48777589,
+      "lng": 54.60738504,
+      "distance_km": 2.33,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Sugar & Salt Cafe Yas Mall",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.488255822231,
+      "lng": 54.6076292,
+      "distance_km": 2.39,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Al Qemarya restaurant \u0645\u0637\u0639\u0645 \u0627\u0644\u0642\u064a\u0645\u0631\u064a\u0629",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.488440851521,
+      "lng": 54.608857144953,
+      "distance_km": 2.43,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caturra.ae",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.488263,
+      "lng": 54.609544,
+      "distance_km": 2.43,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Nespresso Boutique",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4887579,
+      "lng": 54.6085787,
+      "distance_km": 2.46,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Paul",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.488697789333333,
+      "lng": 54.60883379622222,
+      "distance_km": 2.46,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Arabica",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.488505,
+      "lng": 54.609616,
+      "distance_km": 2.46,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Martina - YAS MALL",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.488808,
+      "lng": 54.608818,
+      "distance_km": 2.47,
+      "food_group": "cafe"
+    },
+    {
+      "name": "The Coffee Club Middle East",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.488933642515253,
+      "lng": 54.60991087387594,
+      "distance_km": 2.51,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Costa Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.489383340011,
+      "lng": 54.608540626397,
+      "distance_km": 2.53,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Dunkin'",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4897451,
+      "lng": 54.6081463,
+      "distance_km": 2.56,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.48956531,
+      "lng": 54.60909729,
+      "distance_km": 2.56,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u0645\u0627\u0643\u062f\u0648\u0646\u0627\u0644\u062f\u0632",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.490123,
+      "lng": 54.605962,
+      "distance_km": 2.57,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.48991639,
+      "lng": 54.6088547,
+      "distance_km": 2.59,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Jade Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4436721,
+      "lng": 54.60930419,
+      "distance_km": 2.69,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cartoon Junction Food Fair",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.49155565,
+      "lng": 54.6014383,
+      "distance_km": 2.71,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4431304,
+      "lng": 54.6082102,
+      "distance_km": 2.73,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Swaikhat Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4436254,
+      "lng": 54.6124133,
+      "distance_km": 2.79,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pho 7 Vietnamese Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.44236522972892,
+      "lng": 54.60775270771643,
+      "distance_km": 2.8,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Lord Specialty Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.44398786,
+      "lng": 54.5879836,
+      "distance_km": 3.0,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Joud Coffee Khalifa City",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.43976463,
+      "lng": 54.59794154,
+      "distance_km": 3.1,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Serre Abu Dhabi",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4958385,
+      "lng": 54.6040121,
+      "distance_km": 3.19,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Costa Coffee - West Yas Plaza",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.493536,
+      "lng": 54.587027,
+      "distance_km": 3.35,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Tim Hortons - Yas 1 STORE CLOSED",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4963020822926,
+      "lng": 54.61417110469057,
+      "distance_km": 3.42,
+      "food_group": "cafe"
+    },
+    {
+      "name": "KapeMan Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4969559,
+      "lng": 54.5882052,
+      "distance_km": 3.64,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Mamak Abu Dhabi",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.49942967,
+      "lng": 54.58853527,
+      "distance_km": 3.88,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caribou Coffee - Masdar City",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4328762,
+      "lng": 54.6170243,
+      "distance_km": 4.07,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Tim Hortons Yas 2 Adnoc",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.5021011209408,
+      "lng": 54.58841039505384,
+      "distance_km": 4.16,
+      "food_group": "cafe"
+    },
+    {
+      "name": "YAS 1",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.5024828,
+      "lng": 54.5887976,
+      "distance_km": 4.18,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "YAS 2",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.5024828,
+      "lng": 54.5887976,
+      "distance_km": 4.18,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4549513,
+      "lng": 54.6422413,
+      "distance_km": 4.19,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Fresh Bakes Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.43891219,
+      "lng": 54.57358311,
+      "distance_km": 4.34,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Arabica Abu Dhabi International Airport",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.45085315284,
+      "lng": 54.64316368103,
+      "distance_km": 4.44,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Black Pearl",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.43840336,
+      "lng": 54.57240166,
+      "distance_km": 4.46,
+      "food_group": "bar"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4504129,
+      "lng": 54.6438057,
+      "distance_km": 4.52,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Papa John's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.429257958513606,
+      "lng": 54.61994277700773,
+      "distance_km": 4.55,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "The Coffee Club",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.42902525,
+      "lng": 54.61970209,
+      "distance_km": 4.57,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4301433,
+      "lng": 54.5824611,
+      "distance_km": 4.62,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Leisure Center",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.42064643,
+      "lng": 54.59119987,
+      "distance_km": 5.31,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Overlook",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.504864,
+      "lng": 54.570369,
+      "distance_km": 5.34,
+      "food_group": "bar"
+    },
+    {
+      "name": "Starbucks Al Raha Gardens",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.420936,
+      "lng": 54.581481,
+      "distance_km": 5.59,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Abu Dehbi",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.43068936248426,
+      "lng": 54.641533231557894,
+      "distance_km": 5.62,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caribou Coffee - Khalifa A Clinic",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4276201,
+      "lng": 54.5647519,
+      "distance_km": 5.87,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caff\u00e9 Ritazza",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4281634,
+      "lng": 54.6430511,
+      "distance_km": 5.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Costa Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.42855452,
+      "lng": 54.64373539,
+      "distance_km": 5.95,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.427521,
+      "lng": 54.645234,
+      "distance_km": 6.14,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.42827791,
+      "lng": 54.64654285,
+      "distance_km": 6.17,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.42116274,
+      "lng": 54.56670923,
+      "distance_km": 6.31,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Zam Zam Mandi Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.42664404,
+      "lng": 54.5542301,
+      "distance_km": 6.69,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.40596926,
+      "lng": 54.60301786,
+      "distance_km": 6.81,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "The Irish Vicker's Al Raha ",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.4311,
+      "lng": 54.54865,
+      "distance_km": 6.82,
+      "food_group": "bar"
+    },
+    {
+      "name": "Chai Emirati",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.40570118,
+      "lng": 54.60237206,
+      "distance_km": 6.84,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Murphy's Sports Bar",
+      "name_en": null,
+      "category": "sports_bar",
+      "lat": 24.41922808,
+      "lng": 54.64539024,
+      "distance_km": 6.84,
+      "food_group": "bar"
+    },
+    {
+      "name": "Tim Hortons",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.405553853914,
+      "lng": 54.603473980752,
+      "distance_km": 6.85,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4620973,
+      "lng": 54.6730236,
+      "distance_km": 7.1,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Subway",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.40369703,
+      "lng": 54.61155274,
+      "distance_km": 7.11,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Costa Coffee - Al Reef",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.457099,
+      "lng": 54.673169,
+      "distance_km": 7.18,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.45753145,
+      "lng": 54.67396795,
+      "distance_km": 7.25,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.41125896,
+      "lng": 54.56504746,
+      "distance_km": 7.32,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Joud Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.41051018,
+      "lng": 54.56576397,
+      "distance_km": 7.35,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Il Forno, Forsan Central Mall",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4103289,
+      "lng": 54.5657941,
+      "distance_km": 7.37,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Freej Swaileh Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.40756202,
+      "lng": 54.57135205,
+      "distance_km": 7.37,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Otis Lounge",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.42472217,
+      "lng": 54.54711292,
+      "distance_km": 7.38,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Papa John's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.4108897,
+      "lng": 54.5628011,
+      "distance_km": 7.47,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Hardee's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.40042242,
+      "lng": 54.57639573,
+      "distance_km": 7.9,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.448823152607,
+      "lng": 54.524088826712,
+      "distance_km": 8.25,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.39433745,
+      "lng": 54.58427991,
+      "distance_km": 8.32,
+      "food_group": "cafe"
+    },
+    {
+      "name": "New Shell Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.404184433337456,
+      "lng": 54.556782233339064,
+      "distance_km": 8.43,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Manaoag Quirino Isabela",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.402688798065782,
+      "lng": 54.554934939714435,
+      "distance_km": 8.67,
+      "food_group": "bar"
+    },
+    {
+      "name": "Street Nine Cafe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.404649162027656,
+      "lng": 54.55037007850359,
+      "distance_km": 8.77,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Coffee Club - Al Forsan Village",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.40464175,
+      "lng": 54.55031461,
+      "distance_km": 8.77,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4046695,
+      "lng": 54.5495283,
+      "distance_km": 8.82,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Brioche",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.42032168,
+      "lng": 54.53163975,
+      "distance_km": 8.92,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.406409,
+      "lng": 54.543673,
+      "distance_km": 9.05,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.52148268,
+      "lng": 54.66968979,
+      "distance_km": 9.05,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Fairways",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.41954342,
+      "lng": 54.52888612,
+      "distance_km": 9.19,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "BuDeech Khalifa City \u0628\u0648 \u062f\u064a\u062c",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3966442,
+      "lng": 54.5556059,
+      "distance_km": 9.2,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.39671104,
+      "lng": 54.55553073,
+      "distance_km": 9.2,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Romeo and Juliet Cafe",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.52303988,
+      "lng": 54.67060877,
+      "distance_km": 9.23,
+      "food_group": "cafe"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.52331024,
+      "lng": 54.67052697,
+      "distance_km": 9.25,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Dunkin'",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.5233444,
+      "lng": 54.6710172,
+      "distance_km": 9.28,
+      "food_group": "cafe"
+    },
+    {
+      "name": "DEERFIELDS",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.5235087,
+      "lng": 54.6711286,
+      "distance_km": 9.31,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.52341365,
+      "lng": 54.67123334,
+      "distance_km": 9.31,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe 28",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.4202598,
+      "lng": 54.52652529,
+      "distance_km": 9.35,
+      "food_group": "cafe"
+    },
+    {
+      "name": "PappaRoti \u0628\u0627\u0628\u0627\u0631\u0648\u062a\u064a - Deerfields Mall",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.52383764,
+      "lng": 54.67167084,
+      "distance_km": 9.37,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Brioche",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.52447697275101,
+      "lng": 54.67122444278495,
+      "distance_km": 9.39,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe Mandarina",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.53650108,
+      "lng": 54.66495496,
+      "distance_km": 9.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Boundary",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.39504625,
+      "lng": 54.54092431,
+      "distance_km": 10.2,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.40851148,
+      "lng": 54.5194035,
+      "distance_km": 10.69,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.386627,
+      "lng": 54.664253,
+      "distance_km": 10.89,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.36846855,
+      "lng": 54.62530621,
+      "distance_km": 11.21,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "The Grillitarian Grills & Cafe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.38678255,
+      "lng": 54.530536,
+      "distance_km": 11.57,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "MOTOR WORLD ADNOC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.3984536,
+      "lng": 54.6899498,
+      "distance_km": 11.65,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Papa John's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.39886088410275,
+      "lng": 54.690503084656605,
+      "distance_km": 11.66,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.39833223,
+      "lng": 54.69023702,
+      "distance_km": 11.68,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Belgian Caf\u00e9 'Novotel Gate Hotel'",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.396039481309,
+      "lng": 54.518049382093,
+      "distance_km": 11.69,
+      "food_group": "bar"
+    },
+    {
+      "name": "Tim Hortons",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.368379,
+      "lng": 54.563353,
+      "distance_km": 11.7,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Belgian Beer Caf\u00e9",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.39583521,
+      "lng": 54.51801622,
+      "distance_km": 11.71,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Subway",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.40762994,
+      "lng": 54.50623837,
+      "distance_km": 11.83,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Dunkin'",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.40739738,
+      "lng": 54.50507781,
+      "distance_km": 11.95,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.36566371,
+      "lng": 54.56296173,
+      "distance_km": 12.0,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Al Ibrahimi Restaurant Madinat Zayed",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3674158,
+      "lng": 54.5575607,
+      "distance_km": 12.02,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4278464,
+      "lng": 54.7141409,
+      "distance_km": 12.06,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Almajed For Oud",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.427979,
+      "lng": 54.714202,
+      "distance_km": 12.06,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Papa John's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.427812141522796,
+      "lng": 54.71420525277113,
+      "distance_km": 12.07,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.397137,
+      "lng": 54.511481,
+      "distance_km": 12.11,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Hardee's | Al Shahama",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.54708789,
+      "lng": 54.68563414,
+      "distance_km": 12.19,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Haze Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.37357844,
+      "lng": 54.53874263,
+      "distance_km": 12.28,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.45496971,
+      "lng": 54.72372087,
+      "distance_km": 12.28,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caribou Coffee - Bain Al Jasrain",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4021227,
+      "lng": 54.5044095,
+      "distance_km": 12.34,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Rulzan Rice Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.37325462,
+      "lng": 54.53795938,
+      "distance_km": 12.35,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "PAUL Bakery & Restaurant",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.3699488,
+      "lng": 54.5439255,
+      "distance_km": 12.36,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Dunkin'",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.37306502,
+      "lng": 54.53780416,
+      "distance_km": 12.38,
+      "food_group": "cafe"
+    },
+    {
+      "name": "The One Bistro",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.356636346329,
+      "lng": 54.618873596191,
+      "distance_km": 12.4,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.3959333,
+      "lng": 54.50834734,
+      "distance_km": 12.44,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.3768762,
+      "lng": 54.52971028,
+      "distance_km": 12.49,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Il Forno, Capital Mall",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3753954,
+      "lng": 54.5313799,
+      "distance_km": 12.53,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Slash Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.37530079,
+      "lng": 54.53085923,
+      "distance_km": 12.57,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Joe & The Juice",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4028118,
+      "lng": 54.49899224,
+      "distance_km": 12.74,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Bridges Bar",
+      "name_en": null,
+      "category": "sports_bar",
+      "lat": 24.41462124,
+      "lng": 54.49032381,
+      "distance_km": 12.83,
+      "food_group": "bar"
+    },
+    {
+      "name": "The Chocolate Gallery",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.414528,
+      "lng": 54.490352,
+      "distance_km": 12.83,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Rumah Peranakan",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.35400413,
+      "lng": 54.63348541,
+      "distance_km": 12.96,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4034048,
+      "lng": 54.4959699,
+      "distance_km": 12.96,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Altumair Restaurant  \u0645\u0637\u0639\u0645 \u0627\u0644\u062a\u064f\u0645\u064a\u0631",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.40864,
+      "lng": 54.49145,
+      "distance_km": 13.04,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe Nolta - Abu Dhabi",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.40952741,
+      "lng": 54.49077962,
+      "distance_km": 13.05,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.40866142,
+      "lng": 54.49130401,
+      "distance_km": 13.06,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.35573,
+      "lng": 54.64476,
+      "distance_km": 13.09,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.39778694,
+      "lng": 54.4984497,
+      "distance_km": 13.11,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Mawal Al Sham Restaurant and Pastry",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.37624905,
+      "lng": 54.51658937,
+      "distance_km": 13.38,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.37280763,
+      "lng": 54.5205293,
+      "distance_km": 13.42,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Alba",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.41181583,
+      "lng": 54.48502214,
+      "distance_km": 13.45,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Venetian Village Receiving Area",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.41010408,
+      "lng": 54.48560828,
+      "distance_km": 13.48,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Orland caffe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.37301296,
+      "lng": 54.51649374,
+      "distance_km": 13.66,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Al Nasseem Pool Bar",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.40193561,
+      "lng": 54.48789158,
+      "distance_km": 13.74,
+      "food_group": "bar"
+    },
+    {
+      "name": "Wagyu Station Cafe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4031,
+      "lng": 54.48691,
+      "distance_km": 13.75,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Happy Burger Cafeteria - M6",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3728042,
+      "lng": 54.512754,
+      "distance_km": 13.92,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Teatro",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.42438857,
+      "lng": 54.47331509,
+      "distance_km": 13.97,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "ParKafe Lobby Lounge",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4242671,
+      "lng": 54.4733068,
+      "distance_km": 13.98,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Ginger - All Day Dining Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4237818,
+      "lng": 54.4731969,
+      "distance_km": 14.01,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Flatout Speciality Coffee Shop",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.37572938,
+      "lng": 54.50798759,
+      "distance_km": 14.01,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Park Lounge @ Ginger - Abu Dhabi",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.423789,
+      "lng": 54.4728912,
+      "distance_km": 14.04,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Costa Coffee - Al Falah",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.44319,
+      "lng": 54.739942,
+      "distance_km": 14.11,
+      "food_group": "cafe"
+    },
+    {
+      "name": "OUS Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.4311607,
+      "lng": 54.46613604,
+      "distance_km": 14.43,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.33907769,
+      "lng": 54.57948614,
+      "distance_km": 14.45,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.4087661,
+      "lng": 54.4754456,
+      "distance_km": 14.46,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.33890406,
+      "lng": 54.57977787,
+      "distance_km": 14.46,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Costa Coffee - Sheikh Zayed Grand Mosque",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.408287,
+      "lng": 54.47567,
+      "distance_km": 14.47,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.40796225,
+      "lng": 54.47548331,
+      "distance_km": 14.5,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Tim Hortons",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.40802053,
+      "lng": 54.47536031,
+      "distance_km": 14.51,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u062a\u064a\u0645 \u0647\u0648\u0631\u062a\u0646\u0632",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.429987,
+      "lng": 54.465577,
+      "distance_km": 14.52,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Oosh Cafe",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.4319505,
+      "lng": 54.46482747,
+      "distance_km": 14.53,
+      "food_group": "cafe"
+    },
+    {
+      "name": "AZF Coffee Station",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.43155998,
+      "lng": 54.46471563,
+      "distance_km": 14.56,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Papa John's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.4081925,
+      "lng": 54.4745111,
+      "distance_km": 14.58,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u0645\u062d\u0645\u0635\u0629 \u0627\u0644\u062d\u0645\u064a\u062f\u064a\u0629",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.36039,
+      "lng": 54.51945,
+      "distance_km": 14.59,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Costa Coffee - twofour54",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.429333,
+      "lng": 54.463445,
+      "distance_km": 14.75,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.42935133,
+      "lng": 54.46315449,
+      "distance_km": 14.78,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Subway",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.42950878,
+      "lng": 54.46290061,
+      "distance_km": 14.8,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "D10 Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.427878,
+      "lng": 54.462976,
+      "distance_km": 14.84,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Notes Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.42801121,
+      "lng": 54.462882,
+      "distance_km": 14.85,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Hidd Restaurant at Erth Abu Dhabi",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.40124355906714,
+      "lng": 54.47495118807803,
+      "distance_km": 14.9,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Echo Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.41976563,
+      "lng": 54.46516165,
+      "distance_km": 14.93,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Pause by Gamers Lounge",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.42017817,
+      "lng": 54.46455651,
+      "distance_km": 14.97,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u0645\u0627\u0643\u062f\u0648\u0646\u0627\u0644\u062f\u0632",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.38754,
+      "lng": 54.72257,
+      "distance_km": 14.99,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.38679979,
+      "lng": 54.72212374,
+      "distance_km": 15.0,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.3867755,
+      "lng": 54.72260725,
+      "distance_km": 15.05,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Al Shamkha Makani Mall",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.387015400707803,
+      "lng": 54.72306253213784,
+      "distance_km": 15.07,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "shaghf.coffee.mbz",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.344739,
+      "lng": 54.537285,
+      "distance_km": 15.16,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.41082433,
+      "lng": 54.46643646,
+      "distance_km": 15.19,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Flame and Bake MBZ",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.34425614,
+      "lng": 54.5373752,
+      "distance_km": 15.2,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Goodness Burger Cafeteria and Restaurant",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.37407,
+      "lng": 54.49317,
+      "distance_km": 15.2,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Joud Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.43526156,
+      "lng": 54.45626774,
+      "distance_km": 15.28,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Brioche Al Seef Village",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.43548813,
+      "lng": 54.45591102,
+      "distance_km": 15.31,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Arabica Abu Dhabi Al Seef Village",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.435023368955,
+      "lng": 54.455972346373,
+      "distance_km": 15.32,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Tim Hortons Al Seef Village Mall Abu Dhabi",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.434975,
+      "lng": 54.4559277,
+      "distance_km": 15.32,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Subway",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.43551909,
+      "lng": 54.45582491,
+      "distance_km": 15.32,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "McCaf\u00e9",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.43524803,
+      "lng": 54.45578456,
+      "distance_km": 15.33,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.4356146,
+      "lng": 54.45558497,
+      "distance_km": 15.34,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Boomah",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.43635353,
+      "lng": 54.45518065,
+      "distance_km": 15.36,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Costa Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.41373951,
+      "lng": 54.46318613,
+      "distance_km": 15.36,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.43520516,
+      "lng": 54.45500082,
+      "distance_km": 15.41,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Aachis Home Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3446456,
+      "lng": 54.53179911,
+      "distance_km": 15.42,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.42285959,
+      "lng": 54.45678917,
+      "distance_km": 15.61,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "KFC | Airport Garden",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.42028159,
+      "lng": 54.45749417,
+      "distance_km": 15.64,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Victor's Neighborhood Pub",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.42177989,
+      "lng": 54.45663188,
+      "distance_km": 15.66,
+      "food_group": "bar"
+    },
+    {
+      "name": "Blue Bar Abu Dhabi",
+      "name_en": null,
+      "category": "bar",
+      "lat": 24.42157,
+      "lng": 54.45674,
+      "distance_km": 15.66,
+      "food_group": "bar"
+    },
+    {
+      "name": "Paris cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.34164384,
+      "lng": 54.53302061,
+      "distance_km": 15.66,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Everest Point Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.34083636,
+      "lng": 54.53306659,
+      "distance_km": 15.74,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Costa Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.41349977,
+      "lng": 54.45865023,
+      "distance_km": 15.79,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Papa John's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.3407596,
+      "lng": 54.5317564,
+      "distance_km": 15.81,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.38055497,
+      "lng": 54.4781379,
+      "distance_km": 15.9,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "MUSSAFAH ADNOC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.3804524,
+      "lng": 54.4777856,
+      "distance_km": 15.94,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Chicky.ae",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.335983500000005,
+      "lng": 54.5367532,
+      "distance_km": 16.06,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Fresh and Tasty Cafeteria and Grill",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.33516506,
+      "lng": 54.53607733,
+      "distance_km": 16.17,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Vazhiyoram restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.33616735343751,
+      "lng": 54.53312196412464,
+      "distance_km": 16.2,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Five Guys",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.3586352,
+      "lng": 54.4958502,
+      "distance_km": 16.24,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Malabar Junction Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.33554412,
+      "lng": 54.53306681,
+      "distance_km": 16.27,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Happy Burger",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.33514339,
+      "lng": 54.53292472,
+      "distance_km": 16.31,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Chill and Grill",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3337765,
+      "lng": 54.53503781,
+      "distance_km": 16.36,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.33440687,
+      "lng": 54.52975482,
+      "distance_km": 16.53,
+      "food_group": "cafe"
+    },
+    {
+      "name": "KFC",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.33666823,
+      "lng": 54.5234114,
+      "distance_km": 16.61,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.33576696,
+      "lng": 54.52423328,
+      "distance_km": 16.65,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Enab w Tean Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.35459453,
+      "lng": 54.49398788,
+      "distance_km": 16.7,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Joud Coffee Roastery",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.33661506,
+      "lng": 54.52131654,
+      "distance_km": 16.72,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Costa Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.3348211,
+      "lng": 54.52441638,
+      "distance_km": 16.74,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Tim Hortons",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.33503014,
+      "lng": 54.52381446,
+      "distance_km": 16.75,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Abu Dhabi, Dalma Mall",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.33336752614,
+      "lng": 54.52401152864,
+      "distance_km": 16.9,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Dalma Mall - Teavana Middle East",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.333380539324413,
+      "lng": 54.5240395539307,
+      "distance_km": 16.9,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Corniche automatic bakeries and markets M37 \u0623\u0633\u0648\u0627\u0642 \u0648 \u0645\u062e\u0627\u0628\u0632 \u0627\u0644\u0643\u0648\u0631\u0646\u064a\u0634 \u0627\u0644\u0627\u062a\u0648\u0645\u0627\u062a\u064a\u0643\u064a\u0629",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3468705,
+      "lng": 54.5010638,
+      "distance_km": 16.9,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Dunkin'",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.33322,
+      "lng": 54.524144,
+      "distance_km": 16.91,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.33318482,
+      "lng": 54.52400702,
+      "distance_km": 16.92,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Pappa Rotti",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.333098,
+      "lng": 54.523964,
+      "distance_km": 16.93,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Pulse Lounge Cafe Abu Dhabi",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.3573,
+      "lng": 54.48708,
+      "distance_km": 16.95,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caff\u00e8 Nero",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.3331474,
+      "lng": 54.5216807,
+      "distance_km": 17.03,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Kabul Haws Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.3511548,
+      "lng": 54.4882633,
+      "distance_km": 17.37,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Halais Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.33221,
+      "lng": 54.51659,
+      "distance_km": 17.38,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Arabica Abu Dhabi Saadiyat Island",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.562178712831,
+      "lng": 54.46032714739,
+      "distance_km": 17.89,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Subway",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 24.35722676,
+      "lng": 54.47380718,
+      "distance_km": 17.91,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Express Al Madeena Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.34633341,
+      "lng": 54.48466832,
+      "distance_km": 18.01,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Mahaccino Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.57598093,
+      "lng": 54.46707818,
+      "distance_km": 18.32,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cello Cafe & Restaurant  \u0645\u0637\u0639\u0645 \u0648\u0643\u0627\u0641\u064a\u0647 \u062a\u0634\u064a\u0644\u0644\u0648",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.351221474776,
+      "lng": 54.473111629486,
+      "distance_km": 18.43,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Style cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.34966988,
+      "lng": 54.47358514,
+      "distance_km": 18.51,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Desi Musically Lounge LLC",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.34878080639,
+      "lng": 54.473649505956,
+      "distance_km": 18.58,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Beano's Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.34816688,
+      "lng": 54.47350553,
+      "distance_km": 18.64,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Dallah Lounge Cafe",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 24.34787423,
+      "lng": 54.47357179,
+      "distance_km": 18.66,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u0645\u0637\u0639\u0645 \u0635\u0645",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.34680125,
+      "lng": 54.47370238,
+      "distance_km": 18.73,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Al istikana cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 24.34580248,
+      "lng": 54.47371054,
+      "distance_km": 18.81,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Bait Al Agha Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 24.34581609,
+      "lng": 54.47354881,
+      "distance_km": 18.82,
+      "food_group": "restaurant"
+    }
+  ],
+  "overture_release": "2026-08-19.0"
+}

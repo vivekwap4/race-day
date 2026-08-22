@@ -1,0 +1,1094 @@
+{
+  "circuit": {
+    "key": "austria",
+    "name": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "lat": 47.2197,
+    "lng": 14.7647
+  },
+  "hotels": [
+    {
+      "name": "G\u00e4stehaus Enzinger",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.22656,
+      "lng": 14.762506,
+      "distance_km": 0.78,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Burg Rooms",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.20105812,
+      "lng": 14.77802703,
+      "distance_km": 2.3,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Best sleep Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.201,
+      "lng": 14.78596,
+      "distance_km": 2.63,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "G\u00e4stehaus Steiner",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.2228988,
+      "lng": 14.79997971,
+      "distance_km": 2.69,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Restaurant Gasthof Perschler",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.21261446,
+      "lng": 14.72236146,
+      "distance_km": 3.29,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Steirerschl\u00f6ssl",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.19088747,
+      "lng": 14.74724933,
+      "distance_km": 3.46,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Zeltweg Rooms",
+      "name_en": null,
+      "category": "resort",
+      "lat": 47.1904775,
+      "lng": 14.7455529,
+      "distance_km": 3.56,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Restaurant Hubertushof Zeltweg",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.18916134,
+      "lng": 14.74796344,
+      "distance_km": 3.62,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Gewerkenschl\u00f6ssl Zeilinger",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.21712002,
+      "lng": 14.81505929,
+      "distance_km": 3.81,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "G'Schlossl Murtal",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.1913688,
+      "lng": 14.80187062,
+      "distance_km": 4.22,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "MT Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.19350123,
+      "lng": 14.72172833,
+      "distance_km": 4.36,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Am Kapuzinerplatz",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.21472332,
+      "lng": 14.82707853,
+      "distance_km": 4.74,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Paul's Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.21522612,
+      "lng": 14.82742643,
+      "distance_km": 4.76,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Fr\u00fchst\u00fcckspension Sandhof",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.2092788,
+      "lng": 14.82706031,
+      "distance_km": 4.85,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Landhaus Wilhelmer",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.19487662,
+      "lng": 14.70987154,
+      "distance_km": 4.98,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "KM Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.21657909,
+      "lng": 14.84772372,
+      "distance_km": 6.28,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Gasthof Fritz Moser",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.20761747,
+      "lng": 14.67891018,
+      "distance_km": 6.62,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Gasthof Steinm\u00fchle",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.280272,
+      "lng": 14.758601,
+      "distance_km": 6.75,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Fohnsdorf",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.20478437,
+      "lng": 14.67502008,
+      "distance_km": 6.97,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Landpension Birker",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.15452943,
+      "lng": 14.73883949,
+      "distance_km": 7.51,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Schloss Gabelhofen",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.19152802,
+      "lng": 14.67374667,
+      "distance_km": 7.55,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Das Karl August",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.19468926,
+      "lng": 14.6657818,
+      "distance_km": 7.97,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "1a Haus Steiner",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.17751093,
+      "lng": 14.663511,
+      "distance_km": 8.97,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Schachner Hof",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.16542879,
+      "lng": 14.85281642,
+      "distance_km": 8.99,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel-Gasthof Murblick",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.17153621,
+      "lng": 14.66671364,
+      "distance_km": 9.14,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Bed & Breakfast Franzbauerhof",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.2074287,
+      "lng": 14.6418275,
+      "distance_km": 9.38,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Stadthotel Schwerterbr\u00e4u",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.16766796,
+      "lng": 14.66059048,
+      "distance_km": 9.77,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Wolfgang Rattinger",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.18715405,
+      "lng": 14.64365995,
+      "distance_km": 9.83,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Privatzimmer Brigitte Spandl",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.17121,
+      "lng": 14.64588,
+      "distance_km": 10.47,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Landgasthof Friedl",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.25127256000475,
+      "lng": 14.897569149996121,
+      "distance_km": 10.63,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Familie Strasser",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.098108,
+      "lng": 14.731801,
+      "distance_km": 13.75,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Fr\u00fchst\u00fcckspension Eichberger",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 47.22289909,
+      "lng": 14.58005974,
+      "distance_km": 13.95,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Kully-Hube",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.11812658890133,
+      "lng": 14.632889944445994,
+      "distance_km": 15.06,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Oberrieserhof",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.102837,
+      "lng": 14.655746,
+      "distance_km": 15.39,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Gaberl Gasthaus Plankogel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.1123513,
+      "lng": 14.916258,
+      "distance_km": 16.55,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Oskar Schauer Haus/ Sattelhaus",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.1649787,
+      "lng": 14.99303076,
+      "distance_km": 18.29,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Salzstiegelhaus",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.06845325,
+      "lng": 14.87138845,
+      "distance_km": 18.65,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "BienenAlm",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.35295,
+      "lng": 14.97109,
+      "distance_km": 21.49,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Landgasthof Gietl GmbH",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.39201508,
+      "lng": 14.93004248,
+      "distance_km": 22.86,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "G\u00e4stehaus St.Michael",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.33369826,
+      "lng": 15.02497688,
+      "distance_km": 23.37,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hotel Liebes Nesterl Bergwirt",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 47.10257849,
+      "lng": 15.02921381,
+      "distance_km": 23.87,
+      "access_tier": "Long Transfer"
+    }
+  ],
+  "food": [
+    {
+      "name": "Restaurant Ringrast",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.21044715,
+      "lng": 14.78463558,
+      "distance_km": 1.82,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "EssPar",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.22399383,
+      "lng": 14.79100217,
+      "distance_km": 2.04,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Avalon Lounge",
+      "name_en": null,
+      "category": "bar",
+      "lat": 47.20077016975584,
+      "lng": 14.778357852932427,
+      "distance_km": 2.34,
+      "food_group": "bar"
+    },
+    {
+      "name": "GenussSpecht",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.20081673,
+      "lng": 14.77854198,
+      "distance_km": 2.35,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pub-Cafe Ranissimo",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.20782569,
+      "lng": 14.79701047,
+      "distance_km": 2.77,
+      "food_group": "bar"
+    },
+    {
+      "name": "Mr. Coffee - Breakfast & More",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 47.20755977,
+      "lng": 14.79681302,
+      "distance_km": 2.78,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Lianes Pub Spielberg",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.20825438,
+      "lng": 14.79753448,
+      "distance_km": 2.79,
+      "food_group": "bar"
+    },
+    {
+      "name": "Cafe Wasserturm",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.19383317,
+      "lng": 14.74710092,
+      "distance_km": 3.17,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Jamila Coffee",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 47.21005782,
+      "lng": 14.8051526,
+      "distance_km": 3.24,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe Pub Duo",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.19442918,
+      "lng": 14.74312247,
+      "distance_km": 3.25,
+      "food_group": "cafe"
+    },
+    {
+      "name": "ADMIRAL Sportsbar",
+      "name_en": null,
+      "category": "sports_bar",
+      "lat": 47.19377879,
+      "lng": 14.74327851,
+      "distance_km": 3.31,
+      "food_group": "bar"
+    },
+    {
+      "name": "Cafe B\u00e4ckerei Konditorei Madenberger",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.19004966,
+      "lng": 14.75383062,
+      "distance_km": 3.4,
+      "food_group": "cafe"
+    },
+    {
+      "name": "The Pepper's",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.21683,
+      "lng": 14.8109,
+      "distance_km": 3.5,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 Castra",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.19577587,
+      "lng": 14.73333944,
+      "distance_km": 3.56,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Kaffeeh\u00e4ferl",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.18804702,
+      "lng": 14.74491613,
+      "distance_km": 3.82,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Sturmtreff-Zeltweg",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.18492783,
+      "lng": 14.75394217,
+      "distance_km": 3.95,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "DER Bachwirt",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.21540322,
+      "lng": 14.82584827,
+      "distance_km": 4.64,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Parkcafe Knittelfeld",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 47.20934364,
+      "lng": 14.82468751,
+      "distance_km": 4.67,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Pub Ph\u00f6nix",
+      "name_en": null,
+      "category": "bar",
+      "lat": 47.2152193,
+      "lng": 14.8263889,
+      "distance_km": 4.69,
+      "food_group": "bar"
+    },
+    {
+      "name": "McCaf\u00e9",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 47.216838,
+      "lng": 14.827,
+      "distance_km": 4.72,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 47.21676459,
+      "lng": 14.82714555,
+      "distance_km": 4.73,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Lipizzaner",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.21474274,
+      "lng": 14.82712522,
+      "distance_km": 4.75,
+      "food_group": "cafe"
+    },
+    {
+      "name": "JESS Cafe und Grill",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.21525098,
+      "lng": 14.82765117,
+      "distance_km": 4.78,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Restaurant Toscana Knittelfeld",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.2144253,
+      "lng": 14.829466,
+      "distance_km": 4.93,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Restaurant Bella Vista Knittelfeld",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.21373901,
+      "lng": 14.83012732,
+      "distance_km": 4.99,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "IL Gusto Knittelfeld",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.212634,
+      "lng": 14.830076,
+      "distance_km": 5.0,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Il Gusto Ristorante-Pizzeria",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.2125701,
+      "lng": 14.830215,
+      "distance_km": 5.01,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe Sven",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.21419329,
+      "lng": 14.8306402,
+      "distance_km": 5.02,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Kirchenwirt Knittelfeld",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.21282267,
+      "lng": 14.83064816,
+      "distance_km": 5.04,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe Deodato",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.21355859,
+      "lng": 14.83106916,
+      "distance_km": 5.06,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Gasthaus Maislinger",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.18526273,
+      "lng": 14.8101356,
+      "distance_km": 5.14,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Gasthof Wulz",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.18432545,
+      "lng": 14.80880184,
+      "distance_km": 5.15,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caf\u00e9 Casafino",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.21907189,
+      "lng": 14.84293929,
+      "distance_km": 5.91,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Seckauer Lebkuchen - Regner GmbH",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 47.27228957959372,
+      "lng": 14.783869252645884,
+      "distance_km": 6.02,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Hofwirt",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.27469907,
+      "lng": 14.78597198,
+      "distance_km": 6.32,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "SSt\u00fcberl",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.2080723906275,
+      "lng": 14.678067370650155,
+      "distance_km": 6.67,
+      "food_group": "bar"
+    },
+    {
+      "name": "Engelhardt Cafe Restaurant",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.20808914,
+      "lng": 14.67800533,
+      "distance_km": 6.67,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 47.207607,
+      "lng": 14.67599,
+      "distance_km": 6.83,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "McCaf\u00e9",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 47.207607,
+      "lng": 14.67599,
+      "distance_km": 6.83,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Kaffee Tamelino",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.24911329,
+      "lng": 14.84538583,
+      "distance_km": 6.91,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Gl\u00fcck Auf",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.20479341,
+      "lng": 14.67505918,
+      "distance_km": 6.97,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Burger King",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 47.1837,
+      "lng": 14.68322,
+      "distance_km": 7.34,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Cafe Madenberger",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.18398993,
+      "lng": 14.68187745,
+      "distance_km": 7.41,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Fellisch OG",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.15433553,
+      "lng": 14.73992378,
+      "distance_km": 7.51,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Pool's Billard Pub",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.18381967,
+      "lng": 14.6804608,
+      "distance_km": 7.51,
+      "food_group": "bar"
+    },
+    {
+      "name": "ADMIRAL Sportsbar",
+      "name_en": null,
+      "category": "sports_bar",
+      "lat": 47.18433437,
+      "lng": 14.67997969,
+      "distance_km": 7.51,
+      "food_group": "bar"
+    },
+    {
+      "name": "Gasthaus Tavolato",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.1542167,
+      "lng": 14.73893554,
+      "distance_km": 7.54,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Breznik",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.1540136,
+      "lng": 14.7368604,
+      "distance_km": 7.6,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Gaaler Strandhaus",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.265978226199316,
+      "lng": 14.688869343251172,
+      "distance_km": 7.7,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pizzeria La Rosa",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.1953972,
+      "lng": 14.6657306,
+      "distance_km": 7.95,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Anita's Cafe",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 47.17649904,
+      "lng": 14.67381548,
+      "distance_km": 8.38,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe und Gasthaus Ka\u00dfi",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.16964,
+      "lng": 14.66755,
+      "distance_km": 9.21,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe Mittoni Judenburg",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.16901622,
+      "lng": 14.66050864,
+      "distance_km": 9.68,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Ski Pavillon Kleinlobming",
+      "name_en": null,
+      "category": "bar",
+      "lat": 47.150813,
+      "lng": 14.844088,
+      "distance_km": 9.73,
+      "food_group": "bar"
+    },
+    {
+      "name": "Wissi's Pub",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.16858381,
+      "lng": 14.66000171,
+      "distance_km": 9.74,
+      "food_group": "bar"
+    },
+    {
+      "name": "Schnuggi Bar Murtal",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.168576715,
+      "lng": 14.659916406,
+      "distance_km": 9.75,
+      "food_group": "bar"
+    },
+    {
+      "name": "Caf\u00e9 GLokal",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.15136,
+      "lng": 14.8473,
+      "distance_km": 9.83,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe-Restaurant Kastanienlaube",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.16950439,
+      "lng": 14.65550702,
+      "distance_km": 9.96,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Neuer Marktwirt Lebenshilfe Judenburg",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.16881437,
+      "lng": 14.64875798,
+      "distance_km": 10.43,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Gasthaus Forellenhof",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.1340089,
+      "lng": 14.83053104,
+      "distance_km": 10.75,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Jausenstation Reicherhube",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.2948760986328,
+      "lng": 14.671501159668,
+      "distance_km": 10.92,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "StadlCafe Rachau KG",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.2161223,
+      "lng": 14.9139023,
+      "distance_km": 11.28,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Gr\u00f6ndahlhaus",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.22534678,
+      "lng": 14.93706743,
+      "distance_km": 13.03,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pizzeria Living Cafe Bar",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.2200898,
+      "lng": 14.5800275,
+      "distance_km": 13.95,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Coffeesky",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.2255144551812,
+      "lng": 14.559551658104946,
+      "distance_km": 15.51,
+      "food_group": "cafe"
+    },
+    {
+      "name": "B\u00e4rli's Inn",
+      "name_en": null,
+      "category": "bar",
+      "lat": 47.06872,
+      "lng": 14.69467,
+      "distance_km": 17.6,
+      "food_group": "bar"
+    },
+    {
+      "name": "Luis'",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.06843545,
+      "lng": 14.69494968,
+      "distance_km": 17.63,
+      "food_group": "bar"
+    },
+    {
+      "name": "Gasthaus Zeilinger",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.06842827,
+      "lng": 14.69492709,
+      "distance_km": 17.63,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Alm Gasthaus Spitzer",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.277477454824,
+      "lng": 14.984947296817,
+      "distance_km": 17.82,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Schmelzh\u00fctt'n",
+      "name_en": null,
+      "category": "bar",
+      "lat": 47.10419858,
+      "lng": 14.5880993,
+      "distance_km": 18.53,
+      "food_group": "bar"
+    },
+    {
+      "name": "Cafe Restaurant Monte Christo",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.31799864,
+      "lng": 14.9763865,
+      "distance_km": 19.35,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Maurer's St.Stefan",
+      "name_en": null,
+      "category": "pub",
+      "lat": 47.31199938,
+      "lng": 14.99144195,
+      "distance_km": 19.95,
+      "food_group": "bar"
+    },
+    {
+      "name": "Waldheimh\u00fctte",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.05675361,
+      "lng": 14.63013947,
+      "distance_km": 20.78,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Landzeit Kammern",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.38609435,
+      "lng": 14.90189687,
+      "distance_km": 21.2,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Unser Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.33845672,
+      "lng": 15.01115204,
+      "distance_km": 22.8,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Zur Schmiedn - Timmersdorf",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.37654588,
+      "lng": 14.96401602,
+      "distance_km": 23.02,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Harald P\u00f6lzl",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.34376012,
+      "lng": 15.01395255,
+      "distance_km": 23.32,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Cafe Desperado",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 47.3473766,
+      "lng": 15.010432,
+      "distance_km": 23.35,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Michis Seeschenke",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 47.38882094,
+      "lng": 14.98862833,
+      "distance_km": 25.27,
+      "food_group": "restaurant"
+    }
+  ],
+  "overture_release": "2026-08-19.0"
+}

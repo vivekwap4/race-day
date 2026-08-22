@@ -1,0 +1,842 @@
+{
+  "circuit": {
+    "key": "china",
+    "name": "Shanghai International Circuit",
+    "location": "Shanghai, China",
+    "lat": 31.3389,
+    "lng": 121.2198
+  },
+  "hotels": [
+    {
+      "name": "\u7f8e\u8c6a\u9e97\u81f4\u4e0a\u6d77\u5609\u5b9a",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.34828425797358,
+      "lng": 121.25180527799645,
+      "distance_km": 3.21,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hyatt Regency Shanghai Jiading",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.353895,
+      "lng": 121.258546,
+      "distance_km": 4.04,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u5609\u5b9a\u51f1\u6085\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.354111796689814,
+      "lng": 121.25885705509567,
+      "distance_km": 4.08,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Four Points by Sheraton Shanghai Jiading",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.365307,
+      "lng": 121.250929,
+      "distance_km": 4.17,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hyatt Regency Shanghai Jiading",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.351704,
+      "lng": 121.262594,
+      "distance_km": 4.31,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u8fdc\u9999\u6e56\u7554loft\u5c45\u5bb6\u516c\u5bd3",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.356328333333,
+      "lng": 121.26193833333,
+      "distance_km": 4.45,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Courtyard by Marriott Jiading",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.370259914439874,
+      "lng": 121.25323426912973,
+      "distance_km": 4.72,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Courtyard by Marriott Shanghai Jiading",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.368662,
+      "lng": 121.258507,
+      "distance_km": 4.95,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai Jiading Center",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.373891,
+      "lng": 121.25385,
+      "distance_km": 5.06,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u5168\u5b63\u9152\u5e97\u4e0a\u6d77\u5609\u5b9a\u6e05\u6cb3\u8def\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.384502450045424,
+      "lng": 121.23962059996502,
+      "distance_km": 5.41,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai Jiading New City",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.340938,
+      "lng": 121.279713,
+      "distance_km": 5.69,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u5609\u5b9a\u5225\u5885\u82b1\u5712\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.385258815155,
+      "lng": 121.24683289963,
+      "distance_km": 5.76,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u5609\u5b9a\u5bbe\u9986",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.385139356421135,
+      "lng": 121.24865856740195,
+      "distance_km": 5.83,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hilton Garden Inn Shanghai Jiading",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.38835,
+      "lng": 121.250197,
+      "distance_km": 6.21,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Sheraton Shanghai Jiading Hotel",
+      "name_en": null,
+      "category": "resort",
+      "lat": 31.3947792,
+      "lng": 121.2457357,
+      "distance_km": 6.68,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Sheraton Shanghai Jiading Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.396476288453414,
+      "lng": 121.2411358678479,
+      "distance_km": 6.72,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u56fd\u9645l\u6c7d\u8f66\u57ce\u745e\u7acb\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.283393400236505,
+      "lng": 121.17539545616602,
+      "distance_km": 7.48,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Shanghai urban Island hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.288538110912,
+      "lng": 121.16578059063,
+      "distance_km": 7.6,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u4e2d\u570b\u4e0a\u6d77\u661f\u7a0b\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.290117,
+      "lng": 121.1603538,
+      "distance_km": 7.83,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Crowne Plaza Shanghai Anting",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.272279,
+      "lng": 121.191516,
+      "distance_km": 7.88,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "\u7687\u7a0b\u6c34\u6676\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.275076939800776,
+      "lng": 121.26689480106053,
+      "distance_km": 8.39,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai Jiading Industry Park",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.415193,
+      "lng": 121.204862,
+      "distance_km": 8.6,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai Jiading Industry Park",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.41763761054474,
+      "lng": 121.20019648495423,
+      "distance_km": 8.95,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Holiday Inn Kunshan Huaqiao",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.329535,
+      "lng": 121.108362,
+      "distance_km": 10.64,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "DoubleTree by Hilton Shanghai Nanxiang",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.296034,
+      "lng": 121.326498,
+      "distance_km": 11.2,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn Kunshan Huaqiao",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.332025,
+      "lng": 121.101025,
+      "distance_km": 11.31,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn & Suites Kunshan Huaqiao",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.291465,
+      "lng": 121.114294,
+      "distance_km": 11.33,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Radisson Hotel Exhibition Center Shanghai",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.22815,
+      "lng": 121.231339,
+      "distance_km": 12.36,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u56fd\u5c55\u5b9d\u9f99\u4e3d\u7b60\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.228149,
+      "lng": 121.233749,
+      "distance_km": 12.39,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Pullman Suzhou Taicang",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.432383,
+      "lng": 121.127684,
+      "distance_km": 13.58,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u5e0c\u723e\u9813\u6b61\u670b",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.263744636248838,
+      "lng": 121.33493409790606,
+      "distance_km": 13.77,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai North Hongqiao CBD",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.244338,
+      "lng": 121.322448,
+      "distance_km": 14.34,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u8679\u6a4b\u570b\u5c55\u4e2d\u5fc3\u4e9e\u6735\u98ef\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.2183275032,
+      "lng": 121.27889673191,
+      "distance_km": 14.54,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u6c5f\u6865\u7eff\u5730\u94c2\u9a8a\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.243237485741,
+      "lng": 121.32424181771,
+      "distance_km": 14.55,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u9038\u5ef7\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.217778827582265,
+      "lng": 121.2781082933381,
+      "distance_km": 14.56,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Fairfield by Marriott Shanghai Hongqiao NECC",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.215042,
+      "lng": 121.273347,
+      "distance_km": 14.68,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u4f58\u5c71\u4e16\u8302\u827e\u7f8e\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.2078450778,
+      "lng": 121.241319012,
+      "distance_km": 14.72,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hampton",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.21336945506003,
+      "lng": 121.27584084154701,
+      "distance_km": 14.94,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "voco Shanghai Hongqiao Hub",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.241572,
+      "lng": 121.329295,
+      "distance_km": 15.01,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u9526\u6c5f\u4e4b\u661f\u4e0a\u6d77\u987e\u6751\u516c\u56ed\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.351221666667,
+      "lng": 121.37741166667,
+      "distance_km": 15.03,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai Hongqiao NECC",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.211892,
+      "lng": 121.278123,
+      "distance_km": 15.17,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Hampton by Hilton Shanghai Hongqiao NECC",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.211473,
+      "lng": 121.280178,
+      "distance_km": 15.29,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u5168\u5b63\u9152\u5e97 Ji Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.216714510089968,
+      "lng": 121.30561189477966,
+      "distance_km": 15.85,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Rosedale Hotel Taicang",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.459944274429095,
+      "lng": 121.13090005366648,
+      "distance_km": 15.89,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u592a\u4ed3\u5b9d\u9f99\u798f\u670b\u559c\u6765\u767b\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.464607072138588,
+      "lng": 121.13929953631482,
+      "distance_km": 15.93,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn Taicang City Centre",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.44557,
+      "lng": 121.106849,
+      "distance_km": 15.99,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Mercure Shanghai Baoshan",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.44619,
+      "lng": 121.33516,
+      "distance_km": 16.19,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn Taicang City Centre",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.4499,
+      "lng": 121.099998,
+      "distance_km": 16.78,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai Hongqiao Linkong",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.23036,
+      "lng": 121.351137,
+      "distance_km": 17.36,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "The Anandi Hotel and SPA",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.231578853147212,
+      "lng": 121.3530067302998,
+      "distance_km": 17.4,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u91d1\u6c99\u667a\u9078\u5047\u65e5\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.2385715,
+      "lng": 121.3620541,
+      "distance_km": 17.53,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u5c1a\u5b9c\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.218352015629,
+      "lng": 121.34058371813,
+      "distance_km": 17.65,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "The Anandi Hotel and Spa",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.230969,
+      "lng": 121.357423,
+      "distance_km": 17.75,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Novotel Shanghai Hongqiao",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.22479122291216,
+      "lng": 121.35092958902591,
+      "distance_km": 17.78,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Holiday Inn Express Shanghai Jinsha",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.237371,
+      "lng": 121.366804,
+      "distance_km": 17.96,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u5168\u5b63\u4e0a\u6d77\u8679\u6a4b\u6a1e\u7d10\u81e8\u7a7a\u5712\u5340\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.219707927029877,
+      "lng": 121.34785813038057,
+      "distance_km": 17.99,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Echarm Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.215717,
+      "lng": 121.344524,
+      "distance_km": 18.11,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u7f8e\u5c45\u9152\u5e97 Mercure Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.2223271,
+      "lng": 121.353139,
+      "distance_km": 18.13,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Novotel Shanghai Hongqiao",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.222920131897283,
+      "lng": 121.35569561803435,
+      "distance_km": 18.25,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Ji Hotel Shanghai Hongqiao Shuniu Linkongyuan",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.217939,
+      "lng": 121.352631,
+      "distance_km": 18.45,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Crowne Plaza Noah Square",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.234698281886,
+      "lng": 121.37297667778,
+      "distance_km": 18.6,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Mercure Shanghai Hongqiao SOHO",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.220070783510067,
+      "lng": 121.35835525839633,
+      "distance_km": 18.65,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Citadines Songhong Road Shanghai",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.222896,
+      "lng": 121.365443,
+      "distance_km": 18.92,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Crowne Plaza Shanghai Noah Square",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.233018,
+      "lng": 121.377227,
+      "distance_km": 19.04,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Courtyard by Marriott Shanghai Changfeng Park \u4e0a\u6d77\u82cf\u5b81\u73af\u7403\u4e07\u6021\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.224868895372023,
+      "lng": 121.37555327827468,
+      "distance_km": 19.49,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u4e0a\u6d77\u8607\u5be7\u74b0\u7403\u842c\u6021\u9152\u5e97",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.224732946632,
+      "lng": 121.37559005741,
+      "distance_km": 19.5,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Blue Mountain Youth Hostel (\u84dd\u5c71\u56fd\u9645\u9752\u5e74\u65c5\u820d)",
+      "name_en": null,
+      "category": "hostel",
+      "lat": 31.220171366048,
+      "lng": 121.37299808929,
+      "distance_km": 19.65,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "\u897f\u90ca\u5bbe\u9986",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.204099613582,
+      "lng": 121.37323424542,
+      "distance_km": 20.91,
+      "access_tier": "Long Transfer"
+    },
+    {
+      "name": "Xijiao Huayuan Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 31.204062115796667,
+      "lng": 121.37359180472667,
+      "distance_km": 20.94,
+      "access_tier": "Long Transfer"
+    }
+  ],
+  "food": [
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.346273,
+      "lng": 121.261069,
+      "distance_km": 4.0,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.373469,
+      "lng": 121.253075,
+      "distance_km": 4.98,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.390688,
+      "lng": 121.237642,
+      "distance_km": 6.0,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.279297,
+      "lng": 121.21051,
+      "distance_km": 6.69,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.40596,
+      "lng": 121.186808,
+      "distance_km": 8.09,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.288017,
+      "lng": 121.151823,
+      "distance_km": 8.59,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.290426,
+      "lng": 121.323425,
+      "distance_km": 11.22,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 31.363073531538,
+      "lng": 121.36911227368,
+      "distance_km": 14.43,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks - \u592a\u4ed3\u6d77\u8fd0\u5824\u5e97",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 31.43759232633865,
+      "lng": 121.11768546351412,
+      "distance_km": 14.64,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Burger King \u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.364376,
+      "lng": 121.062036,
+      "distance_km": 15.25,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.444946,
+      "lng": 121.107892,
+      "distance_km": 15.87,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Blue Frog \u84dd\u86d9",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 31.204971301,
+      "lng": 121.27777704391,
+      "distance_km": 15.88,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cafe Du Village",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 31.203860527499163,
+      "lng": 121.28024954576205,
+      "distance_km": 16.08,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u80af\u5fb7\u57fa",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.446826,
+      "lng": 121.1044611,
+      "distance_km": 16.24,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "McDonald's \u9ea6\u5f53\u52b3",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.2108182,
+      "lng": 121.3036157,
+      "distance_km": 16.32,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.270175,
+      "lng": 121.374225,
+      "distance_km": 16.54,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.254108,
+      "lng": 121.36379,
+      "distance_km": 16.62,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Luckin Coffee \u745e\u5e78\u5496\u5561",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 31.224189248081,
+      "lng": 121.34721903798,
+      "distance_km": 17.59,
+      "food_group": "cafe"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.245802,
+      "lng": 121.376485,
+      "distance_km": 18.13,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u661f\u5df4\u514b",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 31.22062,
+      "lng": 121.35631,
+      "distance_km": 18.47,
+      "food_group": "cafe"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.21787,
+      "lng": 121.356699,
+      "distance_km": 18.72,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Five Guys",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.22035,
+      "lng": 121.36127,
+      "distance_km": 18.83,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "\u6c49\u5821\u738b",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 31.231576,
+      "lng": 121.377781,
+      "distance_km": 19.18,
+      "food_group": "fast_food"
+    }
+  ],
+  "overture_release": "2026-08-19.0"
+}

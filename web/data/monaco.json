@@ -1,0 +1,2138 @@
+{
+  "circuit": {
+    "key": "monaco",
+    "name": "Circuit de Monaco",
+    "location": "Monte Carlo, Monaco",
+    "lat": 43.7347,
+    "lng": 7.4206
+  },
+  "hotels": [
+    {
+      "name": "H\u00f4tel de France",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73323797,
+      "lng": 7.41830632,
+      "distance_km": 0.25,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Monte Carlo Harbor",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73673807214276,
+      "lng": 7.4220648423066775,
+      "distance_km": 0.26,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "H\u00f4tel De Paris",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.7325,
+      "lng": 7.419,
+      "distance_km": 0.28,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel Ambassador Monaco",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73286113,
+      "lng": 7.41794985,
+      "distance_km": 0.3,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "H\u00f4tel des Ventes de Monte-Carlo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.732983,
+      "lng": 7.424526,
+      "distance_km": 0.37,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Port Palace",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73717574,
+      "lng": 7.42408565,
+      "distance_km": 0.39,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Monaco - Hotel Hermitage",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.737796601814175,
+      "lng": 7.424390849475758,
+      "distance_km": 0.46,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel Forum",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73825187,
+      "lng": 7.41765926,
+      "distance_km": 0.46,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Novotel Monte Carlo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73903439,
+      "lng": 7.42172389,
+      "distance_km": 0.49,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "H\u00f4tel Hermitage Monte-Carlo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73848766,
+      "lng": 7.42598266,
+      "distance_km": 0.6,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "C\u00f4t\u00e9 Jardin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.738339,
+      "lng": 7.427597,
+      "distance_km": 0.69,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel de Paris",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73886411,
+      "lng": 7.42735204,
+      "distance_km": 0.71,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Columbus Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72749761,
+      "lng": 7.42000784,
+      "distance_km": 0.8,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "H\u00f4tel Azur",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74252347,
+      "lng": 7.42480612,
+      "distance_km": 0.93,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "H\u00f4tel Fairmont Monte Carlo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.739755,
+      "lng": 7.430052,
+      "distance_km": 0.94,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel Metropole",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74102193,
+      "lng": 7.42828335,
+      "distance_km": 0.94,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Riviera Marriott Hotel La Porte de Monaco",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72631806,
+      "lng": 7.41568041,
+      "distance_km": 1.01,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel Olympia",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74316099,
+      "lng": 7.42685194,
+      "distance_km": 1.07,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "H\u00f4tel Capitole",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74319099,
+      "lng": 7.42688194,
+      "distance_km": 1.07,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Le Quai Des Princes",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72514129,
+      "lng": 7.41738077,
+      "distance_km": 1.09,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Riviera Palace",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74436778,
+      "lng": 7.42334611,
+      "distance_km": 1.1,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel Villa Boeri",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74400959,
+      "lng": 7.42791359,
+      "distance_km": 1.19,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Appart Hotel Manasteos",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.745224,
+      "lng": 7.428237,
+      "distance_km": 1.32,
+      "access_tier": "Walkable"
+    },
+    {
+      "name": "Hotel Le Meridien Montecarlo",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.748092276,
+      "lng": 7.43586857805,
+      "distance_km": 1.93,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le M\u00e9ridien",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74836892,
+      "lng": 7.43581654,
+      "distance_km": 1.95,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Villa Monaco",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.724626,
+      "lng": 7.400181,
+      "distance_km": 1.99,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hostellerie Jerome",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74507769,
+      "lng": 7.40033664,
+      "distance_km": 2.0,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Napol\u00e9on",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74550196,
+      "lng": 7.39969085,
+      "distance_km": 2.07,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Monte Carlo Bay Hotel & Resort",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.74870074,
+      "lng": 7.43873493,
+      "distance_km": 2.13,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Residence Maeva Villa Medicis",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75186,
+      "lng": 7.435642,
+      "distance_km": 2.26,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Edmond's Hotel & Brasserie",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.723265542502,
+      "lng": 7.3964566416646,
+      "distance_km": 2.32,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Miramar",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72295064,
+      "lng": 7.39563413,
+      "distance_km": 2.39,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Normandy",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72258843,
+      "lng": 7.39552442,
+      "distance_km": 2.42,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel de Monaco",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72206195,
+      "lng": 7.39613574,
+      "distance_km": 2.42,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Relais & Ch\u00e2teaux",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.7512,
+      "lng": 7.444,
+      "distance_km": 2.63,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Monte-Carlo Beach",
+      "name_en": null,
+      "category": "resort",
+      "lat": 43.7516666,
+      "lng": 7.44382093,
+      "distance_km": 2.65,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Eden R\u00e9sidence Cap d'Ail",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.721528690866045,
+      "lng": 7.392044977447292,
+      "distance_km": 2.72,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "The Maybourne Riviera",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75685881,
+      "lng": 7.44429018,
+      "distance_km": 3.11,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Monaco Suites",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75580071,
+      "lng": 7.44920112,
+      "distance_km": 3.28,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Piscine Hotel Les Terasses d'\u00c8ze",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73292839350908,
+      "lng": 7.377781731651072,
+      "distance_km": 3.45,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Les Terrasses d'Eze",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73293755,
+      "lng": 7.37723167,
+      "distance_km": 3.49,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Le Roquebrune",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75977601,
+      "lng": 7.45197016,
+      "distance_km": 3.76,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Domaine Pins Paul",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 43.73467353,
+      "lng": 7.36498897,
+      "distance_km": 4.47,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "EZA",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.73064621,
+      "lng": 7.36320968,
+      "distance_km": 4.63,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Villa d'Eze",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72994775,
+      "lng": 7.36203499,
+      "distance_km": 4.74,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotellerie Blin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72999993,
+      "lng": 7.36202263,
+      "distance_km": 4.74,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Phoenix Hotel Collection",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72766596,
+      "lng": 7.36220416,
+      "distance_km": 4.76,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Arc En Ciel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.7294112,
+      "lng": 7.36156732,
+      "distance_km": 4.78,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Chateau de La Chevre d'Or",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72734007,
+      "lng": 7.36185544,
+      "distance_km": 4.79,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Relais & Ch\u00e2teaux",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.7274,
+      "lng": 7.3618,
+      "distance_km": 4.79,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Suite du Village d'Eze",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.72747453,
+      "lng": 7.36166371,
+      "distance_km": 4.8,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Ch\u00e2teau Eza",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.727678,
+      "lng": 7.36097929,
+      "distance_km": 4.85,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Vieille Maison",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 43.72245957,
+      "lng": 7.35644157,
+      "distance_km": 5.33,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Le Grand Cap",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75828422,
+      "lng": 7.48008566,
+      "distance_km": 5.45,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Ibis Roquebrune Cap Martin Menton",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75844,
+      "lng": 7.48012,
+      "distance_km": 5.46,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Alexandra",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75642824,
+      "lng": 7.48199134,
+      "distance_km": 5.49,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Victoria",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75739189,
+      "lng": 7.48147059,
+      "distance_km": 5.5,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "R\u00e9sidence du Grand Hotel Cap Martin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75122456688494,
+      "lng": 7.48544986873391,
+      "distance_km": 5.52,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Auberge de La Croix du Pape",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 43.73586011,
+      "lng": 7.35039804,
+      "distance_km": 5.64,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Reine d'Azur",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.75914284,
+      "lng": 7.48248571,
+      "distance_km": 5.67,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "La Vieille Bergerie",
+      "name_en": null,
+      "category": "bed_and_breakfast",
+      "lat": 43.7374203,
+      "lng": 7.34840188,
+      "distance_km": 5.81,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Port Silva Maris",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.71583,
+      "lng": 7.35101,
+      "distance_km": 5.97,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Corniche Azur 5* Hotel",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.71764841,
+      "lng": 7.34901247,
+      "distance_km": 6.06,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "DomusVi Residence les Hauts de Menton",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.76835,
+      "lng": 7.48271,
+      "distance_km": 6.24,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Best Western Hotels & Resorts",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.76585442,
+      "lng": 7.48818064,
+      "distance_km": 6.44,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Le Dauphin",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.76867985,
+      "lng": 7.49131983,
+      "distance_km": 6.82,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Pavillon Imperial",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.7693796,
+      "lng": 7.49178066,
+      "distance_km": 6.9,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Riva Art & Spa",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.76978376,
+      "lng": 7.49300154,
+      "distance_km": 7.0,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Princess et Richmond",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.76999615,
+      "lng": 7.49323103,
+      "distance_km": 7.03,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Hotel Parisien",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.7716109,
+      "lng": 7.49209789,
+      "distance_km": 7.06,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "Admiral Plaza",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.770956,
+      "lng": 7.4952,
+      "distance_km": 7.22,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Lemon",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.77330833,
+      "lng": 7.49286717,
+      "distance_km": 7.22,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Riviera-Palace",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.777576,
+      "lng": 7.489971,
+      "distance_km": 7.33,
+      "access_tier": "Short Transfer"
+    },
+    {
+      "name": "H\u00f4tel Menton Riviera",
+      "name_en": null,
+      "category": "hotel",
+      "lat": 43.77994905,
+      "lng": 7.4935744,
+      "distance_km": 7.72,
+      "access_tier": "Short Transfer"
+    }
+  ],
+  "food": [
+    {
+      "name": "Scala Green Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.7349,
+      "lng": 7.42034,
+      "distance_km": 0.03,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Bionda",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.7343971,
+      "lng": 7.42008019,
+      "distance_km": 0.05,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "GC Gelato & Cioccolato",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.7342,
+      "lng": 7.42054,
+      "distance_km": 0.06,
+      "food_group": "bar"
+    },
+    {
+      "name": "L'Escale",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.735292,
+      "lng": 7.421332,
+      "distance_km": 0.09,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "The Sangri-La",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73372888,
+      "lng": 7.42077581,
+      "distance_km": 0.11,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Green Coffee Monaco",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.73532,
+      "lng": 7.41933,
+      "distance_km": 0.12,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Nautic",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73497169,
+      "lng": 7.42208195,
+      "distance_km": 0.12,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Amore Mio",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73349641,
+      "lng": 7.42149354,
+      "distance_km": 0.15,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Slammers",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.73416989,
+      "lng": 7.41893255,
+      "distance_km": 0.15,
+      "food_group": "bar"
+    },
+    {
+      "name": "Mystic",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73335319,
+      "lng": 7.4197658,
+      "distance_km": 0.16,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Brasserie Du Mitico",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73337,
+      "lng": 7.41976,
+      "distance_km": 0.16,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Relais de Venise - son entrec\u00f4te",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73408898,
+      "lng": 7.41880929,
+      "distance_km": 0.16,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant le Marathon",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73634606,
+      "lng": 7.42050324,
+      "distance_km": 0.18,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Huit et Demi",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73339437,
+      "lng": 7.41936419,
+      "distance_km": 0.18,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Maison GIGI",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73356927,
+      "lng": 7.42224021,
+      "distance_km": 0.18,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Jack Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73376102,
+      "lng": 7.4223932,
+      "distance_km": 0.18,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Il Pacchero",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73299272,
+      "lng": 7.42047064,
+      "distance_km": 0.19,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Marlow",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73321,
+      "lng": 7.41924,
+      "distance_km": 0.2,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Spicy Bamboo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73415783,
+      "lng": 7.41803611,
+      "distance_km": 0.21,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pizza Mama",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.73281416,
+      "lng": 7.41975138,
+      "distance_km": 0.22,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Woo Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73307745,
+      "lng": 7.41902063,
+      "distance_km": 0.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "ICI Salad Bar Princesse Caroline",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73314788,
+      "lng": 7.41890554,
+      "distance_km": 0.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Place du March\u00e9",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.732606,
+      "lng": 7.419891,
+      "distance_km": 0.24,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Comptoir",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73248678,
+      "lng": 7.41997307,
+      "distance_km": 0.25,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "U Tapu",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.73251659,
+      "lng": 7.41978677,
+      "distance_km": 0.25,
+      "food_group": "bar"
+    },
+    {
+      "name": "Chez Roger",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73252906,
+      "lng": 7.41996009,
+      "distance_km": 0.25,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Barbiss Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73247133,
+      "lng": 7.41979963,
+      "distance_km": 0.26,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Caffe Milano",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73676808,
+      "lng": 7.42205957,
+      "distance_km": 0.26,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Robuchon Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.7325,
+      "lng": 7.419,
+      "distance_km": 0.28,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Monte Carlo Bar",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73250591,
+      "lng": 7.4186675,
+      "distance_km": 0.29,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Botticelli",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73698332,
+      "lng": 7.42254933,
+      "distance_km": 0.3,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Starbucks",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.73257107,
+      "lng": 7.41780974,
+      "distance_km": 0.33,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Costadoro Social Coffee Monaco",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.73243216,
+      "lng": 7.41747061,
+      "distance_km": 0.36,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Starbucks gare De Monaco",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.73797,
+      "lng": 7.41998,
+      "distance_km": 0.37,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Cabanon des Jeux",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73382667,
+      "lng": 7.41604118,
+      "distance_km": 0.38,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Garden Perk",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.73206394,
+      "lng": 7.41731807,
+      "distance_km": 0.39,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Pampa",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73119943,
+      "lng": 7.42155219,
+      "distance_km": 0.4,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Palais Greem",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73108243,
+      "lng": 7.42160539,
+      "distance_km": 0.41,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Stars of Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73279953,
+      "lng": 7.42503174,
+      "distance_km": 0.41,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Au Petit March\u00e9",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73719668,
+      "lng": 7.4168637,
+      "distance_km": 0.41,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "U Cavagnetu",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73105683,
+      "lng": 7.42204317,
+      "distance_km": 0.42,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Espresso Italiano",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.73780917,
+      "lng": 7.41765539,
+      "distance_km": 0.42,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Montgolfi\u00e8re",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.7310858,
+      "lng": 7.42275558,
+      "distance_km": 0.44,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Castelroc",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73062964,
+      "lng": 7.4210129,
+      "distance_km": 0.45,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Pattaya",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73707549,
+      "lng": 7.42506893,
+      "distance_km": 0.45,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Smash Club Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.730791869942,
+      "lng": 7.4223268032074,
+      "distance_km": 0.46,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pasta Roca",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73094636,
+      "lng": 7.42311314,
+      "distance_km": 0.46,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L'Express",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73091226,
+      "lng": 7.42297996,
+      "distance_km": 0.46,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Petit Bar Monaco Ville",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.73112068,
+      "lng": 7.42337405,
+      "distance_km": 0.46,
+      "food_group": "bar"
+    },
+    {
+      "name": "Art Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.73867185,
+      "lng": 7.41920435,
+      "distance_km": 0.46,
+      "food_group": "cafe"
+    },
+    {
+      "name": "RESTAURANT LA SIESTA",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.7308999,
+      "lng": 7.4230963,
+      "distance_km": 0.47,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "L'Aurore",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73112096,
+      "lng": 7.42373736,
+      "distance_km": 0.47,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Arrow Burger",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.73050342,
+      "lng": 7.42194796,
+      "distance_km": 0.48,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Be Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.730543,
+      "lng": 7.422409,
+      "distance_km": 0.48,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Pinocchio Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73071987,
+      "lng": 7.42319057,
+      "distance_km": 0.49,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "McDonald's",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.73100345,
+      "lng": 7.4173698,
+      "distance_km": 0.49,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Azzurra Kitchen",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73910041,
+      "lng": 7.42165027,
+      "distance_km": 0.5,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Vistamar",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73788057665876,
+      "lng": 7.425669168999737,
+      "distance_km": 0.54,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Belle Epoque",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.738257,
+      "lng": 7.425182,
+      "distance_km": 0.54,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pavyllon Monte-Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73814677,
+      "lng": 7.42636621,
+      "distance_km": 0.6,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L'Hirondelle",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73776049,
+      "lng": 7.42686333,
+      "distance_km": 0.61,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Lim\u00f9n",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.73869029,
+      "lng": 7.42589581,
+      "distance_km": 0.61,
+      "food_group": "bar"
+    },
+    {
+      "name": "IL MORSO Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.7397,
+      "lng": 7.42371,
+      "distance_km": 0.61,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Casa del Caff\u00e8",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.73928611,
+      "lng": 7.42471953,
+      "distance_km": 0.61,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Palace Caf\u00e9",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73956424,
+      "lng": 7.4242869,
+      "distance_km": 0.62,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Flashman",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73905463,
+      "lng": 7.42564475,
+      "distance_km": 0.63,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L'En-K Snacking",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.72917742,
+      "lng": 7.41744975,
+      "distance_km": 0.66,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "LAN LAN Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74057,
+      "lng": 7.4221,
+      "distance_km": 0.66,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Barbagiuan",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.72914343,
+      "lng": 7.41738326,
+      "distance_km": 0.67,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Mada One",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73938021,
+      "lng": 7.42580042,
+      "distance_km": 0.67,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Saliere",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.72853327,
+      "lng": 7.42041567,
+      "distance_km": 0.69,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cedric Grolet Monte-Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73905891,
+      "lng": 7.42670908,
+      "distance_km": 0.69,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Bar Am\u00e9ricain",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73900127,
+      "lng": 7.42751305,
+      "distance_km": 0.73,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant Salle Empire",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73920292,
+      "lng": 7.4272694,
+      "distance_km": 0.73,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant Societe Nautique de Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73763432,
+      "lng": 7.4288905,
+      "distance_km": 0.74,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant Lija",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74007568,
+      "lng": 7.42664071,
+      "distance_km": 0.77,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Il Terrazzino",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74092488,
+      "lng": 7.42520928,
+      "distance_km": 0.79,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Tavolo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.72755356,
+      "lng": 7.41993742,
+      "distance_km": 0.8,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Salon Rose",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73923471,
+      "lng": 7.42831498,
+      "distance_km": 0.8,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Amaz\u00f3nico Monte-Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73976449,
+      "lng": 7.42797019,
+      "distance_km": 0.82,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Train Bleu",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.73954134,
+      "lng": 7.42881874,
+      "distance_km": 0.85,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "R - La Table d'Antonio Salvatore",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74046532,
+      "lng": 7.4280105,
+      "distance_km": 0.87,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Tip Top",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74048123,
+      "lng": 7.42796133,
+      "distance_km": 0.87,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Gaia Monte Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74060189,
+      "lng": 7.42779344,
+      "distance_km": 0.87,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Metcaf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.74108366,
+      "lng": 7.4281237,
+      "distance_km": 0.93,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Dean & Deluca Monte-Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74101523,
+      "lng": 7.42816762,
+      "distance_km": 0.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Gelatorino",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74205624,
+      "lng": 7.42607784,
+      "distance_km": 0.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Les Petites Perles de Monte Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.742134,
+      "lng": 7.425991,
+      "distance_km": 0.93,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Nikki Beach",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.73993029,
+      "lng": 7.42993962,
+      "distance_km": 0.95,
+      "food_group": "bar"
+    },
+    {
+      "name": "Lobby Lounge Restaurant & Bar",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.74021791,
+      "lng": 7.4296711,
+      "distance_km": 0.95,
+      "food_group": "bar"
+    },
+    {
+      "name": "Amu Monte Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74005461,
+      "lng": 7.42998817,
+      "distance_km": 0.96,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Il Calcio",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74198893,
+      "lng": 7.42724565,
+      "distance_km": 0.97,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Lo Sfizio Street",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.74237235,
+      "lng": 7.42666257,
+      "distance_km": 0.98,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Caf\u00e9 du Cirque de Monte-Carlo",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.72593107,
+      "lng": 7.41824107,
+      "distance_km": 0.99,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Braza's",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74293657,
+      "lng": 7.42571932,
+      "distance_km": 1.0,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "McDonald's Monaco Larvotto",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.740778,
+      "lng": 7.430117,
+      "distance_km": 1.02,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Cova Montenapoleone 1817",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.742806511038616,
+      "lng": 7.42808995295209,
+      "distance_km": 1.08,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pasticceria Cova Moulins",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.74277998,
+      "lng": 7.42803085,
+      "distance_km": 1.08,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Trinity Monaco",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.74208186,
+      "lng": 7.42960044,
+      "distance_km": 1.09,
+      "food_group": "bar"
+    },
+    {
+      "name": "Marco Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74110347,
+      "lng": 7.4310836,
+      "distance_km": 1.1,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Zeffirino Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74226188,
+      "lng": 7.42947585,
+      "distance_km": 1.1,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Docks Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.72578224,
+      "lng": 7.41418085,
+      "distance_km": 1.12,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Sensais",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.742453,
+      "lng": 7.429537,
+      "distance_km": 1.12,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Terrasse Du Meridien",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74398164,
+      "lng": 7.42625209,
+      "distance_km": 1.13,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Nonnamaria Montecarlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74340667,
+      "lng": 7.42794933,
+      "distance_km": 1.13,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Duke",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.74249934,
+      "lng": 7.42963149,
+      "distance_km": 1.13,
+      "food_group": "bar"
+    },
+    {
+      "name": "La Table d'Elise",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74249669,
+      "lng": 7.42962041,
+      "distance_km": 1.13,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Deli Robuchon Saint-Laurent",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74345649,
+      "lng": 7.42794297,
+      "distance_km": 1.14,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Ano\u00efa Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74345785,
+      "lng": 7.42834166,
+      "distance_km": 1.16,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Restaurant Lusitano",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74426326,
+      "lng": 7.4265363,
+      "distance_km": 1.17,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "A'Trego",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.7249377,
+      "lng": 7.413545,
+      "distance_km": 1.22,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Happy Store",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.744638,
+      "lng": 7.426967,
+      "distance_km": 1.22,
+      "food_group": "bar"
+    },
+    {
+      "name": "Sass Cafe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74367705,
+      "lng": 7.43082369,
+      "distance_km": 1.29,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Kiosque des Moulins",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74490226,
+      "lng": 7.42910061,
+      "distance_km": 1.32,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Bar/Tabac de Les Moulins",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.74505,
+      "lng": 7.429273,
+      "distance_km": 1.35,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Twiga Monte Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.7440702,
+      "lng": 7.43165274,
+      "distance_km": 1.37,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L'Oliverai",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.745569,
+      "lng": 7.429335,
+      "distance_km": 1.4,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Uvita",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.72411928,
+      "lng": 7.41085466,
+      "distance_km": 1.41,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Agence Le Zodiaque - Z Real Invest - Zodiaque Viager",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.745716,
+      "lng": 7.4293412,
+      "distance_km": 1.41,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Neptune Monaco Beach",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74618424,
+      "lng": 7.43323127,
+      "distance_km": 1.63,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Cova La Plage",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74716719,
+      "lng": 7.43359147,
+      "distance_km": 1.74,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Giacomo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74724103,
+      "lng": 7.43486856,
+      "distance_km": 1.81,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Il Giardino Monte Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74888984,
+      "lng": 7.43415211,
+      "distance_km": 1.92,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Adamas Monaco",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74806979472817,
+      "lng": 7.435800434791585,
+      "distance_km": 1.92,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Caf\u00e9 Lacoste",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.74828687,
+      "lng": 7.43590201,
+      "distance_km": 1.95,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Proven\u00e7al",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.745555555556,
+      "lng": 7.4008333333333,
+      "distance_km": 1.99,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Billionaire at Sporting Monte-Carlo",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74719862,
+      "lng": 7.43836215,
+      "distance_km": 1.99,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Terasse de la Turbie",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.7446705109,
+      "lng": 7.39989435616,
+      "distance_km": 2.0,
+      "food_group": "cafe"
+    },
+    {
+      "name": "La Plage & More Monte Carlo",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.748710831791506,
+      "lng": 7.436373811097303,
+      "distance_km": 2.01,
+      "food_group": "bar"
+    },
+    {
+      "name": "MoNa Restaurant",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74945776,
+      "lng": 7.43575143,
+      "distance_km": 2.04,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Caprice Gourmand",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.74617258,
+      "lng": 7.40076978,
+      "distance_km": 2.04,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Las Brisas",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74865358,
+      "lng": 7.4388513,
+      "distance_km": 2.13,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Blue Bay Marcel Ravin",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74892498,
+      "lng": 7.43868656,
+      "distance_km": 2.15,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "L'Orange Verte",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.74895254,
+      "lng": 7.43867088,
+      "distance_km": 2.15,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Oltre Bistrot",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.75231611,
+      "lng": 7.43909687,
+      "distance_km": 2.46,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Le Deck",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.75173995,
+      "lng": 7.44408272,
+      "distance_km": 2.67,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La R\u00e9serve de la Mala",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.72228469,
+      "lng": 7.39072589,
+      "distance_km": 2.77,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Columbus Caf\u00e9 & Co",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.7549331,
+      "lng": 7.3981826,
+      "distance_km": 2.88,
+      "food_group": "cafe"
+    },
+    {
+      "name": "L'Etoile d'Eze",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.729621,
+      "lng": 7.370559,
+      "distance_km": 4.06,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Fraise et Chocolat",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.76516579,
+      "lng": 7.45879797,
+      "distance_km": 4.57,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Le Caf\u00e9 du Jardin",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.72738171,
+      "lng": 7.36207037,
+      "distance_km": 4.77,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Park Caf\u00e9",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.75675586,
+      "lng": 7.47502276,
+      "distance_km": 5.01,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Bar de la Plage - RCM",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.75737698,
+      "lng": 7.48149144,
+      "distance_km": 5.5,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Pirate",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.75570317,
+      "lng": 7.48312162,
+      "distance_km": 5.54,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "BAMBOO Green Kitchen",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.75824436,
+      "lng": 7.48203094,
+      "distance_km": 5.59,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Azureva restaurant pizzeria da ricardo",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.766359,
+      "lng": 7.476186,
+      "distance_km": 5.69,
+      "food_group": "bar"
+    },
+    {
+      "name": "Hippocampe",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.759774,
+      "lng": 7.482872,
+      "distance_km": 5.73,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "La Casa Eze Bord de Mer",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.71860065,
+      "lng": 7.35065831,
+      "distance_km": 5.9,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Caff\u00e8 d'Italia - Provence Alpes C\u00f4te d'Azur",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.76527884,
+      "lng": 7.48168408,
+      "distance_km": 5.97,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Restaurant Beau S\u00e9jour",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.78657017,
+      "lng": 7.44364303,
+      "distance_km": 6.06,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Bar-Restaurant Les Terrasses",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.78678205,
+      "lng": 7.44366816,
+      "distance_km": 6.08,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "199 Cafe",
+      "name_en": null,
+      "category": "cafe",
+      "lat": 43.76506506,
+      "lng": 7.48386564,
+      "distance_km": 6.1,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Piz & Keb Art's",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.765723417645496,
+      "lng": 7.483219670581981,
+      "distance_km": 6.1,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Frites City Carnoles",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.76570054,
+      "lng": 7.48335955,
+      "distance_km": 6.11,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Val Des Castagnins",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.78137278651077,
+      "lng": 7.479633508980311,
+      "distance_km": 7.03,
+      "food_group": "bar"
+    },
+    {
+      "name": "Le Big Boss",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.77013748,
+      "lng": 7.49372449,
+      "distance_km": 7.07,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "ChezTonton",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.77124433,
+      "lng": 7.49281194,
+      "distance_km": 7.08,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Bar-Tabac du Square",
+      "name_en": null,
+      "category": "bar",
+      "lat": 43.7707336,
+      "lng": 7.49390148,
+      "distance_km": 7.12,
+      "food_group": "bar"
+    },
+    {
+      "name": "Roxy bar",
+      "name_en": null,
+      "category": "coffee_shop",
+      "lat": 43.771082,
+      "lng": 7.494423,
+      "distance_km": 7.18,
+      "food_group": "cafe"
+    },
+    {
+      "name": "Pizzkotto",
+      "name_en": null,
+      "category": "fast_food_restaurant",
+      "lat": 43.7723299,
+      "lng": 7.49407,
+      "distance_km": 7.23,
+      "food_group": "fast_food"
+    },
+    {
+      "name": "Kumpir Menton",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.773768903533,
+      "lng": 7.49519,
+      "distance_km": 7.4,
+      "food_group": "restaurant"
+    },
+    {
+      "name": "Pizza Trust",
+      "name_en": null,
+      "category": "restaurant",
+      "lat": 43.781697,
+      "lng": 7.494508,
+      "distance_km": 7.91,
+      "food_group": "restaurant"
+    }
+  ],
+  "overture_release": "2026-08-19.0"
+}
