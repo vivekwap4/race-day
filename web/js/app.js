@@ -23,6 +23,7 @@ const TIER_CLASS = {
 const CLUSTER_COLOR = "#e63946";
 const HOTEL_COLOR = "#6ea8fe";
 const FOOD_COLOR = "#f0b25e";
+const SOURCE_ID = "places";
 
 // Free vector basemap. No API key required. OpenFreeMap ships matching
 // light and dark styles, so the map itself now follows the theme toggle
@@ -71,6 +72,36 @@ async function init() {
   applyLanguageLabel();
 
   map.on("moveend", renderHotelList);
+
+  // Registered once here rather than inside renderClusterLayer (which runs
+  // repeatedly on every layer switch, filter change, and theme toggle).
+  // MapLibre binds these by layer ID, so a single registration keeps
+  // working correctly even after that layer is removed and re-added.
+  map.on("click", "clusters", (e) => {
+    const features = map.queryRenderedFeatures(e.point, { layers: ["clusters"] });
+    if (!features.length) return;
+    const clusterId = features[0].properties.cluster_id;
+    map.getSource(SOURCE_ID).getClusterExpansionZoom(clusterId, (err, zoom) => {
+      if (err) return;
+      map.easeTo({ center: features[0].geometry.coordinates, zoom });
+    });
+  });
+
+  map.on("click", "unclustered-point", (e) => {
+    if (!e.features.length) return;
+    const props = e.features[0].properties;
+    if (state.activeLayer === "hotels") {
+      const hotel = state.currentData.hotels.find((h) => h.name === props.name && h.lat === props.lat);
+      if (hotel) showHotelDetail(hotel);
+    } else {
+      new maplibregl.Popup({ offset: 10 }).setLngLat(e.lngLat).setText(displayName(props)).addTo(map);
+    }
+  });
+
+  map.on("mouseenter", "clusters", () => (map.getCanvas().style.cursor = "pointer"));
+  map.on("mouseleave", "clusters", () => (map.getCanvas().style.cursor = ""));
+  map.on("mouseenter", "unclustered-point", () => (map.getCanvas().style.cursor = "pointer"));
+  map.on("mouseleave", "unclustered-point", () => (map.getCanvas().style.cursor = ""));
 }
 
 function populateCircuitPicker() {
@@ -228,16 +259,15 @@ function renderClusterLayer() {
     return;
   }
 
-  const sourceId = "places";
   const points = currentPoints();
   const color = state.activeLayer === "hotels" ? HOTEL_COLOR : FOOD_COLOR;
 
   if (map.getLayer("clusters")) map.removeLayer("clusters");
   if (map.getLayer("cluster-count")) map.removeLayer("cluster-count");
   if (map.getLayer("unclustered-point")) map.removeLayer("unclustered-point");
-  if (map.getSource(sourceId)) map.removeSource(sourceId);
+  if (map.getSource(SOURCE_ID)) map.removeSource(SOURCE_ID);
 
-  map.addSource(sourceId, {
+  map.addSource(SOURCE_ID, {
     type: "geojson",
     data: toGeoJSON(points),
     cluster: true,
@@ -248,7 +278,7 @@ function renderClusterLayer() {
   map.addLayer({
     id: "clusters",
     type: "circle",
-    source: sourceId,
+    source: SOURCE_ID,
     filter: ["has", "point_count"],
     paint: {
       "circle-color": CLUSTER_COLOR,
@@ -261,7 +291,7 @@ function renderClusterLayer() {
   map.addLayer({
     id: "cluster-count",
     type: "symbol",
-    source: sourceId,
+    source: SOURCE_ID,
     filter: ["has", "point_count"],
     layout: {
       "text-field": "{point_count_abbreviated}",
@@ -276,7 +306,7 @@ function renderClusterLayer() {
   map.addLayer({
     id: "unclustered-point",
     type: "circle",
-    source: sourceId,
+    source: SOURCE_ID,
     filter: ["!", ["has", "point_count"]],
     paint: {
       "circle-color": color,
@@ -285,30 +315,6 @@ function renderClusterLayer() {
       "circle-stroke-color": "#ffffff",
     },
   });
-
-  map.on("click", "clusters", (e) => {
-    const features = map.queryRenderedFeatures(e.point, { layers: ["clusters"] });
-    const clusterId = features[0].properties.cluster_id;
-    map.getSource(sourceId).getClusterExpansionZoom(clusterId, (err, zoom) => {
-      if (err) return;
-      map.easeTo({ center: features[0].geometry.coordinates, zoom });
-    });
-  });
-
-  map.on("click", "unclustered-point", (e) => {
-    const props = e.features[0].properties;
-    if (state.activeLayer === "hotels") {
-      const hotel = state.currentData.hotels.find((h) => h.name === props.name && h.lat === props.lat);
-      if (hotel) showHotelDetail(hotel);
-    } else {
-      new maplibregl.Popup({ offset: 10 }).setLngLat(e.lngLat).setText(displayName(props)).addTo(map);
-    }
-  });
-
-  map.on("mouseenter", "clusters", () => (map.getCanvas().style.cursor = "pointer"));
-  map.on("mouseleave", "clusters", () => (map.getCanvas().style.cursor = ""));
-  map.on("mouseenter", "unclustered-point", () => (map.getCanvas().style.cursor = "pointer"));
-  map.on("mouseleave", "unclustered-point", () => (map.getCanvas().style.cursor = ""));
 }
 
 // --- Hotel list, synced to the current map viewport ---
@@ -349,6 +355,8 @@ function renderHotelList() {
 function showHotelDetail(hotel) {
   document.getElementById("panel-content").classList.add("hidden");
   document.getElementById("hotel-detail").classList.remove("hidden");
+
+  map.flyTo({ center: [hotel.lng, hotel.lat], zoom: 15 });
 
   const nearbyFood = state.currentData.food
     .map((f) => ({ ...f, d: haversineKm(hotel.lat, hotel.lng, f.lat, f.lng) }))
