@@ -121,9 +121,19 @@ async function loadCircuit(key) {
 function toggleTheme() {
   state.theme = state.theme === "dark" ? "light" : "dark";
   applyTheme();
+
+  // setStyle can reset the camera to a default zoomed-out view when
+  // switching between structurally different styles (light <-> dark here).
+  // Save the current view and restore it once the new style is loaded, so
+  // toggling theme doesn't silently zoom back out to a world view.
+  const preservedCenter = map.getCenter();
+  const preservedZoom = map.getZoom();
   map.setStyle(mapStyleFor(state.theme));
+  map.once("style.load", () => {
+    map.jumpTo({ center: preservedCenter, zoom: preservedZoom });
+  });
   // renderClusterLayer() gets called again automatically via the
-  // "style.load" listener once the new style finishes loading.
+  // persistent "style.load" listener registered near map init.
 }
 
 function applyTheme() {
