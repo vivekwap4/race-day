@@ -9,7 +9,7 @@ const state = {
   currentData: null,
   activeLayer: "hotels",
   activeFoodCategory: "all",
-  theme: "dark",
+  theme: "light",
   language: (navigator.language || "en").toLowerCase().startsWith("en") ? "en" : "local",
   markers: [],
 };
