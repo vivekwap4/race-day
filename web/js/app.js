@@ -83,7 +83,12 @@ async function init() {
     const clusterId = features[0].properties.cluster_id;
     map.getSource(SOURCE_ID).getClusterExpansionZoom(clusterId, (err, zoom) => {
       if (err) return;
-      map.easeTo({ center: features[0].geometry.coordinates, zoom });
+      // getClusterExpansionZoom can come back with a null zoom (no error)
+      // in some edge cases — passing that straight to easeTo throws a
+      // validation error and silently aborts the whole click. Fall back
+      // to a reasonable "zoom in a bit" default instead.
+      const targetZoom = zoom == null ? Math.min(map.getZoom() + 2, 16) : zoom;
+      map.easeTo({ center: features[0].geometry.coordinates, zoom: targetZoom });
     });
   });
 
