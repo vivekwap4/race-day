@@ -54,6 +54,34 @@ WALKABLE_KM = 1.5
 SHORT_TRANSFER_KM = 10.0
 # anything beyond SHORT_TRANSFER_KM is "Long Transfer"
 
+# Transit stops live in Overture's base theme (infrastructure type, transit
+# subtype), NOT the places theme — Overture deliberately excludes bus stops,
+# platforms, and similar waypoints from places, since a place must be a
+# destination. See https://docs.overturemaps.org/guides/base/infrastructure/
+# Excludes parking-related classes (parking, parking_space, bicycle_parking,
+# parking_entrance, motorcycle_parking, bicycle_rental) since those aren't
+# meaningfully "transit" from a traveler's perspective.
+TRANSIT_CLASSES = [
+    "bus_stop",
+    "bus_station",
+    "platform",
+    "stop_position",
+    "railway_station",
+    "railway_halt",
+    "ferry_terminal",
+    "subway_station",
+]
+TRANSIT_LABELS = {
+    "bus_stop": "Bus stop",
+    "bus_station": "Bus station",
+    "platform": "Platform",
+    "stop_position": "Stop",
+    "railway_station": "Train station",
+    "railway_halt": "Train halt",
+    "ferry_terminal": "Ferry terminal",
+    "subway_station": "Metro station",
+}
+
 # Overture places below this confidence score get dropped. Overture aggregates
 # places from multiple providers without manual verification, so low-confidence
 # matches sometimes carry garbage names (e.g. an unrelated string or domain-like
@@ -117,6 +145,30 @@ def query_places(con, base_path, xmin, ymin, xmax, ymax):
     return con.execute(sql).fetchall()
 
 
+def query_transit(con, base_path, xmin, ymin, xmax, ymax):
+    """Pull transit stops from the base theme's infrastructure type — a
+    completely different theme from places, since Overture deliberately
+    excludes waypoints like bus stops from places (a place must be a
+    destination). Unlike places, infrastructure has no confidence field to
+    filter on. Geometries here can be Point, LineString, or Polygon
+    depending on class, so ST_Centroid gives a safe representative point
+    regardless of shape."""
+    class_list = ", ".join(f"'{c}'" for c in TRANSIT_CLASSES)
+    sql = f"""
+        SELECT
+            names."primary" AS name,
+            class,
+            ST_X(ST_Centroid(geometry)) AS lng,
+            ST_Y(ST_Centroid(geometry)) AS lat
+        FROM read_parquet('{base_path}/theme=base/type=infrastructure/*', filename=true, hive_partitioning=1)
+        WHERE subtype = 'transit'
+          AND class IN ({class_list})
+          AND bbox.xmin BETWEEN {xmin} AND {xmax}
+          AND bbox.ymin BETWEEN {ymin} AND {ymax}
+    """
+    return con.execute(sql).fetchall()
+
+
 def classify_places(rows, center_lat, center_lng):
     hotels, food = [], []
     for name, name_en, category, confidence, lng, lat in rows:
@@ -145,11 +197,34 @@ def classify_places(rows, center_lat, center_lng):
     return hotels, food
 
 
+def classify_transit(rows, center_lat, center_lng):
+    transit = []
+    for name, cls, lng, lat in rows:
+        dist = round(haversine_km(center_lat, center_lng, lat, lng), 2)
+        transit.append(
+            {
+                # Many transit stops (especially bus_stop) have no name in
+                # Overture — fall back to a readable label from the class
+                # rather than showing a blank name in the UI.
+                "name": name or TRANSIT_LABELS.get(cls, "Transit stop"),
+                "class": cls,
+                "lat": lat,
+                "lng": lng,
+                "distance_km": dist,
+            }
+        )
+    transit.sort(key=lambda t: t["distance_km"])
+    return transit
+
+
 def extract_circuit(con, key, circuit, base_path, release):
     print(f"Extracting {circuit['name']} ({key})...")
     xmin, ymin, xmax, ymax = bbox_around(circuit["lat"], circuit["lng"], circuit["bbox_km"])
     rows = query_places(con, base_path, xmin, ymin, xmax, ymax)
     hotels, food = classify_places(rows, circuit["lat"], circuit["lng"])
+
+    transit_rows = query_transit(con, base_path, xmin, ymin, xmax, ymax)
+    transit = classify_transit(transit_rows, circuit["lat"], circuit["lng"])
 
     out = {
         "circuit": {
@@ -161,6 +236,7 @@ def extract_circuit(con, key, circuit, base_path, release):
         },
         "hotels": hotels,
         "food": food,
+        "transit": transit,
         "overture_release": release,
     }
 
@@ -168,7 +244,7 @@ def extract_circuit(con, key, circuit, base_path, release):
     out_path = os.path.join(DATA_DIR, f"{key}.json")
     with open(out_path, "w") as f:
         json.dump(out, f, indent=2)
-    print(f"  -> {len(hotels)} hotels, {len(food)} food places written to {out_path}")
+    print(f"  -> {len(hotels)} hotels, {len(food)} food places, {len(transit)} transit stops written to {out_path}")
 
 
 def main():

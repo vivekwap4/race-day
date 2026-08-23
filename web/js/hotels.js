@@ -1,7 +1,7 @@
 // Hotel list (synced to the current map viewport), the hotel detail panel,
 // and the race weekend schedule collapsible.
 
-import { state, TIER_CLASS, HIGHLIGHT_COLOR } from "./state.js";
+import { state, TIER_CLASS, HIGHLIGHT_COLOR, TRANSIT_LABELS } from "./state.js";
 import { map } from "./map.js";
 import { haversineKm, escapeHtml, displayName } from "./utils.js";
 
@@ -64,10 +64,17 @@ export function showHotelDetail(hotel) {
     .filter((f) => f.d <= 1)
     .sort((a, b) => a.d - b.d);
 
+  // (state.currentData.transit || []) guards against data files extracted
+  // before this field existed — old JSON just won't have a transit array.
+  const nearbyTransit = (state.currentData.transit || [])
+    .map((t) => ({ ...t, d: haversineKm(hotel.lat, hotel.lng, t.lat, t.lng) }))
+    .filter((t) => t.d <= 0.5)
+    .sort((a, b) => a.d - b.d);
+
   document.getElementById("hotel-detail-body").innerHTML = `
     <h1 style="font-size:18px;margin:12px 0 2px;">${escapeHtml(displayName(hotel))}</h1>
     <p class="muted small" style="margin:0 0 14px;">${hotel.distance_km} km from circuit &middot; <span class="tier-badge ${TIER_CLASS[hotel.access_tier] || ""}">${hotel.access_tier}</span></p>
-    <p class="section-label">Nearby (within 1 km)</p>
+    <p class="section-label">Food options nearby</p>
     ${
       nearbyFood.length
         ? nearbyFood
@@ -77,6 +84,17 @@ export function showHotelDetail(hotel) {
             )
             .join("")
         : '<p class="empty-state">No food places within 1 km in the current data.</p>'
+    }
+    <p class="section-label" style="margin-top:14px;">Transit nearby</p>
+    ${
+      nearbyTransit.length
+        ? nearbyTransit
+            .slice(0, 6)
+            .map(
+              (t) => `<div class="detail-row"><span>${escapeHtml(t.name)} <span class="muted small">(${TRANSIT_LABELS[t.class] || t.class})</span></span><span class="muted">${t.d.toFixed(2)} km</span></div>`
+            )
+            .join("")
+        : '<p class="empty-state">No transit stops within 500 m in the current data.</p>'
     }
     <p class="muted small" style="margin-top:14px;">
       Distances are straight-line, not routed. Access tier is derived from distance only —

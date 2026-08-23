@@ -29,6 +29,21 @@ export const CIRCUIT_COLOR = "#7c3aed"; // distinct from hotel/food/cluster red-
 export const HIGHLIGHT_COLOR = "#059669"; // emerald — used only for the selected-hotel pin, distinct from every other color on the map
 export const SOURCE_ID = "places";
 
+// Mirrors TRANSIT_LABELS in scripts/extract.py — kept in sync by hand since
+// one's Python (runs at extraction time) and one's JS (runs in the browser).
+// extract.py already applies this as a fallback name when a stop has none,
+// so this copy is used here just to show the stop *type* alongside its name.
+export const TRANSIT_LABELS = {
+  bus_stop: "Bus stop",
+  bus_station: "Bus station",
+  platform: "Platform",
+  stop_position: "Stop",
+  railway_station: "Train station",
+  railway_halt: "Train halt",
+  ferry_terminal: "Ferry terminal",
+  subway_station: "Metro station",
+};
+
 // One flag per circuit, keyed to scripts/circuits.json's keys. Kept here
 // rather than in the data file since it's purely decorative UI, not data
 // Overture or the extraction pipeline has any part in.
