@@ -7417,5 +7417,175 @@
       "food_group": "cafe"
     }
   ],
+  "transit": [
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.6147414,
+      "lng": 39.1074385,
+      "distance_km": 1.93
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.605313,
+      "lng": 39.1076182,
+      "distance_km": 2.97
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.6510575,
+      "lng": 39.1263526,
+      "distance_km": 3.11
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.6013692,
+      "lng": 39.1073214,
+      "distance_km": 3.41
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5964603,
+      "lng": 39.1061066,
+      "distance_km": 3.94
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.6154848,
+      "lng": 39.1391986,
+      "distance_km": 4.03
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5959089,
+      "lng": 39.1443705,
+      "distance_km": 5.75
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.595356,
+      "lng": 39.1439194,
+      "distance_km": 5.76
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5835031,
+      "lng": 39.1434736,
+      "distance_km": 6.73
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.6881473,
+      "lng": 39.1437304,
+      "distance_km": 7.46
+    },
+    {
+      "name": "\u0642\u0637\u0627\u0631 \u0627\u0644\u062d\u0631\u0645\u064a\u0646 \u0627\u0644\u0633\u0631\u064a\u0639 - \u0645\u0637\u0627\u0631 \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062f\u0648\u0644\u064a",
+      "class": "railway_station",
+      "lat": 21.65850044379598,
+      "lng": 39.174636539200996,
+      "distance_km": 7.84
+    },
+    {
+      "name": "\u0642\u0637\u0627\u0631 \u0627\u0644\u062d\u0631\u0645\u064a\u0646 \u0627\u0644\u0633\u0631\u064a\u0639 - \u0645\u0637\u0627\u0631 \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062f\u0648\u0644\u064a",
+      "class": "railway_station",
+      "lat": 21.6605044,
+      "lng": 39.1738182,
+      "distance_km": 7.85
+    },
+    {
+      "name": "air port site",
+      "class": "bus_station",
+      "lat": 21.641331,
+      "lng": 39.1810001,
+      "distance_km": 7.99
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5957997,
+      "lng": 39.1737038,
+      "distance_km": 8.21
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.592668,
+      "lng": 39.1739754,
+      "distance_km": 8.41
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.556974,
+      "lng": 39.1260458,
+      "distance_km": 8.63
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5774803,
+      "lng": 39.1795854,
+      "distance_km": 9.85
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5639477,
+      "lng": 39.1859524,
+      "distance_km": 11.32
+    },
+    {
+      "name": "\u0627\u0644\u0639\u0632\u0628\u0632\u0628\u0629 2\u0623",
+      "class": "bus_stop",
+      "lat": 21.5445583,
+      "lng": 39.1764457,
+      "distance_km": 12.24
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5409367,
+      "lng": 39.1767391,
+      "distance_km": 12.58
+    },
+    {
+      "name": "Al Ruwais 7",
+      "class": "bus_stop",
+      "lat": 21.5279171,
+      "lng": 39.1797904,
+      "distance_km": 13.94
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.530961,
+      "lng": 39.1865781,
+      "distance_km": 14.08
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5261391,
+      "lng": 39.1812563,
+      "distance_km": 14.19
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 21.5373735,
+      "lng": 39.2178929,
+      "distance_km": 15.75
+    }
+  ],
   "overture_release": "2026-08-19.0"
 }

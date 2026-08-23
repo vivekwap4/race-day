@@ -1054,5 +1054,455 @@
       "food_group": "restaurant"
     }
   ],
+  "transit": [
+    {
+      "name": "University of Bahrain - Sakhir 1",
+      "class": "bus_stop",
+      "lat": 26.0488442,
+      "lng": 50.5120857,
+      "distance_km": 1.82
+    },
+    {
+      "name": "University of Bahrain - Sakhir 2",
+      "class": "bus_stop",
+      "lat": 26.0488454,
+      "lng": 50.5123673,
+      "distance_km": 1.83
+    },
+    {
+      "name": "Dormitory/AGU bus stop",
+      "class": "bus_stop",
+      "lat": 26.0497286,
+      "lng": 50.5116606,
+      "distance_km": 1.92
+    },
+    {
+      "name": "Jaza'air Beach Avenue-2/Zallaq",
+      "class": "bus_stop",
+      "lat": 26.0468423,
+      "lng": 50.4885218,
+      "distance_km": 2.72
+    },
+    {
+      "name": "Jaza'air Beach Avenue-3/Zallaq",
+      "class": "bus_stop",
+      "lat": 26.0469255,
+      "lng": 50.4883775,
+      "distance_km": 2.74
+    },
+    {
+      "name": "University of Bahrain-1/Sakhir",
+      "class": "bus_stop",
+      "lat": 26.0575755,
+      "lng": 50.5067194,
+      "distance_km": 2.82
+    },
+    {
+      "name": "Jaza'air Beach Avenue-1/Zallaq",
+      "class": "bus_stop",
+      "lat": 26.050096,
+      "lng": 50.4881826,
+      "distance_km": 2.97
+    },
+    {
+      "name": "Nuzha-9/Hamad Town Gate",
+      "class": "bus_stop",
+      "lat": 26.0603909,
+      "lng": 50.5081291,
+      "distance_km": 3.11
+    },
+    {
+      "name": "Nuzha-8/Hamad Town Gate",
+      "class": "bus_stop",
+      "lat": 26.0604598,
+      "lng": 50.5084492,
+      "distance_km": 3.12
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0654715,
+      "lng": 50.5075984,
+      "distance_km": 3.68
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0660624,
+      "lng": 50.5079071,
+      "distance_km": 3.74
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0745904,
+      "lng": 50.5071357,
+      "distance_km": 4.69
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0751827,
+      "lng": 50.5073899,
+      "distance_km": 4.76
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0801349,
+      "lng": 50.5063872,
+      "distance_km": 5.31
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0807827,
+      "lng": 50.50678,
+      "distance_km": 5.38
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0845479,
+      "lng": 50.5085567,
+      "distance_km": 5.79
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0848977,
+      "lng": 50.5091089,
+      "distance_km": 5.83
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 26.0870376,
+      "lng": 50.5066227,
+      "distance_km": 6.08
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 26.0871232,
+      "lng": 50.5054693,
+      "distance_km": 6.1
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0848519,
+      "lng": 50.4919759,
+      "distance_km": 6.11
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0920815,
+      "lng": 50.5084013,
+      "distance_km": 6.63
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0926612,
+      "lng": 50.5078345,
+      "distance_km": 6.7
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0949516,
+      "lng": 50.5057411,
+      "distance_km": 6.96
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0955843,
+      "lng": 50.5059442,
+      "distance_km": 7.03
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.0974356,
+      "lng": 50.5024289,
+      "distance_km": 7.27
+    },
+    {
+      "name": "School Bus Stop",
+      "class": "bus_stop",
+      "lat": 26.0984302,
+      "lng": 50.5040532,
+      "distance_km": 7.36
+    },
+    {
+      "name": "School Bus Stop",
+      "class": "bus_stop",
+      "lat": 26.1005358,
+      "lng": 50.5080191,
+      "distance_km": 7.57
+    },
+    {
+      "name": "School Bus Stop",
+      "class": "bus_stop",
+      "lat": 26.100831,
+      "lng": 50.5017592,
+      "distance_km": 7.65
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1014602,
+      "lng": 50.508193,
+      "distance_km": 7.67
+    },
+    {
+      "name": "School Bus Stop",
+      "class": "bus_stop",
+      "lat": 26.1019883,
+      "lng": 50.5019504,
+      "distance_km": 7.77
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.104917,
+      "lng": 50.501309,
+      "distance_km": 8.11
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1061621,
+      "lng": 50.5049322,
+      "distance_km": 8.21
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.109184,
+      "lng": 50.503831,
+      "distance_km": 8.55
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1098077,
+      "lng": 50.5041446,
+      "distance_km": 8.62
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1076236,
+      "lng": 50.4828818,
+      "distance_km": 8.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1125261,
+      "lng": 50.5045627,
+      "distance_km": 8.92
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1211913,
+      "lng": 50.4777144,
+      "distance_km": 10.39
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1258769,
+      "lng": 50.499585,
+      "distance_km": 10.44
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1244107,
+      "lng": 50.4774922,
+      "distance_km": 10.74
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1293982,
+      "lng": 50.5375735,
+      "distance_km": 11.11
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1324669,
+      "lng": 50.4977151,
+      "distance_km": 11.19
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1239257,
+      "lng": 50.5676446,
+      "distance_km": 11.65
+    },
+    {
+      "name": "School Bus Stop",
+      "class": "bus_stop",
+      "lat": 26.1374035,
+      "lng": 50.4982078,
+      "distance_km": 11.73
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1307687,
+      "lng": 50.5574827,
+      "distance_km": 11.89
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1436539,
+      "lng": 50.4953885,
+      "distance_km": 12.45
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1437752,
+      "lng": 50.4960702,
+      "distance_km": 12.46
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1213605,
+      "lng": 50.5882494,
+      "distance_km": 12.56
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1375818,
+      "lng": 50.5591615,
+      "distance_km": 12.65
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1311646,
+      "lng": 50.574151,
+      "distance_km": 12.67
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1427062,
+      "lng": 50.4584183,
+      "distance_km": 13.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1522779,
+      "lng": 50.5183892,
+      "distance_km": 13.34
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1521243,
+      "lng": 50.525008,
+      "distance_km": 13.38
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1432595,
+      "lng": 50.4578957,
+      "distance_km": 13.39
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1336543,
+      "lng": 50.5853214,
+      "distance_km": 13.5
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.127555,
+      "lng": 50.5974426,
+      "distance_km": 13.67
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1371208,
+      "lng": 50.5832372,
+      "distance_km": 13.71
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 26.1293906,
+      "lng": 50.5988538,
+      "distance_km": 13.92
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1589013,
+      "lng": 50.5295517,
+      "distance_km": 14.18
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.159445,
+      "lng": 50.5374302,
+      "distance_km": 14.37
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1322934,
+      "lng": 50.60315,
+      "distance_km": 14.44
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1620205,
+      "lng": 50.5492459,
+      "distance_km": 14.91
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1642266,
+      "lng": 50.45125,
+      "distance_km": 15.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1654833,
+      "lng": 50.452173,
+      "distance_km": 15.9
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 26.1659346,
+      "lng": 50.4524257,
+      "distance_km": 15.93
+    }
+  ],
   "overture_release": "2026-08-19.0"
 }

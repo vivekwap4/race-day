@@ -4546,5 +4546,1575 @@
       "food_group": "restaurant"
     }
   ],
+  "transit": [
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.43289460526894,
+      "lng": 51.492282848835266,
+      "distance_km": 7.41
+    },
+    {
+      "name": "\u0631\u0648\u0636\u0629 \u0644\u0648\u0633\u064a\u0644",
+      "class": "stop_position",
+      "lat": 25.4327662,
+      "lng": 51.4921524,
+      "distance_km": 7.42
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.42674975,
+      "lng": 51.4911997,
+      "distance_km": 7.95
+    },
+    {
+      "name": "\u0623\u0631\u0643\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.426552,
+      "lng": 51.491297,
+      "distance_km": 7.98
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.429139050000003,
+      "lng": 51.496657299999995,
+      "distance_km": 8.0
+    },
+    {
+      "name": "\u0627\u0644\u062d\u062f\u064a\u0642\u0629 \u0627\u0644\u0647\u0644\u0627\u0644\u064a\u0629 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.4288804,
+      "lng": 51.4967622,
+      "distance_km": 8.03
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4201421,
+      "lng": 51.482022799999996,
+      "distance_km": 8.25
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.42015555,
+      "lng": 51.4820976,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4201706,
+      "lng": 51.482178000000005,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4201968,
+      "lng": 51.482321549999995,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4201847,
+      "lng": 51.4822556,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4202114,
+      "lng": 51.48240175,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.42022465,
+      "lng": 51.48247489999999,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4202376,
+      "lng": 51.4825456,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4202525,
+      "lng": 51.482626800000006,
+      "distance_km": 8.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.420279,
+      "lng": 51.48277154999999,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.420400049999998,
+      "lng": 51.483367799999996,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4203866,
+      "lng": 51.4833014,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4203706,
+      "lng": 51.483222649999995,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.420355299999997,
+      "lng": 51.48314770000001,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.42034035,
+      "lng": 51.483074050000006,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4203252,
+      "lng": 51.483000000000004,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4203085,
+      "lng": 51.4829179,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4202947,
+      "lng": 51.48285,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4202788,
+      "lng": 51.4834806,
+      "distance_km": 8.29
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.42021845,
+      "lng": 51.483579,
+      "distance_km": 8.3
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.420200100000002,
+      "lng": 51.4836622,
+      "distance_km": 8.31
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4253098,
+      "lng": 51.4988162,
+      "distance_km": 8.47
+    },
+    {
+      "name": "\u062c\u0628\u0644 \u062b\u0639\u064a\u0644\u0628 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.4250505,
+      "lng": 51.4988673,
+      "distance_km": 8.5
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 25.415464420058278,
+      "lng": 51.48431857620088,
+      "distance_km": 8.82
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.418115005320438,
+      "lng": 51.49320583879749,
+      "distance_km": 8.9
+    },
+    {
+      "name": "\u0627\u0633\u062a\u0627\u062f \u0644\u0648\u0633\u064a\u0644",
+      "class": "stop_position",
+      "lat": 25.4179306,
+      "lng": 51.493175,
+      "distance_km": 8.92
+    },
+    {
+      "name": "\u0627\u0633\u062a\u0627\u062f \u0644\u0648\u0633\u064a\u0644",
+      "class": "stop_position",
+      "lat": 25.4179592,
+      "lng": 51.4933178,
+      "distance_km": 8.92
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4209841,
+      "lng": 51.5002413,
+      "distance_km": 8.96
+    },
+    {
+      "name": "\u0634\u0627\u0631\u0639 \u0627\u0644\u062e\u064a\u0644",
+      "class": "stop_position",
+      "lat": 25.420851,
+      "lng": 51.5003533,
+      "distance_km": 8.98
+    },
+    {
+      "name": "\u0644\u0648\u0633\u064a\u0644 QNB",
+      "class": "stop_position",
+      "lat": 25.4150252,
+      "lng": 51.487636,
+      "distance_km": 8.99
+    },
+    {
+      "name": "\u0644\u0648\u0633\u064a\u0644 QNB",
+      "class": "subway_station",
+      "lat": 25.4150412,
+      "lng": 51.4877389,
+      "distance_km": 8.99
+    },
+    {
+      "name": "\u0644\u0648\u0633\u064a\u0644 QNB",
+      "class": "stop_position",
+      "lat": 25.415057,
+      "lng": 51.4878378,
+      "distance_km": 8.99
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41496744882812,
+      "lng": 51.48771791024784,
+      "distance_km": 9.0
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41498196842401,
+      "lng": 51.48779277774682,
+      "distance_km": 9.0
+    },
+    {
+      "name": "\u0644\u0648\u0633\u064a\u0644 QNB",
+      "class": "stop_position",
+      "lat": 25.4140719,
+      "lng": 51.4877577,
+      "distance_km": 9.09
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41401714418558,
+      "lng": 51.487803959018734,
+      "distance_km": 9.1
+    },
+    {
+      "name": "\u0644\u0648\u0633\u064a\u0644",
+      "class": "stop_position",
+      "lat": 25.4139433,
+      "lng": 51.4877881,
+      "distance_km": 9.1
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0633\u062c\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
+      "class": "stop_position",
+      "lat": 25.4147695,
+      "lng": 51.4914518,
+      "distance_km": 9.16
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.414668921893597,
+      "lng": 51.491246250453386,
+      "distance_km": 9.17
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0633\u062c\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
+      "class": "stop_position",
+      "lat": 25.4146501,
+      "lng": 51.4914831,
+      "distance_km": 9.18
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.422468949999995,
+      "lng": 51.50807729999999,
+      "distance_km": 9.25
+    },
+    {
+      "name": "\u0633\u064a\u0641 \u0644\u0648\u0633\u064a\u0644 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.4224419,
+      "lng": 51.5080938,
+      "distance_km": 9.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.416103149999998,
+      "lng": 51.4969624,
+      "distance_km": 9.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.422399399999996,
+      "lng": 51.50818825,
+      "distance_km": 9.27
+    },
+    {
+      "name": "\u0633\u064a\u0641 \u0644\u0648\u0633\u064a\u0644 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.4223825,
+      "lng": 51.5081371,
+      "distance_km": 9.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.415502350000004,
+      "lng": 51.4971667,
+      "distance_km": 9.34
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41673985,
+      "lng": 51.5002723,
+      "distance_km": 9.37
+    },
+    {
+      "name": "\u062f\u0627\u0648\u0646 \u062a\u0627\u0648\u0646 \u0644\u0648\u0633\u064a\u0644",
+      "class": "stop_position",
+      "lat": 25.4165411,
+      "lng": 51.5009886,
+      "distance_km": 9.42
+    },
+    {
+      "name": "\u062f\u0627\u0648\u0646 \u062a\u0627\u0648\u0646 \u0644\u0648\u0633\u064a\u0644",
+      "class": "stop_position",
+      "lat": 25.4165512,
+      "lng": 51.5010888,
+      "distance_km": 9.43
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4161045,
+      "lng": 51.500415350000004,
+      "distance_km": 9.44
+    },
+    {
+      "name": "\u0645\u064a\u062f\u0627\u0646 \u0627\u0644\u0633\u0639\u062f",
+      "class": "stop_position",
+      "lat": 25.4174686,
+      "lng": 51.505941,
+      "distance_km": 9.59
+    },
+    {
+      "name": "\u0645\u064a\u062f\u0627\u0646 \u0627\u0644\u0633\u0639\u062f",
+      "class": "stop_position",
+      "lat": 25.4174925,
+      "lng": 51.5060818,
+      "distance_km": 9.6
+    },
+    {
+      "name": "\u0645\u064a\u062f\u0627\u0646 \u0627\u0644\u0633\u0639\u062f",
+      "class": "stop_position",
+      "lat": 25.4175092,
+      "lng": 51.5061532,
+      "distance_km": 9.6
+    },
+    {
+      "name": "\u0627\u0644\u064a\u0627\u0633\u0645\u064a\u0646",
+      "class": "stop_position",
+      "lat": 25.4106511,
+      "lng": 51.4949789,
+      "distance_km": 9.73
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41054125,
+      "lng": 51.4949647,
+      "distance_km": 9.74
+    },
+    {
+      "name": "\u062c\u0628\u0644 \u062b\u0639\u064a\u0644\u0628 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.4120547,
+      "lng": 51.5008601,
+      "distance_km": 9.85
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41193145,
+      "lng": 51.50078105,
+      "distance_km": 9.86
+    },
+    {
+      "name": "#0110",
+      "class": "bus_stop",
+      "lat": 25.5738299,
+      "lng": 51.4867068,
+      "distance_km": 9.88
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41314845,
+      "lng": 51.50975645,
+      "distance_km": 10.2
+    },
+    {
+      "name": "\u0633\u064a\u0641 \u0644\u0648\u0633\u064a\u0644 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.4131046,
+      "lng": 51.5097019,
+      "distance_km": 10.21
+    },
+    {
+      "name": "\u0633\u064a\u0641 \u0644\u0648\u0633\u064a\u0644 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.4130778,
+      "lng": 51.5096713,
+      "distance_km": 10.21
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.4130303,
+      "lng": 51.50967475,
+      "distance_km": 10.21
+    },
+    {
+      "name": "lusail stadium bus mall 2",
+      "class": "bus_station",
+      "lat": 25.4129081,
+      "lng": 51.5115225,
+      "distance_km": 10.33
+    },
+    {
+      "name": "lusail stadium bus mall",
+      "class": "bus_stop",
+      "lat": 25.4117905,
+      "lng": 51.5106051,
+      "distance_km": 10.38
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41023475,
+      "lng": 51.5122094,
+      "distance_km": 10.61
+    },
+    {
+      "name": "\u0648\u0627\u062f\u064a",
+      "class": "stop_position",
+      "lat": 25.4101979,
+      "lng": 51.512187,
+      "distance_km": 10.61
+    },
+    {
+      "name": "\u0648\u0627\u062f\u064a",
+      "class": "stop_position",
+      "lat": 25.4101656,
+      "lng": 51.5121445,
+      "distance_km": 10.61
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.41015775,
+      "lng": 51.51210785,
+      "distance_km": 10.61
+    },
+    {
+      "name": "Train station",
+      "class": "railway_station",
+      "lat": 25.403451833858547,
+      "lng": 51.499856135127686,
+      "distance_km": 10.66
+    },
+    {
+      "name": "\u0646\u064a\u0641\u0627",
+      "class": "stop_position",
+      "lat": 25.4034486,
+      "lng": 51.4997694,
+      "distance_km": 10.66
+    },
+    {
+      "name": "\u0627\u0644\u0648\u0633\u0644",
+      "class": "railway_station",
+      "lat": 25.402482173962582,
+      "lng": 51.504919139085935,
+      "distance_km": 10.98
+    },
+    {
+      "name": "\u0627\u0644\u0648\u0633\u0644",
+      "class": "stop_position",
+      "lat": 25.4024089,
+      "lng": 51.5049254,
+      "distance_km": 10.99
+    },
+    {
+      "name": "\u0637\u0631\u0641\u0629 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.4073678,
+      "lng": 51.5159351,
+      "distance_km": 11.08
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.407437800000004,
+      "lng": 51.51597105,
+      "distance_km": 11.08
+    },
+    {
+      "name": "\u0637\u0631\u0641\u0629 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.4073984,
+      "lng": 51.5160393,
+      "distance_km": 11.09
+    },
+    {
+      "name": "\u0637\u0631\u0641\u0629 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.4020133,
+      "lng": 51.5187918,
+      "distance_km": 11.74
+    },
+    {
+      "name": "\u0637\u0631\u0641\u0629 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.4020349,
+      "lng": 51.5188502,
+      "distance_km": 11.74
+    },
+    {
+      "name": "\u0637\u0631\u0641\u0629 - \u062c\u0646\u0648\u0628",
+      "class": "railway_station",
+      "lat": 25.4020263,
+      "lng": 51.5188224,
+      "distance_km": 11.74
+    },
+    {
+      "name": "Bus Stop 70704",
+      "class": "bus_stop",
+      "lat": 25.3799291,
+      "lng": 51.4515305,
+      "distance_km": 12.24
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.3972187,
+      "lng": 51.5226869,
+      "distance_km": 12.4
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.3972306,
+      "lng": 51.5227644,
+      "distance_km": 12.4
+    },
+    {
+      "name": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0637\u0631",
+      "class": "stop_position",
+      "lat": 25.3823228,
+      "lng": 51.4929957,
+      "distance_km": 12.59
+    },
+    {
+      "name": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0637\u0631",
+      "class": "stop_position",
+      "lat": 25.3823405,
+      "lng": 51.4930303,
+      "distance_km": 12.59
+    },
+    {
+      "name": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0637\u0631",
+      "class": "subway_station",
+      "lat": 25.3823405,
+      "lng": 51.4930047,
+      "distance_km": 12.59
+    },
+    {
+      "name": "\u0648\u0646\u0627\u062f\u064a \u0627\u0644\u064a\u062e\u0648\u062a",
+      "class": "railway_station",
+      "lat": 25.3928673,
+      "lng": 51.5243029,
+      "distance_km": 12.89
+    },
+    {
+      "name": "\u0648\u0646\u0627\u062f\u064a \u0627\u0644\u064a\u062e\u0648\u062a",
+      "class": "stop_position",
+      "lat": 25.3928613,
+      "lng": 51.5242745,
+      "distance_km": 12.89
+    },
+    {
+      "name": "\u0648\u0646\u0627\u062f\u064a \u0627\u0644\u064a\u062e\u0648\u062a",
+      "class": "stop_position",
+      "lat": 25.3928744,
+      "lng": 51.5243352,
+      "distance_km": 12.89
+    },
+    {
+      "name": "Jerman Nermaiyaj 02",
+      "class": "bus_stop",
+      "lat": 25.3733632,
+      "lng": 51.4716941,
+      "distance_km": 13.09
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u0633\u0646\u062a\u0631\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.3889367,
+      "lng": 51.5257818,
+      "distance_km": 13.34
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u0633\u0646\u062a\u0631\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.3889229,
+      "lng": 51.5257094,
+      "distance_km": 13.34
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u0633\u0646\u062a\u0631\u0627\u0644",
+      "class": "railway_station",
+      "lat": 25.388928,
+      "lng": 51.5257471,
+      "distance_km": 13.34
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u062c\u0646\u0648\u0628",
+      "class": "railway_station",
+      "lat": 25.3855923,
+      "lng": 51.5269517,
+      "distance_km": 13.72
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.3856003,
+      "lng": 51.5269818,
+      "distance_km": 13.72
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0627\u0631\u064a\u0646\u0627 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.3855844,
+      "lng": 51.5269191,
+      "distance_km": 13.72
+    },
+    {
+      "name": "Duhail Shooting Range 02",
+      "class": "bus_stop",
+      "lat": 25.3664844,
+      "lng": 51.4742668,
+      "distance_km": 13.88
+    },
+    {
+      "name": "University Signal",
+      "class": "bus_stop",
+      "lat": 25.3666523,
+      "lng": 51.4966579,
+      "distance_km": 14.36
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3638281,
+      "lng": 51.4955319,
+      "distance_km": 14.63
+    },
+    {
+      "name": "\u0644\u0642\u0637\u064a\u0641\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.3708197,
+      "lng": 51.5248832,
+      "distance_km": 15.03
+    },
+    {
+      "name": "\u0644\u0642\u0637\u064a\u0641\u064a\u0629",
+      "class": "railway_station",
+      "lat": 25.3708332,
+      "lng": 51.5249105,
+      "distance_km": 15.03
+    },
+    {
+      "name": "\u0644\u0642\u0637\u064a\u0641\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.3708392,
+      "lng": 51.5249372,
+      "distance_km": 15.03
+    },
+    {
+      "name": "\u0644\u0642\u0637\u064a\u0641\u064a\u0629",
+      "class": "subway_station",
+      "lat": 25.370847532246046,
+      "lng": 51.524876449471755,
+      "distance_km": 15.03
+    },
+    {
+      "name": "\u0644\u0642\u0637\u064a\u0641\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.3706974,
+      "lng": 51.5247577,
+      "distance_km": 15.04
+    },
+    {
+      "name": "\u0644\u0642\u0637\u064a\u0641\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.3707175,
+      "lng": 51.5248584,
+      "distance_km": 15.04
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3706732,
+      "lng": 51.5252499,
+      "distance_km": 15.07
+    },
+    {
+      "name": "University Street",
+      "class": "bus_stop",
+      "lat": 25.3591473,
+      "lng": 51.4949233,
+      "distance_km": 15.11
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3587028,
+      "lng": 51.4953415,
+      "distance_km": 15.17
+    },
+    {
+      "name": "Rose Valley Compound 02",
+      "class": "bus_stop",
+      "lat": 25.3538754,
+      "lng": 51.4786502,
+      "distance_km": 15.33
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3507215,
+      "lng": 51.4378399,
+      "distance_km": 15.57
+    },
+    {
+      "name": "\u0645\u062d\u0637\u0629 \u062d\u0627\u0641\u0644\u0627\u062a \u0627\u0644\u063a\u0631\u0627\u0641\u0629",
+      "class": "bus_station",
+      "lat": 25.35063508233873,
+      "lng": 51.43721931761872,
+      "distance_km": 15.59
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3505174,
+      "lng": 51.437394,
+      "distance_km": 15.6
+    },
+    {
+      "name": "\u0645\u062d\u0637\u0629 \u0627\u0644\u063a\u0631\u0627\u0641\u0629 \u0644\u0644\u062d\u0627\u0641\u0644\u0627\u062a",
+      "class": "bus_stop",
+      "lat": 25.3502917,
+      "lng": 51.436972,
+      "distance_km": 15.63
+    },
+    {
+      "name": "Qanat Quartier",
+      "class": "bus_stop",
+      "lat": 25.374927,
+      "lng": 51.5437821,
+      "distance_km": 15.64
+    },
+    {
+      "name": "Tower 7",
+      "class": "bus_stop",
+      "lat": 25.371581,
+      "lng": 51.5387932,
+      "distance_km": 15.67
+    },
+    {
+      "name": "\u0643\u062a\u0627\u0631\u0627",
+      "class": "stop_position",
+      "lat": 25.3621106,
+      "lng": 51.5217027,
+      "distance_km": 15.75
+    },
+    {
+      "name": "Tower 6",
+      "class": "bus_stop",
+      "lat": 25.3703544,
+      "lng": 51.538353,
+      "distance_km": 15.76
+    },
+    {
+      "name": "\u0643\u062a\u0627\u0631\u0627",
+      "class": "stop_position",
+      "lat": 25.3620967,
+      "lng": 51.5217653,
+      "distance_km": 15.76
+    },
+    {
+      "name": "\u0643\u062a\u0627\u0631\u0627",
+      "class": "subway_station",
+      "lat": 25.362097249999994,
+      "lng": 51.5217094,
+      "distance_km": 15.76
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3533442,
+      "lng": 51.4974423,
+      "distance_km": 15.8
+    },
+    {
+      "name": "Stop #3169",
+      "class": "bus_stop",
+      "lat": 25.3457639,
+      "lng": 51.4619917,
+      "distance_km": 16.06
+    },
+    {
+      "name": "Tower 19 Bus Stop",
+      "class": "bus_stop",
+      "lat": 25.3710194,
+      "lng": 51.5493489,
+      "distance_km": 16.32
+    },
+    {
+      "name": "Tower 19 Bus Stop",
+      "class": "bus_stop",
+      "lat": 25.37097,
+      "lng": 51.5494986,
+      "distance_km": 16.33
+    },
+    {
+      "name": "Monprix",
+      "class": "bus_stop",
+      "lat": 25.3672763,
+      "lng": 51.5494904,
+      "distance_km": 16.67
+    },
+    {
+      "name": "\u0628\u0631\u062c 31",
+      "class": "bus_stop",
+      "lat": 25.3640855,
+      "lng": 51.5445265,
+      "distance_km": 16.68
+    },
+    {
+      "name": "Doha bus",
+      "class": "bus_stop",
+      "lat": 25.3546008,
+      "lng": 51.5259119,
+      "distance_km": 16.69
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3404445,
+      "lng": 51.4384387,
+      "distance_km": 16.7
+    },
+    {
+      "name": "Doha bus",
+      "class": "bus_stop",
+      "lat": 25.3533845,
+      "lng": 51.525717,
+      "distance_km": 16.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3390392,
+      "lng": 51.4606064,
+      "distance_km": 16.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3453945,
+      "lng": 51.5053728,
+      "distance_km": 16.88
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3373202,
+      "lng": 51.4463192,
+      "distance_km": 17.0
+    },
+    {
+      "name": "Katara metro station",
+      "class": "bus_stop",
+      "lat": 25.3501414,
+      "lng": 51.5239003,
+      "distance_km": 17.05
+    },
+    {
+      "name": "\u0627\u0644\u0642\u0635\u0627\u0631",
+      "class": "stop_position",
+      "lat": 25.3501377,
+      "lng": 51.523871,
+      "distance_km": 17.05
+    },
+    {
+      "name": "\u0627\u0644\u0642\u0635\u0627\u0631",
+      "class": "stop_position",
+      "lat": 25.3501392,
+      "lng": 51.5241145,
+      "distance_km": 17.06
+    },
+    {
+      "name": "\u0627\u0644\u0642\u0635\u0627\u0631",
+      "class": "subway_station",
+      "lat": 25.350138671029292,
+      "lng": 51.523997908195305,
+      "distance_km": 17.06
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3439254,
+      "lng": 51.506086,
+      "distance_km": 17.06
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 25.64615946229287,
+      "lng": 51.484509294146065,
+      "distance_km": 17.63
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3319202,
+      "lng": 51.4266824,
+      "distance_km": 17.79
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3368685,
+      "lng": 51.505728,
+      "distance_km": 17.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3293762,
+      "lng": 51.4497639,
+      "distance_km": 17.87
+    },
+    {
+      "name": "Stop #6652",
+      "class": "bus_stop",
+      "lat": 25.3356906,
+      "lng": 51.5061202,
+      "distance_km": 17.93
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3276766,
+      "lng": 51.4574342,
+      "distance_km": 18.05
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3278275,
+      "lng": 51.5062602,
+      "distance_km": 18.78
+    },
+    {
+      "name": "QNL metro station north gate",
+      "class": "bus_station",
+      "lat": 25.3204792,
+      "lng": 51.4413627,
+      "distance_km": 18.89
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3204157,
+      "lng": 51.465966,
+      "distance_km": 18.89
+    },
+    {
+      "name": "\u0645\u0643\u062a\u0628\u0629 \u0642\u0637\u0631 \u0627\u0644\u0648\u0637\u0646\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.3193071,
+      "lng": 51.4418356,
+      "distance_km": 19.02
+    },
+    {
+      "name": "\u0645\u0643\u062a\u0628\u0629 \u0642\u0637\u0631 \u0627\u0644\u0648\u0637\u0646\u064a\u0629",
+      "class": "subway_station",
+      "lat": 25.3193295,
+      "lng": 51.4418356,
+      "distance_km": 19.02
+    },
+    {
+      "name": "\u0645\u0643\u062a\u0628\u0629 \u0642\u0637\u0631 \u0627\u0644\u0648\u0637\u0646\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.3193519,
+      "lng": 51.4418356,
+      "distance_km": 19.02
+    },
+    {
+      "name": "EC Community Housing 2",
+      "class": "stop_position",
+      "lat": 25.321159,
+      "lng": 51.4171207,
+      "distance_km": 19.14
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.324891,
+      "lng": 51.5088893,
+      "distance_km": 19.16
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.318291,
+      "lng": 51.4728959,
+      "distance_km": 19.19
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.317598,
+      "lng": 51.4744467,
+      "distance_km": 19.28
+    },
+    {
+      "name": "Al Khater House",
+      "class": "stop_position",
+      "lat": 25.3166655,
+      "lng": 51.4438889,
+      "distance_km": 19.3
+    },
+    {
+      "name": "Al Khater House",
+      "class": "stop_position",
+      "lat": 25.3166958,
+      "lng": 51.4438769,
+      "distance_km": 19.3
+    },
+    {
+      "name": "Multaqa",
+      "class": "stop_position",
+      "lat": 25.3163522,
+      "lng": 51.4417985,
+      "distance_km": 19.35
+    },
+    {
+      "name": "Multaqa",
+      "class": "stop_position",
+      "lat": 25.3163823,
+      "lng": 51.4417973,
+      "distance_km": 19.35
+    },
+    {
+      "name": "Education City Mosque",
+      "class": "stop_position",
+      "lat": 25.3158355,
+      "lng": 51.4464538,
+      "distance_km": 19.38
+    },
+    {
+      "name": "Education City Mosque",
+      "class": "stop_position",
+      "lat": 25.3158574,
+      "lng": 51.4464888,
+      "distance_km": 19.38
+    },
+    {
+      "name": "2015",
+      "class": "stop_position",
+      "lat": 25.3163199,
+      "lng": 51.4366027,
+      "distance_km": 19.39
+    },
+    {
+      "name": "Ceremonial Gate",
+      "class": "stop_position",
+      "lat": 25.3165545,
+      "lng": 51.4338296,
+      "distance_km": 19.39
+    },
+    {
+      "name": "2015",
+      "class": "stop_position",
+      "lat": 25.3162868,
+      "lng": 51.4366017,
+      "distance_km": 19.4
+    },
+    {
+      "name": "Ceremonial Gate",
+      "class": "stop_position",
+      "lat": 25.3165221,
+      "lng": 51.4338284,
+      "distance_km": 19.4
+    },
+    {
+      "name": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.3171038,
+      "lng": 51.4260888,
+      "distance_km": 19.43
+    },
+    {
+      "name": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629",
+      "class": "subway_station",
+      "lat": 25.3170829,
+      "lng": 51.4260979,
+      "distance_km": 19.43
+    },
+    {
+      "name": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.317062,
+      "lng": 51.426107,
+      "distance_km": 19.44
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3158674,
+      "lng": 51.4749928,
+      "distance_km": 19.47
+    },
+    {
+      "name": "\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0642\u0637\u0631 - \u0634\u0631\u0642",
+      "class": "stop_position",
+      "lat": 25.3159362,
+      "lng": 51.4312797,
+      "distance_km": 19.49
+    },
+    {
+      "name": "\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0642\u0637\u0631 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.31627,
+      "lng": 51.4284307,
+      "distance_km": 19.49
+    },
+    {
+      "name": "WESTBAY TBS BUS HUB",
+      "class": "bus_stop",
+      "lat": 25.3246679,
+      "lng": 51.5219053,
+      "distance_km": 19.6
+    },
+    {
+      "name": "Barzan 2",
+      "class": "bus_stop",
+      "lat": 25.3137566,
+      "lng": 51.4659494,
+      "distance_km": 19.63
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3147642,
+      "lng": 51.4785431,
+      "distance_km": 19.64
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3147262,
+      "lng": 51.478743,
+      "distance_km": 19.64
+    },
+    {
+      "name": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062e\u0636\u0631\u0627\u0621 \u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629",
+      "class": "stop_position",
+      "lat": 25.31501,
+      "lng": 51.4270544,
+      "distance_km": 19.65
+    },
+    {
+      "name": "Oxygen Park",
+      "class": "stop_position",
+      "lat": 25.3130785,
+      "lng": 51.4481977,
+      "distance_km": 19.68
+    },
+    {
+      "name": "Oxygen Park",
+      "class": "stop_position",
+      "lat": 25.3129818,
+      "lng": 51.4479442,
+      "distance_km": 19.69
+    },
+    {
+      "name": "NorthNest",
+      "class": "stop_position",
+      "lat": 25.3138726,
+      "lng": 51.432236,
+      "distance_km": 19.71
+    },
+    {
+      "name": "NorthNest",
+      "class": "stop_position",
+      "lat": 25.3139021,
+      "lng": 51.4322216,
+      "distance_km": 19.71
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.314788,
+      "lng": 51.4861116,
+      "distance_km": 19.74
+    },
+    {
+      "name": "Academy Station",
+      "class": "stop_position",
+      "lat": 25.3143513,
+      "lng": 51.4235344,
+      "distance_km": 19.77
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 25.3260428,
+      "lng": 51.5312197,
+      "distance_km": 19.8
+    },
+    {
+      "name": "City Centre",
+      "class": "bus_stop",
+      "lat": 25.3259156,
+      "lng": 51.5309743,
+      "distance_km": 19.81
+    },
+    {
+      "name": "\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0642\u0637\u0631 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.3131472,
+      "lng": 51.4301398,
+      "distance_km": 19.81
+    },
+    {
+      "name": "\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0642\u0637\u0631 - \u062c\u0646\u0648\u0628",
+      "class": "stop_position",
+      "lat": 25.3131789,
+      "lng": 51.4301251,
+      "distance_km": 19.81
+    },
+    {
+      "name": "ahmad bin ali stadium bus mall",
+      "class": "bus_station",
+      "lat": 25.3357734,
+      "lng": 51.3534616,
+      "distance_km": 19.91
+    },
+    {
+      "name": "\u0627\u0633\u062a\u0627\u062f \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.3127911,
+      "lng": 51.4242231,
+      "distance_km": 19.93
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 25.3232379,
+      "lng": 51.52769,
+      "distance_km": 19.96
+    },
+    {
+      "name": "\u0627\u0633\u062a\u0627\u062f \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629 - \u0634\u0645\u0627\u0644",
+      "class": "stop_position",
+      "lat": 25.3125596,
+      "lng": 51.4243182,
+      "distance_km": 19.96
+    },
+    {
+      "name": "\u0627\u0633\u062a\u0627\u062f \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629 - \u0634\u0631\u0642",
+      "class": "stop_position",
+      "lat": 25.3121569,
+      "lng": 51.4272427,
+      "distance_km": 19.96
+    },
+    {
+      "name": "\u0627\u0633\u062a\u0627\u062f \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645\u064a\u0629 - \u0634\u0631\u0642",
+      "class": "stop_position",
+      "lat": 25.3121794,
+      "lng": 51.427237,
+      "distance_km": 19.96
+    },
+    {
+      "name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0639\u0627\u0631\u0636",
+      "class": "subway_station",
+      "lat": 25.32337972639535,
+      "lng": 51.52844349753094,
+      "distance_km": 19.97
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3232361,
+      "lng": 51.5278753,
+      "distance_km": 19.97
+    },
+    {
+      "name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0639\u0627\u0631\u0636",
+      "class": "stop_position",
+      "lat": 25.3229874,
+      "lng": 51.5277025,
+      "distance_km": 19.98
+    },
+    {
+      "name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0639\u0627\u0631\u0636",
+      "class": "stop_position",
+      "lat": 25.3229878,
+      "lng": 51.5277521,
+      "distance_km": 19.99
+    },
+    {
+      "name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0639\u0627\u0631\u0636",
+      "class": "subway_station",
+      "lat": 25.32292095,
+      "lng": 51.527728950000004,
+      "distance_km": 19.99
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3169704,
+      "lng": 51.5082344,
+      "distance_km": 19.99
+    },
+    {
+      "name": "Qatar bowling",
+      "class": "bus_stop",
+      "lat": 25.3165943,
+      "lng": 51.5082072,
+      "distance_km": 20.03
+    },
+    {
+      "name": "SouthNest",
+      "class": "stop_position",
+      "lat": 25.3098871,
+      "lng": 51.4498608,
+      "distance_km": 20.03
+    },
+    {
+      "name": "SouthNest",
+      "class": "stop_position",
+      "lat": 25.3099036,
+      "lng": 51.449899,
+      "distance_km": 20.03
+    },
+    {
+      "name": "West Bay Central Bus Station",
+      "class": "bus_station",
+      "lat": 25.32070018084067,
+      "lng": 51.526290443133384,
+      "distance_km": 20.17
+    },
+    {
+      "name": "FIFA FUN FEST BUS HUB",
+      "class": "bus_station",
+      "lat": 25.3151457,
+      "lng": 51.5097563,
+      "distance_km": 20.23
+    },
+    {
+      "name": "\u0645\u062a\u062d\u0641",
+      "class": "stop_position",
+      "lat": 25.310899,
+      "lng": 51.4185243,
+      "distance_km": 20.23
+    },
+    {
+      "name": "\u0645\u062a\u062d\u0641",
+      "class": "stop_position",
+      "lat": 25.3108779,
+      "lng": 51.4185314,
+      "distance_km": 20.24
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3177142,
+      "lng": 51.5241545,
+      "distance_km": 20.41
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3195809,
+      "lng": 51.5310432,
+      "distance_km": 20.46
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 25.3195348,
+      "lng": 51.5310217,
+      "distance_km": 20.47
+    },
+    {
+      "name": "63107",
+      "class": "bus_stop",
+      "lat": 25.3156005,
+      "lng": 51.5202845,
+      "distance_km": 20.5
+    },
+    {
+      "name": "\u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u063a\u0631\u0628\u064a",
+      "class": "stop_position",
+      "lat": 25.3151717,
+      "lng": 51.5198106,
+      "distance_km": 20.53
+    },
+    {
+      "name": "\u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u063a\u0631\u0628\u064a",
+      "class": "subway_station",
+      "lat": 25.3151524,
+      "lng": 51.5198233,
+      "distance_km": 20.53
+    },
+    {
+      "name": "\u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u063a\u0631\u0628\u064a",
+      "class": "stop_position",
+      "lat": 25.3151331,
+      "lng": 51.519836,
+      "distance_km": 20.53
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3170941,
+      "lng": 51.5289997,
+      "distance_km": 20.64
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 25.3170336,
+      "lng": 51.5290392,
+      "distance_km": 20.65
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3164701,
+      "lng": 51.5286404,
+      "distance_km": 20.69
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 25.316509,
+      "lng": 51.5285547,
+      "distance_km": 20.69
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 25.3139934,
+      "lng": 51.5226437,
+      "distance_km": 20.74
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3139761,
+      "lng": 51.5227313,
+      "distance_km": 20.75
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 25.312248,
+      "lng": 51.5210174,
+      "distance_km": 20.87
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 25.3121993,
+      "lng": 51.5211074,
+      "distance_km": 20.88
+    },
+    {
+      "name": "\u0627\u0644\u0631\u0641\u0627\u0639",
+      "class": "stop_position",
+      "lat": 25.3242947,
+      "lng": 51.347981,
+      "distance_km": 21.29
+    },
+    {
+      "name": "\u0627\u0644\u0631\u0641\u0627\u0639",
+      "class": "subway_station",
+      "lat": 25.3243141,
+      "lng": 51.3479911,
+      "distance_km": 21.29
+    },
+    {
+      "name": "\u0627\u0644\u0631\u0641\u0627\u0639",
+      "class": "stop_position",
+      "lat": 25.3243336,
+      "lng": 51.3480011,
+      "distance_km": 21.29
+    }
+  ],
   "overture_release": "2026-08-19.0"
 }

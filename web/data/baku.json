@@ -10918,5 +10918,7833 @@
       "food_group": "cafe"
     }
   ],
+  "transit": [
+    {
+      "name": "H\u00f6kum\u0259t Evi",
+      "class": "bus_stop",
+      "lat": 40.3735315,
+      "lng": 49.8505162,
+      "distance_km": 0.26
+    },
+    {
+      "name": "H\u00f6k\u00fcm\u0259t evi",
+      "class": "bus_stop",
+      "lat": 40.3749352,
+      "lng": 49.8544386,
+      "distance_km": 0.29
+    },
+    {
+      "name": "H\u00f6k\u00fcm\u0259t evi",
+      "class": "bus_stop",
+      "lat": 40.3750697,
+      "lng": 49.854131,
+      "distance_km": 0.29
+    },
+    {
+      "name": "Bak\u0131 D\u0259niz Va\u011fzal\u0131",
+      "class": "ferry_terminal",
+      "lat": 40.3731777,
+      "lng": 49.85695050000001,
+      "distance_km": 0.32
+    },
+    {
+      "name": "Boat to Turkmenbasi",
+      "class": "ferry_terminal",
+      "lat": 40.3723343,
+      "lng": 49.8572391,
+      "distance_km": 0.33
+    },
+    {
+      "name": "Az\u0259rbaycan D\u00f6vl\u0259t Pedagoji Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3726005,
+      "lng": 49.8478695,
+      "distance_km": 0.46
+    },
+    {
+      "name": "Neft\u00e7il\u0259r prospekti 68",
+      "class": "bus_stop",
+      "lat": 40.3744518,
+      "lng": 49.8595896,
+      "distance_km": 0.58
+    },
+    {
+      "name": "Port of Baku",
+      "class": "bus_stop",
+      "lat": 40.3754196,
+      "lng": 49.8590983,
+      "distance_km": 0.59
+    },
+    {
+      "name": "Azerbaijan Airlines CJSC",
+      "class": "bus_stop",
+      "lat": 40.3766394,
+      "lng": 49.8487113,
+      "distance_km": 0.6
+    },
+    {
+      "name": "Mu\u011fan ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3779542,
+      "lng": 49.8517839,
+      "distance_km": 0.62
+    },
+    {
+      "name": "Sahil metrosu",
+      "class": "bus_stop",
+      "lat": 40.3703161,
+      "lng": 49.8463031,
+      "distance_km": 0.64
+    },
+    {
+      "name": "R\u0259\u015fid Behbudov ad\u0131na Mahn\u0131 Teatr\u0131",
+      "class": "bus_stop",
+      "lat": 40.3750624,
+      "lng": 49.8463636,
+      "distance_km": 0.65
+    },
+    {
+      "name": "R\u0259\u015fid Behbudov ad\u0131na Mahn\u0131 Teatr\u0131",
+      "class": "stop_position",
+      "lat": 40.3750418,
+      "lng": 49.8462979,
+      "distance_km": 0.66
+    },
+    {
+      "name": "Az\u04d9rbaycan D\u04d9mir Yollar\u0131",
+      "class": "bus_stop",
+      "lat": 40.378387,
+      "lng": 49.8537779,
+      "distance_km": 0.66
+    },
+    {
+      "name": "Aero Express shuttle to Airport (GYD)",
+      "class": "bus_station",
+      "lat": 40.3785416,
+      "lng": 49.854335,
+      "distance_km": 0.68
+    },
+    {
+      "name": "Mu\u011fan ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3786119,
+      "lng": 49.8520619,
+      "distance_km": 0.69
+    },
+    {
+      "name": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3787054,
+      "lng": 49.85231,
+      "distance_km": 0.7
+    },
+    {
+      "name": "Sahil",
+      "class": "subway_station",
+      "lat": 40.3717258,
+      "lng": 49.8445724,
+      "distance_km": 0.74
+    },
+    {
+      "name": "Sahil",
+      "class": "stop_position",
+      "lat": 40.3717145,
+      "lng": 49.8445867,
+      "distance_km": 0.74
+    },
+    {
+      "name": "Sahil metrostansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3710028,
+      "lng": 49.8446207,
+      "distance_km": 0.75
+    },
+    {
+      "name": "Sahil",
+      "class": "stop_position",
+      "lat": 40.3717359,
+      "lng": 49.8445559,
+      "distance_km": 0.75
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3731268,
+      "lng": 49.844455,
+      "distance_km": 0.75
+    },
+    {
+      "name": "S\u0259m\u0259d Vur\u011fun ba\u011f\u0131 2",
+      "class": "bus_stop",
+      "lat": 40.3791968,
+      "lng": 49.8525914,
+      "distance_km": 0.75
+    },
+    {
+      "name": "28 May B",
+      "class": "bus_stop",
+      "lat": 40.3793225,
+      "lng": 49.8515536,
+      "distance_km": 0.77
+    },
+    {
+      "name": "28 May A (to airport)",
+      "class": "bus_stop",
+      "lat": 40.3794324,
+      "lng": 49.8516059,
+      "distance_km": 0.78
+    },
+    {
+      "name": "28 May D",
+      "class": "bus_stop",
+      "lat": 40.3795476,
+      "lng": 49.8509615,
+      "distance_km": 0.81
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3749927,
+      "lng": 49.8624383,
+      "distance_km": 0.82
+    },
+    {
+      "name": "28 May C",
+      "class": "bus_stop",
+      "lat": 40.3796945,
+      "lng": 49.8508209,
+      "distance_km": 0.83
+    },
+    {
+      "name": "28 May F",
+      "class": "bus_stop",
+      "lat": 40.3793508,
+      "lng": 49.8489683,
+      "distance_km": 0.85
+    },
+    {
+      "name": "28 May E",
+      "class": "bus_stop",
+      "lat": 40.3794587,
+      "lng": 49.8489534,
+      "distance_km": 0.86
+    },
+    {
+      "name": "C\u0259f\u0259r Cabbarl\u0131",
+      "class": "subway_station",
+      "lat": 40.379652,
+      "lng": 49.8489498,
+      "distance_km": 0.88
+    },
+    {
+      "name": "Az\u0259rbaycan Milli Konservatoriyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3780349,
+      "lng": 49.8456277,
+      "distance_km": 0.9
+    },
+    {
+      "name": "Dilar\u0259 \u018fliyeva k\u00fc\u00e7\u0259si 251",
+      "class": "bus_stop",
+      "lat": 40.3802587,
+      "lng": 49.85624,
+      "distance_km": 0.9
+    },
+    {
+      "name": "28 May G",
+      "class": "bus_stop",
+      "lat": 40.3792415,
+      "lng": 49.8472598,
+      "distance_km": 0.91
+    },
+    {
+      "name": "28 May",
+      "class": "stop_position",
+      "lat": 40.3798432,
+      "lng": 49.8486908,
+      "distance_km": 0.91
+    },
+    {
+      "name": "28 May mst",
+      "class": "stop_position",
+      "lat": 40.3798464,
+      "lng": 49.8485991,
+      "distance_km": 0.91
+    },
+    {
+      "name": "28 May",
+      "class": "stop_position",
+      "lat": 40.3798701,
+      "lng": 49.8487572,
+      "distance_km": 0.91
+    },
+    {
+      "name": "28 May",
+      "class": "subway_station",
+      "lat": 40.3798619,
+      "lng": 49.8486359,
+      "distance_km": 0.91
+    },
+    {
+      "name": "Nizami kino m\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.37555,
+      "lng": 49.8429982,
+      "distance_km": 0.94
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3807099,
+      "lng": 49.8507303,
+      "distance_km": 0.94
+    },
+    {
+      "name": "Bak\u0131 D\u0259miryol Stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.3805137,
+      "lng": 49.8498448,
+      "distance_km": 0.94
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3808085,
+      "lng": 49.8505852,
+      "distance_km": 0.95
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3807789,
+      "lng": 49.8506295,
+      "distance_km": 0.95
+    },
+    {
+      "name": "28 May k\u00fc\u00e7\u0259si 71",
+      "class": "bus_stop",
+      "lat": 40.3798525,
+      "lng": 49.8591364,
+      "distance_km": 0.96
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3808816,
+      "lng": 49.8504757,
+      "distance_km": 0.96
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3809266,
+      "lng": 49.8504101,
+      "distance_km": 0.97
+    },
+    {
+      "name": "M\u0259rk\u0259zi Bank/Milli Bank",
+      "class": "bus_stop",
+      "lat": 40.3784588,
+      "lng": 49.8447855,
+      "distance_km": 0.98
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3809922,
+      "lng": 49.8503171,
+      "distance_km": 0.98
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3810541,
+      "lng": 49.8502185,
+      "distance_km": 0.99
+    },
+    {
+      "name": "Bak\u0131",
+      "class": "stop_position",
+      "lat": 40.3811134,
+      "lng": 49.8501339,
+      "distance_km": 0.99
+    },
+    {
+      "name": "28 Mall ticar\u0259t m\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3793086,
+      "lng": 49.8454135,
+      "distance_km": 1.01
+    },
+    {
+      "name": "Bak\u0131 D\u0259miryol Va\u011fzal\u0131",
+      "class": "bus_stop",
+      "lat": 40.3810257,
+      "lng": 49.8489697,
+      "distance_km": 1.02
+    },
+    {
+      "name": "Nikola Tesla park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3806556,
+      "lng": 49.8472962,
+      "distance_km": 1.04
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.381944066754144,
+      "lng": 49.85171771017836,
+      "distance_km": 1.06
+    },
+    {
+      "name": "Heyd\u0259r \u018fliyev Saray\u0131",
+      "class": "bus_stop",
+      "lat": 40.3772777,
+      "lng": 49.8415577,
+      "distance_km": 1.13
+    },
+    {
+      "name": "Heyd\u0259r \u018fliyev Saray\u0131",
+      "class": "bus_stop",
+      "lat": 40.3783061,
+      "lng": 49.8413995,
+      "distance_km": 1.2
+    },
+    {
+      "name": "Respublika Perinatal M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3787436,
+      "lng": 49.8652637,
+      "distance_km": 1.23
+    },
+    {
+      "name": "M\u0259rk\u0259zi Neft\u00e7il\u0259r X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3805893,
+      "lng": 49.8634276,
+      "distance_km": 1.24
+    },
+    {
+      "name": "28 May m/st (S. \u018fl\u0259sg\u0259rova k\u00fc\u00e7)",
+      "class": "bus_stop",
+      "lat": 40.38262,
+      "lng": 49.8468486,
+      "distance_km": 1.25
+    },
+    {
+      "name": "X\u0259tai prospekti",
+      "class": "bus_stop",
+      "lat": 40.3839628,
+      "lng": 49.8529762,
+      "distance_km": 1.27
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3767864,
+      "lng": 49.8673389,
+      "distance_km": 1.28
+    },
+    {
+      "name": "Kukla teatr\u0131",
+      "class": "bus_stop",
+      "lat": 40.3675418,
+      "lng": 49.839361,
+      "distance_km": 1.3
+    },
+    {
+      "name": "Pantomima teatr\u0131",
+      "class": "bus_stop",
+      "lat": 40.3827243,
+      "lng": 49.8458094,
+      "distance_km": 1.3
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 3",
+      "class": "bus_stop",
+      "lat": 40.3840464,
+      "lng": 49.8499888,
+      "distance_km": 1.31
+    },
+    {
+      "name": "28 May m/st",
+      "class": "bus_stop",
+      "lat": 40.3829093,
+      "lng": 49.8457083,
+      "distance_km": 1.32
+    },
+    {
+      "name": "304 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.384576,
+      "lng": 49.8527346,
+      "distance_km": 1.34
+    },
+    {
+      "name": "Kukla teatr\u0131",
+      "class": "bus_stop",
+      "lat": 40.3673493,
+      "lng": 49.8388073,
+      "distance_km": 1.35
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3848272,
+      "lng": 49.8504825,
+      "distance_km": 1.39
+    },
+    {
+      "name": "Ya\u015f\u0131l bazar",
+      "class": "bus_stop",
+      "lat": 40.3850842,
+      "lng": 49.8540815,
+      "distance_km": 1.4
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 30",
+      "class": "bus_stop",
+      "lat": 40.3850751,
+      "lng": 49.8507991,
+      "distance_km": 1.41
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 7",
+      "class": "bus_stop",
+      "lat": 40.3849914,
+      "lng": 49.850581,
+      "distance_km": 1.41
+    },
+    {
+      "name": "2 n\u00f6mr\u0259li \u015e\u0259h\u0259r Klinik X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3825949,
+      "lng": 49.8638849,
+      "distance_km": 1.44
+    },
+    {
+      "name": "Az\u0259rbaycan Dill\u0259r Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3829272,
+      "lng": 49.842935,
+      "distance_km": 1.45
+    },
+    {
+      "name": "2 sayl\u0131 \u015e\u0259h\u0259r Klinik X\u0259st\u0259xanas\u0131",
+      "class": "bus_station",
+      "lat": 40.3825612,
+      "lng": 49.8643575,
+      "distance_km": 1.46
+    },
+    {
+      "name": "\u018fml\u0259k M\u0259s\u0259l\u0259l\u0259ri D\u00f6vl\u0259t Komit\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3827427,
+      "lng": 49.8642669,
+      "distance_km": 1.47
+    },
+    {
+      "name": "N\u0259rimanov Rayon \u0130cra Hakimiyy\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3859148,
+      "lng": 49.855467,
+      "distance_km": 1.5
+    },
+    {
+      "name": "2 sayl\u0131 \u015e\u0259h\u0259r Klinik X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3835907,
+      "lng": 49.863539,
+      "distance_km": 1.51
+    },
+    {
+      "name": "Bak\u0131 D\u00f6vl\u0259t Sirki",
+      "class": "bus_stop",
+      "lat": 40.3813961,
+      "lng": 49.8389752,
+      "distance_km": 1.57
+    },
+    {
+      "name": "Bak\u0131 Slavyan Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3850021,
+      "lng": 49.8447229,
+      "distance_km": 1.57
+    },
+    {
+      "name": "Xocal\u0131 prospekti 14",
+      "class": "bus_stop",
+      "lat": 40.381966,
+      "lng": 49.8673579,
+      "distance_km": 1.59
+    },
+    {
+      "name": "Nizami ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3700156,
+      "lng": 49.8344627,
+      "distance_km": 1.62
+    },
+    {
+      "name": "Respublika Klinik Uroloji X\u0259st\u0259xana",
+      "class": "bus_stop",
+      "lat": 40.3696397,
+      "lng": 49.8339929,
+      "distance_km": 1.67
+    },
+    {
+      "name": "Bak\u0131 D\u00f6vl\u0259t Sirki",
+      "class": "bus_stop",
+      "lat": 40.3829024,
+      "lng": 49.8388645,
+      "distance_km": 1.68
+    },
+    {
+      "name": "F\u00fczuli meydan\u0131",
+      "class": "bus_stop",
+      "lat": 40.3751637,
+      "lng": 49.833673,
+      "distance_km": 1.69
+    },
+    {
+      "name": "Q\u0131\u015f park\u0131",
+      "class": "bus_stop",
+      "lat": 40.376188,
+      "lng": 49.833789,
+      "distance_km": 1.7
+    },
+    {
+      "name": "X\u0259tai prospekti 41",
+      "class": "bus_stop",
+      "lat": 40.3875992,
+      "lng": 49.8572435,
+      "distance_km": 1.71
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 25",
+      "class": "bus_stop",
+      "lat": 40.3881208,
+      "lng": 49.8525345,
+      "distance_km": 1.74
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 50",
+      "class": "bus_stop",
+      "lat": 40.3881383,
+      "lng": 49.8527553,
+      "distance_km": 1.74
+    },
+    {
+      "name": "N\u0259simi Rayon Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3865777,
+      "lng": 49.8440347,
+      "distance_km": 1.75
+    },
+    {
+      "name": "2 n\u00f6mr\u0259li \u015e\u0259h\u0259r Klinik X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.386393,
+      "lng": 49.8630422,
+      "distance_km": 1.75
+    },
+    {
+      "name": "Respublika \u015eahmat M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3741622,
+      "lng": 49.8326256,
+      "distance_km": 1.76
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3863694,
+      "lng": 49.8635455,
+      "distance_km": 1.77
+    },
+    {
+      "name": "Respublika Prokurorlu\u011funun Tarix Muzeyi",
+      "class": "bus_stop",
+      "lat": 40.3710826,
+      "lng": 49.8322795,
+      "distance_km": 1.79
+    },
+    {
+      "name": "Sevgi park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3866742,
+      "lng": 49.8634394,
+      "distance_km": 1.79
+    },
+    {
+      "name": "Murtuza Muxtarov k\u00fc\u00e7\u0259si 29",
+      "class": "bus_stop",
+      "lat": 40.3725897,
+      "lng": 49.8318561,
+      "distance_km": 1.82
+    },
+    {
+      "name": "R\u0259\u015fid Behbudov k\u00fc\u00e7\u0259si 150",
+      "class": "bus_stop",
+      "lat": 40.385914,
+      "lng": 49.8409943,
+      "distance_km": 1.82
+    },
+    {
+      "name": "X\u0259tai prospekti 124",
+      "class": "bus_stop",
+      "lat": 40.3884855,
+      "lng": 49.8585621,
+      "distance_km": 1.83
+    },
+    {
+      "name": "Xarici \u0130\u015fl\u0259r Nazirliyi",
+      "class": "bus_stop",
+      "lat": 40.3765636,
+      "lng": 49.8322247,
+      "distance_km": 1.84
+    },
+    {
+      "name": "D\u0259mir Yolu. Metropoliten Pe\u015f\u0259 T\u0259hsil M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3891316,
+      "lng": 49.8533724,
+      "distance_km": 1.85
+    },
+    {
+      "name": "Xarici \u0130\u015fl\u0259r Nazirliyi",
+      "class": "bus_stop",
+      "lat": 40.3765042,
+      "lng": 49.8319236,
+      "distance_km": 1.86
+    },
+    {
+      "name": "Filarmoniya ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3628725,
+      "lng": 49.8343909,
+      "distance_km": 1.93
+    },
+    {
+      "name": "Beyn\u0259lxalq Mu\u011fam M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3617983,
+      "lng": 49.8352451,
+      "distance_km": 1.94
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3882972,
+      "lng": 49.8630504,
+      "distance_km": 1.94
+    },
+    {
+      "name": "\u018fjd\u0259rb\u0259y m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3854559,
+      "lng": 49.8377969,
+      "distance_km": 1.95
+    },
+    {
+      "name": "Bak\u0131 \u015e\u0259h\u0259r Ba\u015f Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3883838,
+      "lng": 49.8633951,
+      "distance_km": 1.96
+    },
+    {
+      "name": "Azneft meydan\u0131",
+      "class": "bus_stop",
+      "lat": 40.3618189,
+      "lng": 49.8348136,
+      "distance_km": 1.97
+    },
+    {
+      "name": "\u0130\u00e7\u0259ri\u015f\u0259h\u0259r",
+      "class": "subway_station",
+      "lat": 40.3659588,
+      "lng": 49.8316472,
+      "distance_km": 1.97
+    },
+    {
+      "name": "\u0130\u00e7\u0259ri\u015f\u0259h\u0259r",
+      "class": "stop_position",
+      "lat": 40.3659591,
+      "lng": 49.8316454,
+      "distance_km": 1.97
+    },
+    {
+      "name": "\u0130\u00e7\u0259ri\u015f\u0259h\u0259r",
+      "class": "stop_position",
+      "lat": 40.3659586,
+      "lng": 49.8316486,
+      "distance_km": 1.97
+    },
+    {
+      "name": "X\u0259tai prospekti 61",
+      "class": "bus_stop",
+      "lat": 40.3895566,
+      "lng": 49.8596591,
+      "distance_km": 1.97
+    },
+    {
+      "name": "X\u0259tai m/st",
+      "class": "bus_stop",
+      "lat": 40.3826339,
+      "lng": 49.8725375,
+      "distance_km": 1.98
+    },
+    {
+      "name": "X\u0259tai m/st",
+      "class": "bus_stop",
+      "lat": 40.3829643,
+      "lng": 49.8722523,
+      "distance_km": 1.98
+    },
+    {
+      "name": "Zabitl\u0259r park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3855594,
+      "lng": 49.8374155,
+      "distance_km": 1.98
+    },
+    {
+      "name": "\u015eah \u0130smay\u0131l X\u0259tai",
+      "class": "subway_station",
+      "lat": 40.3832514,
+      "lng": 49.8721454,
+      "distance_km": 1.99
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.383215692879574,
+      "lng": 49.87215219245879,
+      "distance_km": 1.99
+    },
+    {
+      "name": "Akademik Milli Dram Teatr\u0131",
+      "class": "bus_stop",
+      "lat": 40.3754846,
+      "lng": 49.8297819,
+      "distance_km": 2.02
+    },
+    {
+      "name": "Axundov ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3680506,
+      "lng": 49.8299851,
+      "distance_km": 2.04
+    },
+    {
+      "name": "4 Sayl\u0131 Poliklinika",
+      "class": "bus_stop",
+      "lat": 40.3907732,
+      "lng": 49.8556303,
+      "distance_km": 2.04
+    },
+    {
+      "name": "\u0130\u00e7\u0259ri\u015f\u0259h\u0259r m/st",
+      "class": "bus_stop",
+      "lat": 40.3650245,
+      "lng": 49.8311514,
+      "distance_km": 2.05
+    },
+    {
+      "name": "\u0130\u00e7\u0259ri\u015f\u0259h\u0259r m/st",
+      "class": "bus_stop",
+      "lat": 40.365617,
+      "lng": 49.8308939,
+      "distance_km": 2.05
+    },
+    {
+      "name": "Bak\u0131 Humanitar Kolleci",
+      "class": "bus_stop",
+      "lat": 40.3908539,
+      "lng": 49.8554816,
+      "distance_km": 2.05
+    },
+    {
+      "name": "177 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3908968,
+      "lng": 49.855788,
+      "distance_km": 2.06
+    },
+    {
+      "name": "Bus Stop (2,33,65,79)",
+      "class": "bus_stop",
+      "lat": 40.3803808,
+      "lng": 49.8312621,
+      "distance_km": 2.06
+    },
+    {
+      "name": "2 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3676736,
+      "lng": 49.8293266,
+      "distance_km": 2.1
+    },
+    {
+      "name": "Axundov Ba\u011f\u0131",
+      "class": "stop_position",
+      "lat": 40.3676202,
+      "lng": 49.8293117,
+      "distance_km": 2.1
+    },
+    {
+      "name": "Nizami m/st",
+      "class": "bus_stop",
+      "lat": 40.3794751,
+      "lng": 49.8302561,
+      "distance_km": 2.1
+    },
+    {
+      "name": "\u018fhm\u0259d b\u0259y A\u011fao\u011flu k\u00fc\u00e7\u0259si 4",
+      "class": "bus_stop",
+      "lat": 40.390948,
+      "lng": 49.8588688,
+      "distance_km": 2.1
+    },
+    {
+      "name": "Nizami metrostansiyas\u0131",
+      "class": "subway_station",
+      "lat": 40.3793192,
+      "lng": 49.8300187,
+      "distance_km": 2.11
+    },
+    {
+      "name": "Azadl\u0131q prospekti 145",
+      "class": "bus_stop",
+      "lat": 40.3896892,
+      "lng": 49.8425423,
+      "distance_km": 2.12
+    },
+    {
+      "name": "Izzat Orucova",
+      "class": "bus_stop",
+      "lat": 40.3807801,
+      "lng": 49.8758568,
+      "distance_km": 2.12
+    },
+    {
+      "name": "D\u00f6vl\u0259t \u0130dar\u0259\u00e7ilik Akademiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3664994,
+      "lng": 49.8290622,
+      "distance_km": 2.16
+    },
+    {
+      "name": "\u018fl oyunlar\u0131 saray\u0131",
+      "class": "bus_stop",
+      "lat": 40.3590306,
+      "lng": 49.8346618,
+      "distance_km": 2.18
+    },
+    {
+      "name": "B\u0259hram Gur",
+      "class": "railway_station",
+      "lat": 40.3602847,
+      "lng": 49.8331649,
+      "distance_km": 2.18
+    },
+    {
+      "name": "\u018fhm\u0259d b\u0259y A\u011fao\u011flu k\u00fc\u00e7\u0259si 29",
+      "class": "bus_stop",
+      "lat": 40.3918268,
+      "lng": 49.8574738,
+      "distance_km": 2.18
+    },
+    {
+      "name": "Elm v\u0259 T\u0259hsil Nazirliyi",
+      "class": "bus_stop",
+      "lat": 40.3912322,
+      "lng": 49.8617255,
+      "distance_km": 2.2
+    },
+    {
+      "name": "5 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3893842,
+      "lng": 49.8394798,
+      "distance_km": 2.21
+    },
+    {
+      "name": "Bak\u0131 \u0130dman Zal\u0131 (\u018fl oyunlar\u0131 saray\u0131)",
+      "class": "bus_stop",
+      "lat": 40.358563,
+      "lng": 49.8345479,
+      "distance_km": 2.22
+    },
+    {
+      "name": "Bak\u0131 \u0130dman Zal\u0131 (\u018fl oyunlar\u0131 saray\u0131)",
+      "class": "bus_stop",
+      "lat": 40.3587156,
+      "lng": 49.8343119,
+      "distance_km": 2.22
+    },
+    {
+      "name": "T\u0259z\u0259pir m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3738058,
+      "lng": 49.8266507,
+      "distance_km": 2.26
+    },
+    {
+      "name": "Koro\u011flu park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3914289,
+      "lng": 49.843238,
+      "distance_km": 2.27
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 71",
+      "class": "bus_stop",
+      "lat": 40.3928636,
+      "lng": 49.8578828,
+      "distance_km": 2.3
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3787558,
+      "lng": 49.8792652,
+      "distance_km": 2.31
+    },
+    {
+      "name": "\u018fl oyunlar\u0131 saray\u0131",
+      "class": "bus_stop",
+      "lat": 40.357694,
+      "lng": 49.8340609,
+      "distance_km": 2.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.391987,
+      "lng": 49.843606,
+      "distance_km": 2.32
+    },
+    {
+      "name": "Mehdi H\u00fcseyn k\u00fc\u00e7\u0259si 28",
+      "class": "bus_stop",
+      "lat": 40.3650367,
+      "lng": 49.8273676,
+      "distance_km": 2.35
+    },
+    {
+      "name": "22 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3886581,
+      "lng": 49.8354921,
+      "distance_km": 2.35
+    },
+    {
+      "name": "44 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3668588,
+      "lng": 49.826454,
+      "distance_km": 2.36
+    },
+    {
+      "name": "N\u0259simi Rayon \u0130cra Hakimiyy\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3893014,
+      "lng": 49.8362715,
+      "distance_km": 2.36
+    },
+    {
+      "name": "Zorge park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3894357,
+      "lng": 49.83627,
+      "distance_km": 2.37
+    },
+    {
+      "name": "\u018fm\u0259yin M\u00fchafiz\u0259si Elmi-T\u0259dqiqat \u0130nstitutu",
+      "class": "bus_stop",
+      "lat": 40.3934914,
+      "lng": 49.8589813,
+      "distance_km": 2.38
+    },
+    {
+      "name": "Zorge park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3894909,
+      "lng": 49.8359468,
+      "distance_km": 2.39
+    },
+    {
+      "name": "7 N-li U\u015faq Yoluxucu X\u0259st\u0259likl\u0259r X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3934124,
+      "lng": 49.8598549,
+      "distance_km": 2.39
+    },
+    {
+      "name": "\u0130mam H\u00fcseyn m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3703608,
+      "lng": 49.8251268,
+      "distance_km": 2.4
+    },
+    {
+      "name": "Abdulla \u015eaiq k\u00fc\u00e7\u0259si 128",
+      "class": "bus_stop",
+      "lat": 40.3757122,
+      "lng": 49.825271,
+      "distance_km": 2.4
+    },
+    {
+      "name": "3 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3836778,
+      "lng": 49.829007,
+      "distance_km": 2.4
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3889354,
+      "lng": 49.8343877,
+      "distance_km": 2.43
+    },
+    {
+      "name": "Ziv\u0259rb\u0259y \u018fhm\u0259db\u0259yov k\u00fc\u00e7\u0259si 72",
+      "class": "bus_stop",
+      "lat": 40.3849783,
+      "lng": 49.8295933,
+      "distance_km": 2.44
+    },
+    {
+      "name": "173 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3719387,
+      "lng": 49.8243505,
+      "distance_km": 2.45
+    },
+    {
+      "name": "6 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3674369,
+      "lng": 49.8250711,
+      "distance_km": 2.46
+    },
+    {
+      "name": "N\u0259riman N\u0259rimanov heyk\u0259li",
+      "class": "bus_stop",
+      "lat": 40.3679624,
+      "lng": 49.8245603,
+      "distance_km": 2.49
+    },
+    {
+      "name": "A. Bak\u0131xanov dayanaca\u011f\u0131",
+      "class": "stop_position",
+      "lat": 40.3880761,
+      "lng": 49.8321308,
+      "distance_km": 2.49
+    },
+    {
+      "name": "G\u00fclar\u0259 Q\u0259dirb\u0259yova k\u00fc\u00e7\u0259si 4",
+      "class": "bus_stop",
+      "lat": 40.3935696,
+      "lng": 49.8633665,
+      "distance_km": 2.49
+    },
+    {
+      "name": "H\u0259nif\u0259 \u018fl\u0259sg\u0259rov 21",
+      "class": "bus_stop",
+      "lat": 40.3927867,
+      "lng": 49.8407675,
+      "distance_km": 2.49
+    },
+    {
+      "name": "\u018fhm\u0259d b\u0259y A\u011fao\u011flu 59",
+      "class": "bus_stop",
+      "lat": 40.3950246,
+      "lng": 49.8527942,
+      "distance_km": 2.5
+    },
+    {
+      "name": "Ceyhun Hac\u0131b\u0259yli k\u00fc\u00e7. 146",
+      "class": "bus_stop",
+      "lat": 40.3940556,
+      "lng": 49.8447776,
+      "distance_km": 2.5
+    },
+    {
+      "name": "Bak\u0131 Tiki\u015f Evi",
+      "class": "bus_stop",
+      "lat": 40.3878842,
+      "lng": 49.831709,
+      "distance_km": 2.5
+    },
+    {
+      "name": "Sevil Qaz\u0131yeva park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3881428,
+      "lng": 49.8321498,
+      "distance_km": 2.5
+    },
+    {
+      "name": "Bus 13",
+      "class": "bus_stop",
+      "lat": 40.3938727,
+      "lng": 49.8626242,
+      "distance_km": 2.5
+    },
+    {
+      "name": "N\u0259riman N\u0259rimanov heyk\u0259li",
+      "class": "bus_stop",
+      "lat": 40.3688597,
+      "lng": 49.8241017,
+      "distance_km": 2.51
+    },
+    {
+      "name": "N\u0259rimanov Rayon M\u0259hk\u0259m\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3950996,
+      "lng": 49.85287,
+      "distance_km": 2.51
+    },
+    {
+      "name": "D\u0259d\u0259 Qorqud park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3946609,
+      "lng": 49.847712,
+      "distance_km": 2.51
+    },
+    {
+      "name": "\u00c7\u0259mb\u0259r\u0259k\u0259nd park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3621515,
+      "lng": 49.8268166,
+      "distance_km": 2.52
+    },
+    {
+      "name": "\u015eahh\u00fcseyn m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3763264,
+      "lng": 49.8239755,
+      "distance_km": 2.52
+    },
+    {
+      "name": "M\u00fcasir T\u0259hsil Kompleksi",
+      "class": "bus_stop",
+      "lat": 40.3897799,
+      "lng": 49.8340931,
+      "distance_km": 2.52
+    },
+    {
+      "name": "\u00c7\u0259mb\u0259r\u0259k\u0259nd park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3617242,
+      "lng": 49.8266981,
+      "distance_km": 2.55
+    },
+    {
+      "name": "\u015e\u0259hidl\u0259r Xiyaban\u0131",
+      "class": "railway_station",
+      "lat": 40.3585101,
+      "lng": 49.8285034,
+      "distance_km": 2.61
+    },
+    {
+      "name": "Vergi Cinay\u0259tl\u0259rinin \u0130btidai Ara\u015fd\u0131r\u0131lma Dep.",
+      "class": "bus_stop",
+      "lat": 40.3812108,
+      "lng": 49.8245506,
+      "distance_km": 2.62
+    },
+    {
+      "name": "Azadl\u0131q prospekti 175",
+      "class": "bus_stop",
+      "lat": 40.3941139,
+      "lng": 49.8406207,
+      "distance_km": 2.63
+    },
+    {
+      "name": "Az\u0259ri\u015f\u0131q ASC",
+      "class": "bus_stop",
+      "lat": 40.3883263,
+      "lng": 49.8299824,
+      "distance_km": 2.65
+    },
+    {
+      "name": "Mehdi H\u00fcseynzad\u0259 park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3865889,
+      "lng": 49.8276776,
+      "distance_km": 2.68
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3859291,
+      "lng": 49.8795099,
+      "distance_km": 2.68
+    },
+    {
+      "name": "Bak\u0131 m\u00fc\u015fahid\u0259 \u00e7arx\u0131",
+      "class": "bus_stop",
+      "lat": 40.3529979,
+      "lng": 49.8346014,
+      "distance_km": 2.69
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3535454,
+      "lng": 49.8336615,
+      "distance_km": 2.69
+    },
+    {
+      "name": "Respublika G\u0259ncl\u0259r Kitabxanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.380922,
+      "lng": 49.8232664,
+      "distance_km": 2.71
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.395433,
+      "lng": 49.84215,
+      "distance_km": 2.72
+    },
+    {
+      "name": "S\u0259bail rayon D\u00f6vl\u0259t Yan\u011f\u0131ndan M\u00fchafiz\u0259 hiss\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3529426,
+      "lng": 49.8334633,
+      "distance_km": 2.75
+    },
+    {
+      "name": "Milli M\u0259clis",
+      "class": "bus_stop",
+      "lat": 40.3588077,
+      "lng": 49.8262352,
+      "distance_km": 2.75
+    },
+    {
+      "name": "M\u0259rk\u0259zi Klinik X\u0259st\u0259xana",
+      "class": "bus_stop",
+      "lat": 40.3602951,
+      "lng": 49.8247688,
+      "distance_km": 2.77
+    },
+    {
+      "name": "M. Mirqas\u0131mov k\u00fc\u00e7\u0259si 51",
+      "class": "bus_stop",
+      "lat": 40.3957476,
+      "lng": 49.8416168,
+      "distance_km": 2.77
+    },
+    {
+      "name": "Montin \\ N\u0259rimanov Stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.3897452,
+      "lng": 49.8769695,
+      "distance_km": 2.77
+    },
+    {
+      "name": "10 n\u00f6mr\u0259li U\u015faq Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3664383,
+      "lng": 49.8215011,
+      "distance_km": 2.78
+    },
+    {
+      "name": "N\u0259simi rayon b\u0259l\u0259diyy\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3932115,
+      "lng": 49.8348794,
+      "distance_km": 2.78
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3605498,
+      "lng": 49.8244089,
+      "distance_km": 2.79
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3965666,
+      "lng": 49.8437974,
+      "distance_km": 2.79
+    },
+    {
+      "name": "42 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3950267,
+      "lng": 49.8388286,
+      "distance_km": 2.79
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3519789,
+      "lng": 49.834054,
+      "distance_km": 2.8
+    },
+    {
+      "name": "Qurban X\u0259lilov k\u00fc\u00e7\u0259si 33",
+      "class": "bus_stop",
+      "lat": 40.3712971,
+      "lng": 49.8202586,
+      "distance_km": 2.8
+    },
+    {
+      "name": "201 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3716744,
+      "lng": 49.8203118,
+      "distance_km": 2.8
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 128",
+      "class": "bus_stop",
+      "lat": 40.3966122,
+      "lng": 49.8629623,
+      "distance_km": 2.8
+    },
+    {
+      "name": "M. Mirqas\u0131mov k\u00fc\u00e7. 7",
+      "class": "bus_stop",
+      "lat": 40.3951108,
+      "lng": 49.8388547,
+      "distance_km": 2.8
+    },
+    {
+      "name": "Mikay\u0131l M\u00fcsfiq k\u00fc\u00e7\u0259si 28",
+      "class": "bus_stop",
+      "lat": 40.3663922,
+      "lng": 49.8211168,
+      "distance_km": 2.81
+    },
+    {
+      "name": "C\u0259f\u0259r Cabbarl\u0131n\u0131n ev-muzeyi",
+      "class": "bus_stop",
+      "lat": 40.3661125,
+      "lng": 49.821247,
+      "distance_km": 2.81
+    },
+    {
+      "name": "Tbilisi prospekti 2",
+      "class": "bus_stop",
+      "lat": 40.3880517,
+      "lng": 49.8271444,
+      "distance_km": 2.81
+    },
+    {
+      "name": "12 sayl\u0131 notariat ofisi",
+      "class": "bus_stop",
+      "lat": 40.3797505,
+      "lng": 49.8214243,
+      "distance_km": 2.82
+    },
+    {
+      "name": "Bak\u0131 \u0130dar\u0259etm\u0259 v\u0259 Texnologiya Kolleci",
+      "class": "bus_stop",
+      "lat": 40.3968223,
+      "lng": 49.8626844,
+      "distance_km": 2.82
+    },
+    {
+      "name": "Qarayev ad\u0131na 2 n\u00f6mr\u0259li U\u015faq X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3933922,
+      "lng": 49.8344684,
+      "distance_km": 2.82
+    },
+    {
+      "name": "N\u0259simi Rayon M\u00fchafiz\u0259 \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3943815,
+      "lng": 49.8362083,
+      "distance_km": 2.83
+    },
+    {
+      "name": "S\u0259m\u0259d Vur\u011fun k\u00fc\u00e7.",
+      "class": "bus_stop",
+      "lat": 40.3936381,
+      "lng": 49.8344191,
+      "distance_km": 2.84
+    },
+    {
+      "name": "D\u00f6vl\u0259t Statistika Komit\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3824577,
+      "lng": 49.8224216,
+      "distance_km": 2.84
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3846372,
+      "lng": 49.8238525,
+      "distance_km": 2.84
+    },
+    {
+      "name": "175 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.37886,
+      "lng": 49.8207051,
+      "distance_km": 2.85
+    },
+    {
+      "name": "C. M\u0259mm\u0259dquluzad\u0259 k\u00fc\u00e7. 178",
+      "class": "bus_stop",
+      "lat": 40.3907166,
+      "lng": 49.8295583,
+      "distance_km": 2.85
+    },
+    {
+      "name": "54 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3848999,
+      "lng": 49.8238914,
+      "distance_km": 2.85
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3848579,
+      "lng": 49.8829739,
+      "distance_km": 2.86
+    },
+    {
+      "name": "\u0426\u0435\u043d\u0442\u0440 \u0413\u0435\u0439\u0434\u0430\u0440\u0430 \u0410\u043b\u0438\u0435\u0432\u0430",
+      "class": "bus_stop",
+      "lat": 40.3971526,
+      "lng": 49.8631433,
+      "distance_km": 2.87
+    },
+    {
+      "name": "N\u0259simi Rayon M\u00fchafiz\u0259 \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3942995,
+      "lng": 49.8352168,
+      "distance_km": 2.87
+    },
+    {
+      "name": "\u0130zmir park\u0131",
+      "class": "bus_stop",
+      "lat": 40.385209,
+      "lng": 49.8237796,
+      "distance_km": 2.87
+    },
+    {
+      "name": "6 sayl\u0131 U\u015faq Klinik X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3980445,
+      "lng": 49.8592423,
+      "distance_km": 2.88
+    },
+    {
+      "name": "Qan bank\u0131",
+      "class": "bus_stop",
+      "lat": 40.3969169,
+      "lng": 49.8414423,
+      "distance_km": 2.89
+    },
+    {
+      "name": "3 n\u00f6mr\u0259li Bak\u0131 Pe\u015f\u0259 M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3974499,
+      "lng": 49.8434068,
+      "distance_km": 2.9
+    },
+    {
+      "name": "F\u0259xri Xiyaban",
+      "class": "bus_stop",
+      "lat": 40.3618557,
+      "lng": 49.8218579,
+      "distance_km": 2.91
+    },
+    {
+      "name": "1 n\u00f6mr\u0259li Kliniki Tibbi M\u0259rk\u0259z",
+      "class": "bus_stop",
+      "lat": 40.3937293,
+      "lng": 49.8331639,
+      "distance_km": 2.91
+    },
+    {
+      "name": "Auditorlar Palatas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3983392,
+      "lng": 49.8593818,
+      "distance_km": 2.92
+    },
+    {
+      "name": "Ekologiya v\u0259 T\u0259bii S\u0259rv\u0259tl\u0259r Nazirliyi",
+      "class": "bus_stop",
+      "lat": 40.3951706,
+      "lng": 49.8707319,
+      "distance_km": 2.92
+    },
+    {
+      "name": "8 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3939384,
+      "lng": 49.8731411,
+      "distance_km": 2.92
+    },
+    {
+      "name": "M\u0259d\u0259niyy\u0259t v\u0259 \u0130nc\u0259s\u0259n\u0259t Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3798471,
+      "lng": 49.8200589,
+      "distance_km": 2.93
+    },
+    {
+      "name": "AzTV",
+      "class": "bus_stop",
+      "lat": 40.3576318,
+      "lng": 49.8245323,
+      "distance_km": 2.95
+    },
+    {
+      "name": "154 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3918765,
+      "lng": 49.8772069,
+      "distance_km": 2.96
+    },
+    {
+      "name": "Neft\u00e7i Qurban k\u00fc\u00e7\u0259si 84",
+      "class": "bus_stop",
+      "lat": 40.349786,
+      "lng": 49.8348156,
+      "distance_km": 2.97
+    },
+    {
+      "name": "\u0130zz\u0259t N\u0259biyev k\u00fc\u00e7\u0259si 26D",
+      "class": "bus_stop",
+      "lat": 40.3583022,
+      "lng": 49.8234436,
+      "distance_km": 2.98
+    },
+    {
+      "name": "G\u0259nclik m/st (\u018f. A\u011fao\u011flu k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.3992249,
+      "lng": 49.8508058,
+      "distance_km": 2.98
+    },
+    {
+      "name": "G\u0259nclik m/st (\u018f. A\u011fao\u011flu k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.3992208,
+      "lng": 49.8510701,
+      "distance_km": 2.98
+    },
+    {
+      "name": "8 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3935687,
+      "lng": 49.8749771,
+      "distance_km": 2.98
+    },
+    {
+      "name": "G\u0259nclik m/st (133)",
+      "class": "bus_stop",
+      "lat": 40.399386,
+      "lng": 49.8519101,
+      "distance_km": 2.99
+    },
+    {
+      "name": "Az\u0259rbaycan D\u00f6vl\u0259t R\u0259ssaml\u0131q Akademiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3958574,
+      "lng": 49.870721,
+      "distance_km": 2.99
+    },
+    {
+      "name": "Heyd\u0259r \u018fliyev M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3961557,
+      "lng": 49.8702237,
+      "distance_km": 3.0
+    },
+    {
+      "name": "Yanvar N\u0259sirov k\u00fc\u00e7\u0259si 3",
+      "class": "bus_stop",
+      "lat": 40.3919305,
+      "lng": 49.8778385,
+      "distance_km": 3.0
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.39958635393845,
+      "lng": 49.85157627393642,
+      "distance_km": 3.02
+    },
+    {
+      "name": "G\u0259nclik m/st (3, 33, 199)",
+      "class": "bus_stop",
+      "lat": 40.3996157,
+      "lng": 49.8518161,
+      "distance_km": 3.02
+    },
+    {
+      "name": "\u0425\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044f",
+      "class": "bus_stop",
+      "lat": 40.3960464,
+      "lng": 49.8710758,
+      "distance_km": 3.02
+    },
+    {
+      "name": "Respublika \u0130nc\u0259s\u0259n\u0259t Gimnaziyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3647649,
+      "lng": 49.8189855,
+      "distance_km": 3.03
+    },
+    {
+      "name": "G\u0259nclik m/st",
+      "class": "bus_stop",
+      "lat": 40.3998375,
+      "lng": 49.8517264,
+      "distance_km": 3.04
+    },
+    {
+      "name": "Bak\u0131 Konqress M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3983568,
+      "lng": 49.8650076,
+      "distance_km": 3.04
+    },
+    {
+      "name": "\u0130smay\u0131l Hiday\u0259tzad\u0259 k\u00fc\u00e7. 86",
+      "class": "bus_stop",
+      "lat": 40.3934312,
+      "lng": 49.8763437,
+      "distance_km": 3.04
+    },
+    {
+      "name": "H\u00fcseyn Cavid park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3726654,
+      "lng": 49.8173041,
+      "distance_km": 3.05
+    },
+    {
+      "name": "M\u0259rk\u0259zi D\u0259niz\u00e7il\u0259r X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3800109,
+      "lng": 49.8187083,
+      "distance_km": 3.05
+    },
+    {
+      "name": "G\u0259nclik",
+      "class": "subway_station",
+      "lat": 40.3998793,
+      "lng": 49.850956,
+      "distance_km": 3.05
+    },
+    {
+      "name": "G\u0259nclik",
+      "class": "stop_position",
+      "lat": 40.3998792,
+      "lng": 49.8506007,
+      "distance_km": 3.05
+    },
+    {
+      "name": "20 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3640497,
+      "lng": 49.8189136,
+      "distance_km": 3.06
+    },
+    {
+      "name": "G\u0259nclik m/st (17, 38, 211, M8)",
+      "class": "bus_stop",
+      "lat": 40.4000261,
+      "lng": 49.8516164,
+      "distance_km": 3.06
+    },
+    {
+      "name": "G\u0259nclik",
+      "class": "stop_position",
+      "lat": 40.3999085,
+      "lng": 49.8505647,
+      "distance_km": 3.06
+    },
+    {
+      "name": "20 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3638852,
+      "lng": 49.8188343,
+      "distance_km": 3.07
+    },
+    {
+      "name": "V. Mayakovski k\u00fc\u00e7. 19",
+      "class": "bus_stop",
+      "lat": 40.3937225,
+      "lng": 49.8764235,
+      "distance_km": 3.07
+    },
+    {
+      "name": "N\u0259sib b\u0259y Yusifb\u0259yli k\u00fc\u00e7. 62",
+      "class": "bus_stop",
+      "lat": 40.3977233,
+      "lng": 49.838166,
+      "distance_km": 3.08
+    },
+    {
+      "name": "Bak\u0131 Sa\u011flaml\u0131q M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3982618,
+      "lng": 49.8399539,
+      "distance_km": 3.08
+    },
+    {
+      "name": "Az\u0259rbaycan Tibb Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3958989,
+      "lng": 49.833863,
+      "distance_km": 3.08
+    },
+    {
+      "name": "V. Mayakovski k\u00fc\u00e7. 10",
+      "class": "bus_stop",
+      "lat": 40.3940954,
+      "lng": 49.8761739,
+      "distance_km": 3.09
+    },
+    {
+      "name": "V. Mayakovski k\u00fc\u00e7. 1",
+      "class": "bus_stop",
+      "lat": 40.3926622,
+      "lng": 49.8783939,
+      "distance_km": 3.09
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4003526,
+      "lng": 49.8518966,
+      "distance_km": 3.1
+    },
+    {
+      "name": "D\u00f6vl\u0259t Bayraq Meydan\u0131",
+      "class": "bus_stop",
+      "lat": 40.3461533,
+      "lng": 49.8410375,
+      "distance_km": 3.11
+    },
+    {
+      "name": "Respublika \u0130nc\u0259s\u0259n\u0259t Gimnaziyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3649524,
+      "lng": 49.8179742,
+      "distance_km": 3.11
+    },
+    {
+      "name": "5 n\u00f6mr\u0259li u\u015faq poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3703878,
+      "lng": 49.8166439,
+      "distance_km": 3.11
+    },
+    {
+      "name": "33 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3474995,
+      "lng": 49.8366121,
+      "distance_km": 3.12
+    },
+    {
+      "name": "225 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3677266,
+      "lng": 49.8170295,
+      "distance_km": 3.12
+    },
+    {
+      "name": "G\u0259nclik m/st (F. Xoyski k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4005006,
+      "lng": 49.8508967,
+      "distance_km": 3.12
+    },
+    {
+      "name": "ADPU 3-c\u00fc korpus",
+      "class": "bus_stop",
+      "lat": 40.3971526,
+      "lng": 49.8356194,
+      "distance_km": 3.12
+    },
+    {
+      "name": "291 n\u00f6mr\u0259li Ekologiya Liseyi",
+      "class": "bus_stop",
+      "lat": 40.3946986,
+      "lng": 49.8759361,
+      "distance_km": 3.13
+    },
+    {
+      "name": "Az\u0259rbaycan Texniki Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3707248,
+      "lng": 49.8163221,
+      "distance_km": 3.14
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3843266,
+      "lng": 49.8869405,
+      "distance_km": 3.14
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3456169,
+      "lng": 49.8415694,
+      "distance_km": 3.15
+    },
+    {
+      "name": "73 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3672851,
+      "lng": 49.8167971,
+      "distance_km": 3.15
+    },
+    {
+      "name": "23 sayl\u0131 musiqi m\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3985212,
+      "lng": 49.8387466,
+      "distance_km": 3.15
+    },
+    {
+      "name": "ADPU 3-c\u00fc korpus",
+      "class": "bus_stop",
+      "lat": 40.397212,
+      "lng": 49.8351323,
+      "distance_km": 3.15
+    },
+    {
+      "name": "291 n\u00f6mr\u0259li Ekologiya Liseyi",
+      "class": "bus_stop",
+      "lat": 40.3949763,
+      "lng": 49.876042,
+      "distance_km": 3.16
+    },
+    {
+      "name": "B-4",
+      "class": "subway_station",
+      "lat": 40.3937251,
+      "lng": 49.8282314,
+      "distance_km": 3.17
+    },
+    {
+      "name": "15 sayl\u0131 u\u015faq poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3462753,
+      "lng": 49.8384751,
+      "distance_km": 3.18
+    },
+    {
+      "name": "16 n\u00f6mr\u0259li U\u015faq Musiqi M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3647418,
+      "lng": 49.8170804,
+      "distance_km": 3.19
+    },
+    {
+      "name": "Elml\u0259r Akademiyas\u0131 m/st",
+      "class": "bus_stop",
+      "lat": 40.3750775,
+      "lng": 49.8157453,
+      "distance_km": 3.19
+    },
+    {
+      "name": "Elml\u0259r Akademiyas\u0131 m\\s \u00fczb\u0259\u00fcz",
+      "class": "bus_stop",
+      "lat": 40.3758214,
+      "lng": 49.8159063,
+      "distance_km": 3.19
+    },
+    {
+      "name": "Elml\u0259r Akademiyas\u0131 m/st",
+      "class": "bus_stop",
+      "lat": 40.3759317,
+      "lng": 49.8158571,
+      "distance_km": 3.19
+    },
+    {
+      "name": "Y14",
+      "class": "subway_station",
+      "lat": 40.3788687,
+      "lng": 49.8899873,
+      "distance_km": 3.19
+    },
+    {
+      "name": "200 sayl\u0131 m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4011536,
+      "lng": 49.8543672,
+      "distance_km": 3.19
+    },
+    {
+      "name": "G\u0259nclik m/st (Atat\u00fcrk pr.)",
+      "class": "bus_stop",
+      "lat": 40.4011627,
+      "lng": 49.8519804,
+      "distance_km": 3.19
+    },
+    {
+      "name": "\u0130zmir k\u00fc\u00e7\u0259si 12",
+      "class": "bus_stop",
+      "lat": 40.3898649,
+      "lng": 49.8233227,
+      "distance_km": 3.19
+    },
+    {
+      "name": "33 sayl\u0131 \u015f\u0259h\u0259r poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3461644,
+      "lng": 49.837669,
+      "distance_km": 3.21
+    },
+    {
+      "name": "S\u0259bail rayon Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3561763,
+      "lng": 49.822099,
+      "distance_km": 3.21
+    },
+    {
+      "name": "Elml\u0259r Akademiyas\u0131",
+      "class": "subway_station",
+      "lat": 40.3751519,
+      "lng": 49.8154836,
+      "distance_km": 3.22
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3996458,
+      "lng": 49.8664549,
+      "distance_km": 3.22
+    },
+    {
+      "name": "Tibb Universiteti T\u0259dris Terapevtik Klinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3962574,
+      "lng": 49.831603,
+      "distance_km": 3.22
+    },
+    {
+      "name": "H.\u018fliyev ad\u0131na \u0130dman Konsert Kompleksi",
+      "class": "bus_stop",
+      "lat": 40.3911987,
+      "lng": 49.8237393,
+      "distance_km": 3.25
+    },
+    {
+      "name": "C. M\u0259mm\u0259dquluzad\u0259 k\u00fc\u00e7. 100",
+      "class": "bus_stop",
+      "lat": 40.3945167,
+      "lng": 49.8279646,
+      "distance_km": 3.26
+    },
+    {
+      "name": "\u015e\u0259fa\u0259t Mehdiyev k\u00fc\u00e7\u0259si 74",
+      "class": "bus_stop",
+      "lat": 40.381221,
+      "lng": 49.8166107,
+      "distance_km": 3.26
+    },
+    {
+      "name": "Azneftkimyamash",
+      "class": "bus_stop",
+      "lat": 40.4007159,
+      "lng": 49.8425114,
+      "distance_km": 3.27
+    },
+    {
+      "name": "D\u00f6vl\u0259t Bayra\u011f\u0131 Meydan\u0131",
+      "class": "bus_stop",
+      "lat": 40.3441292,
+      "lng": 49.8426849,
+      "distance_km": 3.28
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4001614,
+      "lng": 49.8667826,
+      "distance_km": 3.28
+    },
+    {
+      "name": "42 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3999989,
+      "lng": 49.8392163,
+      "distance_km": 3.28
+    },
+    {
+      "name": "153 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3907014,
+      "lng": 49.8228028,
+      "distance_km": 3.28
+    },
+    {
+      "name": "\u015e\u0259fa\u0259t Mehdiyev k\u00fc\u00e7\u0259si 107",
+      "class": "bus_stop",
+      "lat": 40.3814398,
+      "lng": 49.816442,
+      "distance_km": 3.28
+    },
+    {
+      "name": "Elml\u0259r Akademiyas\u0131 m/st (B. Vahabzad\u0259 k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.3754714,
+      "lng": 49.8146945,
+      "distance_km": 3.29
+    },
+    {
+      "name": "H\u0259s\u0259n \u018fliyev k\u00fc\u00e7\u0259si 80",
+      "class": "bus_stop",
+      "lat": 40.4015781,
+      "lng": 49.8461168,
+      "distance_km": 3.29
+    },
+    {
+      "name": "Azneftkimyamash",
+      "class": "bus_stop",
+      "lat": 40.401235,
+      "lng": 49.8436262,
+      "distance_km": 3.3
+    },
+    {
+      "name": "5 sayl\u0131 do\u011fum evi",
+      "class": "bus_stop",
+      "lat": 40.3450226,
+      "lng": 49.8382741,
+      "distance_km": 3.31
+    },
+    {
+      "name": "S\u0259bail rayon Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3557369,
+      "lng": 49.8209289,
+      "distance_km": 3.32
+    },
+    {
+      "name": "H\u00fcseyn Cavid prospekti 168",
+      "class": "bus_stop",
+      "lat": 40.3798883,
+      "lng": 49.8153306,
+      "distance_km": 3.32
+    },
+    {
+      "name": "47 sayl\u0131 m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4001505,
+      "lng": 49.8385442,
+      "distance_km": 3.32
+    },
+    {
+      "name": "47 n\u00f6mr\u0259li m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3997899,
+      "lng": 49.8374619,
+      "distance_km": 3.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3800662,
+      "lng": 49.8153443,
+      "distance_km": 3.32
+    },
+    {
+      "name": "H\u00fcseyn Cavid prospekti 205A",
+      "class": "bus_stop",
+      "lat": 40.3798378,
+      "lng": 49.8151516,
+      "distance_km": 3.33
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.380016,
+      "lng": 49.8151123,
+      "distance_km": 3.34
+    },
+    {
+      "name": "Az\u0259rbaycan Tibb Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3981407,
+      "lng": 49.8326949,
+      "distance_km": 3.34
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 141",
+      "class": "bus_stop",
+      "lat": 40.4006618,
+      "lng": 49.8673343,
+      "distance_km": 3.35
+    },
+    {
+      "name": "Akademik H\u0259s\u0259n \u018fliyev k\u00fc\u00e7.",
+      "class": "bus_stop",
+      "lat": 40.3992922,
+      "lng": 49.8351124,
+      "distance_km": 3.35
+    },
+    {
+      "name": "Respublika Talassemiya M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4022103,
+      "lng": 49.8603705,
+      "distance_km": 3.36
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3804249,
+      "lng": 49.8147812,
+      "distance_km": 3.38
+    },
+    {
+      "name": "\u0130. N\u0259biyev \u2013 M. M\u00fc\u015ffiq k\u00fc\u00e7. k\u0259s.",
+      "class": "bus_stop",
+      "lat": 40.3616872,
+      "lng": 49.8159189,
+      "distance_km": 3.39
+    },
+    {
+      "name": "\u00c7ernyayevski k\u00fc\u00e7\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3963547,
+      "lng": 49.8781975,
+      "distance_km": 3.39
+    },
+    {
+      "name": "Bak\u0131 Q\u0131zlar Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3984379,
+      "lng": 49.8320853,
+      "distance_km": 3.4
+    },
+    {
+      "name": "\u00c7ernyayevski k\u00fc\u00e7\u0259si 57",
+      "class": "bus_stop",
+      "lat": 40.3964816,
+      "lng": 49.8782146,
+      "distance_km": 3.4
+    },
+    {
+      "name": "\u018f. Haqverdiyev k\u00fc\u00e7\u0259si 25",
+      "class": "bus_stop",
+      "lat": 40.3804068,
+      "lng": 49.81453,
+      "distance_km": 3.4
+    },
+    {
+      "name": "N\u0259rimanov Rayon Prokurorlu\u011fu",
+      "class": "bus_stop",
+      "lat": 40.4030522,
+      "lng": 49.8495294,
+      "distance_km": 3.41
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 170",
+      "class": "bus_stop",
+      "lat": 40.4011512,
+      "lng": 49.86833,
+      "distance_km": 3.43
+    },
+    {
+      "name": "D\u00f6vl\u0259t \u0130mtahan M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3983772,
+      "lng": 49.831205,
+      "distance_km": 3.43
+    },
+    {
+      "name": "Mikay\u0131l M\u00fc\u015ffiq k\u00fc\u00e7\u0259si 99",
+      "class": "bus_stop",
+      "lat": 40.3616684,
+      "lng": 49.8153151,
+      "distance_km": 3.44
+    },
+    {
+      "name": "5 n\u00f6mr\u0259li \u015e\u0259h\u0259r Klinik X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.402742,
+      "lng": 49.861645,
+      "distance_km": 3.44
+    },
+    {
+      "name": "Mikay\u0131l M\u00fc\u015ffiq k\u00fc\u00e7\u0259si 98",
+      "class": "bus_stop",
+      "lat": 40.3617701,
+      "lng": 49.815035,
+      "distance_km": 3.45
+    },
+    {
+      "name": "Heyd\u0259r \u018fliyev prospekti 36",
+      "class": "bus_stop",
+      "lat": 40.3986631,
+      "lng": 49.875306,
+      "distance_km": 3.46
+    },
+    {
+      "name": "\u018f. Haqverdiyev k\u00fc\u00e7\u0259si 50",
+      "class": "bus_stop",
+      "lat": 40.3801412,
+      "lng": 49.813702,
+      "distance_km": 3.46
+    },
+    {
+      "name": "\u015e\u0259fa\u0259t Mehdiyev k\u00fc\u00e7\u0259si 80",
+      "class": "bus_stop",
+      "lat": 40.3853999,
+      "lng": 49.8160675,
+      "distance_km": 3.46
+    },
+    {
+      "name": "Avropa-Az\u0259rbaycan m\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3852298,
+      "lng": 49.8158943,
+      "distance_km": 3.47
+    },
+    {
+      "name": "Bak\u0131 Apellyasiya M\u0259hk\u0259m\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3686857,
+      "lng": 49.8125604,
+      "distance_km": 3.48
+    },
+    {
+      "name": "N\u0259rimanov Rayon \u0130cra v\u0259 Probasiya \u015e.",
+      "class": "bus_stop",
+      "lat": 40.397874,
+      "lng": 49.8773011,
+      "distance_km": 3.48
+    },
+    {
+      "name": "78 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3976177,
+      "lng": 49.8285423,
+      "distance_km": 3.49
+    },
+    {
+      "name": "A\u011fa Nem\u0259tulla k\u00fc\u00e7\u0259si 52",
+      "class": "bus_stop",
+      "lat": 40.3980976,
+      "lng": 49.8772392,
+      "distance_km": 3.49
+    },
+    {
+      "name": "Bak\u0131 Oksford M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3551145,
+      "lng": 49.8188622,
+      "distance_km": 3.5
+    },
+    {
+      "name": "F\u0259t\u0259li xan Xoyski k\u00fc\u00e7\u0259si 134",
+      "class": "bus_stop",
+      "lat": 40.4029891,
+      "lng": 49.8636535,
+      "distance_km": 3.5
+    },
+    {
+      "name": "Seyf\u0259ddin Da\u011fl\u0131 k\u00fc\u00e7\u0259si 25",
+      "class": "bus_stop",
+      "lat": 40.3666761,
+      "lng": 49.8125834,
+      "distance_km": 3.51
+    },
+    {
+      "name": "Bak\u0131 U\u015faq B\u0259rpa M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3993326,
+      "lng": 49.8752709,
+      "distance_km": 3.52
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3977437,
+      "lng": 49.8282902,
+      "distance_km": 3.52
+    },
+    {
+      "name": "Evraziya Qospital\u0131",
+      "class": "bus_stop",
+      "lat": 40.3973789,
+      "lng": 49.8275604,
+      "distance_km": 3.52
+    },
+    {
+      "name": "6,13,61,83",
+      "class": "bus_stop",
+      "lat": 40.3975299,
+      "lng": 49.8275012,
+      "distance_km": 3.54
+    },
+    {
+      "name": "N\u0259rimanov Rayon qeydiyyat \u015e\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4020536,
+      "lng": 49.837432,
+      "distance_km": 3.55
+    },
+    {
+      "name": "Neft\u00e7i bazas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4021383,
+      "lng": 49.8377126,
+      "distance_km": 3.55
+    },
+    {
+      "name": "H\u0259s\u0259n \u018fliyev k\u00fc\u00e7\u0259si 101",
+      "class": "bus_stop",
+      "lat": 40.3974335,
+      "lng": 49.82675,
+      "distance_km": 3.57
+    },
+    {
+      "name": "C\u0259lil M\u0259mm\u0259dquluzad\u0259 k\u00fc\u00e7.",
+      "class": "bus_stop",
+      "lat": 40.3973352,
+      "lng": 49.8266204,
+      "distance_km": 3.57
+    },
+    {
+      "name": "Tbilisi prospekti 45",
+      "class": "bus_stop",
+      "lat": 40.3930219,
+      "lng": 49.8209526,
+      "distance_km": 3.57
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3993898,
+      "lng": 49.8765936,
+      "distance_km": 3.58
+    },
+    {
+      "name": "C. M\u0259mm\u0259dquluzad\u0259 k\u00fc\u00e7. 238",
+      "class": "bus_stop",
+      "lat": 40.3976801,
+      "lng": 49.8270408,
+      "distance_km": 3.58
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3840751,
+      "lng": 49.8138012,
+      "distance_km": 3.58
+    },
+    {
+      "name": "Bak\u0131 Oksford M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3547756,
+      "lng": 49.8178401,
+      "distance_km": 3.59
+    },
+    {
+      "name": "City Clinic Hospital \u21165",
+      "class": "bus_stop",
+      "lat": 40.4044196,
+      "lng": 49.8594723,
+      "distance_km": 3.59
+    },
+    {
+      "name": "Akim Abbasov k\u00fc\u00e7\u0259si 17",
+      "class": "bus_stop",
+      "lat": 40.3862808,
+      "lng": 49.8150305,
+      "distance_km": 3.59
+    },
+    {
+      "name": "S\u0259m\u0259d Vur\u011fun k\u00fc\u00e7. 238",
+      "class": "bus_stop",
+      "lat": 40.4005207,
+      "lng": 49.832106,
+      "distance_km": 3.6
+    },
+    {
+      "name": "City Clinic Hospital \u21165",
+      "class": "bus_stop",
+      "lat": 40.4047178,
+      "lng": 49.8593595,
+      "distance_km": 3.62
+    },
+    {
+      "name": "C. M\u0259mm\u0259dquluzad\u0259 k\u00fc\u00e7. 139B",
+      "class": "bus_stop",
+      "lat": 40.398004,
+      "lng": 49.8266575,
+      "distance_km": 3.62
+    },
+    {
+      "name": "N. N\u0259rimanov m/st (\u018f. R\u0259c\u0259bli k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4029381,
+      "lng": 49.8686798,
+      "distance_km": 3.63
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4028714,
+      "lng": 49.86907,
+      "distance_km": 3.63
+    },
+    {
+      "name": "11,211",
+      "class": "bus_stop",
+      "lat": 40.4047884,
+      "lng": 49.8599438,
+      "distance_km": 3.63
+    },
+    {
+      "name": "S\u0259bail meydan\u0131",
+      "class": "bus_stop",
+      "lat": 40.3415762,
+      "lng": 49.8391077,
+      "distance_km": 3.64
+    },
+    {
+      "name": "Bak\u0131 Kristal Zal\u0131",
+      "class": "bus_stop",
+      "lat": 40.3412847,
+      "lng": 49.8403899,
+      "distance_km": 3.64
+    },
+    {
+      "name": "94 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3693909,
+      "lng": 49.8104326,
+      "distance_km": 3.65
+    },
+    {
+      "name": "N. N\u0259rimanov m/st (\u018f. R\u0259c\u0259bli k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4031499,
+      "lng": 49.8688369,
+      "distance_km": 3.65
+    },
+    {
+      "name": "193 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4015585,
+      "lng": 49.8736565,
+      "distance_km": 3.66
+    },
+    {
+      "name": "Az\u0259rbaycan N\u0259\u015friyyat\u0131",
+      "class": "bus_stop",
+      "lat": 40.3690794,
+      "lng": 49.8101543,
+      "distance_km": 3.67
+    },
+    {
+      "name": "N\u0259riman N\u0259rimanov",
+      "class": "platform",
+      "lat": 40.402766351867875,
+      "lng": 49.87050494115419,
+      "distance_km": 3.67
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3939761,
+      "lng": 49.8203666,
+      "distance_km": 3.67
+    },
+    {
+      "name": "\u018f. Haqverdiyev k\u00fc\u00e7\u0259si 28",
+      "class": "bus_stop",
+      "lat": 40.3799206,
+      "lng": 49.8109112,
+      "distance_km": 3.68
+    },
+    {
+      "name": "N\u0259riman N\u0259rimanov",
+      "class": "stop_position",
+      "lat": 40.4027833,
+      "lng": 49.8706869,
+      "distance_km": 3.68
+    },
+    {
+      "name": "N\u0259riman N\u0259rimanov",
+      "class": "subway_station",
+      "lat": 40.4028217,
+      "lng": 49.8706376,
+      "distance_km": 3.68
+    },
+    {
+      "name": "N\u0259riman N\u0259rimanov",
+      "class": "stop_position",
+      "lat": 40.4028824,
+      "lng": 49.8705891,
+      "distance_km": 3.68
+    },
+    {
+      "name": "Tbilisi pr. - Az\u0259r \u018fliyev k\u00fc\u00e7. il\u0259 k\u0259s.",
+      "class": "bus_stop",
+      "lat": 40.3940234,
+      "lng": 49.82016,
+      "distance_km": 3.69
+    },
+    {
+      "name": "Hac\u0131 Cavad m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3685738,
+      "lng": 49.8098971,
+      "distance_km": 3.7
+    },
+    {
+      "name": "Bak\u0131 D\u00f6vl\u0259t Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3744067,
+      "lng": 49.8097125,
+      "distance_km": 3.7
+    },
+    {
+      "name": "N. N\u0259rimanov m/st (T\u0259briz k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.403032,
+      "lng": 49.8705902,
+      "distance_km": 3.7
+    },
+    {
+      "name": "H\u0259s\u0259n \u018fliyev k\u00fc\u00e7\u0259si 40",
+      "class": "bus_stop",
+      "lat": 40.3963161,
+      "lng": 49.822814,
+      "distance_km": 3.7
+    },
+    {
+      "name": "\u018f. Haqverdiyev k\u00fc\u00e7\u0259si 11",
+      "class": "bus_stop",
+      "lat": 40.3801113,
+      "lng": 49.8107918,
+      "distance_km": 3.7
+    },
+    {
+      "name": "2 n\u00f6mr\u0259li Bak\u0131 Pe\u015f\u0259 M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.4043819,
+      "lng": 49.8664036,
+      "distance_km": 3.71
+    },
+    {
+      "name": "Bak\u0131 D\u00f6vl\u0259t Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3744892,
+      "lng": 49.8094625,
+      "distance_km": 3.72
+    },
+    {
+      "name": "AFFA",
+      "class": "bus_stop",
+      "lat": 40.3776237,
+      "lng": 49.8968383,
+      "distance_km": 3.73
+    },
+    {
+      "name": "\u041c\u0435\u0442\u0440\u043e \u041d\u0430\u0440\u0438\u043c\u0430\u043d \u041d\u0430\u0440\u0438\u043c\u0430\u043d\u043e\u0432",
+      "class": "bus_stop",
+      "lat": 40.4027969,
+      "lng": 49.872199,
+      "distance_km": 3.73
+    },
+    {
+      "name": "Heyd\u0259r \u018fliyev prospekti 60",
+      "class": "bus_stop",
+      "lat": 40.4002632,
+      "lng": 49.8779704,
+      "distance_km": 3.73
+    },
+    {
+      "name": "\u018fmlak\u0131n Kadastr\u0131 v\u0259 \u00dcnvan Reyestri Xidm\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3894154,
+      "lng": 49.815266,
+      "distance_km": 3.73
+    },
+    {
+      "name": "\u015e\u0259fa\u0259t Mehdiyev k\u00fc\u00e7\u0259si 140",
+      "class": "bus_stop",
+      "lat": 40.3896756,
+      "lng": 49.815505,
+      "distance_km": 3.73
+    },
+    {
+      "name": "F\u0259t\u0259li xan Xoyski k\u00fc\u00e7\u0259si 107B",
+      "class": "bus_stop",
+      "lat": 40.4046029,
+      "lng": 49.8664239,
+      "distance_km": 3.74
+    },
+    {
+      "name": "Hac\u0131 Cavad m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3689374,
+      "lng": 49.8091144,
+      "distance_km": 3.76
+    },
+    {
+      "name": "H\u0259s\u0259n \u018fliyev k\u00fc\u00e7\u0259si 55",
+      "class": "bus_stop",
+      "lat": 40.3962799,
+      "lng": 49.8218204,
+      "distance_km": 3.76
+    },
+    {
+      "name": "AFFA",
+      "class": "bus_stop",
+      "lat": 40.3778467,
+      "lng": 49.8973708,
+      "distance_km": 3.78
+    },
+    {
+      "name": "N. N\u0259rimanov m/st (A. Nem\u0259tulla k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4036466,
+      "lng": 49.8712755,
+      "distance_km": 3.78
+    },
+    {
+      "name": "M\u0259rk\u0259zi \u0130nc\u0259s\u0259n\u0259t M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.4008579,
+      "lng": 49.8779882,
+      "distance_km": 3.78
+    },
+    {
+      "name": "Yasamal Rayon \u0130cra Hakimiyy\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3777898,
+      "lng": 49.8090286,
+      "distance_km": 3.8
+    },
+    {
+      "name": "Yasamal Rayon \u0130cra Hakimiyy\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3786014,
+      "lng": 49.8091529,
+      "distance_km": 3.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4037149,
+      "lng": 49.8715662,
+      "distance_km": 3.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4050857,
+      "lng": 49.8679868,
+      "distance_km": 3.83
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4008158,
+      "lng": 49.8791757,
+      "distance_km": 3.84
+    },
+    {
+      "name": "F\u0259t\u0259li xan Xoyski k\u00fc\u00e7\u0259si 184",
+      "class": "bus_stop",
+      "lat": 40.4052341,
+      "lng": 49.8683723,
+      "distance_km": 3.86
+    },
+    {
+      "name": "MN-nin Pataloji Anatomiya M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4000234,
+      "lng": 49.8255108,
+      "distance_km": 3.86
+    },
+    {
+      "name": "M\u0259rk\u0259zi N\u0259batat Ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3575153,
+      "lng": 49.8120255,
+      "distance_km": 3.87
+    },
+    {
+      "name": "M\u0259mm\u0259d Araz 23",
+      "class": "bus_stop",
+      "lat": 40.4051147,
+      "lng": 49.8374997,
+      "distance_km": 3.87
+    },
+    {
+      "name": "89 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.4058834,
+      "lng": 49.8666614,
+      "distance_km": 3.88
+    },
+    {
+      "name": "Albert Aqarunov k\u00fc\u00e7\u0259si 114",
+      "class": "bus_stop",
+      "lat": 40.4066254,
+      "lng": 49.8628188,
+      "distance_km": 3.88
+    },
+    {
+      "name": "\u018fhm\u0259d R\u0259c\u0259bli k\u00fc\u00e7\u0259si 69",
+      "class": "bus_stop",
+      "lat": 40.4060737,
+      "lng": 49.8661364,
+      "distance_km": 3.89
+    },
+    {
+      "name": "Mikay\u0131l M\u00fc\u015ffiq k\u00fc\u00e7\u0259si 108",
+      "class": "bus_stop",
+      "lat": 40.3575963,
+      "lng": 49.8116697,
+      "distance_km": 3.9
+    },
+    {
+      "name": "Ceyhun S\u0259limov k\u00fc\u00e7\u0259si 7",
+      "class": "bus_stop",
+      "lat": 40.3998001,
+      "lng": 49.8244002,
+      "distance_km": 3.9
+    },
+    {
+      "name": "Albert Aqarunov k\u00fc\u00e7\u0259si 3",
+      "class": "bus_stop",
+      "lat": 40.406909,
+      "lng": 49.8626308,
+      "distance_km": 3.91
+    },
+    {
+      "name": "H\u0259s\u0259n b\u0259y Z\u0259rdabi k\u00fc\u00e7\u0259si 14",
+      "class": "bus_stop",
+      "lat": 40.3816651,
+      "lng": 49.8087401,
+      "distance_km": 3.91
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4057066,
+      "lng": 49.8689613,
+      "distance_km": 3.92
+    },
+    {
+      "name": "Tbilisi Prospekti",
+      "class": "bus_stop",
+      "lat": 40.3955579,
+      "lng": 49.8180824,
+      "distance_km": 3.93
+    },
+    {
+      "name": "\u015e\u0259fa\u0259t Mehdiyev k\u00fc\u00e7\u0259si 97",
+      "class": "bus_stop",
+      "lat": 40.3930299,
+      "lng": 49.8154716,
+      "distance_km": 3.93
+    },
+    {
+      "name": "Bibiheyb\u0259t neft v\u0259 qaz \u00e7\u0131xarma idar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3400831,
+      "lng": 49.834562,
+      "distance_km": 3.94
+    },
+    {
+      "name": "A\u011fdam rayonu 88 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3700433,
+      "lng": 49.806905,
+      "distance_km": 3.94
+    },
+    {
+      "name": "Tbilisi prospekti 34",
+      "class": "bus_stop",
+      "lat": 40.3955543,
+      "lng": 49.8179654,
+      "distance_km": 3.94
+    },
+    {
+      "name": "Tbilisi prospekti 49",
+      "class": "bus_stop",
+      "lat": 40.3951418,
+      "lng": 49.8175757,
+      "distance_km": 3.94
+    },
+    {
+      "name": "A.M.\u015e\u0259rifzad\u0259 k\u00fc\u00e7\u0259si 1",
+      "class": "bus_stop",
+      "lat": 40.3699461,
+      "lng": 49.806769,
+      "distance_km": 3.95
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4079,
+      "lng": 49.8488146,
+      "distance_km": 3.95
+    },
+    {
+      "name": "\u015e\u0259fa\u0259t Mehdiyev k\u00fc\u00e7\u0259si 323",
+      "class": "bus_stop",
+      "lat": 40.3935467,
+      "lng": 49.8155788,
+      "distance_km": 3.96
+    },
+    {
+      "name": "Q\u0259z\u0259nf\u0259r Musab\u0259yov park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3807839,
+      "lng": 49.8078472,
+      "distance_km": 3.96
+    },
+    {
+      "name": "H\u0259s\u0259n b\u0259y Z\u0259rdabi k\u00fc\u00e7\u0259si 39",
+      "class": "bus_stop",
+      "lat": 40.3824051,
+      "lng": 49.808384,
+      "distance_km": 3.96
+    },
+    {
+      "name": "Atat\u00fcrk prospekti 98",
+      "class": "bus_stop",
+      "lat": 40.4080432,
+      "lng": 49.8487403,
+      "distance_km": 3.97
+    },
+    {
+      "name": "Azadl\u0131q prospekti 287",
+      "class": "bus_stop",
+      "lat": 40.405687,
+      "lng": 49.8360839,
+      "distance_km": 3.97
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4079451,
+      "lng": 49.847861,
+      "distance_km": 3.97
+    },
+    {
+      "name": "Akim Abbasov k\u00fc\u00e7\u0259si 68",
+      "class": "bus_stop",
+      "lat": 40.3856948,
+      "lng": 49.8097504,
+      "distance_km": 3.97
+    },
+    {
+      "name": "Mothercare",
+      "class": "bus_stop",
+      "lat": 40.4080527,
+      "lng": 49.8478865,
+      "distance_km": 3.98
+    },
+    {
+      "name": "Akim Abbasov k\u00fc\u00e7\u0259si 119",
+      "class": "bus_stop",
+      "lat": 40.3858528,
+      "lng": 49.8097049,
+      "distance_km": 3.98
+    },
+    {
+      "name": "Bak\u0131 D\u00f6vl\u0259t C\u0131d\u0131r Meydan\u0131",
+      "class": "bus_stop",
+      "lat": 40.4059489,
+      "lng": 49.83624,
+      "distance_km": 3.99
+    },
+    {
+      "name": "Azad Az\u0259rbaycan Teleradio v\u0259 Yay\u0131m \u015eirk\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3721783,
+      "lng": 49.8060475,
+      "distance_km": 4.0
+    },
+    {
+      "name": "T\u0259briz k\u00fc\u00e7\u0259si 221",
+      "class": "bus_stop",
+      "lat": 40.4046412,
+      "lng": 49.8744382,
+      "distance_km": 4.0
+    },
+    {
+      "name": "Azad Az\u0259rbaycan Teleradio v\u0259 Yay\u0131m \u015eirk\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3720597,
+      "lng": 49.8060099,
+      "distance_km": 4.01
+    },
+    {
+      "name": "Bay\u0131l dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3390827,
+      "lng": 49.8349598,
+      "distance_km": 4.03
+    },
+    {
+      "name": "Q\u0259rb Universiteti (2 sayl\u0131 korpus)",
+      "class": "bus_stop",
+      "lat": 40.4085507,
+      "lng": 49.8596278,
+      "distance_km": 4.04
+    },
+    {
+      "name": "H\u0259s\u0259n b\u0259y Z\u0259rdabi k\u00fc\u00e7\u0259si 38B",
+      "class": "bus_stop",
+      "lat": 40.3848817,
+      "lng": 49.8082859,
+      "distance_km": 4.05
+    },
+    {
+      "name": "\u0130kinci F\u0259xri Xiyaban",
+      "class": "bus_stop",
+      "lat": 40.3564292,
+      "lng": 49.8102337,
+      "distance_km": 4.06
+    },
+    {
+      "name": "10 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3744192,
+      "lng": 49.8054636,
+      "distance_km": 4.06
+    },
+    {
+      "name": "Q\u0259rb Universiteti (2 sayl\u0131 korpus)",
+      "class": "bus_stop",
+      "lat": 40.4088237,
+      "lng": 49.8590235,
+      "distance_km": 4.07
+    },
+    {
+      "name": "21 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3794937,
+      "lng": 49.8060989,
+      "distance_km": 4.07
+    },
+    {
+      "name": "13 n\u00f6mr\u0259li U\u015faq Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3851155,
+      "lng": 49.8080337,
+      "distance_km": 4.08
+    },
+    {
+      "name": "F\u00fczuli r. Aybasanl\u0131 k\u0259nd U\u015faq Musiqi m.",
+      "class": "bus_stop",
+      "lat": 40.3744683,
+      "lng": 49.8049625,
+      "distance_km": 4.1
+    },
+    {
+      "name": "X\u00fcsusi M\u00fcalic\u0259 Sa\u011flaml\u0131q Kompleksi",
+      "class": "bus_stop",
+      "lat": 40.3542282,
+      "lng": 49.8110757,
+      "distance_km": 4.11
+    },
+    {
+      "name": "68 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3768219,
+      "lng": 49.804866,
+      "distance_km": 4.13
+    },
+    {
+      "name": "X\u00fcsusi M\u00fcalic\u0259 Sa\u011flaml\u0131q Kompleksi",
+      "class": "bus_stop",
+      "lat": 40.3539948,
+      "lng": 49.8108707,
+      "distance_km": 4.14
+    },
+    {
+      "name": "Abbasqulu Abbaszad\u0259 k\u00fc\u00e7\u0259si 9",
+      "class": "bus_stop",
+      "lat": 40.3522307,
+      "lng": 49.8120116,
+      "distance_km": 4.16
+    },
+    {
+      "name": "3 sayl\u0131 ASAN xidm\u0259t m\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3782024,
+      "lng": 49.8044159,
+      "distance_km": 4.19
+    },
+    {
+      "name": "Abbasqulu Abbaszad\u0259 k\u00fc\u00e7\u0259si 16",
+      "class": "bus_stop",
+      "lat": 40.3521231,
+      "lng": 49.8115623,
+      "distance_km": 4.2
+    },
+    {
+      "name": "8 Noyabr m/st",
+      "class": "bus_stop",
+      "lat": 40.4015838,
+      "lng": 49.8215809,
+      "distance_km": 4.2
+    },
+    {
+      "name": "Su \u0130dman\u0131 Saray\u0131",
+      "class": "bus_stop",
+      "lat": 40.337662,
+      "lng": 49.8337241,
+      "distance_km": 4.21
+    },
+    {
+      "name": "A. M. \u015e\u0259rifzad\u0259 k\u00fc\u00e7\u0259si 228",
+      "class": "bus_stop",
+      "lat": 40.3799527,
+      "lng": 49.8044247,
+      "distance_km": 4.22
+    },
+    {
+      "name": "H\u0259rbi Hospital",
+      "class": "bus_stop",
+      "lat": 40.4016919,
+      "lng": 49.8214665,
+      "distance_km": 4.22
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.39683435,
+      "lng": 49.891482999999994,
+      "distance_km": 4.22
+    },
+    {
+      "name": "\u018fliyar \u018fliyev k\u00fc\u00e7\u0259si 99",
+      "class": "bus_stop",
+      "lat": 40.4067797,
+      "lng": 49.8751047,
+      "distance_km": 4.24
+    },
+    {
+      "name": "\u018fliyar \u018fliyev k\u00fc\u00e7\u0259si 194",
+      "class": "bus_stop",
+      "lat": 40.4070749,
+      "lng": 49.8750608,
+      "distance_km": 4.26
+    },
+    {
+      "name": "\u018f. Salamzad\u0259 k\u00fc\u00e7\u0259si 10",
+      "class": "bus_stop",
+      "lat": 40.3956644,
+      "lng": 49.8131782,
+      "distance_km": 4.26
+    },
+    {
+      "name": "8 Noyabr",
+      "class": "stop_position",
+      "lat": 40.4018009,
+      "lng": 49.8207432,
+      "distance_km": 4.27
+    },
+    {
+      "name": "8 Noyabr",
+      "class": "stop_position",
+      "lat": 40.4018871,
+      "lng": 49.820828,
+      "distance_km": 4.27
+    },
+    {
+      "name": "Boulevard Residence",
+      "class": "bus_stop",
+      "lat": 40.3381317,
+      "lng": 49.830576,
+      "distance_km": 4.28
+    },
+    {
+      "name": "\u018f. Salamzad\u0259 k\u00fc\u00e7\u0259si 140",
+      "class": "bus_stop",
+      "lat": 40.3980453,
+      "lng": 49.8154449,
+      "distance_km": 4.28
+    },
+    {
+      "name": "Ke\u015fl\u0259 dayanaca\u011f\u0131",
+      "class": "stop_position",
+      "lat": 40.3973015,
+      "lng": 49.8920185,
+      "distance_km": 4.28
+    },
+    {
+      "name": "Nazim Hikm\u0259t k\u00fc\u00e7\u0259si 45",
+      "class": "bus_stop",
+      "lat": 40.3795019,
+      "lng": 49.8035053,
+      "distance_km": 4.29
+    },
+    {
+      "name": "8 Noyabr m/st",
+      "class": "bus_stop",
+      "lat": 40.4019524,
+      "lng": 49.8204953,
+      "distance_km": 4.29
+    },
+    {
+      "name": "8 Noyabr",
+      "class": "subway_station",
+      "lat": 40.4018671,
+      "lng": 49.8205094,
+      "distance_km": 4.29
+    },
+    {
+      "name": "Yeni \u015f\u0259h\u0259r ya\u015fay\u0131\u015f kompleksi;G\u00f6mr\u00fck idar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3379192,
+      "lng": 49.8306956,
+      "distance_km": 4.3
+    },
+    {
+      "name": "158 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3855141,
+      "lng": 49.8055347,
+      "distance_km": 4.3
+    },
+    {
+      "name": "Yasamal b\u0259l\u0259diyy\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3823704,
+      "lng": 49.8040603,
+      "distance_km": 4.31
+    },
+    {
+      "name": "\u018f. Salamzad\u0259 k\u00fc\u00e7\u0259si 93",
+      "class": "bus_stop",
+      "lat": 40.3965525,
+      "lng": 49.8132698,
+      "distance_km": 4.32
+    },
+    {
+      "name": "11 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4112598,
+      "lng": 49.8578958,
+      "distance_km": 4.33
+    },
+    {
+      "name": "Badamdar \u015fosesi 151",
+      "class": "bus_stop",
+      "lat": 40.3507472,
+      "lng": 49.8109321,
+      "distance_km": 4.33
+    },
+    {
+      "name": "Badamdar \u015fosesi 296",
+      "class": "bus_stop",
+      "lat": 40.3509908,
+      "lng": 49.8107039,
+      "distance_km": 4.33
+    },
+    {
+      "name": "3 sayl\u0131 ASAN xidm\u0259t m\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3792561,
+      "lng": 49.8028819,
+      "distance_km": 4.34
+    },
+    {
+      "name": "Yasamal Rayon Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.391567,
+      "lng": 49.8085898,
+      "distance_km": 4.34
+    },
+    {
+      "name": "A. M. \u015e\u0259rifzad\u0259 k\u00fc\u00e7\u0259si 201C",
+      "class": "bus_stop",
+      "lat": 40.3823064,
+      "lng": 49.8037501,
+      "distance_km": 4.34
+    },
+    {
+      "name": "Y. \u00c7\u0259m\u0259nz\u0259minli k\u00fc\u00e7\u0259si 123",
+      "class": "bus_stop",
+      "lat": 40.4102379,
+      "lng": 49.86714,
+      "distance_km": 4.36
+    },
+    {
+      "name": "Tbilisi prospekti",
+      "class": "bus_stop",
+      "lat": 40.3974898,
+      "lng": 49.8136031,
+      "distance_km": 4.36
+    },
+    {
+      "name": "Y. \u00c7\u0259m\u0259nz\u0259minli k\u00fc\u00e7\u0259si 104",
+      "class": "bus_stop",
+      "lat": 40.4102106,
+      "lng": 49.8676979,
+      "distance_km": 4.37
+    },
+    {
+      "name": "Ke\u015fl\u0259 Stansiyas\u0131",
+      "class": "railway_halt",
+      "lat": 40.3979294,
+      "lng": 49.8925903,
+      "distance_km": 4.37
+    },
+    {
+      "name": "Ke\u015fl\u0259 dayanaca\u011f\u0131",
+      "class": "stop_position",
+      "lat": 40.397849,
+      "lng": 49.8926871,
+      "distance_km": 4.37
+    },
+    {
+      "name": "D\u00f6vl\u0259t Neft \u015eirk\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.4039052,
+      "lng": 49.8845601,
+      "distance_km": 4.38
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.39795817829268,
+      "lng": 49.892725130148655,
+      "distance_km": 4.38
+    },
+    {
+      "name": "158 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.385269,
+      "lng": 49.804334,
+      "distance_km": 4.38
+    },
+    {
+      "name": "\u018fhm\u0259d R\u0259c\u0259bli k\u00fc\u00e7\u0259si 191",
+      "class": "bus_stop",
+      "lat": 40.4116267,
+      "lng": 49.8617566,
+      "distance_km": 4.41
+    },
+    {
+      "name": "Atat\u00fcrk park\u0131",
+      "class": "bus_stop",
+      "lat": 40.4119814,
+      "lng": 49.8472039,
+      "distance_km": 4.42
+    },
+    {
+      "name": "11 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4121526,
+      "lng": 49.856942,
+      "distance_km": 4.42
+    },
+    {
+      "name": "\u018fhm\u0259d R\u0259c\u0259bli k\u00fc\u00e7\u0259si 208",
+      "class": "bus_stop",
+      "lat": 40.4117207,
+      "lng": 49.8620329,
+      "distance_km": 4.42
+    },
+    {
+      "name": "Q\u0259l\u0259b\u0259 dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3909979,
+      "lng": 49.8071365,
+      "distance_km": 4.42
+    },
+    {
+      "name": "Yasamal Rayon Prokurorlu\u011fu",
+      "class": "bus_stop",
+      "lat": 40.3908506,
+      "lng": 49.8068501,
+      "distance_km": 4.43
+    },
+    {
+      "name": "1 sayl\u0131 Rabit\u0259 Xidm\u0259tl\u0259ri M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3848041,
+      "lng": 49.8034414,
+      "distance_km": 4.44
+    },
+    {
+      "name": "Atat\u00fcrk prospekti 159",
+      "class": "bus_stop",
+      "lat": 40.4121686,
+      "lng": 49.8462652,
+      "distance_km": 4.45
+    },
+    {
+      "name": "Bak\u0131 Modern T\u0259hsil kompleksi",
+      "class": "bus_stop",
+      "lat": 40.4095862,
+      "lng": 49.8729557,
+      "distance_km": 4.45
+    },
+    {
+      "name": "Bak\u0131 Modern T\u0259hsil kompleksi",
+      "class": "bus_stop",
+      "lat": 40.4095147,
+      "lng": 49.8731456,
+      "distance_km": 4.45
+    },
+    {
+      "name": "Alatava k\u00f6rp\u00fcs\u00fc",
+      "class": "bus_station",
+      "lat": 40.4030082,
+      "lng": 49.8190436,
+      "distance_km": 4.46
+    },
+    {
+      "name": "T\u0259cili Tibbi Yard\u0131m Stansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3857435,
+      "lng": 49.8035729,
+      "distance_km": 4.46
+    },
+    {
+      "name": "Bak\u0131 Biznes v\u0259 Kooperasiya Kolleci",
+      "class": "bus_stop",
+      "lat": 40.4117243,
+      "lng": 49.8411439,
+      "distance_km": 4.48
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4105938,
+      "lng": 49.8357665,
+      "distance_km": 4.49
+    },
+    {
+      "name": "Milli Arxiv \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4107936,
+      "lng": 49.8365579,
+      "distance_km": 4.49
+    },
+    {
+      "name": "D\u00f6vl\u0259t Neft \u015eirk\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.4049041,
+      "lng": 49.8848568,
+      "distance_km": 4.49
+    },
+    {
+      "name": "Badamdar \u015fosesi 143",
+      "class": "bus_stop",
+      "lat": 40.348205,
+      "lng": 49.8107611,
+      "distance_km": 4.5
+    },
+    {
+      "name": "N\u0259simi Rayon M\u0259hk\u0259m\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4029996,
+      "lng": 49.8184633,
+      "distance_km": 4.5
+    },
+    {
+      "name": "\u018f. Salamzad\u0259 k\u00fc\u00e7\u0259si 82",
+      "class": "bus_stop",
+      "lat": 40.4055982,
+      "lng": 49.8227598,
+      "distance_km": 4.5
+    },
+    {
+      "name": "Qa\u00e7q\u0131n v\u0259 M\u0259cburi K\u00f6\u00e7k\u00fcnl\u0259rin i\u015fl\u0259ri \u00fczr\u0259 DK",
+      "class": "bus_stop",
+      "lat": 40.3987558,
+      "lng": 49.8125205,
+      "distance_km": 4.52
+    },
+    {
+      "name": "Ziya B\u00fcnyadov prospekti 7",
+      "class": "bus_stop",
+      "lat": 40.4118325,
+      "lng": 49.8394489,
+      "distance_km": 4.53
+    },
+    {
+      "name": "Milli Arxiv \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4110709,
+      "lng": 49.8358202,
+      "distance_km": 4.54
+    },
+    {
+      "name": "S\u0259nayecihaz elmi-istehsalat m\u00fc\u0259ssis\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4127446,
+      "lng": 49.8434104,
+      "distance_km": 4.55
+    },
+    {
+      "name": "D\u0130N Respublika Hospital\u0131",
+      "class": "bus_stop",
+      "lat": 40.4133537,
+      "lng": 49.8482918,
+      "distance_km": 4.56
+    },
+    {
+      "name": "Y. \u00c7\u0259m\u0259nz\u0259minli k\u00fc\u00e7\u0259si 106",
+      "class": "bus_stop",
+      "lat": 40.4114007,
+      "lng": 49.8702406,
+      "distance_km": 4.56
+    },
+    {
+      "name": "\u018fliyar \u018fliyev k\u00fc\u00e7\u0259si 69",
+      "class": "bus_stop",
+      "lat": 40.4110839,
+      "lng": 49.8717775,
+      "distance_km": 4.57
+    },
+    {
+      "name": "Ceyhun S\u0259limov k\u00fc\u00e7\u0259si 24",
+      "class": "bus_stop",
+      "lat": 40.4036309,
+      "lng": 49.8179409,
+      "distance_km": 4.58
+    },
+    {
+      "name": "Ayna Sultanova",
+      "class": "bus_stop",
+      "lat": 40.413491,
+      "lng": 49.8469967,
+      "distance_km": 4.59
+    },
+    {
+      "name": "D\u00f6vl\u0259t Sosial M\u00fcdafi\u0259 Fondu",
+      "class": "bus_stop",
+      "lat": 40.3936561,
+      "lng": 49.8066625,
+      "distance_km": 4.6
+    },
+    {
+      "name": "Milli Arxiv \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4115353,
+      "lng": 49.8348364,
+      "distance_km": 4.61
+    },
+    {
+      "name": "H\u04d9rbi Tribunal \\ dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4035875,
+      "lng": 49.8172613,
+      "distance_km": 4.61
+    },
+    {
+      "name": "Ziya B\u00fcnyadov prospekti 3",
+      "class": "bus_stop",
+      "lat": 40.4085599,
+      "lng": 49.826298,
+      "distance_km": 4.62
+    },
+    {
+      "name": "Badamdar \u015fosesi 40",
+      "class": "bus_stop",
+      "lat": 40.3469158,
+      "lng": 49.8104007,
+      "distance_km": 4.62
+    },
+    {
+      "name": "\u0130n\u015faat\u00e7\u0131lar m/st",
+      "class": "bus_stop",
+      "lat": 40.3888421,
+      "lng": 49.8030721,
+      "distance_km": 4.63
+    },
+    {
+      "name": "Uluqb\u0259y k. Daxili Qo\u015funlar\u0131n h\u0259rbi hiss\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4120317,
+      "lng": 49.8709741,
+      "distance_km": 4.64
+    },
+    {
+      "name": "\u0130n\u015faat\u00e7\u0131lar m/st",
+      "class": "bus_stop",
+      "lat": 40.3888234,
+      "lng": 49.8028296,
+      "distance_km": 4.64
+    },
+    {
+      "name": "BNG Petrol",
+      "class": "bus_stop",
+      "lat": 40.3356871,
+      "lng": 49.8272554,
+      "distance_km": 4.65
+    },
+    {
+      "name": "Bak\u0131 \u015e\u0259h\u0259r Regional Miqrasiya \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4140426,
+      "lng": 49.8454549,
+      "distance_km": 4.67
+    },
+    {
+      "name": "Ayna Sultanova park\u0131",
+      "class": "bus_stop",
+      "lat": 40.4141669,
+      "lng": 49.8463608,
+      "distance_km": 4.67
+    },
+    {
+      "name": "Xutor q\u0259s\u0259b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4088775,
+      "lng": 49.8257606,
+      "distance_km": 4.67
+    },
+    {
+      "name": "22 n\u00f6mr\u0259li U\u015faq Musiqi M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3944242,
+      "lng": 49.8062977,
+      "distance_km": 4.67
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 38",
+      "class": "bus_stop",
+      "lat": 40.4145672,
+      "lng": 49.8541487,
+      "distance_km": 4.68
+    },
+    {
+      "name": "Bibiheyb\u0259t yolu",
+      "class": "bus_stop",
+      "lat": 40.3350879,
+      "lng": 49.8279895,
+      "distance_km": 4.68
+    },
+    {
+      "name": "S\u0259bail Rayon M\u00fchafiz\u0259 \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3363926,
+      "lng": 49.8246586,
+      "distance_km": 4.69
+    },
+    {
+      "name": "\u0130n\u015faat\u00e7\u0131lar",
+      "class": "subway_station",
+      "lat": 40.3890935,
+      "lng": 49.8023575,
+      "distance_km": 4.69
+    },
+    {
+      "name": "Siqnal Layih\u0259-\u0130stehsalat \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4126374,
+      "lng": 49.835521,
+      "distance_km": 4.71
+    },
+    {
+      "name": "N. Hikm\u0259t v\u0259 \u00dc. \u018fl\u0259kb\u0259rov k\u00fc\u00e7. k\u0259s.",
+      "class": "bus_stop",
+      "lat": 40.3788071,
+      "lng": 49.7982763,
+      "distance_km": 4.71
+    },
+    {
+      "name": "Arif \u0130smay\u0131lov k\u00fc\u00e7\u0259si 6",
+      "class": "bus_stop",
+      "lat": 40.3363822,
+      "lng": 49.8240153,
+      "distance_km": 4.72
+    },
+    {
+      "name": "S\u0259bail Rayon M\u00fchafiz\u0259 \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3362227,
+      "lng": 49.8241226,
+      "distance_km": 4.73
+    },
+    {
+      "name": "N. Hikm\u0259t v\u0259 \u00dc. \u018fl\u0259kb\u0259rov k\u00fc\u00e7. k\u0259s.",
+      "class": "bus_stop",
+      "lat": 40.3789487,
+      "lng": 49.7978492,
+      "distance_km": 4.75
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.41252095,
+      "lng": 49.8738387,
+      "distance_km": 4.78
+    },
+    {
+      "name": "Tbilisi prospekti 92",
+      "class": "bus_stop",
+      "lat": 40.4006931,
+      "lng": 49.8107152,
+      "distance_km": 4.78
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.41259185,
+      "lng": 49.87397945,
+      "distance_km": 4.79
+    },
+    {
+      "name": "Badamdar \u015fosesi 123",
+      "class": "bus_stop",
+      "lat": 40.3442558,
+      "lng": 49.8105684,
+      "distance_km": 4.79
+    },
+    {
+      "name": "41-ci polis b\u00f6lm\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3444336,
+      "lng": 49.8103703,
+      "distance_km": 4.79
+    },
+    {
+      "name": "\u0130n\u015faat\u00e7\u0131lar m/st",
+      "class": "bus_stop",
+      "lat": 40.3915764,
+      "lng": 49.8026415,
+      "distance_km": 4.79
+    },
+    {
+      "name": "Ke\u015fl\u0259 stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.4127139,
+      "lng": 49.8737794,
+      "distance_km": 4.8
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 170",
+      "class": "bus_stop",
+      "lat": 40.415513,
+      "lng": 49.8580458,
+      "distance_km": 4.8
+    },
+    {
+      "name": "\u0130n\u015faat\u00e7\u0131lar m/st",
+      "class": "bus_stop",
+      "lat": 40.3915529,
+      "lng": 49.8024158,
+      "distance_km": 4.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4022451,
+      "lng": 49.8120684,
+      "distance_km": 4.81
+    },
+    {
+      "name": "N\u0259qliyyat\u0131 \u0130ntellektual \u0130dar\u0259etm\u0259 M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4067213,
+      "lng": 49.8879448,
+      "distance_km": 4.81
+    },
+    {
+      "name": "4 sayl\u0131 Bak\u0131 DOST M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4158001,
+      "lng": 49.8552743,
+      "distance_km": 4.82
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4157134,
+      "lng": 49.8483012,
+      "distance_km": 4.82
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4156062,
+      "lng": 49.8469412,
+      "distance_km": 4.82
+    },
+    {
+      "name": "Bak\u0131 Biznes Universiteti",
+      "class": "bus_stop",
+      "lat": 40.3970683,
+      "lng": 49.8061123,
+      "distance_km": 4.84
+    },
+    {
+      "name": "Ceyhun S\u0259limov k\u00fc\u00e7\u0259si 19",
+      "class": "bus_stop",
+      "lat": 40.4049115,
+      "lng": 49.8149974,
+      "distance_km": 4.85
+    },
+    {
+      "name": "Heyd\u0259r \u018fliyev prospekti 137",
+      "class": "bus_stop",
+      "lat": 40.4070101,
+      "lng": 49.8883922,
+      "distance_km": 4.85
+    },
+    {
+      "name": "M\u00fcst\u0259qillik k\u00fc\u00e7\u0259si 7",
+      "class": "bus_stop",
+      "lat": 40.3742449,
+      "lng": 49.7959511,
+      "distance_km": 4.86
+    },
+    {
+      "name": "19 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4072002,
+      "lng": 49.8184953,
+      "distance_km": 4.86
+    },
+    {
+      "name": "N\u0259sr\u0259ddin Tusi ad\u0131na Klinika",
+      "class": "bus_stop",
+      "lat": 40.397086,
+      "lng": 49.8059079,
+      "distance_km": 4.86
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4161786,
+      "lng": 49.8489958,
+      "distance_km": 4.87
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4161962,
+      "lng": 49.8488002,
+      "distance_km": 4.87
+    },
+    {
+      "name": "Y15",
+      "class": "subway_station",
+      "lat": 40.3772671,
+      "lng": 49.9104706,
+      "distance_km": 4.87
+    },
+    {
+      "name": "M\u00fcst\u0259qillik k\u00fc\u00e7\u0259si 4",
+      "class": "bus_stop",
+      "lat": 40.3738691,
+      "lng": 49.795828,
+      "distance_km": 4.87
+    },
+    {
+      "name": "Ceyhun S\u0259limov k\u00fc\u00e7\u0259si 50",
+      "class": "bus_stop",
+      "lat": 40.4052848,
+      "lng": 49.8149373,
+      "distance_km": 4.88
+    },
+    {
+      "name": "\u018fhm\u0259d R\u0259c\u0259bli k\u00fc\u00e7\u0259si 254",
+      "class": "bus_stop",
+      "lat": 40.4166192,
+      "lng": 49.8583738,
+      "distance_km": 4.92
+    },
+    {
+      "name": "Yasamal Ya\u015fay\u0131\u015f Kompleksi (M\u0130DA)",
+      "class": "bus_stop",
+      "lat": 40.3765571,
+      "lng": 49.795435,
+      "distance_km": 4.92
+    },
+    {
+      "name": "Badamdar \u015fosesi 96",
+      "class": "bus_stop",
+      "lat": 40.3422662,
+      "lng": 49.8105026,
+      "distance_km": 4.94
+    },
+    {
+      "name": "Bin\u0259q\u0259di r. D\u00f6vl\u0259t \u018fm\u0259k M\u00fcf\u0259tti\u015fliyi Xidm\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.4149602,
+      "lng": 49.8358589,
+      "distance_km": 4.95
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 40.4054362,
+      "lng": 49.8138975,
+      "distance_km": 4.95
+    },
+    {
+      "name": "Atat\u00fcrk prospekti 211",
+      "class": "bus_stop",
+      "lat": 40.4166618,
+      "lng": 49.8448398,
+      "distance_km": 4.96
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3317485,
+      "lng": 49.8292506,
+      "distance_km": 4.97
+    },
+    {
+      "name": "Atat\u00fcrk prospekti 220",
+      "class": "bus_stop",
+      "lat": 40.4169566,
+      "lng": 49.8460271,
+      "distance_km": 4.98
+    },
+    {
+      "name": "Badamdar \u015fosesi 7",
+      "class": "bus_stop",
+      "lat": 40.3419751,
+      "lng": 49.8102728,
+      "distance_km": 4.98
+    },
+    {
+      "name": "Al\u0131 Mustafayev k\u00fc\u00e7\u0259si 7",
+      "class": "bus_stop",
+      "lat": 40.4064257,
+      "lng": 49.8149225,
+      "distance_km": 4.98
+    },
+    {
+      "name": "85, 165",
+      "class": "bus_stop",
+      "lat": 40.4131019,
+      "lng": 49.8280757,
+      "distance_km": 4.99
+    },
+    {
+      "name": "N\u0259qliyyat\u0131 \u0130ntellektual \u0130dar\u0259etm\u0259 M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4074325,
+      "lng": 49.8902196,
+      "distance_km": 4.99
+    },
+    {
+      "name": "Siyasi S\u0259n\u0259dl\u0259r Arxivi idar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4154581,
+      "lng": 49.8358277,
+      "distance_km": 5.0
+    },
+    {
+      "name": "85, 165",
+      "class": "bus_stop",
+      "lat": 40.4132394,
+      "lng": 49.8281277,
+      "distance_km": 5.01
+    },
+    {
+      "name": "DSMF Yasamal Rayon \u015e\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3949399,
+      "lng": 49.8018941,
+      "distance_km": 5.02
+    },
+    {
+      "name": "Aztelecom",
+      "class": "bus_stop",
+      "lat": 40.402294,
+      "lng": 49.8086654,
+      "distance_km": 5.03
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3971954,
+      "lng": 49.8035469,
+      "distance_km": 5.03
+    },
+    {
+      "name": "Top\u00e7uba\u015fov ad\u0131na Elmi-C\u0259rrahiy\u0259 M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3953439,
+      "lng": 49.8020848,
+      "distance_km": 5.03
+    },
+    {
+      "name": "52 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3944339,
+      "lng": 49.8012366,
+      "distance_km": 5.04
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.40665,
+      "lng": 49.8139752,
+      "distance_km": 5.05
+    },
+    {
+      "name": "\u018fs\u0259d \u018fhm\u0259dov k\u00fc\u00e7\u0259si 5",
+      "class": "bus_stop",
+      "lat": 40.3943295,
+      "lng": 49.800978,
+      "distance_km": 5.05
+    },
+    {
+      "name": "20 Yanvar m/st (Tbilisi pr.)",
+      "class": "bus_stop",
+      "lat": 40.4026937,
+      "lng": 49.8083921,
+      "distance_km": 5.07
+    },
+    {
+      "name": "Javadkhan (3rd microdistrict)",
+      "class": "bus_stop",
+      "lat": 40.40676,
+      "lng": 49.8138364,
+      "distance_km": 5.07
+    },
+    {
+      "name": "20 Yanvar m/st (Tbilisi pr.)",
+      "class": "bus_stop",
+      "lat": 40.4030346,
+      "lng": 49.8087268,
+      "distance_km": 5.08
+    },
+    {
+      "name": "S. C. Pi\u015f\u0259v\u0259ri k\u00fc\u00e7\u0259si, 3-c\u00fc mkr. dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4071011,
+      "lng": 49.8140784,
+      "distance_km": 5.08
+    },
+    {
+      "name": "S. C. Pi\u015f\u0259v\u0259ri k\u00fc\u00e7\u0259si 27",
+      "class": "bus_stop",
+      "lat": 40.4068324,
+      "lng": 49.8137862,
+      "distance_km": 5.08
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 359",
+      "class": "bus_stop",
+      "lat": 40.4177544,
+      "lng": 49.862039,
+      "distance_km": 5.09
+    },
+    {
+      "name": "Bibiheyb\u0259t yolu - A. \u0130smay\u0131lov k\u00fc\u00e7\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3341341,
+      "lng": 49.8204741,
+      "distance_km": 5.09
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.414121300000005,
+      "lng": 49.878858099999995,
+      "distance_km": 5.11
+    },
+    {
+      "name": "Bakmil",
+      "class": "subway_station",
+      "lat": 40.4141403,
+      "lng": 49.8787959,
+      "distance_km": 5.11
+    },
+    {
+      "name": "Corce Enesku park\u0131",
+      "class": "bus_stop",
+      "lat": 40.4173058,
+      "lng": 49.8385471,
+      "distance_km": 5.14
+    },
+    {
+      "name": "23 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3335939,
+      "lng": 49.8203755,
+      "distance_km": 5.15
+    },
+    {
+      "name": "Corce Enesku park\u0131",
+      "class": "bus_stop",
+      "lat": 40.4174825,
+      "lng": 49.8383836,
+      "distance_km": 5.16
+    },
+    {
+      "name": "A\u011fdam rayon 32 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4189198,
+      "lng": 49.8550378,
+      "distance_km": 5.16
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 214",
+      "class": "bus_stop",
+      "lat": 40.4181635,
+      "lng": 49.8640689,
+      "distance_km": 5.16
+    },
+    {
+      "name": "20,29,67,79,83,92,94,119,165,211",
+      "class": "bus_stop",
+      "lat": 40.4040444,
+      "lng": 49.808623,
+      "distance_km": 5.16
+    },
+    {
+      "name": "20 Yanvar m/st (Velotrek)",
+      "class": "bus_stop",
+      "lat": 40.4042353,
+      "lng": 49.8089269,
+      "distance_km": 5.16
+    },
+    {
+      "name": "20 Yanvar m/st (Z\u0259rdabi k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4025513,
+      "lng": 49.8067515,
+      "distance_km": 5.17
+    },
+    {
+      "name": "20 Yanvar m/st (Z\u0259rdabi k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4021374,
+      "lng": 49.8061874,
+      "distance_km": 5.18
+    },
+    {
+      "name": "18 n\u00f6mr\u0259li Bak\u0131 Pe\u015f\u0259 Liseyi",
+      "class": "bus_stop",
+      "lat": 40.4187258,
+      "lng": 49.8450549,
+      "distance_km": 5.19
+    },
+    {
+      "name": "18 n\u00f6mr\u0259li Bak\u0131 Pe\u015f\u0259 Liseyi",
+      "class": "bus_stop",
+      "lat": 40.418629,
+      "lng": 49.8438836,
+      "distance_km": 5.19
+    },
+    {
+      "name": "C\u0259f\u0259r X\u0259ndan k\u00fc\u00e7\u0259si 2",
+      "class": "bus_stop",
+      "lat": 40.4153851,
+      "lng": 49.8290323,
+      "distance_km": 5.19
+    },
+    {
+      "name": "Bak\u0131 Turizm Pe\u015f\u0259 M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.4185381,
+      "lng": 49.842664,
+      "distance_km": 5.2
+    },
+    {
+      "name": "Neft\u00e7il\u0259r k\u00fc\u00e7\u0259si 9",
+      "class": "bus_stop",
+      "lat": 40.3398434,
+      "lng": 49.8093852,
+      "distance_km": 5.2
+    },
+    {
+      "name": "Asif M\u0259h\u0259rr\u0259mov k\u00fc\u00e7\u0259si 17",
+      "class": "bus_stop",
+      "lat": 40.4071955,
+      "lng": 49.8119346,
+      "distance_km": 5.21
+    },
+    {
+      "name": "Zirv\u0259 Restoran\u0131",
+      "class": "bus_stop",
+      "lat": 40.41874,
+      "lng": 49.8427837,
+      "distance_km": 5.22
+    },
+    {
+      "name": "20 Yanvar st.",
+      "class": "subway_station",
+      "lat": 40.404139,
+      "lng": 49.807702,
+      "distance_km": 5.22
+    },
+    {
+      "name": "20 Yanvar m/st (M. C\u0259f\u0259rov k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4049282,
+      "lng": 49.8086637,
+      "distance_km": 5.22
+    },
+    {
+      "name": "8 n\u00f6mr\u0259li Stomatoloji Poliklinika",
+      "class": "bus_stop",
+      "lat": 40.4178351,
+      "lng": 49.83673,
+      "distance_km": 5.23
+    },
+    {
+      "name": "Bak\u0131 Turism Pe\u015f\u0259 M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.4189129,
+      "lng": 49.8427783,
+      "distance_km": 5.24
+    },
+    {
+      "name": "Bak\u0131 Humanitar Kolleci",
+      "class": "bus_stop",
+      "lat": 40.4193538,
+      "lng": 49.8460074,
+      "distance_km": 5.25
+    },
+    {
+      "name": "\u015e\u00f6vk\u0259t M\u0259mm\u0259dova k\u00fc\u00e7\u0259si 24",
+      "class": "bus_stop",
+      "lat": 40.4194758,
+      "lng": 49.8462302,
+      "distance_km": 5.26
+    },
+    {
+      "name": "34 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3399767,
+      "lng": 49.8082247,
+      "distance_km": 5.26
+    },
+    {
+      "name": "Asif M\u0259h\u0259rr\u0259mov k\u00fc\u00e7\u0259si 22",
+      "class": "bus_stop",
+      "lat": 40.4076538,
+      "lng": 49.8115315,
+      "distance_km": 5.27
+    },
+    {
+      "name": "34 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.3394129,
+      "lng": 49.8086294,
+      "distance_km": 5.28
+    },
+    {
+      "name": "Badamdar q\u0259s. M\u0259d\u0259niyy\u0259t Evi",
+      "class": "bus_stop",
+      "lat": 40.3411583,
+      "lng": 49.8064095,
+      "distance_km": 5.29
+    },
+    {
+      "name": "20 Yanvar m/st (114A, 114B)",
+      "class": "bus_stop",
+      "lat": 40.4042224,
+      "lng": 49.80656,
+      "distance_km": 5.3
+    },
+    {
+      "name": "Memar \u018fc\u0259mi m/st",
+      "class": "bus_stop",
+      "lat": 40.410588,
+      "lng": 49.8154245,
+      "distance_km": 5.31
+    },
+    {
+      "name": "2 n\u00f6mr\u0259li Bak\u0131 Baza Tibb Kolleci",
+      "class": "bus_stop",
+      "lat": 40.3994564,
+      "lng": 49.8016161,
+      "distance_km": 5.31
+    },
+    {
+      "name": "Yasamal rayon m\u0259\u015f\u011fulluq xidm\u0259ti",
+      "class": "bus_stop",
+      "lat": 40.3993742,
+      "lng": 49.8013374,
+      "distance_km": 5.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4093932,
+      "lng": 49.8934516,
+      "distance_km": 5.33
+    },
+    {
+      "name": "G\u00fclar\u0259 \u018fliyeva park\u0131",
+      "class": "bus_stop",
+      "lat": 40.3393313,
+      "lng": 49.8078233,
+      "distance_km": 5.33
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4042831,
+      "lng": 49.8062544,
+      "distance_km": 5.33
+    },
+    {
+      "name": "20 Yanvar m/st",
+      "class": "bus_stop",
+      "lat": 40.404419,
+      "lng": 49.8063415,
+      "distance_km": 5.33
+    },
+    {
+      "name": "20 yanvar metro stansiyas\u0131 (Az\u0259rbaycan ASC)",
+      "class": "bus_stop",
+      "lat": 40.4044341,
+      "lng": 49.8064133,
+      "distance_km": 5.33
+    },
+    {
+      "name": "2 n\u00f6mr\u0259li Bak\u0131 Baza Tibb Kolleci",
+      "class": "bus_stop",
+      "lat": 40.3995032,
+      "lng": 49.801342,
+      "distance_km": 5.33
+    },
+    {
+      "name": "\u018fhm\u0259d R\u0259c\u0259bli k\u00fc\u00e7\u0259si 269",
+      "class": "bus_stop",
+      "lat": 40.420545,
+      "lng": 49.8547333,
+      "distance_km": 5.34
+    },
+    {
+      "name": "Memar \u018fc\u0259mi m/st",
+      "class": "bus_stop",
+      "lat": 40.4108522,
+      "lng": 49.8151848,
+      "distance_km": 5.35
+    },
+    {
+      "name": "\u018fm\u0259k v\u0259 Sosial M\u00fcnasib\u0259tl\u0259r Akademiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4190362,
+      "lng": 49.8366608,
+      "distance_km": 5.36
+    },
+    {
+      "name": "20 Yanvar m/st (M. H\u0259s\u0259nov k\u00fc\u00e7)",
+      "class": "bus_stop",
+      "lat": 40.404405,
+      "lng": 49.805808,
+      "distance_km": 5.36
+    },
+    {
+      "name": "\u018fhm\u0259d R\u0259c\u0259bli k\u00fc\u00e7\u0259si 304",
+      "class": "bus_stop",
+      "lat": 40.4207466,
+      "lng": 49.8550667,
+      "distance_km": 5.37
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3901779,
+      "lng": 49.7943528,
+      "distance_km": 5.37
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3901835,
+      "lng": 49.7941343,
+      "distance_km": 5.38
+    },
+    {
+      "name": "Memar \u018fc\u0259mi",
+      "class": "subway_station",
+      "lat": 40.4106807,
+      "lng": 49.8139435,
+      "distance_km": 5.4
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3283348,
+      "lng": 49.8262623,
+      "distance_km": 5.42
+    },
+    {
+      "name": "Respublika M\u0259hk\u0259m\u0259-Tibb Ekspertizas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4019989,
+      "lng": 49.8023268,
+      "distance_km": 5.42
+    },
+    {
+      "name": "\u0130TV",
+      "class": "bus_stop",
+      "lat": 40.4018016,
+      "lng": 49.8019475,
+      "distance_km": 5.43
+    },
+    {
+      "name": "135 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4207884,
+      "lng": 49.8427289,
+      "distance_km": 5.44
+    },
+    {
+      "name": "Memar \u018fc\u0259mi m/st (Cavadxan k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4117048,
+      "lng": 49.8148038,
+      "distance_km": 5.44
+    },
+    {
+      "name": "14,18,94,96,114,165,211",
+      "class": "bus_stop",
+      "lat": 40.4046309,
+      "lng": 49.804836,
+      "distance_km": 5.44
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4215555,
+      "lng": 49.8529785,
+      "distance_km": 5.45
+    },
+    {
+      "name": "286 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3959205,
+      "lng": 49.7968403,
+      "distance_km": 5.45
+    },
+    {
+      "name": "286 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3959878,
+      "lng": 49.796769,
+      "distance_km": 5.45
+    },
+    {
+      "name": "135 n\u00f6mr\u0259li M\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4209144,
+      "lng": 49.8428674,
+      "distance_km": 5.46
+    },
+    {
+      "name": "Memar \u018fc\u0259mi",
+      "class": "subway_station",
+      "lat": 40.4104823,
+      "lng": 49.8124456,
+      "distance_km": 5.46
+    },
+    {
+      "name": "Memar \u018fc\u0259mi",
+      "class": "stop_position",
+      "lat": 40.410448,
+      "lng": 49.8124557,
+      "distance_km": 5.46
+    },
+    {
+      "name": "Memar \u018fc\u0259mi",
+      "class": "stop_position",
+      "lat": 40.4105171,
+      "lng": 49.812443,
+      "distance_km": 5.46
+    },
+    {
+      "name": "12 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3999668,
+      "lng": 49.7998052,
+      "distance_km": 5.46
+    },
+    {
+      "name": "Memar \u018fc\u0259mi m/st (Cavadxan k\u00fc\u00e7.)",
+      "class": "bus_stop",
+      "lat": 40.4117682,
+      "lng": 49.8144348,
+      "distance_km": 5.47
+    },
+    {
+      "name": "10 n\u00f6mr\u0259li poliklinika",
+      "class": "bus_stop",
+      "lat": 40.4202676,
+      "lng": 49.8373948,
+      "distance_km": 5.48
+    },
+    {
+      "name": "Memar \u018fc\u0259mi m/st (170)",
+      "class": "bus_stop",
+      "lat": 40.4121054,
+      "lng": 49.8148157,
+      "distance_km": 5.48
+    },
+    {
+      "name": "Hidrotexnika v\u0259 Meliorasiya \u0130nstitutu",
+      "class": "bus_stop",
+      "lat": 40.4212228,
+      "lng": 49.8428586,
+      "distance_km": 5.49
+    },
+    {
+      "name": "12 n\u00f6mr\u0259li U\u015faq Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4087185,
+      "lng": 49.8092284,
+      "distance_km": 5.49
+    },
+    {
+      "name": "14 sayl\u0131 notariat ofisi",
+      "class": "bus_stop",
+      "lat": 40.406717,
+      "lng": 49.8065904,
+      "distance_km": 5.49
+    },
+    {
+      "name": "\u018fs\u0259d \u018fhm\u0259dov k\u00fc\u00e7\u0259si 7",
+      "class": "bus_stop",
+      "lat": 40.3937581,
+      "lng": 49.7948268,
+      "distance_km": 5.49
+    },
+    {
+      "name": "\u015e\u00f6vk\u0259t M\u0259mm\u0259dova k\u00fc\u00e7\u0259si 25",
+      "class": "bus_stop",
+      "lat": 40.4216439,
+      "lng": 49.8461562,
+      "distance_km": 5.5
+    },
+    {
+      "name": "\u018fs\u0259d \u018fhm\u0259dov k\u00fc\u00e7\u0259si 19",
+      "class": "bus_stop",
+      "lat": 40.3938254,
+      "lng": 49.7947598,
+      "distance_km": 5.5
+    },
+    {
+      "name": "Heyd\u0259r \u018fliyev prospekti 94",
+      "class": "bus_stop",
+      "lat": 40.4104514,
+      "lng": 49.8951041,
+      "distance_km": 5.51
+    },
+    {
+      "name": "Respublika Klinik X\u0259st\u0259xanas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4040756,
+      "lng": 49.8031508,
+      "distance_km": 5.51
+    },
+    {
+      "name": "Mirmahmud Kaz\u0131movski k\u00fc\u00e7\u0259si 32",
+      "class": "bus_stop",
+      "lat": 40.4170434,
+      "lng": 49.824143,
+      "distance_km": 5.53
+    },
+    {
+      "name": "\u015e\u00f6vk\u0259t M\u0259mm\u0259dova k\u00fc\u00e7\u0259si 36",
+      "class": "bus_stop",
+      "lat": 40.4219534,
+      "lng": 49.8463414,
+      "distance_km": 5.53
+    },
+    {
+      "name": "Asif M\u0259h\u0259rr\u0259mov k\u00fc\u00e7\u0259si 140A",
+      "class": "bus_stop",
+      "lat": 40.4091328,
+      "lng": 49.8089254,
+      "distance_km": 5.54
+    },
+    {
+      "name": "Milli G\u0259lirl\u0259r Departamenti",
+      "class": "bus_stop",
+      "lat": 40.4109716,
+      "lng": 49.8950588,
+      "distance_km": 5.55
+    },
+    {
+      "name": "20-ci Sah\u0259 dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3298916,
+      "lng": 49.8191639,
+      "distance_km": 5.55
+    },
+    {
+      "name": "12 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4001101,
+      "lng": 49.7987787,
+      "distance_km": 5.55
+    },
+    {
+      "name": "Bak\u0131 D\u00f6vl\u0259t Rabit\u0259 v\u0259 N\u0259qliyyat Kolleci",
+      "class": "bus_stop",
+      "lat": 40.4048265,
+      "lng": 49.8032014,
+      "distance_km": 5.56
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4068239,
+      "lng": 49.8055342,
+      "distance_km": 5.56
+    },
+    {
+      "name": "Az\u0259rbaycanfilm Kinostudiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4068904,
+      "lng": 49.8056214,
+      "distance_km": 5.56
+    },
+    {
+      "name": "236 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3377957,
+      "lng": 49.805844,
+      "distance_km": 5.57
+    },
+    {
+      "name": "Az\u0259rbaycan D\u00f6vl\u0259t Film Fondu",
+      "class": "bus_stop",
+      "lat": 40.4051646,
+      "lng": 49.8033054,
+      "distance_km": 5.58
+    },
+    {
+      "name": "DTX H\u0259rbi Hospital\u0131",
+      "class": "bus_stop",
+      "lat": 40.338737,
+      "lng": 49.8044757,
+      "distance_km": 5.59
+    },
+    {
+      "name": "20-ci Sah\u0259 dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3297695,
+      "lng": 49.8184739,
+      "distance_km": 5.59
+    },
+    {
+      "name": "286 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3988211,
+      "lng": 49.797014,
+      "distance_km": 5.59
+    },
+    {
+      "name": "115 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4213901,
+      "lng": 49.8370176,
+      "distance_km": 5.61
+    },
+    {
+      "name": "Dada\u015f B\u00fcnyadzad\u0259 k\u00fc\u00e7\u0259si 314",
+      "class": "bus_stop",
+      "lat": 40.3995008,
+      "lng": 49.7971717,
+      "distance_km": 5.62
+    },
+    {
+      "name": "77, 211",
+      "class": "bus_stop",
+      "lat": 40.392966,
+      "lng": 49.7922329,
+      "distance_km": 5.65
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Xiyabani k\u00fc\u00e7\u0259si 312",
+      "class": "bus_stop",
+      "lat": 40.4001046,
+      "lng": 49.7969683,
+      "distance_km": 5.67
+    },
+    {
+      "name": "\u018fs\u0259d \u018fhm\u0259dov k\u00fc\u00e7\u0259si 14",
+      "class": "bus_stop",
+      "lat": 40.3927433,
+      "lng": 49.7918151,
+      "distance_km": 5.67
+    },
+    {
+      "name": "Bak\u0131 Tennis Akademiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4230426,
+      "lng": 49.8429658,
+      "distance_km": 5.69
+    },
+    {
+      "name": "20 n\u00f6mr\u0259li U\u015faq Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4220619,
+      "lng": 49.8363152,
+      "distance_km": 5.7
+    },
+    {
+      "name": "\u018fs\u0259d \u018fhm\u0259dov k\u00fc\u00e7\u0259si 76A",
+      "class": "bus_stop",
+      "lat": 40.3926242,
+      "lng": 49.7914294,
+      "distance_km": 5.7
+    },
+    {
+      "name": "Ulduz",
+      "class": "subway_station",
+      "lat": 40.414963,
+      "lng": 49.8914348,
+      "distance_km": 5.72
+    },
+    {
+      "name": "Ulduz",
+      "class": "platform",
+      "lat": 40.41492805,
+      "lng": 49.891389950000004,
+      "distance_km": 5.72
+    },
+    {
+      "name": "98 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.3952683,
+      "lng": 49.7927267,
+      "distance_km": 5.72
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3258268,
+      "lng": 49.8242922,
+      "distance_km": 5.74
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Xiyabani k\u00fc\u00e7\u0259si 129",
+      "class": "bus_stop",
+      "lat": 40.4002351,
+      "lng": 49.7961166,
+      "distance_km": 5.74
+    },
+    {
+      "name": "17 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3955977,
+      "lng": 49.7925645,
+      "distance_km": 5.75
+    },
+    {
+      "name": "\u018flill\u0259rin B\u0259rpa M\u0259rk\u0259zi 2",
+      "class": "bus_stop",
+      "lat": 40.4182536,
+      "lng": 49.8210842,
+      "distance_km": 5.77
+    },
+    {
+      "name": "83 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4237838,
+      "lng": 49.8427927,
+      "distance_km": 5.77
+    },
+    {
+      "name": "30 n\u00f6mr\u0259li m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4206902,
+      "lng": 49.8279656,
+      "distance_km": 5.77
+    },
+    {
+      "name": "\u018flill\u0259rin B\u0259rpa M\u0259rk\u0259zi 1",
+      "class": "bus_stop",
+      "lat": 40.4182441,
+      "lng": 49.8208651,
+      "distance_km": 5.78
+    },
+    {
+      "name": "111 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4152218,
+      "lng": 49.8143275,
+      "distance_km": 5.78
+    },
+    {
+      "name": "178 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.4242686,
+      "lng": 49.8462456,
+      "distance_km": 5.79
+    },
+    {
+      "name": "Bak\u0131 Tennis Akademiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4239818,
+      "lng": 49.8429773,
+      "distance_km": 5.79
+    },
+    {
+      "name": "Ulduz",
+      "class": "platform",
+      "lat": 40.4150219,
+      "lng": 49.8928285,
+      "distance_km": 5.79
+    },
+    {
+      "name": "111 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4153001,
+      "lng": 49.814158,
+      "distance_km": 5.8
+    },
+    {
+      "name": "Cavadxan k\u00fc\u00e7\u0259si 116",
+      "class": "bus_stop",
+      "lat": 40.4165434,
+      "lng": 49.8164418,
+      "distance_km": 5.81
+    },
+    {
+      "name": "Ulduz Metro",
+      "class": "bus_stop",
+      "lat": 40.4152297,
+      "lng": 49.8927952,
+      "distance_km": 5.81
+    },
+    {
+      "name": "\u015e\u00f6vk\u0259t M\u0259mm\u0259dova k\u00fc\u00e7\u0259si 48",
+      "class": "bus_stop",
+      "lat": 40.424663,
+      "lng": 49.8464055,
+      "distance_km": 5.83
+    },
+    {
+      "name": "211 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4125194,
+      "lng": 49.8088019,
+      "distance_km": 5.83
+    },
+    {
+      "name": "6 n\u00f6mr\u0259li Bak\u0131 Pe\u015f\u0259 M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.326809,
+      "lng": 49.8195887,
+      "distance_km": 5.83
+    },
+    {
+      "name": "\u015eu\u015fa \u015f\u0259h\u0259ri 1 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3912029,
+      "lng": 49.7890334,
+      "distance_km": 5.83
+    },
+    {
+      "name": "Asif M\u0259h\u0259rr\u0259mov k\u00fc\u00e7\u0259si 141",
+      "class": "bus_stop",
+      "lat": 40.4106078,
+      "lng": 49.8058926,
+      "distance_km": 5.84
+    },
+    {
+      "name": "96 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.4107646,
+      "lng": 49.8060151,
+      "distance_km": 5.84
+    },
+    {
+      "name": "\u015eu\u015fa \u015f\u0259h\u0259ri 1 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3907661,
+      "lng": 49.7886176,
+      "distance_km": 5.84
+    },
+    {
+      "name": "240 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4126345,
+      "lng": 49.8086505,
+      "distance_km": 5.85
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4126026,
+      "lng": 49.8085163,
+      "distance_km": 5.85
+    },
+    {
+      "name": "\u015e\u0259fa Stadionu",
+      "class": "bus_stop",
+      "lat": 40.412189,
+      "lng": 49.8986229,
+      "distance_km": 5.85
+    },
+    {
+      "name": "6 N\u00f6mr\u0259li Pe\u015f\u0259 M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3265473,
+      "lng": 49.8197077,
+      "distance_km": 5.85
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl m/st",
+      "class": "bus_stop",
+      "lat": 40.4248354,
+      "lng": 49.8615511,
+      "distance_km": 5.86
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl m/st",
+      "class": "stop_position",
+      "lat": 40.4249371,
+      "lng": 49.8615538,
+      "distance_km": 5.87
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl m/st (2)",
+      "class": "bus_stop",
+      "lat": 40.4250449,
+      "lng": 49.8600495,
+      "distance_km": 5.87
+    },
+    {
+      "name": "M\u0259sud Davudo\u011flu k\u00fc\u00e7\u0259si 1/7",
+      "class": "bus_stop",
+      "lat": 40.4233047,
+      "lng": 49.8342644,
+      "distance_km": 5.87
+    },
+    {
+      "name": "6 n\u00f6mr\u0259li Bak\u0131 Pe\u015f\u0259 M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3264328,
+      "lng": 49.8194878,
+      "distance_km": 5.87
+    },
+    {
+      "name": "Milli Sa\u011flaml\u0131q M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4124408,
+      "lng": 49.8989958,
+      "distance_km": 5.89
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Xiyabani k\u00fc\u00e7\u0259si 248",
+      "class": "bus_stop",
+      "lat": 40.4000835,
+      "lng": 49.7939765,
+      "distance_km": 5.89
+    },
+    {
+      "name": "M\u0259sud Davudo\u011flu k\u00fc\u00e7\u0259si 37",
+      "class": "bus_stop",
+      "lat": 40.4234747,
+      "lng": 49.8340406,
+      "distance_km": 5.9
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Xiyabani k\u00fc\u00e7\u0259si 117",
+      "class": "bus_stop",
+      "lat": 40.4001702,
+      "lng": 49.7939116,
+      "distance_km": 5.9
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3972278,
+      "lng": 49.7915631,
+      "distance_km": 5.91
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Xiyabani k\u00fc\u00e7\u0259si 92",
+      "class": "bus_stop",
+      "lat": 40.3974287,
+      "lng": 49.7916249,
+      "distance_km": 5.91
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl m/st",
+      "class": "stop_position",
+      "lat": 40.425484,
+      "lng": 49.8600921,
+      "distance_km": 5.92
+    },
+    {
+      "name": "4-c\u00fc Polis B\u00f6lm\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4244125,
+      "lng": 49.8377408,
+      "distance_km": 5.92
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Xiyabani k\u00fc\u00e7\u0259si 43",
+      "class": "bus_stop",
+      "lat": 40.3973779,
+      "lng": 49.7915128,
+      "distance_km": 5.92
+    },
+    {
+      "name": "Su N\u0259qliyyat\u0131nda Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3899478,
+      "lng": 49.7873089,
+      "distance_km": 5.92
+    },
+    {
+      "name": "Su N\u0259qliyyat\u0131nda Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.389642,
+      "lng": 49.7870942,
+      "distance_km": 5.92
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl m/st (3, 93)",
+      "class": "bus_stop",
+      "lat": 40.4255991,
+      "lng": 49.8596803,
+      "distance_km": 5.93
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl m/st (88)",
+      "class": "bus_stop",
+      "lat": 40.4255901,
+      "lng": 49.8600966,
+      "distance_km": 5.93
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl",
+      "class": "subway_station",
+      "lat": 40.4254022,
+      "lng": 49.8617881,
+      "distance_km": 5.93
+    },
+    {
+      "name": "Bin\u0259q\u0259di Rayon M\u0259hk\u0259m\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4258165,
+      "lng": 49.8560425,
+      "distance_km": 5.93
+    },
+    {
+      "name": "G\u00f6z klinikas\u0131 2",
+      "class": "bus_stop",
+      "lat": 40.4185482,
+      "lng": 49.8177319,
+      "distance_km": 5.94
+    },
+    {
+      "name": "M\u0259sud Davudo\u011flu k\u00fc\u00e7\u0259si 30",
+      "class": "bus_stop",
+      "lat": 40.4230266,
+      "lng": 49.830484,
+      "distance_km": 5.94
+    },
+    {
+      "name": "M\u0259sud Davudo\u011flu k\u00fc\u00e7\u0259si 29",
+      "class": "bus_stop",
+      "lat": 40.4228665,
+      "lng": 49.8299894,
+      "distance_km": 5.94
+    },
+    {
+      "name": "Moskva prospekti 45A",
+      "class": "bus_stop",
+      "lat": 40.4101829,
+      "lng": 49.8035969,
+      "distance_km": 5.94
+    },
+    {
+      "name": "Azadl\u0131q m/st (3, 6, 88, 88A)",
+      "class": "bus_stop",
+      "lat": 40.4253097,
+      "lng": 49.8417885,
+      "distance_km": 5.95
+    },
+    {
+      "name": "20 Yanvar k\u00fc\u00e7\u0259si 51",
+      "class": "bus_stop",
+      "lat": 40.4110392,
+      "lng": 49.8044761,
+      "distance_km": 5.95
+    },
+    {
+      "name": "Azadl\u0131q pr m/s",
+      "class": "bus_stop",
+      "lat": 40.4252896,
+      "lng": 49.8413761,
+      "distance_km": 5.96
+    },
+    {
+      "name": "Yeni Yasamal park\u0131 (7B, 39)",
+      "class": "bus_stop",
+      "lat": 40.3949936,
+      "lng": 49.789442,
+      "distance_km": 5.96
+    },
+    {
+      "name": "Azadl\u0131q m/st",
+      "class": "bus_stop",
+      "lat": 40.4253363,
+      "lng": 49.8406315,
+      "distance_km": 5.97
+    },
+    {
+      "name": "Azadl\u0131q pr m/s",
+      "class": "stop_position",
+      "lat": 40.4253798,
+      "lng": 49.8410023,
+      "distance_km": 5.97
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.42566391478978,
+      "lng": 49.8640918064683,
+      "distance_km": 5.98
+    },
+    {
+      "name": "Bin\u0259q\u0259di Rayon M\u0259hk\u0259m\u0259si",
+      "class": "bus_stop",
+      "lat": 40.426224,
+      "lng": 49.8563486,
+      "distance_km": 5.98
+    },
+    {
+      "name": "Bin\u0259q\u0259di Rayon G\u0259ncl\u0259r v\u0259 \u0130dman \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.426244,
+      "lng": 49.8522119,
+      "distance_km": 5.98
+    },
+    {
+      "name": "S. Axundov k\u00fc\u00e7\u0259si 323",
+      "class": "bus_stop",
+      "lat": 40.4263465,
+      "lng": 49.8518678,
+      "distance_km": 5.99
+    },
+    {
+      "name": "Bin\u0259q\u0259di Rayon Qeydiyyat \u015e\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4251708,
+      "lng": 49.8386229,
+      "distance_km": 5.99
+    },
+    {
+      "name": "Yeni Yasamal park\u0131 (17)",
+      "class": "bus_stop",
+      "lat": 40.3950212,
+      "lng": 49.7890322,
+      "distance_km": 5.99
+    },
+    {
+      "name": "Bin\u0259q\u0259di Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4265077,
+      "lng": 49.8560858,
+      "distance_km": 6.01
+    },
+    {
+      "name": "Azadl\u0131q prospekti",
+      "class": "subway_station",
+      "lat": 40.4259622,
+      "lng": 49.8429264,
+      "distance_km": 6.01
+    },
+    {
+      "name": "G\u00f6z klinikas\u0131 1",
+      "class": "bus_stop",
+      "lat": 40.4193679,
+      "lng": 49.8179871,
+      "distance_km": 6.01
+    },
+    {
+      "name": "Asif M\u0259h\u0259rr\u0259mov k\u00fc\u00e7\u0259si 86",
+      "class": "bus_stop",
+      "lat": 40.4116625,
+      "lng": 49.8044739,
+      "distance_km": 6.01
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.42616009815444,
+      "lng": 49.86364762412145,
+      "distance_km": 6.03
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.4261425,
+      "lng": 49.8637123,
+      "distance_km": 6.03
+    },
+    {
+      "name": "Alov zavodu",
+      "class": "bus_stop",
+      "lat": 40.4107853,
+      "lng": 49.8029369,
+      "distance_km": 6.03
+    },
+    {
+      "name": "2 sayl\u0131 po\u00e7t filial\u0131n\u0131n 134 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4119837,
+      "lng": 49.8045709,
+      "distance_km": 6.03
+    },
+    {
+      "name": "134 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.412151,
+      "lng": 49.8044592,
+      "distance_km": 6.05
+    },
+    {
+      "name": "Azadl\u0131q prospekti m/st",
+      "class": "stop_position",
+      "lat": 40.4264648,
+      "lng": 49.8432834,
+      "distance_km": 6.06
+    },
+    {
+      "name": "Azadl\u0131q m/st",
+      "class": "bus_stop",
+      "lat": 40.4265619,
+      "lng": 49.8433481,
+      "distance_km": 6.07
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4116708,
+      "lng": 49.8034072,
+      "distance_km": 6.07
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 36",
+      "class": "bus_stop",
+      "lat": 40.4269566,
+      "lng": 49.8475094,
+      "distance_km": 6.08
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 314",
+      "class": "bus_stop",
+      "lat": 40.424096,
+      "lng": 49.8769549,
+      "distance_km": 6.08
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 36",
+      "class": "bus_stop",
+      "lat": 40.4271347,
+      "lng": 49.8478482,
+      "distance_km": 6.09
+    },
+    {
+      "name": "Azadl\u0131q prospekti 168",
+      "class": "bus_stop",
+      "lat": 40.4262662,
+      "lng": 49.8389748,
+      "distance_km": 6.1
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 435",
+      "class": "bus_stop",
+      "lat": 40.4246339,
+      "lng": 49.8768781,
+      "distance_km": 6.13
+    },
+    {
+      "name": "Bus Stop Baki Ali Neft M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3226316,
+      "lng": 49.8223852,
+      "distance_km": 6.13
+    },
+    {
+      "name": "Muxtarov",
+      "class": "bus_station",
+      "lat": 40.3242731,
+      "lng": 49.8180618,
+      "distance_km": 6.14
+    },
+    {
+      "name": "Z\u0259rif\u0259 \u018fliyeva park\u0131 1",
+      "class": "bus_stop",
+      "lat": 40.4211608,
+      "lng": 49.8189018,
+      "distance_km": 6.15
+    },
+    {
+      "name": "D\u00f6vl\u0259t Neft Fondu",
+      "class": "bus_stop",
+      "lat": 40.4137022,
+      "lng": 49.9016661,
+      "distance_km": 6.15
+    },
+    {
+      "name": "Milli Oftalmologiya M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4218705,
+      "lng": 49.820422,
+      "distance_km": 6.16
+    },
+    {
+      "name": "Mir C\u0259lal k\u00fc\u00e7\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4137439,
+      "lng": 49.804511,
+      "distance_km": 6.17
+    },
+    {
+      "name": "246 sayl\u0131 m\u04d9kt\u04d9b",
+      "class": "bus_stop",
+      "lat": 40.424903,
+      "lng": 49.8289212,
+      "distance_km": 6.18
+    },
+    {
+      "name": "Z\u0259rif\u0259 \u018fliyeva park\u0131 2",
+      "class": "bus_stop",
+      "lat": 40.4214405,
+      "lng": 49.8187265,
+      "distance_km": 6.18
+    },
+    {
+      "name": "D\u00f6vl\u0259t Neft Fondu",
+      "class": "bus_stop",
+      "lat": 40.4141353,
+      "lng": 49.9015814,
+      "distance_km": 6.18
+    },
+    {
+      "name": "Mir C\u0259lal k\u00fc\u00e7\u0259si 132",
+      "class": "bus_stop",
+      "lat": 40.415583,
+      "lng": 49.80704,
+      "distance_km": 6.19
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4139396,
+      "lng": 49.9022333,
+      "distance_km": 6.2
+    },
+    {
+      "name": "\u0130xtisarasal\u0131nma v\u0259 yenid\u0259nhaz\u0131rlanma institutu",
+      "class": "bus_stop",
+      "lat": 40.4144514,
+      "lng": 49.8051223,
+      "distance_km": 6.2
+    },
+    {
+      "name": "267 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4169671,
+      "lng": 49.8089155,
+      "distance_km": 6.21
+    },
+    {
+      "name": "N\u0259simi metrosu 1",
+      "class": "bus_stop",
+      "lat": 40.424596,
+      "lng": 49.8268088,
+      "distance_km": 6.21
+    },
+    {
+      "name": "32 sayl\u0131 notariat kontoru",
+      "class": "bus_stop",
+      "lat": 40.4158176,
+      "lng": 49.8069977,
+      "distance_km": 6.21
+    },
+    {
+      "name": "N\u0259simi stansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4246248,
+      "lng": 49.8264119,
+      "distance_km": 6.23
+    },
+    {
+      "name": "N\u0259simi",
+      "class": "subway_station",
+      "lat": 40.4246452,
+      "lng": 49.8262798,
+      "distance_km": 6.23
+    },
+    {
+      "name": "Bus Stop Baki Ali Neft M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3217932,
+      "lng": 49.8219158,
+      "distance_km": 6.23
+    },
+    {
+      "name": "267 sayl\u0131 m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4183946,
+      "lng": 49.8104598,
+      "distance_km": 6.26
+    },
+    {
+      "name": "Mir C\u0259lal 276",
+      "class": "bus_stop",
+      "lat": 40.4193432,
+      "lng": 49.8122791,
+      "distance_km": 6.26
+    },
+    {
+      "name": "N\u0259simi metrosu 3",
+      "class": "bus_stop",
+      "lat": 40.4241839,
+      "lng": 49.8237167,
+      "distance_km": 6.27
+    },
+    {
+      "name": "Z\u0259rif\u0259 \u018fliyeva park\u0131",
+      "class": "bus_stop",
+      "lat": 40.4237998,
+      "lng": 49.8221876,
+      "distance_km": 6.28
+    },
+    {
+      "name": "Bus Stop Baki Ali Neft M\u0259kt\u0259bi",
+      "class": "bus_stop",
+      "lat": 40.3215407,
+      "lng": 49.8214424,
+      "distance_km": 6.28
+    },
+    {
+      "name": "Favorit market 1",
+      "class": "bus_stop",
+      "lat": 40.4199365,
+      "lng": 49.8126887,
+      "distance_km": 6.3
+    },
+    {
+      "name": "Mir C\u0259lal k\u00fc\u00e7\u0259si 310",
+      "class": "bus_stop",
+      "lat": 40.4206815,
+      "lng": 49.8140842,
+      "distance_km": 6.3
+    },
+    {
+      "name": "\u00d6m\u0259r Nemanzad\u0259 k\u00fc\u00e7\u0259si 37",
+      "class": "bus_stop",
+      "lat": 40.3219813,
+      "lng": 49.8193187,
+      "distance_km": 6.31
+    },
+    {
+      "name": "244 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.42932,
+      "lng": 49.8563756,
+      "distance_km": 6.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4293896,
+      "lng": 49.8561676,
+      "distance_km": 6.33
+    },
+    {
+      "name": "Mir C\u0259lal k\u00fc\u00e7\u0259si elektrik yar\u0131mstansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4209224,
+      "lng": 49.8139666,
+      "distance_km": 6.33
+    },
+    {
+      "name": "S\u0259bail Ma\u015f\u0131nqay\u0131rma zavodu",
+      "class": "bus_stop",
+      "lat": 40.3218757,
+      "lng": 49.8191445,
+      "distance_km": 6.33
+    },
+    {
+      "name": "Zeytun ba\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.4248896,
+      "lng": 49.8225385,
+      "distance_km": 6.38
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 107",
+      "class": "bus_stop",
+      "lat": 40.4297938,
+      "lng": 49.8498561,
+      "distance_km": 6.38
+    },
+    {
+      "name": "244 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.429912,
+      "lng": 49.8562083,
+      "distance_km": 6.39
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 107",
+      "class": "bus_stop",
+      "lat": 40.4300508,
+      "lng": 49.8502606,
+      "distance_km": 6.4
+    },
+    {
+      "name": "157 sayl\u0131 m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4232947,
+      "lng": 49.8176931,
+      "distance_km": 6.4
+    },
+    {
+      "name": "9 n\u00f6mr\u0259li \u015e\u0259h\u0259r Poliklinikas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4236199,
+      "lng": 49.8178034,
+      "distance_km": 6.43
+    },
+    {
+      "name": "Nemanzad\u0259 k\u00fc\u00e7",
+      "class": "bus_stop",
+      "lat": 40.3209009,
+      "lng": 49.8189557,
+      "distance_km": 6.43
+    },
+    {
+      "name": "Nemanzad\u0259 k\u00fc\u00e7",
+      "class": "bus_stop",
+      "lat": 40.3201229,
+      "lng": 49.8190452,
+      "distance_km": 6.51
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 2084",
+      "class": "bus_stop",
+      "lat": 40.4273136,
+      "lng": 49.8838083,
+      "distance_km": 6.62
+    },
+    {
+      "name": "H\u0259mz\u0259 Baba\u015fov dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4268911,
+      "lng": 49.8215979,
+      "distance_km": 6.62
+    },
+    {
+      "name": "151 sayl\u0131 u\u015faq ba\u011f\u00e7as\u0131",
+      "class": "bus_stop",
+      "lat": 40.4320582,
+      "lng": 49.8519471,
+      "distance_km": 6.62
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7.",
+      "class": "bus_stop",
+      "lat": 40.4322826,
+      "lng": 49.8521677,
+      "distance_km": 6.65
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 145",
+      "class": "bus_stop",
+      "lat": 40.4323222,
+      "lng": 49.8519628,
+      "distance_km": 6.65
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 4",
+      "class": "bus_stop",
+      "lat": 40.4324205,
+      "lng": 49.854565,
+      "distance_km": 6.66
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 76",
+      "class": "bus_stop",
+      "lat": 40.4324887,
+      "lng": 49.8560666,
+      "distance_km": 6.67
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 63",
+      "class": "bus_stop",
+      "lat": 40.4278638,
+      "lng": 49.8834937,
+      "distance_km": 6.67
+    },
+    {
+      "name": "Abay Kunanbayev k\u00fc\u00e7\u0259si 82",
+      "class": "bus_stop",
+      "lat": 40.4325397,
+      "lng": 49.8542061,
+      "distance_km": 6.68
+    },
+    {
+      "name": "107 sayl\u0131 po\u00e7t \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4280596,
+      "lng": 49.8228862,
+      "distance_km": 6.69
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4164324,
+      "lng": 49.9075809,
+      "distance_km": 6.71
+    },
+    {
+      "name": "5 sayl\u0131 ASAN xidm\u0259t m\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.4165294,
+      "lng": 49.9077101,
+      "distance_km": 6.72
+    },
+    {
+      "name": "D\u0259rn\u0259g\u00fcl deposu",
+      "class": "subway_station",
+      "lat": 40.4335133,
+      "lng": 49.8574751,
+      "distance_km": 6.79
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4171623,
+      "lng": 49.9080298,
+      "distance_km": 6.79
+    },
+    {
+      "name": "5 sayl\u0131 ASAN xidm\u0259t m\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.417218,
+      "lng": 49.9080446,
+      "distance_km": 6.8
+    },
+    {
+      "name": "Q\u0259b\u0259l\u0259 Avtobuslar\u0131 - Gabala Bus",
+      "class": "bus_stop",
+      "lat": 40.4178044,
+      "lng": 49.7991777,
+      "distance_km": 6.81
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4210961,
+      "lng": 49.8042738,
+      "distance_km": 6.81
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4211485,
+      "lng": 49.804209,
+      "distance_km": 6.82
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4198981,
+      "lng": 49.8019371,
+      "distance_km": 6.83
+    },
+    {
+      "name": "67,91,92",
+      "class": "bus_stop",
+      "lat": 40.4200968,
+      "lng": 49.8023741,
+      "distance_km": 6.83
+    },
+    {
+      "name": "9 sayl\u0131 TTY stansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4300693,
+      "lng": 49.8245053,
+      "distance_km": 6.85
+    },
+    {
+      "name": "M\u0259rk\u0259zi Avtova\u011fzal Bak\u0131 - Giri\u015f 2",
+      "class": "bus_station",
+      "lat": 40.4179172,
+      "lng": 49.7985594,
+      "distance_km": 6.86
+    },
+    {
+      "name": "Avtova\u011fzal NMM (7A, 13)",
+      "class": "bus_stop",
+      "lat": 40.4168657,
+      "lng": 49.7967338,
+      "distance_km": 6.88
+    },
+    {
+      "name": "Avtova\u011fzal NMM (37, 59, 96)",
+      "class": "bus_stop",
+      "lat": 40.4171638,
+      "lng": 49.7969241,
+      "distance_km": 6.89
+    },
+    {
+      "name": "Avtova\u011fzal NMM (2, 14)",
+      "class": "bus_stop",
+      "lat": 40.4170809,
+      "lng": 49.7966175,
+      "distance_km": 6.9
+    },
+    {
+      "name": "Avtova\u011fzal NMM (29, 67, 83, 117, 567)",
+      "class": "bus_stop",
+      "lat": 40.4173302,
+      "lng": 49.7967391,
+      "distance_km": 6.91
+    },
+    {
+      "name": "Mar\u015frutlar\u0131n Dayanaca\u011f\u0131",
+      "class": "stop_position",
+      "lat": 40.417221,
+      "lng": 49.7966948,
+      "distance_km": 6.91
+    },
+    {
+      "name": "Guba / Quba Bus",
+      "class": "bus_stop",
+      "lat": 40.4179907,
+      "lng": 49.7977356,
+      "distance_km": 6.91
+    },
+    {
+      "name": "M\u0259rk\u0259zi Avtova\u011fzal Bak\u0131 - Giri\u015f 1",
+      "class": "bus_station",
+      "lat": 40.4183996,
+      "lng": 49.7979746,
+      "distance_km": 6.93
+    },
+    {
+      "name": "G\u04d9nc\u04d9 Avtobuslar\u0131",
+      "class": "bus_stop",
+      "lat": 40.4176572,
+      "lng": 49.7966807,
+      "distance_km": 6.94
+    },
+    {
+      "name": "67,83,117 Avtova\u011fzal Bak\u0131",
+      "class": "bus_stop",
+      "lat": 40.4177332,
+      "lng": 49.7964129,
+      "distance_km": 6.96
+    },
+    {
+      "name": "Customs Office",
+      "class": "ferry_terminal",
+      "lat": 40.3628857,
+      "lng": 49.9344932,
+      "distance_km": 6.96
+    },
+    {
+      "name": "Passport Control",
+      "class": "ferry_terminal",
+      "lat": 40.3628122,
+      "lng": 49.9344627,
+      "distance_km": 6.96
+    },
+    {
+      "name": "New Port Ticket Office",
+      "class": "ferry_terminal",
+      "lat": 40.3627426,
+      "lng": 49.9344252,
+      "distance_km": 6.96
+    },
+    {
+      "name": "67,91,92",
+      "class": "bus_stop",
+      "lat": 40.4235056,
+      "lng": 49.80543,
+      "distance_km": 6.97
+    },
+    {
+      "name": "Avtova\u011fzal NMM (595, Bak\u0131 \u2013 Sumqay\u0131t)",
+      "class": "bus_stop",
+      "lat": 40.4179002,
+      "lng": 49.7964079,
+      "distance_km": 6.98
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 2062",
+      "class": "bus_stop",
+      "lat": 40.4280166,
+      "lng": 49.8919483,
+      "distance_km": 6.99
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4205543,
+      "lng": 49.7999279,
+      "distance_km": 7.0
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 414",
+      "class": "bus_stop",
+      "lat": 40.4276854,
+      "lng": 49.8935305,
+      "distance_km": 7.02
+    },
+    {
+      "name": "67,83,91,92,117",
+      "class": "bus_stop",
+      "lat": 40.4238126,
+      "lng": 49.8048078,
+      "distance_km": 7.03
+    },
+    {
+      "name": "Bil\u0259c\u0259ri dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4208628,
+      "lng": 49.7993305,
+      "distance_km": 7.06
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4210219,
+      "lng": 49.7992692,
+      "distance_km": 7.07
+    },
+    {
+      "name": "130,135,142,158,159,510,551,554,556,567,569",
+      "class": "bus_stop",
+      "lat": 40.4214154,
+      "lng": 49.7997258,
+      "distance_km": 7.08
+    },
+    {
+      "name": "31 mar\u015frutun son dayanaca\u011f\u0131",
+      "class": "bus_stop",
+      "lat": 40.3199924,
+      "lng": 49.8039512,
+      "distance_km": 7.18
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4261908,
+      "lng": 49.8056825,
+      "distance_km": 7.2
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4264432,
+      "lng": 49.8061587,
+      "distance_km": 7.21
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3697561,
+      "lng": 49.9383362,
+      "distance_km": 7.21
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3696631,
+      "lng": 49.9385515,
+      "distance_km": 7.23
+    },
+    {
+      "name": "Ziya B\u00fcnyadov pr. 20/61",
+      "class": "bus_stop",
+      "lat": 40.4275406,
+      "lng": 49.8993218,
+      "distance_km": 7.26
+    },
+    {
+      "name": "Ziya B\u00fcnyadov prospekti",
+      "class": "bus_stop",
+      "lat": 40.4285002,
+      "lng": 49.8983174,
+      "distance_km": 7.3
+    },
+    {
+      "name": "Avtova\u011fzal",
+      "class": "stop_position",
+      "lat": 40.421318,
+      "lng": 49.7952372,
+      "distance_km": 7.32
+    },
+    {
+      "name": "Avtova\u011fzal",
+      "class": "stop_position",
+      "lat": 40.4212723,
+      "lng": 49.7951004,
+      "distance_km": 7.33
+    },
+    {
+      "name": "73 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4252661,
+      "lng": 49.905295,
+      "distance_km": 7.34
+    },
+    {
+      "name": "Avtova\u011fzal Metro Stansiyas\u0131",
+      "class": "subway_station",
+      "lat": 40.421508,
+      "lng": 49.7952155,
+      "distance_km": 7.34
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3681398,
+      "lng": 49.9402473,
+      "distance_km": 7.38
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3723371,
+      "lng": 49.9403885,
+      "distance_km": 7.38
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4324107,
+      "lng": 49.8152913,
+      "distance_km": 7.4
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3723373,
+      "lng": 49.9406532,
+      "distance_km": 7.4
+    },
+    {
+      "name": "AYNA",
+      "class": "bus_station",
+      "lat": 40.4233408,
+      "lng": 49.9099324,
+      "distance_km": 7.41
+    },
+    {
+      "name": "Ferry terminal",
+      "class": "ferry_terminal",
+      "lat": 40.310200862724805,
+      "lng": 49.82238622227076,
+      "distance_km": 7.41
+    },
+    {
+      "name": "A\u015fqarlar Kimyas\u0131 \u0130nstitutu",
+      "class": "bus_stop",
+      "lat": 40.4257843,
+      "lng": 49.906014,
+      "distance_km": 7.42
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4307022,
+      "lng": 49.8101459,
+      "distance_km": 7.43
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4257958,
+      "lng": 49.9063281,
+      "distance_km": 7.44
+    },
+    {
+      "name": "Depo",
+      "class": "railway_halt",
+      "lat": 40.4367969,
+      "lng": 49.8283693,
+      "distance_km": 7.45
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.36758,
+      "lng": 49.9409455,
+      "distance_km": 7.45
+    },
+    {
+      "name": "Bin\u0259q\u0259di",
+      "class": "railway_halt",
+      "lat": 40.4395103,
+      "lng": 49.8460161,
+      "distance_km": 7.48
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4311629,
+      "lng": 49.8099574,
+      "distance_km": 7.48
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4242228,
+      "lng": 49.7959989,
+      "distance_km": 7.52
+    },
+    {
+      "name": "Koro\u011flu m/st (Milli Gimnastika Arenas\u0131)",
+      "class": "bus_stop",
+      "lat": 40.4201725,
+      "lng": 49.9163463,
+      "distance_km": 7.52
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4258949,
+      "lng": 49.9080113,
+      "distance_km": 7.53
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4321258,
+      "lng": 49.8097796,
+      "distance_km": 7.59
+    },
+    {
+      "name": "Mehdi Abbasov k\u00fc\u00e7\u0259si 6",
+      "class": "bus_stop",
+      "lat": 40.4149178,
+      "lng": 49.9237083,
+      "distance_km": 7.6
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.41901471564397,
+      "lng": 49.919402831073846,
+      "distance_km": 7.62
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4214987,
+      "lng": 49.9165821,
+      "distance_km": 7.64
+    },
+    {
+      "name": "Airport express",
+      "class": "bus_stop",
+      "lat": 40.4215016,
+      "lng": 49.9166164,
+      "distance_km": 7.64
+    },
+    {
+      "name": "Bibi Heyb\u0259t m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3087646,
+      "lng": 49.8197659,
+      "distance_km": 7.64
+    },
+    {
+      "name": "X\u0259tai Rayon Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.366202,
+      "lng": 49.9432297,
+      "distance_km": 7.65
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.41929195528135,
+      "lng": 49.919644555336205,
+      "distance_km": 7.66
+    },
+    {
+      "name": "Koro\u011flu",
+      "class": "railway_halt",
+      "lat": 40.4193413,
+      "lng": 49.9196451,
+      "distance_km": 7.66
+    },
+    {
+      "name": "Koro\u011flu",
+      "class": "stop_position",
+      "lat": 40.420763,
+      "lng": 49.918092,
+      "distance_km": 7.67
+    },
+    {
+      "name": "Koro\u011flu",
+      "class": "railway_halt",
+      "lat": 40.4194163,
+      "lng": 49.9196303,
+      "distance_km": 7.67
+    },
+    {
+      "name": "Koro\u011flu",
+      "class": "stop_position",
+      "lat": 40.4194953,
+      "lng": 49.9196293,
+      "distance_km": 7.67
+    },
+    {
+      "name": "Bibi Heyb\u0259t m\u0259scidi",
+      "class": "bus_stop",
+      "lat": 40.3083362,
+      "lng": 49.8201092,
+      "distance_km": 7.67
+    },
+    {
+      "name": "Koro\u011flu metro stansiyas\u0131",
+      "class": "subway_station",
+      "lat": 40.4208641,
+      "lng": 49.9180944,
+      "distance_km": 7.68
+    },
+    {
+      "name": "Koro\u011flu m/st",
+      "class": "stop_position",
+      "lat": 40.4230422,
+      "lng": 49.9152886,
+      "distance_km": 7.69
+    },
+    {
+      "name": "New Port, ferry to Turkmenistan",
+      "class": "ferry_terminal",
+      "lat": 40.3580766,
+      "lng": 49.9420972,
+      "distance_km": 7.69
+    },
+    {
+      "name": "Koro\u011flu N\u0259qliyyat M\u00fcbadil\u0259 M\u0259rk\u0259zi",
+      "class": "bus_station",
+      "lat": 40.42336289237314,
+      "lng": 49.915582464100375,
+      "distance_km": 7.73
+    },
+    {
+      "name": "Koro\u011flu Avtobus stansiyas\u0131",
+      "class": "bus_station",
+      "lat": 40.4209435,
+      "lng": 49.9188878,
+      "distance_km": 7.74
+    },
+    {
+      "name": "Ab\u015feron",
+      "class": "railway_station",
+      "lat": 40.3369065,
+      "lng": 49.7747597,
+      "distance_km": 7.74
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4317826,
+      "lng": 49.8052313,
+      "distance_km": 7.75
+    },
+    {
+      "name": "Mehdi Abbasov k\u00fc\u00e7\u0259si 34",
+      "class": "bus_stop",
+      "lat": 40.4143477,
+      "lng": 49.9264617,
+      "distance_km": 7.75
+    },
+    {
+      "name": "X\u0259tai Rayon Polis \u0130dar\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3656261,
+      "lng": 49.9443301,
+      "distance_km": 7.75
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4258774,
+      "lng": 49.7940704,
+      "distance_km": 7.77
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.336382549999996,
+      "lng": 49.77445324999999,
+      "distance_km": 7.8
+    },
+    {
+      "name": "Koro\u011flu",
+      "class": "platform",
+      "lat": 40.42165285,
+      "lng": 49.919288550000005,
+      "distance_km": 7.82
+    },
+    {
+      "name": "Bil\u0259c\u0259ri Q\u0259s\u0259b\u0259 Stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.4324448,
+      "lng": 49.804748,
+      "distance_km": 7.83
+    },
+    {
+      "name": "Z\u0131\u011f yolu",
+      "class": "bus_stop",
+      "lat": 40.3639258,
+      "lng": 49.9454053,
+      "distance_km": 7.86
+    },
+    {
+      "name": "Z. B\u00fcnyadov pr. Bak\u0131 Olimpiya Stadionu",
+      "class": "bus_stop",
+      "lat": 40.4253522,
+      "lng": 49.9155675,
+      "distance_km": 7.9
+    },
+    {
+      "name": "Z\u0131\u011f yolu",
+      "class": "bus_stop",
+      "lat": 40.3639523,
+      "lng": 49.9458603,
+      "distance_km": 7.9
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.43297846374626,
+      "lng": 49.80420963481965,
+      "distance_km": 7.91
+    },
+    {
+      "name": "Express Bus to Airport",
+      "class": "bus_stop",
+      "lat": 40.4222171,
+      "lng": 49.9202863,
+      "distance_km": 7.92
+    },
+    {
+      "name": "Bil\u0259c\u0259ri",
+      "class": "stop_position",
+      "lat": 40.4328923,
+      "lng": 49.8035372,
+      "distance_km": 7.93
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.43281226318651,
+      "lng": 49.80324519657111,
+      "distance_km": 7.93
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 40.3263288,
+      "lng": 49.7819334,
+      "distance_km": 7.93
+    },
+    {
+      "name": "Bil\u0259c\u0259ri",
+      "class": "stop_position",
+      "lat": 40.4330015,
+      "lng": 49.8035326,
+      "distance_km": 7.94
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 40.3724738,
+      "lng": 49.9470402,
+      "distance_km": 7.94
+    },
+    {
+      "name": "Z. B\u00fcnyadov pr. Bak\u0131 Olimpiya Stadionu",
+      "class": "bus_stop",
+      "lat": 40.4256636,
+      "lng": 49.9162237,
+      "distance_km": 7.96
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4315982,
+      "lng": 49.7998988,
+      "distance_km": 7.98
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3616142,
+      "lng": 49.9464372,
+      "distance_km": 7.98
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3616339,
+      "lng": 49.9465698,
+      "distance_km": 7.99
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 40.32547,
+      "lng": 49.7814111,
+      "distance_km": 8.03
+    },
+    {
+      "name": "176-174-sayl\u0131 avtobuslarin duracagi",
+      "class": "bus_stop",
+      "lat": 40.32766,
+      "lng": 49.7788256,
+      "distance_km": 8.04
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3615284,
+      "lng": 49.947078,
+      "distance_km": 8.04
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4315002,
+      "lng": 49.7981929,
+      "distance_km": 8.05
+    },
+    {
+      "name": "12 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4187849,
+      "lng": 49.9267542,
+      "distance_km": 8.07
+    },
+    {
+      "name": "7 n\u00f6mr\u0259li Do\u011fum Evi",
+      "class": "bus_stop",
+      "lat": 40.4152177,
+      "lng": 49.9302729,
+      "distance_km": 8.07
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.43572746510089,
+      "lng": 49.80623355065161,
+      "distance_km": 8.08
+    },
+    {
+      "name": "Bil\u0259c\u0259ri",
+      "class": "stop_position",
+      "lat": 40.4356397,
+      "lng": 49.8056229,
+      "distance_km": 8.1
+    },
+    {
+      "name": "81",
+      "class": "bus_stop",
+      "lat": 40.4021486,
+      "lng": 49.9409895,
+      "distance_km": 8.13
+    },
+    {
+      "name": "Bil\u0259c\u0259ri b\u0259l\u0259diyy\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4374712,
+      "lng": 49.8087643,
+      "distance_km": 8.15
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4313696,
+      "lng": 49.7958111,
+      "distance_km": 8.16
+    },
+    {
+      "name": "12 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4191269,
+      "lng": 49.9276976,
+      "distance_km": 8.16
+    },
+    {
+      "name": "Bil\u0259c\u0259ri b\u0259l\u0259diyy\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4378998,
+      "lng": 49.8089019,
+      "distance_km": 8.19
+    },
+    {
+      "name": "Az\u0259r Manafov k\u00fc\u00e7\u0259si 62",
+      "class": "bus_stop",
+      "lat": 40.4166936,
+      "lng": 49.9308101,
+      "distance_km": 8.2
+    },
+    {
+      "name": "Bil\u0259c\u0259ri b\u0259l\u0259diyy\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4377429,
+      "lng": 49.8080026,
+      "distance_km": 8.21
+    },
+    {
+      "name": "As\u0259f Zeynall\u0131 k\u00fc\u00e7\u0259si 351A",
+      "class": "bus_stop",
+      "lat": 40.4377286,
+      "lng": 49.8064047,
+      "distance_km": 8.27
+    },
+    {
+      "name": "Xoc\u0259s\u0259n Metro Stansiyas\u0131",
+      "class": "stop_position",
+      "lat": 40.4211517,
+      "lng": 49.7790664,
+      "distance_km": 8.29
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.323701553798806,
+      "lng": 49.779323584285756,
+      "distance_km": 8.29
+    },
+    {
+      "name": "12",
+      "class": "bus_stop",
+      "lat": 40.3627685,
+      "lng": 49.950754,
+      "distance_km": 8.33
+    },
+    {
+      "name": "Qara Qarayev m/st",
+      "class": "bus_stop",
+      "lat": 40.4178147,
+      "lng": 49.9320375,
+      "distance_km": 8.36
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Hadi",
+      "class": "subway_station",
+      "lat": 40.3724161,
+      "lng": 49.9520678,
+      "distance_km": 8.37
+    },
+    {
+      "name": "Qara Qarayev m/st",
+      "class": "bus_stop",
+      "lat": 40.4181892,
+      "lng": 49.9320715,
+      "distance_km": 8.39
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4216706,
+      "lng": 49.777924,
+      "distance_km": 8.4
+    },
+    {
+      "name": "Xoc\u0259s\u0259n Depo Metro",
+      "class": "subway_station",
+      "lat": 40.4230824,
+      "lng": 49.7796111,
+      "distance_km": 8.4
+    },
+    {
+      "name": "Qara Qarayev",
+      "class": "subway_station",
+      "lat": 40.4176118,
+      "lng": 49.9339594,
+      "distance_km": 8.47
+    },
+    {
+      "name": "H\u0259zi Aslanov m/st",
+      "class": "bus_stop",
+      "lat": 40.3720791,
+      "lng": 49.9534015,
+      "distance_km": 8.48
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3722138,
+      "lng": 49.9534116,
+      "distance_km": 8.48
+    },
+    {
+      "name": "H\u0259zi Aslanov Stansiyas\u0131",
+      "class": "subway_station",
+      "lat": 40.3730376,
+      "lng": 49.9535736,
+      "distance_km": 8.49
+    },
+    {
+      "name": "H\u0259zi Aslanov m/st",
+      "class": "bus_stop",
+      "lat": 40.3720134,
+      "lng": 49.9536339,
+      "distance_km": 8.5
+    },
+    {
+      "name": "254 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3752401,
+      "lng": 49.9535792,
+      "distance_km": 8.5
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si 335",
+      "class": "bus_stop",
+      "lat": 40.3756327,
+      "lng": 49.9538919,
+      "distance_km": 8.53
+    },
+    {
+      "name": "Qara Qarayev m/st",
+      "class": "bus_stop",
+      "lat": 40.4171228,
+      "lng": 49.935494,
+      "distance_km": 8.55
+    },
+    {
+      "name": "X\u0259tai Rayon M\u0259hk\u0259m\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3802516,
+      "lng": 49.9538194,
+      "distance_km": 8.56
+    },
+    {
+      "name": "Qara Qarayev m/st",
+      "class": "bus_stop",
+      "lat": 40.417439,
+      "lng": 49.9354427,
+      "distance_km": 8.57
+    },
+    {
+      "name": "X\u0259tai Rayon M\u0259hk\u0259m\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3800779,
+      "lng": 49.9541741,
+      "distance_km": 8.59
+    },
+    {
+      "name": "Avtova\u011fzal",
+      "class": "bus_station",
+      "lat": 40.3252256,
+      "lng": 49.7728367,
+      "distance_km": 8.61
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3073357,
+      "lng": 49.7979382,
+      "distance_km": 8.63
+    },
+    {
+      "name": "\u018fhm\u0259dli m/st",
+      "class": "bus_stop",
+      "lat": 40.3857755,
+      "lng": 49.9537698,
+      "distance_km": 8.64
+    },
+    {
+      "name": "\u018fhm\u0259dli",
+      "class": "subway_station",
+      "lat": 40.3855583,
+      "lng": 49.9539452,
+      "distance_km": 8.65
+    },
+    {
+      "name": "\u018fhm\u0259dli m/st",
+      "class": "bus_stop",
+      "lat": 40.3855462,
+      "lng": 49.9540864,
+      "distance_km": 8.66
+    },
+    {
+      "name": "Neft\u00e7il\u0259r m/st",
+      "class": "bus_stop",
+      "lat": 40.4115675,
+      "lng": 49.9419527,
+      "distance_km": 8.67
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3069788,
+      "lng": 49.7976176,
+      "distance_km": 8.68
+    },
+    {
+      "name": "Neft\u00e7il\u0259r m/st",
+      "class": "bus_stop",
+      "lat": 40.4090773,
+      "lng": 49.9439985,
+      "distance_km": 8.69
+    },
+    {
+      "name": "145 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.4169236,
+      "lng": 49.9379004,
+      "distance_km": 8.7
+    },
+    {
+      "name": "Nizami rayon qeydiyyat \u015f\u00f6b\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4154168,
+      "lng": 49.9392399,
+      "distance_km": 8.7
+    },
+    {
+      "name": "Neft\u00e7il\u0259r",
+      "class": "subway_station",
+      "lat": 40.411155,
+      "lng": 49.9425681,
+      "distance_km": 8.7
+    },
+    {
+      "name": "Qara Qarayev Prospekti",
+      "class": "bus_stop",
+      "lat": 40.4164189,
+      "lng": 49.9385011,
+      "distance_km": 8.71
+    },
+    {
+      "name": "Qara Qarayev prospekti 102",
+      "class": "bus_stop",
+      "lat": 40.4050672,
+      "lng": 49.9468935,
+      "distance_km": 8.71
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si 106",
+      "class": "bus_stop",
+      "lat": 40.3891733,
+      "lng": 49.9537272,
+      "distance_km": 8.71
+    },
+    {
+      "name": "Penitensiar Xidm\u0259tin Avton\u0259qliyyat T\u0259s\u0259rr\u00fcfat\u0131",
+      "class": "bus_station",
+      "lat": 40.4266748,
+      "lng": 49.9276852,
+      "distance_km": 8.72
+    },
+    {
+      "name": "Neft\u00e7il\u0259r m/st",
+      "class": "bus_stop",
+      "lat": 40.411781,
+      "lng": 49.942458,
+      "distance_km": 8.72
+    },
+    {
+      "name": "Neft\u00e7il\u0259r m/st",
+      "class": "bus_stop",
+      "lat": 40.4093833,
+      "lng": 49.9441538,
+      "distance_km": 8.72
+    },
+    {
+      "name": "Qara Qarayev prospekti 233",
+      "class": "bus_stop",
+      "lat": 40.4063675,
+      "lng": 49.9463322,
+      "distance_km": 8.73
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3548465,
+      "lng": 49.9538152,
+      "distance_km": 8.74
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si 57",
+      "class": "bus_stop",
+      "lat": 40.3892688,
+      "lng": 49.9541294,
+      "distance_km": 8.74
+    },
+    {
+      "name": "Qara Qarayev prospekti 608",
+      "class": "bus_stop",
+      "lat": 40.4014735,
+      "lng": 49.9494345,
+      "distance_km": 8.76
+    },
+    {
+      "name": "64 n\u00f6mr\u0259li tam orta m\u0259kt\u0259b",
+      "class": "bus_stop",
+      "lat": 40.3913984,
+      "lng": 49.9537593,
+      "distance_km": 8.76
+    },
+    {
+      "name": "Qara Qarayev prospekti 57",
+      "class": "bus_stop",
+      "lat": 40.4026048,
+      "lng": 49.9490259,
+      "distance_km": 8.77
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4006339,
+      "lng": 49.9499883,
+      "distance_km": 8.77
+    },
+    {
+      "name": "20,103,141,214",
+      "class": "bus_stop",
+      "lat": 40.4059742,
+      "lng": 49.9473147,
+      "distance_km": 8.79
+    },
+    {
+      "name": "Qara Qarayev prospekti 59",
+      "class": "bus_stop",
+      "lat": 40.4009026,
+      "lng": 49.9501954,
+      "distance_km": 8.79
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4106848,
+      "lng": 49.9443673,
+      "distance_km": 8.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3990896,
+      "lng": 49.9511872,
+      "distance_km": 8.8
+    },
+    {
+      "name": "Xalqlar Dostlu\u011fu m/st",
+      "class": "bus_stop",
+      "lat": 40.3989096,
+      "lng": 49.9513038,
+      "distance_km": 8.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4005624,
+      "lng": 49.950522,
+      "distance_km": 8.81
+    },
+    {
+      "name": "M\u0259h\u0259mm\u0259d Hadi k\u00fc\u00e7\u0259si 45",
+      "class": "bus_stop",
+      "lat": 40.392217,
+      "lng": 49.95407,
+      "distance_km": 8.81
+    },
+    {
+      "name": "S\u0259rh\u0259d\u00e7i \u0130dman Olimpiya M\u0259rk\u0259zi",
+      "class": "bus_stop",
+      "lat": 40.3940875,
+      "lng": 49.9537246,
+      "distance_km": 8.84
+    },
+    {
+      "name": "Xalqlar Dostlu\u011fu m/st",
+      "class": "bus_stop",
+      "lat": 40.3968385,
+      "lng": 49.9528841,
+      "distance_km": 8.86
+    },
+    {
+      "name": "Xalqlar Dostlu\u011fu",
+      "class": "subway_station",
+      "lat": 40.3968851,
+      "lng": 49.9529864,
+      "distance_km": 8.87
+    },
+    {
+      "name": "Xalqlar Dostlu\u011fu m/st",
+      "class": "bus_stop",
+      "lat": 40.3974874,
+      "lng": 49.9527535,
+      "distance_km": 8.87
+    },
+    {
+      "name": "Xudadat M\u0259likaslanov k\u00fc\u00e7\u0259si 194A",
+      "class": "bus_stop",
+      "lat": 40.4451278,
+      "lng": 49.8094435,
+      "distance_km": 8.89
+    },
+    {
+      "name": "Xudadat M\u0259likaslanov k\u00fc\u00e7\u0259si 202",
+      "class": "bus_stop",
+      "lat": 40.4454406,
+      "lng": 49.8095421,
+      "distance_km": 8.92
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4335337,
+      "lng": 49.783841,
+      "distance_km": 8.98
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.366029,
+      "lng": 49.9599668,
+      "distance_km": 9.07
+    },
+    {
+      "name": "X\u0131rdalan dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4339216,
+      "lng": 49.7826811,
+      "distance_km": 9.08
+    },
+    {
+      "name": "40",
+      "class": "bus_stop",
+      "lat": 40.391724,
+      "lng": 49.9577313,
+      "distance_km": 9.1
+    },
+    {
+      "name": "Xudadat M\u0259likaslanov k\u00fc\u00e7\u0259si 178",
+      "class": "bus_stop",
+      "lat": 40.4472562,
+      "lng": 49.8092549,
+      "distance_km": 9.11
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3641797,
+      "lng": 49.9603122,
+      "distance_km": 9.11
+    },
+    {
+      "name": "Xudadat M\u0259likaslanov k\u00fc\u00e7\u0259si 268",
+      "class": "bus_stop",
+      "lat": 40.4474002,
+      "lng": 49.8093958,
+      "distance_km": 9.12
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3759588,
+      "lng": 49.9610361,
+      "distance_km": 9.13
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3751235,
+      "lng": 49.9612094,
+      "distance_km": 9.15
+    },
+    {
+      "name": "40,46",
+      "class": "bus_stop",
+      "lat": 40.3863328,
+      "lng": 49.9600364,
+      "distance_km": 9.17
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4022675,
+      "lng": 49.9551223,
+      "distance_km": 9.24
+    },
+    {
+      "name": "36,70,81",
+      "class": "bus_stop",
+      "lat": 40.3927934,
+      "lng": 49.959266,
+      "distance_km": 9.25
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3440051,
+      "lng": 49.7501251,
+      "distance_km": 9.3
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3863234,
+      "lng": 49.9618721,
+      "distance_km": 9.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4126001,
+      "lng": 49.9503955,
+      "distance_km": 9.35
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.32344415,
+      "lng": 49.76344565,
+      "distance_km": 9.37
+    },
+    {
+      "name": "Ab\u015feron Ticar\u0259t M\u0259rk\u0259zi dayanaca\u011f\u0131",
+      "class": "bus_station",
+      "lat": 40.3234274,
+      "lng": 49.7634225,
+      "distance_km": 9.37
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.32336754863567,
+      "lng": 49.76334269873039,
+      "distance_km": 9.38
+    },
+    {
+      "name": "36.70.81",
+      "class": "bus_stop",
+      "lat": 40.3926703,
+      "lng": 49.9608479,
+      "distance_km": 9.38
+    },
+    {
+      "name": "Xudadat M\u0259likaslanov k\u00fc\u00e7\u0259si 223",
+      "class": "bus_stop",
+      "lat": 40.4499637,
+      "lng": 49.8090866,
+      "distance_km": 9.39
+    },
+    {
+      "name": "36",
+      "class": "bus_stop",
+      "lat": 40.3900437,
+      "lng": 49.9618813,
+      "distance_km": 9.4
+    },
+    {
+      "name": "Xudadat M\u0259likaslanov k\u00fc\u00e7\u0259si 302",
+      "class": "bus_stop",
+      "lat": 40.4502801,
+      "lng": 49.8091871,
+      "distance_km": 9.42
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4048653,
+      "lng": 49.95628,
+      "distance_km": 9.44
+    },
+    {
+      "name": "81, 36",
+      "class": "bus_stop",
+      "lat": 40.3755982,
+      "lng": 49.9648001,
+      "distance_km": 9.45
+    },
+    {
+      "name": "32",
+      "class": "bus_stop",
+      "lat": 40.4070224,
+      "lng": 49.9556278,
+      "distance_km": 9.48
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3050838,
+      "lng": 49.7846087,
+      "distance_km": 9.49
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3484926,
+      "lng": 49.9611107,
+      "distance_km": 9.52
+    },
+    {
+      "name": "81",
+      "class": "bus_stop",
+      "lat": 40.3840357,
+      "lng": 49.9646862,
+      "distance_km": 9.52
+    },
+    {
+      "name": "81",
+      "class": "bus_stop",
+      "lat": 40.3823792,
+      "lng": 49.9649805,
+      "distance_km": 9.52
+    },
+    {
+      "name": "Sulut\u0259p\u0259 dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4350623,
+      "lng": 49.7764322,
+      "distance_km": 9.53
+    },
+    {
+      "name": "Sulut\u0259p\u0259 dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4347936,
+      "lng": 49.7759015,
+      "distance_km": 9.54
+    },
+    {
+      "name": "202 \u043a\u043e\u043d\u0435\u0447\u043d\u0430\u044f",
+      "class": "bus_stop",
+      "lat": 40.4409534,
+      "lng": 49.785121,
+      "distance_km": 9.55
+    },
+    {
+      "name": "202-sayli Avtobusun Son duracagi",
+      "class": "bus_stop",
+      "lat": 40.4411069,
+      "lng": 49.7853445,
+      "distance_km": 9.56
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3486595,
+      "lng": 49.9617646,
+      "distance_km": 9.56
+    },
+    {
+      "name": "81",
+      "class": "bus_stop",
+      "lat": 40.3862633,
+      "lng": 49.9651049,
+      "distance_km": 9.59
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4094043,
+      "lng": 49.9560651,
+      "distance_km": 9.62
+    },
+    {
+      "name": "30",
+      "class": "bus_stop",
+      "lat": 40.4080377,
+      "lng": 49.9569193,
+      "distance_km": 9.62
+    },
+    {
+      "name": "Sulut\u0259p\u0259 dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4355672,
+      "lng": 49.7745987,
+      "distance_km": 9.67
+    },
+    {
+      "name": "10 May k\u00fc\u00e7\u0259si - M\u0130DA Ya\u015fay\u0131\u015f Kompleksi",
+      "class": "bus_stop",
+      "lat": 40.4543607,
+      "lng": 49.8142445,
+      "distance_km": 9.68
+    },
+    {
+      "name": "Bin\u0259q\u0259di q\u0259s\u0259b\u0259si Araz k\u00fc\u00e7\u0259si giri\u015f 219",
+      "class": "bus_stop",
+      "lat": 40.4553919,
+      "lng": 49.8183356,
+      "distance_km": 9.68
+    },
+    {
+      "name": "Dair\u0259vi yol 346",
+      "class": "bus_stop",
+      "lat": 40.4555502,
+      "lng": 49.8186717,
+      "distance_km": 9.69
+    },
+    {
+      "name": "Dair\u0259vi yol 87B",
+      "class": "bus_stop",
+      "lat": 40.4543323,
+      "lng": 49.8136,
+      "distance_km": 9.7
+    },
+    {
+      "name": "Bin\u0259q\u0259di elektrik yar\u0131mstansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4536499,
+      "lng": 49.8113757,
+      "distance_km": 9.7
+    },
+    {
+      "name": "Dair\u0259vi yol 220",
+      "class": "bus_stop",
+      "lat": 40.4554007,
+      "lng": 49.8174598,
+      "distance_km": 9.7
+    },
+    {
+      "name": "Bin\u0259q\u0259di q\u0259s\u0259b\u0259si 1-ci m\u0259d\u0259n ya\u015fay\u0131\u015f massivi",
+      "class": "bus_stop",
+      "lat": 40.4566622,
+      "lng": 49.8228549,
+      "distance_km": 9.71
+    },
+    {
+      "name": "Bin\u0259q\u0259di elektrik yar\u0131mstansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4535367,
+      "lng": 49.8103666,
+      "distance_km": 9.72
+    },
+    {
+      "name": "10 May k\u00fc\u00e7\u0259si - Qaya N\u0259qliyyat MMC",
+      "class": "bus_stop",
+      "lat": 40.4566698,
+      "lng": 49.8221722,
+      "distance_km": 9.72
+    },
+    {
+      "name": "10 may k\u00fc\u00e7\u0259si 492",
+      "class": "bus_stop",
+      "lat": 40.452507,
+      "lng": 49.8068956,
+      "distance_km": 9.73
+    },
+    {
+      "name": "30",
+      "class": "bus_stop",
+      "lat": 40.4084849,
+      "lng": 49.9581053,
+      "distance_km": 9.74
+    },
+    {
+      "name": "Dair\u0259vi yol 66C",
+      "class": "bus_stop",
+      "lat": 40.4524919,
+      "lng": 49.806258,
+      "distance_km": 9.75
+    },
+    {
+      "name": "Dair\u0259vi yol 41",
+      "class": "bus_stop",
+      "lat": 40.4576216,
+      "lng": 49.8251976,
+      "distance_km": 9.76
+    },
+    {
+      "name": "70,81",
+      "class": "bus_stop",
+      "lat": 40.3927099,
+      "lng": 49.9654886,
+      "distance_km": 9.76
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3914546,
+      "lng": 49.9658237,
+      "distance_km": 9.76
+    },
+    {
+      "name": "30",
+      "class": "bus_stop",
+      "lat": 40.4060968,
+      "lng": 49.9598975,
+      "distance_km": 9.77
+    },
+    {
+      "name": "Bin\u0259q\u0259di yolu H\u0259rbi hiss\u0259",
+      "class": "bus_stop",
+      "lat": 40.4581375,
+      "lng": 49.8268676,
+      "distance_km": 9.78
+    },
+    {
+      "name": "120",
+      "class": "bus_stop",
+      "lat": 40.3048117,
+      "lng": 49.7797085,
+      "distance_km": 9.78
+    },
+    {
+      "name": "46, 40",
+      "class": "bus_stop",
+      "lat": 40.3779253,
+      "lng": 49.9686785,
+      "distance_km": 9.79
+    },
+    {
+      "name": "46, 40",
+      "class": "bus_stop",
+      "lat": 40.3781766,
+      "lng": 49.9689611,
+      "distance_km": 9.82
+    },
+    {
+      "name": "Nicat Mustafayec k\u00fc\u00e7\u0259si 143",
+      "class": "bus_stop",
+      "lat": 40.459864,
+      "lng": 49.835055,
+      "distance_km": 9.84
+    },
+    {
+      "name": "Nicat Mustafayec k\u00fc\u00e7\u0259si 92",
+      "class": "bus_stop",
+      "lat": 40.4599219,
+      "lng": 49.8348611,
+      "distance_km": 9.85
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4389599,
+      "lng": 49.7764554,
+      "distance_km": 9.85
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.438938,
+      "lng": 49.7755967,
+      "distance_km": 9.89
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4598248,
+      "lng": 49.8295272,
+      "distance_km": 9.92
+    },
+    {
+      "name": "Dair\u0259vi yol 11",
+      "class": "bus_stop",
+      "lat": 40.4612491,
+      "lng": 49.8401856,
+      "distance_km": 9.93
+    },
+    {
+      "name": "G\u00fclm\u0259mm\u0259d Ramazanov 501",
+      "class": "bus_stop",
+      "lat": 40.4601995,
+      "lng": 49.8309424,
+      "distance_km": 9.93
+    },
+    {
+      "name": "Dair\u0259vi yol 14",
+      "class": "bus_stop",
+      "lat": 40.4613747,
+      "lng": 49.8398459,
+      "distance_km": 9.95
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4124606,
+      "lng": 49.9584112,
+      "distance_km": 9.95
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.342958,
+      "lng": 49.9648528,
+      "distance_km": 10.01
+    },
+    {
+      "name": "dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4134558,
+      "lng": 49.9589136,
+      "distance_km": 10.04
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3427957,
+      "lng": 49.9652108,
+      "distance_km": 10.04
+    },
+    {
+      "name": "40 son dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.3603953,
+      "lng": 49.9708642,
+      "distance_km": 10.05
+    },
+    {
+      "name": "ARDN\u015e Geofizika v\u04d9 Geologiya \u0130dar\u04d9si",
+      "class": "bus_stop",
+      "lat": 40.4274748,
+      "lng": 49.9486412,
+      "distance_km": 10.13
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4394265,
+      "lng": 49.9358906,
+      "distance_km": 10.21
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 40.4169723,
+      "lng": 49.9588163,
+      "distance_km": 10.21
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4412061,
+      "lng": 49.9333964,
+      "distance_km": 10.22
+    },
+    {
+      "name": "202",
+      "class": "bus_stop",
+      "lat": 40.4486805,
+      "lng": 49.7853527,
+      "distance_km": 10.24
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4411797,
+      "lng": 49.7726011,
+      "distance_km": 10.25
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4391396,
+      "lng": 49.9373922,
+      "distance_km": 10.28
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4411812,
+      "lng": 49.7717599,
+      "distance_km": 10.3
+    },
+    {
+      "name": "142,176,592",
+      "class": "bus_stop",
+      "lat": 40.442158,
+      "lng": 49.7728607,
+      "distance_km": 10.31
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3426566,
+      "lng": 49.9685173,
+      "distance_km": 10.31
+    },
+    {
+      "name": "ARDN\u015e Ab\u015feron Neft K\u04d9m\u04d9rl\u04d9ri \u0130dar\u04d9si",
+      "class": "bus_stop",
+      "lat": 40.4420981,
+      "lng": 49.9338947,
+      "distance_km": 10.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.410826,
+      "lng": 49.9642386,
+      "distance_km": 10.32
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.3426035,
+      "lng": 49.9689131,
+      "distance_km": 10.34
+    },
+    {
+      "name": "X\u0131rdalan dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.4421974,
+      "lng": 49.771556,
+      "distance_km": 10.39
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4434245,
+      "lng": 49.9340062,
+      "distance_km": 10.44
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4161215,
+      "lng": 49.9641549,
+      "distance_km": 10.57
+    },
+    {
+      "name": "22, 35, 40, 141",
+      "class": "bus_station",
+      "lat": 40.4184712,
+      "lng": 49.9629388,
+      "distance_km": 10.6
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.414603,
+      "lng": 49.9663483,
+      "distance_km": 10.66
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 40.4140432,
+      "lng": 49.9669951,
+      "distance_km": 10.68
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.413239,
+      "lng": 49.9676149,
+      "distance_km": 10.69
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4217879,
+      "lng": 49.962019,
+      "distance_km": 10.71
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4125442,
+      "lng": 49.9683043,
+      "distance_km": 10.71
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4408836,
+      "lng": 49.763899,
+      "distance_km": 10.73
+    },
+    {
+      "name": "Bak\u0131xanov",
+      "class": "stop_position",
+      "lat": 40.4315519,
+      "lng": 49.9536967,
+      "distance_km": 10.74
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.43149083687277,
+      "lng": 49.95369655064273,
+      "distance_km": 10.74
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4410892,
+      "lng": 49.7637637,
+      "distance_km": 10.75
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.43185029763608,
+      "lng": 49.9537102332135,
+      "distance_km": 10.76
+    },
+    {
+      "name": "Bak\u0131xanov Stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.4315521,
+      "lng": 49.9540048,
+      "distance_km": 10.76
+    },
+    {
+      "name": "Bak\u0131xanov Stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.4319642,
+      "lng": 49.9536942,
+      "distance_km": 10.77
+    },
+    {
+      "name": "Bak\u0131xanov",
+      "class": "stop_position",
+      "lat": 40.4319376,
+      "lng": 49.9538442,
+      "distance_km": 10.78
+    },
+    {
+      "name": "L\u00f6kbatan Dair\u0259si",
+      "class": "bus_stop",
+      "lat": 40.3018672,
+      "lng": 49.7629589,
+      "distance_km": 10.97
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4390419,
+      "lng": 49.7573288,
+      "distance_km": 10.99
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4393677,
+      "lng": 49.7572942,
+      "distance_km": 11.02
+    },
+    {
+      "name": "\u041c\u0430\u0440\u0448\u0440\u0443\u0442\u043a\u0438 \u0432 \u0441\u0442\u043e\u0440\u043e\u043d\u0443 \u0413\u043e\u0431\u0443\u0441\u0442\u0430\u043d\u0430",
+      "class": "bus_stop",
+      "lat": 40.3020357,
+      "lng": 49.7616833,
+      "distance_km": 11.03
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4411812,
+      "lng": 49.9483263,
+      "distance_km": 11.09
+    },
+    {
+      "name": "Avtova\u011fzal \\ Bin\u0259 Bazar\u0131",
+      "class": "bus_station",
+      "lat": 40.30320750196076,
+      "lng": 49.75877028627529,
+      "distance_km": 11.12
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4494485,
+      "lng": 49.7667857,
+      "distance_km": 11.26
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.439142,
+      "lng": 49.9540543,
+      "distance_km": 11.3
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4197149,
+      "lng": 49.9714829,
+      "distance_km": 11.3
+    },
+    {
+      "name": "Sabun\u00e7u Stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.4462299,
+      "lng": 49.9464087,
+      "distance_km": 11.37
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4456073,
+      "lng": 49.94718985,
+      "distance_km": 11.37
+    },
+    {
+      "name": "Sabun\u00e7u",
+      "class": "stop_position",
+      "lat": 40.4459779,
+      "lng": 49.9467851,
+      "distance_km": 11.38
+    },
+    {
+      "name": "Sabun\u00e7u",
+      "class": "stop_position",
+      "lat": 40.4461709,
+      "lng": 49.9467051,
+      "distance_km": 11.39
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.44644715,
+      "lng": 49.946371250000006,
+      "distance_km": 11.39
+    },
+    {
+      "name": "L\u0130MAN \u00d6Z\u018fL",
+      "class": "bus_stop",
+      "lat": 40.2975881,
+      "lng": 49.7588868,
+      "distance_km": 11.55
+    },
+    {
+      "name": "Az\u0259r city",
+      "class": "bus_stop",
+      "lat": 40.4512247,
+      "lng": 49.7638877,
+      "distance_km": 11.57
+    },
+    {
+      "name": "142",
+      "class": "bus_stop",
+      "lat": 40.4617394,
+      "lng": 49.7798519,
+      "distance_km": 11.71
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4391381,
+      "lng": 49.9610739,
+      "distance_km": 11.75
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4392678,
+      "lng": 49.961547,
+      "distance_km": 11.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4397282,
+      "lng": 49.9614029,
+      "distance_km": 11.82
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4469385,
+      "lng": 49.7510562,
+      "distance_km": 11.98
+    },
+    {
+      "name": "3. neft m\u04d9d\u04d9ni",
+      "class": "bus_stop",
+      "lat": 40.4584509,
+      "lng": 49.9391482,
+      "distance_km": 12.01
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4461059900828,
+      "lng": 49.74883988294785,
+      "distance_km": 12.05
+    },
+    {
+      "name": "X\u0131rdalan",
+      "class": "stop_position",
+      "lat": 40.4459911,
+      "lng": 49.7486123,
+      "distance_km": 12.06
+    },
+    {
+      "name": "X\u0131rdalan",
+      "class": "stop_position",
+      "lat": 40.4461023,
+      "lng": 49.7486992,
+      "distance_km": 12.06
+    },
+    {
+      "name": "X\u0131rdalan",
+      "class": "stop_position",
+      "lat": 40.4462137,
+      "lng": 49.7486748,
+      "distance_km": 12.07
+    },
+    {
+      "name": "X\u0131rdalan Stansiyas\u0131",
+      "class": "railway_station",
+      "lat": 40.4458169,
+      "lng": 49.7480334,
+      "distance_km": 12.08
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.44608925488434,
+      "lng": 49.748185399220304,
+      "distance_km": 12.09
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4422493,
+      "lng": 49.7434144,
+      "distance_km": 12.11
+    },
+    {
+      "name": "X\u0131rdalan Stansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4476577,
+      "lng": 49.7495816,
+      "distance_km": 12.12
+    },
+    {
+      "name": "X\u0131rdalan Stansiyas\u0131",
+      "class": "bus_stop",
+      "lat": 40.4477645,
+      "lng": 49.7497875,
+      "distance_km": 12.12
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4555259,
+      "lng": 49.7577906,
+      "distance_km": 12.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 40.4377362,
+      "lng": 49.9701628,
+      "distance_km": 12.27
+    },
+    {
+      "name": "Dayanacaq 119 135 596 592 523",
+      "class": "bus_stop",
+      "lat": 40.4490861,
+      "lng": 49.7477618,
+      "distance_km": 12.34
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 40.4597745,
+      "lng": 49.7559514,
+      "distance_km": 12.73
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4520057,
+      "lng": 49.7425999,
+      "distance_km": 12.88
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4543592,
+      "lng": 49.7454985,
+      "distance_km": 12.89
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4523026,
+      "lng": 49.7425726,
+      "distance_km": 12.91
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4548046,
+      "lng": 49.7450307,
+      "distance_km": 12.95
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4555294,
+      "lng": 49.7438612,
+      "distance_km": 13.08
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4542718,
+      "lng": 49.7390457,
+      "distance_km": 13.28
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4544604,
+      "lng": 49.7391067,
+      "distance_km": 13.29
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4545861,
+      "lng": 49.7388865,
+      "distance_km": 13.31
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4554413,
+      "lng": 49.7374982,
+      "distance_km": 13.46
+    },
+    {
+      "name": "Dayanacaq",
+      "class": "bus_stop",
+      "lat": 40.4553134,
+      "lng": 49.7372992,
+      "distance_km": 13.46
+    }
+  ],
   "overture_release": "2026-08-19.0"
 }

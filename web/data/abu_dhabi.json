@@ -2908,5 +2908,1022 @@
       "food_group": "restaurant"
     }
   ],
+  "transit": [
+    {
+      "name": "Marina Circuit North Bus Stop",
+      "class": "bus_stop",
+      "lat": 24.4775717,
+      "lng": 54.6028337,
+      "distance_km": 1.15
+    },
+    {
+      "name": "Bus Stop 19604A",
+      "class": "bus_stop",
+      "lat": 24.4790595,
+      "lng": 54.603932,
+      "distance_km": 1.32
+    },
+    {
+      "name": "Bus Stop",
+      "class": "bus_stop",
+      "lat": 24.4824808,
+      "lng": 54.6032946,
+      "distance_km": 1.7
+    },
+    {
+      "name": "Al Zeina",
+      "class": "bus_stop",
+      "lat": 24.4567569,
+      "lng": 54.6157225,
+      "distance_km": 1.73
+    },
+    {
+      "name": "Al Zeina",
+      "class": "bus_stop",
+      "lat": 24.4566705,
+      "lng": 54.6169383,
+      "distance_km": 1.83
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4842576,
+      "lng": 54.6030107,
+      "distance_km": 1.9
+    },
+    {
+      "name": "Water Taxi Stop",
+      "class": "ferry_terminal",
+      "lat": 24.4520397,
+      "lng": 54.6120972,
+      "distance_km": 1.92
+    },
+    {
+      "name": "Al Muneera",
+      "class": "bus_stop",
+      "lat": 24.4493453,
+      "lng": 54.6054748,
+      "distance_km": 2.0
+    },
+    {
+      "name": "Yas Mall",
+      "class": "bus_stop",
+      "lat": 24.4852524,
+      "lng": 54.607336,
+      "distance_km": 2.05
+    },
+    {
+      "name": "Bus stop line 102",
+      "class": "bus_stop",
+      "lat": 24.4870005,
+      "lng": 54.6052975,
+      "distance_km": 2.21
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4826079,
+      "lng": 54.6175045,
+      "distance_km": 2.25
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4878006,
+      "lng": 54.5969439,
+      "distance_km": 2.37
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.443899,
+      "lng": 54.6094953,
+      "distance_km": 2.67
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4455522,
+      "lng": 54.6152468,
+      "distance_km": 2.7
+    },
+    {
+      "name": "Big bus - green line stop 16",
+      "class": "bus_stop",
+      "lat": 24.4912453,
+      "lng": 54.6098696,
+      "distance_km": 2.76
+    },
+    {
+      "name": "yas",
+      "class": "bus_stop",
+      "lat": 24.4926117,
+      "lng": 54.6028311,
+      "distance_km": 2.83
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.490509,
+      "lng": 54.6146576,
+      "distance_km": 2.84
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4844838,
+      "lng": 54.6239777,
+      "distance_km": 2.86
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4397885,
+      "lng": 54.5975441,
+      "distance_km": 3.1
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4862141,
+      "lng": 54.6282299,
+      "distance_km": 3.31
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 24.4499228,
+      "lng": 54.6312495,
+      "distance_km": 3.44
+    },
+    {
+      "name": "A1, A2 first stop",
+      "class": "bus_stop",
+      "lat": 24.4496599,
+      "lng": 54.6312329,
+      "distance_km": 3.45
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4354748,
+      "lng": 54.5987654,
+      "distance_km": 3.55
+    },
+    {
+      "name": "K6",
+      "class": "bus_stop",
+      "lat": 24.4351506,
+      "lng": 54.6030446,
+      "distance_km": 3.56
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4997314,
+      "lng": 54.6027192,
+      "distance_km": 3.62
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4920688,
+      "lng": 54.6274306,
+      "distance_km": 3.7
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4330522,
+      "lng": 54.6041068,
+      "distance_km": 3.8
+    },
+    {
+      "name": "Masdar",
+      "class": "bus_stop",
+      "lat": 24.4365192,
+      "lng": 54.6200095,
+      "distance_km": 3.82
+    },
+    {
+      "name": "Masdar Institute",
+      "class": "bus_stop",
+      "lat": 24.4348507,
+      "lng": 54.6167989,
+      "distance_km": 3.86
+    },
+    {
+      "name": "Masdar PRT Station Car Park",
+      "class": "railway_station",
+      "lat": 24.4354997,
+      "lng": 54.6193557,
+      "distance_km": 3.89
+    },
+    {
+      "name": "PRT Line",
+      "class": "railway_station",
+      "lat": 24.4334357,
+      "lng": 54.6174086,
+      "distance_km": 4.02
+    },
+    {
+      "name": "Terminal A",
+      "class": "bus_stop",
+      "lat": 24.4538079,
+      "lng": 54.6403169,
+      "distance_km": 4.05
+    },
+    {
+      "name": "Airport Express Bus",
+      "class": "bus_stop",
+      "lat": 24.4538151,
+      "lng": 54.6404722,
+      "distance_km": 4.06
+    },
+    {
+      "name": "Terminal A",
+      "class": "bus_stop",
+      "lat": 24.4538159,
+      "lng": 54.6406357,
+      "distance_km": 4.08
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.506718,
+      "lng": 54.5984236,
+      "distance_km": 4.42
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.43265,
+      "lng": 54.5745132,
+      "distance_km": 4.81
+    },
+    {
+      "name": "161; 218",
+      "class": "bus_stop",
+      "lat": 24.4213026,
+      "lng": 54.5923562,
+      "distance_km": 5.22
+    },
+    {
+      "name": "161; 218",
+      "class": "bus_stop",
+      "lat": 24.4201803,
+      "lng": 54.5928833,
+      "distance_km": 5.33
+    },
+    {
+      "name": "Airport Express Bus",
+      "class": "bus_stop",
+      "lat": 24.4267472,
+      "lng": 54.6451106,
+      "distance_km": 6.19
+    },
+    {
+      "name": "Abu Dhabi International Airport Terminal 1+3",
+      "class": "bus_stop",
+      "lat": 24.4266087,
+      "lng": 54.6452774,
+      "distance_km": 6.21
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 24.426567,
+      "lng": 54.645201,
+      "distance_km": 6.21
+    },
+    {
+      "name": "Abu Dhabi Int'l Airport Terminal 1+3",
+      "class": "bus_stop",
+      "lat": 24.4264869,
+      "lng": 54.6451777,
+      "distance_km": 6.22
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 24.4262526,
+      "lng": 54.6457818,
+      "distance_km": 6.28
+    },
+    {
+      "name": "Abu Dhabi Int'l Airport Terminal 1+3",
+      "class": "bus_stop",
+      "lat": 24.4261831,
+      "lng": 54.6457103,
+      "distance_km": 6.28
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4727556,
+      "lng": 54.6700335,
+      "distance_km": 6.8
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4728555,
+      "lng": 54.6704234,
+      "distance_km": 6.84
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4575333,
+      "lng": 54.671749,
+      "distance_km": 7.03
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4575675,
+      "lng": 54.6721761,
+      "distance_km": 7.07
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4604891,
+      "lng": 54.6731055,
+      "distance_km": 7.12
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4606569,
+      "lng": 54.6733043,
+      "distance_km": 7.14
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4544899,
+      "lng": 54.6724289,
+      "distance_km": 7.16
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4542464,
+      "lng": 54.6725349,
+      "distance_km": 7.17
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4553612,
+      "lng": 54.674636,
+      "distance_km": 7.36
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4079143,
+      "lng": 54.5704602,
+      "distance_km": 7.37
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4552202,
+      "lng": 54.6748197,
+      "distance_km": 7.38
+    },
+    {
+      "name": "Al Naham St",
+      "class": "bus_stop",
+      "lat": 24.516509,
+      "lng": 54.6618399,
+      "distance_km": 8.09
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.5171593,
+      "lng": 54.6641116,
+      "distance_km": 8.31
+    },
+    {
+      "name": "ADNOC",
+      "class": "bus_stop",
+      "lat": 24.5211525,
+      "lng": 54.6703833,
+      "distance_km": 9.07
+    },
+    {
+      "name": "\u062f\u064a\u0631\u0641\u064a\u0644\u062f\u0632 \u0645\u0648\u0644",
+      "class": "bus_stop",
+      "lat": 24.5235288,
+      "lng": 54.6724098,
+      "distance_km": 9.4
+    },
+    {
+      "name": "Deerfields Mall",
+      "class": "bus_stop",
+      "lat": 24.524503,
+      "lng": 54.6733984,
+      "distance_km": 9.55
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.528112,
+      "lng": 54.6761733,
+      "distance_km": 10.03
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.5331576,
+      "lng": 54.676942,
+      "distance_km": 10.47
+    },
+    {
+      "name": "Al Shahama School",
+      "class": "bus_stop",
+      "lat": 24.5415141,
+      "lng": 54.6765143,
+      "distance_km": 11.11
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.53089,
+      "lng": 54.6912236,
+      "distance_km": 11.39
+    },
+    {
+      "name": "Emirates Park Zoo",
+      "class": "bus_stop",
+      "lat": 24.5448797,
+      "lng": 54.676885,
+      "distance_km": 11.42
+    },
+    {
+      "name": "Civil Defence",
+      "class": "bus_stop",
+      "lat": 24.5416539,
+      "lng": 54.6829017,
+      "distance_km": 11.56
+    },
+    {
+      "name": "54",
+      "class": "bus_stop",
+      "lat": 24.418107,
+      "lng": 54.5006358,
+      "distance_km": 11.72
+    },
+    {
+      "name": "54 last",
+      "class": "bus_stop",
+      "lat": 24.4175809,
+      "lng": 54.5004714,
+      "distance_km": 11.76
+    },
+    {
+      "name": "54",
+      "class": "bus_stop",
+      "lat": 24.419928,
+      "lng": 54.497395,
+      "distance_km": 11.92
+    },
+    {
+      "name": "54",
+      "class": "bus_stop",
+      "lat": 24.419794,
+      "lng": 54.4973214,
+      "distance_km": 11.93
+    },
+    {
+      "name": "Bus no 21",
+      "class": "bus_stop",
+      "lat": 24.4069358,
+      "lng": 54.505417,
+      "distance_km": 11.95
+    },
+    {
+      "name": "Zayed City - ADU Main Gate",
+      "class": "bus_stop",
+      "lat": 24.3656283,
+      "lng": 54.5622991,
+      "distance_km": 12.03
+    },
+    {
+      "name": "Bus to Saudi Arabia",
+      "class": "bus_stop",
+      "lat": 24.5400762,
+      "lng": 54.6922452,
+      "distance_km": 12.13
+    },
+    {
+      "name": "54",
+      "class": "bus_stop",
+      "lat": 24.4189608,
+      "lng": 54.4955226,
+      "distance_km": 12.14
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 24.547857800000003,
+      "lng": 54.6844552,
+      "distance_km": 12.17
+    },
+    {
+      "name": "Shahama",
+      "class": "bus_station",
+      "lat": 24.5484169,
+      "lng": 54.6850928,
+      "distance_km": 12.26
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 24.3643341,
+      "lng": 54.5591711,
+      "distance_km": 12.27
+    },
+    {
+      "name": "ADNOC / Al Shaghameem St",
+      "class": "bus_stop",
+      "lat": 24.3642777,
+      "lng": 54.5591154,
+      "distance_km": 12.28
+    },
+    {
+      "name": "54",
+      "class": "bus_stop",
+      "lat": 24.4205447,
+      "lng": 54.4920472,
+      "distance_km": 12.38
+    },
+    {
+      "name": "54",
+      "class": "bus_stop",
+      "lat": 24.4204569,
+      "lng": 54.4919585,
+      "distance_km": 12.39
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3738869,
+      "lng": 54.533,
+      "distance_km": 12.57
+    },
+    {
+      "name": "Bus Stop to Abu Dhabi",
+      "class": "bus_stop",
+      "lat": 24.3715222,
+      "lng": 54.5366149,
+      "distance_km": 12.59
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3717043,
+      "lng": 54.5362402,
+      "distance_km": 12.59
+    },
+    {
+      "name": "Khaleej Al Arabi St / Bus Interchange",
+      "class": "bus_stop",
+      "lat": 24.4008664,
+      "lng": 54.4969921,
+      "distance_km": 13.03
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 24.4008018,
+      "lng": 54.4969758,
+      "distance_km": 13.04
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 24.4000191,
+      "lng": 54.4969047,
+      "distance_km": 13.09
+    },
+    {
+      "name": "Khaleej Al Arabi St / Bus Interchange",
+      "class": "bus_stop",
+      "lat": 24.3999177,
+      "lng": 54.4968777,
+      "distance_km": 13.1
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 24.564016574378712,
+      "lng": 54.681431366006976,
+      "distance_km": 13.37
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.564033,
+      "lng": 54.681608,
+      "distance_km": 13.38
+    },
+    {
+      "name": "M2",
+      "class": "bus_stop",
+      "lat": 24.3820332,
+      "lng": 54.508243,
+      "distance_km": 13.49
+    },
+    {
+      "name": "111",
+      "class": "bus_stop",
+      "lat": 24.3799954,
+      "lng": 54.5104573,
+      "distance_km": 13.49
+    },
+    {
+      "name": "Mussafah ADNOC ... - 111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.365494,
+      "lng": 54.5247385,
+      "distance_km": 13.81
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.5645953,
+      "lng": 54.6878583,
+      "distance_km": 13.81
+    },
+    {
+      "name": "Mussafah St 8 Emirates Islamic Bank - 111, M1, M2, M3, M4, M5",
+      "class": "bus_stop",
+      "lat": 24.3731444,
+      "lng": 54.5134541,
+      "distance_km": 13.85
+    },
+    {
+      "name": "Mussafah St10 ... - 111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.3692841,
+      "lng": 54.5182231,
+      "distance_km": 13.87
+    },
+    {
+      "name": "111",
+      "class": "bus_stop",
+      "lat": 24.3749995,
+      "lng": 54.510665,
+      "distance_km": 13.88
+    },
+    {
+      "name": "Free airport shuttle",
+      "class": "bus_stop",
+      "lat": 24.4122839,
+      "lng": 54.4797897,
+      "distance_km": 13.9
+    },
+    {
+      "name": "\u0427\u0430\u0441\u0442\u043d\u044b\u0435 \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438",
+      "class": "bus_station",
+      "lat": 24.3729923,
+      "lng": 54.5118767,
+      "distance_km": 13.97
+    },
+    {
+      "name": "Mussafah Mar Thoma Church - 111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.3645489,
+      "lng": 54.5211378,
+      "distance_km": 14.11
+    },
+    {
+      "name": "Mussafah St 15 Emirates Transport - 111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.3709477,
+      "lng": 54.5113344,
+      "distance_km": 14.17
+    },
+    {
+      "name": "Mussafah St 10... - 111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.3690593,
+      "lng": 54.5136403,
+      "distance_km": 14.18
+    },
+    {
+      "name": "111",
+      "class": "bus_stop",
+      "lat": 24.370969,
+      "lng": 54.5108542,
+      "distance_km": 14.2
+    },
+    {
+      "name": "111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.368583,
+      "lng": 54.5138445,
+      "distance_km": 14.21
+    },
+    {
+      "name": "Bus stop A18 - Free shuttle to airport",
+      "class": "bus_stop",
+      "lat": 24.4084556,
+      "lng": 54.4759341,
+      "distance_km": 14.44
+    },
+    {
+      "name": "Bus Stop Line 94 (turn)",
+      "class": "bus_stop",
+      "lat": 24.408533,
+      "lng": 54.4758837,
+      "distance_km": 14.44
+    },
+    {
+      "name": "94",
+      "class": "bus_stop",
+      "lat": 24.4084276,
+      "lng": 54.475899,
+      "distance_km": 14.44
+    },
+    {
+      "name": "Bus 94 to city",
+      "class": "bus_stop",
+      "lat": 24.4084056,
+      "lng": 54.4759186,
+      "distance_km": 14.44
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.372705,
+      "lng": 54.5052365,
+      "distance_km": 14.44
+    },
+    {
+      "name": "Big bus - green line stop 17",
+      "class": "bus_stop",
+      "lat": 24.4087837,
+      "lng": 54.4753085,
+      "distance_km": 14.48
+    },
+    {
+      "name": "Mussafah St 17 Workers Village - 111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.3619492,
+      "lng": 54.5167343,
+      "distance_km": 14.61
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3601384,
+      "lng": 54.5182448,
+      "distance_km": 14.68
+    },
+    {
+      "name": "M1, M2 Bus Stop",
+      "class": "bus_stop",
+      "lat": 24.3429209,
+      "lng": 54.5533669,
+      "distance_km": 14.71
+    },
+    {
+      "name": "M1, M2 Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3427523,
+      "lng": 54.5537707,
+      "distance_km": 14.71
+    },
+    {
+      "name": "Saif Ghobash/Sheikh Zayed Grand Mosque",
+      "class": "bus_stop",
+      "lat": 24.4134543,
+      "lng": 54.469808,
+      "distance_km": 14.76
+    },
+    {
+      "name": "94",
+      "class": "bus_stop",
+      "lat": 24.4134313,
+      "lng": 54.4698142,
+      "distance_km": 14.76
+    },
+    {
+      "name": "054,300",
+      "class": "bus_stop",
+      "lat": 24.4132112,
+      "lng": 54.4694668,
+      "distance_km": 14.8
+    },
+    {
+      "name": "Saif Ghobash/Sheikh Zayed Grand Mosque",
+      "class": "bus_stop",
+      "lat": 24.4132057,
+      "lng": 54.4694334,
+      "distance_km": 14.8
+    },
+    {
+      "name": "21, 22, 23,44,94,103,161,175,x4, x5",
+      "class": "bus_stop",
+      "lat": 24.4132252,
+      "lng": 54.4694506,
+      "distance_km": 14.8
+    },
+    {
+      "name": "M4",
+      "class": "bus_stop",
+      "lat": 24.3728753,
+      "lng": 54.4962202,
+      "distance_km": 15.07
+    },
+    {
+      "name": "Saif Ghobash/Ministry Of Interior",
+      "class": "bus_stop",
+      "lat": 24.4142978,
+      "lng": 54.4654925,
+      "distance_km": 15.12
+    },
+    {
+      "name": "94",
+      "class": "bus_stop",
+      "lat": 24.4143096,
+      "lng": 54.465477,
+      "distance_km": 15.12
+    },
+    {
+      "name": "Saif Ghobash/Ministry Of Interior",
+      "class": "bus_stop",
+      "lat": 24.4140527,
+      "lng": 54.4652289,
+      "distance_km": 15.16
+    },
+    {
+      "name": "Soccer School Academy",
+      "class": "bus_stop",
+      "lat": 24.4207532,
+      "lng": 54.4621259,
+      "distance_km": 15.18
+    },
+    {
+      "name": "MBZ CITY St 79, Mazyad Mall - M4",
+      "class": "bus_stop",
+      "lat": 24.3723802,
+      "lng": 54.4950885,
+      "distance_km": 15.19
+    },
+    {
+      "name": "Khalifa Park - Soccer School Academy (040)",
+      "class": "bus_stop",
+      "lat": 24.4204634,
+      "lng": 54.4616689,
+      "distance_km": 15.23
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3659285,
+      "lng": 54.5013173,
+      "distance_km": 15.26
+    },
+    {
+      "name": "Street 35/Ministry Of Interior",
+      "class": "bus_stop",
+      "lat": 24.4134638,
+      "lng": 54.4642288,
+      "distance_km": 15.28
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.4218938,
+      "lng": 54.4596384,
+      "distance_km": 15.37
+    },
+    {
+      "name": "Almansoori office",
+      "class": "bus_stop",
+      "lat": 24.3815238,
+      "lng": 54.4838312,
+      "distance_km": 15.38
+    },
+    {
+      "name": "Saif Ghobash/Al Noor Hospital",
+      "class": "bus_stop",
+      "lat": 24.4159043,
+      "lng": 54.4614733,
+      "distance_km": 15.43
+    },
+    {
+      "name": "94",
+      "class": "bus_stop",
+      "lat": 24.4164958,
+      "lng": 54.4610691,
+      "distance_km": 15.44
+    },
+    {
+      "name": "Saif Ghobash/Al Noor Hospital",
+      "class": "bus_stop",
+      "lat": 24.4165006,
+      "lng": 54.4610599,
+      "distance_km": 15.44
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3595096,
+      "lng": 54.5036853,
+      "distance_km": 15.64
+    },
+    {
+      "name": "Saif Ghobash/Zayed Sports Stadium",
+      "class": "bus_stop",
+      "lat": 24.4188135,
+      "lng": 54.4577823,
+      "distance_km": 15.66
+    },
+    {
+      "name": "Saif Ghobash/Zayed Sports Stadium",
+      "class": "bus_stop",
+      "lat": 24.4187622,
+      "lng": 54.4573156,
+      "distance_km": 15.71
+    },
+    {
+      "name": "Zayed Sport Stadium",
+      "class": "bus_stop",
+      "lat": 24.4186297,
+      "lng": 54.4561974,
+      "distance_km": 15.82
+    },
+    {
+      "name": "94",
+      "class": "bus_stop",
+      "lat": 24.4210004,
+      "lng": 54.4546897,
+      "distance_km": 15.88
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3365282,
+      "lng": 54.5383394,
+      "distance_km": 15.94
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3461099,
+      "lng": 54.5146865,
+      "distance_km": 16.17
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 24.3427249,
+      "lng": 54.5175058,
+      "distance_km": 16.33
+    },
+    {
+      "name": "Abu Dhabi Passenger Station",
+      "class": "railway_station",
+      "lat": 24.333607,
+      "lng": 54.5293364,
+      "distance_km": 16.63
+    },
+    {
+      "name": "Adnoc Free Bus",
+      "class": "bus_stop",
+      "lat": 24.3340009,
+      "lng": 54.526479,
+      "distance_km": 16.72
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.3455457,
+      "lng": 54.5000245,
+      "distance_km": 17.09
+    },
+    {
+      "name": "Emirates transport",
+      "class": "bus_station",
+      "lat": 24.3532667,
+      "lng": 54.4835437,
+      "distance_km": 17.52
+    },
+    {
+      "name": "icad",
+      "class": "bus_stop",
+      "lat": 24.3395948,
+      "lng": 54.4906987,
+      "distance_km": 18.19
+    }
+  ],
   "overture_release": "2026-08-19.0"
 }

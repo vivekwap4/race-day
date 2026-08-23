@@ -6121,5 +6121,1841 @@
       "food_group": "cafe"
     }
   ],
+  "transit": [
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.8486681,
+      "lng": 136.5392734,
+      "distance_km": 0.64
+    },
+    {
+      "name": "\u9234\u9e7f\u30b5\u30fc\u30ad\u30c3\u30c8\u7a32\u751f",
+      "class": "railway_station",
+      "lat": 34.8409091,
+      "lng": 136.5548732,
+      "distance_km": 1.29
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.82616303313087,
+      "lng": 136.5440518770487,
+      "distance_km": 1.9
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.826162000000004,
+      "lng": 136.54393364999999,
+      "distance_km": 1.9
+    },
+    {
+      "name": "\u5fb3\u7530",
+      "class": "railway_station",
+      "lat": 34.8261238,
+      "lng": 136.5439505,
+      "distance_km": 1.91
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.855076361912644,
+      "lng": 136.57002373142774,
+      "distance_km": 2.96
+    },
+    {
+      "name": "\u7389\u57a3",
+      "class": "railway_station",
+      "lat": 34.8553366,
+      "lng": 136.5701318,
+      "distance_km": 2.99
+    },
+    {
+      "name": "\u77f3\u57a3\u6c60\u516c\u5712",
+      "class": "bus_stop",
+      "lat": 34.8607624,
+      "lng": 136.5705178,
+      "distance_km": 3.33
+    },
+    {
+      "name": "\u77f3\u57a3\u6c60\u516c\u5712",
+      "class": "bus_stop",
+      "lat": 34.8608082,
+      "lng": 136.5705558,
+      "distance_km": 3.34
+    },
+    {
+      "name": "\u685c\u5cf6\u516c\u5712\u53e3",
+      "class": "bus_stop",
+      "lat": 34.8547767,
+      "lng": 136.5748999,
+      "distance_km": 3.35
+    },
+    {
+      "name": "\u685c\u5cf6\u516c\u5712\u53e3",
+      "class": "bus_stop",
+      "lat": 34.8549453,
+      "lng": 136.5750727,
+      "distance_km": 3.38
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.8125211836283,
+      "lng": 136.54313852048833,
+      "distance_km": 3.41
+    },
+    {
+      "name": "\u4e2d\u702c\u53e4",
+      "class": "railway_station",
+      "lat": 34.81247,
+      "lng": 136.5430633,
+      "distance_km": 3.41
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.81236698249611,
+      "lng": 136.54304467309032,
+      "distance_km": 3.42
+    },
+    {
+      "name": "\u5e73\u7530\u753a",
+      "class": "stop_position",
+      "lat": 34.8749426,
+      "lng": 136.5418986,
+      "distance_km": 3.54
+    },
+    {
+      "name": "\u5e73\u7530\u753a",
+      "class": "railway_station",
+      "lat": 34.8749182,
+      "lng": 136.5419134,
+      "distance_km": 3.54
+    },
+    {
+      "name": "\u685c\u5cf6\u4e94\u4e01\u76ee",
+      "class": "bus_stop",
+      "lat": 34.8589285,
+      "lng": 136.5760842,
+      "distance_km": 3.65
+    },
+    {
+      "name": "\u685c\u5cf6\u4e94\u4e01\u76ee",
+      "class": "bus_stop",
+      "lat": 34.8588848,
+      "lng": 136.5760721,
+      "distance_km": 3.65
+    },
+    {
+      "name": "\u9234\u9e7f\u4e2d\u592e\u7dcf\u5408\u75c5\u9662",
+      "class": "bus_stop",
+      "lat": 34.8662693,
+      "lng": 136.5706055,
+      "distance_km": 3.73
+    },
+    {
+      "name": "\u685c\u5cf6\u56db\u4e01\u76ee",
+      "class": "bus_stop",
+      "lat": 34.8581365,
+      "lng": 136.5782048,
+      "distance_km": 3.78
+    },
+    {
+      "name": "\u30a2\u30d4\u30bf\u9234\u9e7f\u5e97",
+      "class": "bus_stop",
+      "lat": 34.8540292,
+      "lng": 136.581243,
+      "distance_km": 3.87
+    },
+    {
+      "name": "\u30a2\u30d4\u30bf\u9234\u9e7f\u5e97",
+      "class": "bus_stop",
+      "lat": 34.8540833,
+      "lng": 136.5811932,
+      "distance_km": 3.87
+    },
+    {
+      "name": "\u685c\u5cf6\u56db\u4e01\u76ee",
+      "class": "bus_stop",
+      "lat": 34.8578433,
+      "lng": 136.5794665,
+      "distance_km": 3.87
+    },
+    {
+      "name": "\u9234\u9e7f\u5927\u5b66",
+      "class": "bus_stop",
+      "lat": 34.808128,
+      "lng": 136.5397798,
+      "distance_km": 3.89
+    },
+    {
+      "name": "\u9234\u9e7f\u5927\u5b66",
+      "class": "bus_stop",
+      "lat": 34.8079142,
+      "lng": 136.5403352,
+      "distance_km": 3.91
+    },
+    {
+      "name": "\u30b6\u30eb\u6c60",
+      "class": "bus_stop",
+      "lat": 34.8665034,
+      "lng": 136.5733596,
+      "distance_km": 3.94
+    },
+    {
+      "name": "\u30b6\u30eb\u6c60",
+      "class": "bus_stop",
+      "lat": 34.8667547,
+      "lng": 136.5734712,
+      "distance_km": 3.96
+    },
+    {
+      "name": "\u30d5\u30ea\u30fc\u56e3\u5730\u897f",
+      "class": "bus_stop",
+      "lat": 34.8063651,
+      "lng": 136.5456465,
+      "distance_km": 4.11
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.826242671031075,
+      "lng": 136.58120785607193,
+      "distance_km": 4.12
+    },
+    {
+      "name": "\u9f13\u30f6\u6d66",
+      "class": "railway_station",
+      "lat": 34.8261649,
+      "lng": 136.5811896,
+      "distance_km": 4.12
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.82614616621759,
+      "lng": 136.5812712278274,
+      "distance_km": 4.13
+    },
+    {
+      "name": "Train station",
+      "class": "railway_station",
+      "lat": 34.82599534808422,
+      "lng": 136.58121959985266,
+      "distance_km": 4.13
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.8259378,
+      "lng": 136.5812178,
+      "distance_km": 4.14
+    },
+    {
+      "name": "\u56e3\u5730\u30bb\u30f3\u30bf\u30fc\u524d\uff08\u5343\u91cc\u30f6\u4e18\uff09",
+      "class": "bus_stop",
+      "lat": 34.805954,
+      "lng": 136.547123,
+      "distance_km": 4.17
+    },
+    {
+      "name": "\u56e3\u5730\u30bb\u30f3\u30bf\u30fc\u524d\uff08\u5343\u91cc\u30f6\u4e18\uff09",
+      "class": "bus_stop",
+      "lat": 34.8058463,
+      "lng": 136.5470572,
+      "distance_km": 4.18
+    },
+    {
+      "name": "\u78ef\u5c71",
+      "class": "railway_station",
+      "lat": 34.8125475,
+      "lng": 136.5687679,
+      "distance_km": 4.24
+    },
+    {
+      "name": "\u7389\u57a3",
+      "class": "bus_stop",
+      "lat": 34.8559519,
+      "lng": 136.5854226,
+      "distance_km": 4.3
+    },
+    {
+      "name": "\u7389\u57a3",
+      "class": "bus_stop",
+      "lat": 34.8559827,
+      "lng": 136.5855664,
+      "distance_km": 4.31
+    },
+    {
+      "name": "\u9234\u9e7f\u8b66\u5bdf",
+      "class": "bus_stop",
+      "lat": 34.8476526,
+      "lng": 136.589248,
+      "distance_km": 4.43
+    },
+    {
+      "name": "\u9234\u9e7f\u8b66\u5bdf",
+      "class": "bus_stop",
+      "lat": 34.8476548,
+      "lng": 136.589459,
+      "distance_km": 4.45
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.83358834736023,
+      "lng": 136.58908718392723,
+      "distance_km": 4.51
+    },
+    {
+      "name": "\uff11\u756a\u306e\u308a\u3070",
+      "class": "bus_stop",
+      "lat": 34.8341463,
+      "lng": 136.5892674,
+      "distance_km": 4.52
+    },
+    {
+      "name": "2\u756a\u306e\u308a\u3070",
+      "class": "bus_stop",
+      "lat": 34.8342295,
+      "lng": 136.5893623,
+      "distance_km": 4.52
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.83354845028605,
+      "lng": 136.58921037656717,
+      "distance_km": 4.53
+    },
+    {
+      "name": "\u767d\u5b50",
+      "class": "railway_station",
+      "lat": 34.83411,
+      "lng": 136.5895702,
+      "distance_km": 4.54
+    },
+    {
+      "name": "\u4e09\u65e5\u5e02",
+      "class": "railway_station",
+      "lat": 34.8801965,
+      "lng": 136.5620307,
+      "distance_km": 4.55
+    },
+    {
+      "name": "\u4e09\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.880221,
+      "lng": 136.5620218,
+      "distance_km": 4.55
+    },
+    {
+      "name": "\u767d\u5b50",
+      "class": "railway_station",
+      "lat": 34.8340518,
+      "lng": 136.5896509,
+      "distance_km": 4.55
+    },
+    {
+      "name": "\u767d\u5b50",
+      "class": "railway_station",
+      "lat": 34.8340915,
+      "lng": 136.5896304,
+      "distance_km": 4.55
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.83426160376882,
+      "lng": 136.58978447516162,
+      "distance_km": 4.56
+    },
+    {
+      "name": "\u767d\u5b50",
+      "class": "railway_station",
+      "lat": 34.8339719,
+      "lng": 136.5897513,
+      "distance_km": 4.56
+    },
+    {
+      "name": "\u767d\u5b50",
+      "class": "railway_station",
+      "lat": 34.8340333,
+      "lng": 136.5896775,
+      "distance_km": 4.56
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.83414369584382,
+      "lng": 136.58984912427582,
+      "distance_km": 4.57
+    },
+    {
+      "name": "\u5357\u7389\u57a3",
+      "class": "bus_stop",
+      "lat": 34.8536389,
+      "lng": 136.589654,
+      "distance_km": 4.59
+    },
+    {
+      "name": "\u897f\u7389\u57a3",
+      "class": "bus_stop",
+      "lat": 34.8614199,
+      "lng": 136.5862451,
+      "distance_km": 4.6
+    },
+    {
+      "name": "\u767d\u5b50\u30b5\u30f3\u30ba",
+      "class": "bus_stop",
+      "lat": 34.8373086,
+      "lng": 136.5909589,
+      "distance_km": 4.6
+    },
+    {
+      "name": "\u5357\u7389\u57a3",
+      "class": "bus_stop",
+      "lat": 34.853627,
+      "lng": 136.5898861,
+      "distance_km": 4.61
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.83726,
+      "lng": 136.5910022,
+      "distance_km": 4.61
+    },
+    {
+      "name": "\u5b89\u585a",
+      "class": "bus_stop",
+      "lat": 34.8682095,
+      "lng": 136.5816902,
+      "distance_km": 4.65
+    },
+    {
+      "name": "\u4f0a\u52e2\u4e0a\u91ce",
+      "class": "railway_station",
+      "lat": 34.8003917,
+      "lng": 136.5424613,
+      "distance_km": 4.75
+    },
+    {
+      "name": "\u6c5f\u5cf6\u56e3\u5730",
+      "class": "bus_stop",
+      "lat": 34.8441432,
+      "lng": 136.5932149,
+      "distance_km": 4.77
+    },
+    {
+      "name": "\u4f53\u80b2\u9928\u524d",
+      "class": "bus_stop",
+      "lat": 34.8408185,
+      "lng": 136.5933525,
+      "distance_km": 4.78
+    },
+    {
+      "name": "\u4f53\u80b2\u9928\u524d",
+      "class": "bus_stop",
+      "lat": 34.8408402,
+      "lng": 136.5932943,
+      "distance_km": 4.78
+    },
+    {
+      "name": "\u6c5f\u5cf6\u56e3\u5730",
+      "class": "bus_stop",
+      "lat": 34.8441586,
+      "lng": 136.5933222,
+      "distance_km": 4.78
+    },
+    {
+      "name": "\u685c\u30f6\u4e18",
+      "class": "bus_stop",
+      "lat": 34.8428884,
+      "lng": 136.5949986,
+      "distance_km": 4.93
+    },
+    {
+      "name": "\u685c\u30f6\u4e18",
+      "class": "bus_stop",
+      "lat": 34.8429633,
+      "lng": 136.5950013,
+      "distance_km": 4.93
+    },
+    {
+      "name": "\u5343\u91cc",
+      "class": "railway_station",
+      "lat": 34.7990234,
+      "lng": 136.5566424,
+      "distance_km": 5.1
+    },
+    {
+      "name": "Train halt",
+      "class": "railway_halt",
+      "lat": 34.799036582055564,
+      "lng": 136.5568478245494,
+      "distance_km": 5.11
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.79859646477763,
+      "lng": 136.5563550207272,
+      "distance_km": 5.14
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.79863196037627,
+      "lng": 136.5562427327599,
+      "distance_km": 5.14
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.86836722907599,
+      "lng": 136.4926605909505,
+      "distance_km": 5.23
+    },
+    {
+      "name": "\u4e95\u7530\u5ddd",
+      "class": "stop_position",
+      "lat": 34.8683037,
+      "lng": 136.4925617,
+      "distance_km": 5.23
+    },
+    {
+      "name": "\u4e95\u7530\u5ddd",
+      "class": "stop_position",
+      "lat": 34.8683277,
+      "lng": 136.4925187,
+      "distance_km": 5.24
+    },
+    {
+      "name": "\u4e95\u7530\u5ddd",
+      "class": "railway_station",
+      "lat": 34.8683434,
+      "lng": 136.492566,
+      "distance_km": 5.24
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.86821380866804,
+      "lng": 136.49237319653392,
+      "distance_km": 5.24
+    },
+    {
+      "name": "\u52a0\u4f50\u767b",
+      "class": "stop_position",
+      "lat": 34.890339,
+      "lng": 136.5303139,
+      "distance_km": 5.34
+    },
+    {
+      "name": "\u52a0\u4f50\u767b",
+      "class": "stop_position",
+      "lat": 34.8904189,
+      "lng": 136.5302934,
+      "distance_km": 5.35
+    },
+    {
+      "name": "\u52a0\u4f50\u767b",
+      "class": "railway_station",
+      "lat": 34.8905281,
+      "lng": 136.5302959,
+      "distance_km": 5.36
+    },
+    {
+      "name": "\u52a0\u4f50\u767b",
+      "class": "stop_position",
+      "lat": 34.8904546,
+      "lng": 136.5302897,
+      "distance_km": 5.36
+    },
+    {
+      "name": "\u9053\u306e\u99c5\u6d25\u304b\u308f\u3052",
+      "class": "bus_stop",
+      "lat": 34.7972423,
+      "lng": 136.5177661,
+      "distance_km": 5.52
+    },
+    {
+      "name": "\u9234\u9e7f",
+      "class": "railway_station",
+      "lat": 34.8784912,
+      "lng": 136.5888447,
+      "distance_km": 5.88
+    },
+    {
+      "name": "\u9234\u9e7f\u5e02",
+      "class": "stop_position",
+      "lat": 34.8840955,
+      "lng": 136.5825293,
+      "distance_km": 5.93
+    },
+    {
+      "name": "\u9234\u9e7f\u5e02",
+      "class": "stop_position",
+      "lat": 34.884118,
+      "lng": 136.5825596,
+      "distance_km": 5.93
+    },
+    {
+      "name": "\u9234\u9e7f\u5e02",
+      "class": "railway_station",
+      "lat": 34.884129,
+      "lng": 136.5825167,
+      "distance_km": 5.93
+    },
+    {
+      "name": "\u67f3",
+      "class": "railway_station",
+      "lat": 34.8716411,
+      "lng": 136.5958586,
+      "distance_km": 5.93
+    },
+    {
+      "name": "\u67f3",
+      "class": "stop_position",
+      "lat": 34.8711494,
+      "lng": 136.5962967,
+      "distance_km": 5.93
+    },
+    {
+      "name": "\u5343\u4ee3\u5d0e",
+      "class": "railway_station",
+      "lat": 34.8548546,
+      "lng": 136.6083726,
+      "distance_km": 6.29
+    },
+    {
+      "name": "\u8c4a\u6d25\u4e0a\u91ce",
+      "class": "railway_station",
+      "lat": 34.7854843,
+      "lng": 136.543391,
+      "distance_km": 6.41
+    },
+    {
+      "name": "\u4e0b\u5e84",
+      "class": "railway_station",
+      "lat": 34.8145769,
+      "lng": 136.479641,
+      "distance_km": 6.44
+    },
+    {
+      "name": "\u6cb3\u66f2",
+      "class": "stop_position",
+      "lat": 34.8977936,
+      "lng": 136.5676226,
+      "distance_km": 6.55
+    },
+    {
+      "name": "\u6cb3\u66f2",
+      "class": "railway_station",
+      "lat": 34.8977726,
+      "lng": 136.5676301,
+      "distance_km": 6.55
+    },
+    {
+      "name": "\u6cb3\u66f2",
+      "class": "stop_position",
+      "lat": 34.8977534,
+      "lng": 136.567639,
+      "distance_km": 6.55
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.89786940941659,
+      "lng": 136.56814127914527,
+      "distance_km": 6.57
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.897949401721135,
+      "lng": 136.5680979562618,
+      "distance_km": 6.58
+    },
+    {
+      "name": "\u671d\u967d\u4e2d\u5b66\u6821\u524d",
+      "class": "bus_stop",
+      "lat": 34.7836835,
+      "lng": 136.5374933,
+      "distance_km": 6.61
+    },
+    {
+      "name": "\u671d\u967d\u4e2d\u5b66\u6821\u524d",
+      "class": "bus_stop",
+      "lat": 34.7835336,
+      "lng": 136.5368953,
+      "distance_km": 6.63
+    },
+    {
+      "name": "\u6cb3\u82b8",
+      "class": "railway_station",
+      "lat": 34.7812792,
+      "lng": 136.5311534,
+      "distance_km": 6.93
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.86943131203297,
+      "lng": 136.61685713688976,
+      "distance_km": 7.52
+    },
+    {
+      "name": "\u4f0a\u52e2\u82e5\u677e",
+      "class": "stop_position",
+      "lat": 34.8696171,
+      "lng": 136.6168611,
+      "distance_km": 7.52
+    },
+    {
+      "name": "\u4f0a\u52e2\u82e5\u677e",
+      "class": "railway_station",
+      "lat": 34.8696267,
+      "lng": 136.6168268,
+      "distance_km": 7.52
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.8695957178211,
+      "lng": 136.6168016751922,
+      "distance_km": 7.52
+    },
+    {
+      "name": "\u4f0a\u52e2\u82e5\u677e",
+      "class": "stop_position",
+      "lat": 34.8696415,
+      "lng": 136.6167741,
+      "distance_km": 7.52
+    },
+    {
+      "name": "\u4f0a\u52e2\u82e5\u677e",
+      "class": "stop_position",
+      "lat": 34.869575,
+      "lng": 136.6170087,
+      "distance_km": 7.53
+    },
+    {
+      "name": "\u4f0a\u52e2\u82e5\u677e",
+      "class": "stop_position",
+      "lat": 34.8696039,
+      "lng": 136.6169,
+      "distance_km": 7.53
+    },
+    {
+      "name": "\u5c0f\u5ddd\u5712\u524d",
+      "class": "bus_stop",
+      "lat": 34.7734211,
+      "lng": 136.5283679,
+      "distance_km": 7.83
+    },
+    {
+      "name": "\u5c0f\u5ddd\u5712\u524d",
+      "class": "bus_stop",
+      "lat": 34.7732247,
+      "lng": 136.5285702,
+      "distance_km": 7.85
+    },
+    {
+      "name": "\u767d\u585a",
+      "class": "stop_position",
+      "lat": 34.770643,
+      "lng": 136.5322944,
+      "distance_km": 8.1
+    },
+    {
+      "name": "\u767d\u585a",
+      "class": "stop_position",
+      "lat": 34.7706145,
+      "lng": 136.5323624,
+      "distance_km": 8.1
+    },
+    {
+      "name": "\u767d\u585a",
+      "class": "railway_station",
+      "lat": 34.7706034,
+      "lng": 136.5323755,
+      "distance_km": 8.1
+    },
+    {
+      "name": "\u767d\u585a",
+      "class": "stop_position",
+      "lat": 34.7705973,
+      "lng": 136.5323956,
+      "distance_km": 8.1
+    },
+    {
+      "name": "\u767d\u585a",
+      "class": "stop_position",
+      "lat": 34.7705687,
+      "lng": 136.5324647,
+      "distance_km": 8.1
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.84990628387044,
+      "lng": 136.4503786249304,
+      "distance_km": 8.3
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.850065112327684,
+      "lng": 136.45030578878922,
+      "distance_km": 8.31
+    },
+    {
+      "name": "\u4e80\u5c71",
+      "class": "railway_station",
+      "lat": 34.8502999,
+      "lng": 136.4503325,
+      "distance_km": 8.31
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 34.8507182,
+      "lng": 136.4500261,
+      "distance_km": 8.34
+    },
+    {
+      "name": "\u4e80\u5c71",
+      "class": "stop_position",
+      "lat": 34.8501655,
+      "lng": 136.4499718,
+      "distance_km": 8.34
+    },
+    {
+      "name": "\u4e80\u5c71",
+      "class": "stop_position",
+      "lat": 34.85023,
+      "lng": 136.4499852,
+      "distance_km": 8.34
+    },
+    {
+      "name": "\u4e80\u5c71\u99c5\u524d",
+      "class": "bus_stop",
+      "lat": 34.8507551,
+      "lng": 136.4500072,
+      "distance_km": 8.35
+    },
+    {
+      "name": "\u4e80\u5c71",
+      "class": "stop_position",
+      "lat": 34.8499058,
+      "lng": 136.4499284,
+      "distance_km": 8.35
+    },
+    {
+      "name": "\u4e80\u5c71",
+      "class": "stop_position",
+      "lat": 34.8500015,
+      "lng": 136.4499355,
+      "distance_km": 8.35
+    },
+    {
+      "name": "\u4e80\u5c71",
+      "class": "stop_position",
+      "lat": 34.8500432,
+      "lng": 136.4499458,
+      "distance_km": 8.35
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.850288191116896,
+      "lng": 136.44988717772682,
+      "distance_km": 8.35
+    },
+    {
+      "name": "\u7b95\u7530",
+      "class": "railway_station",
+      "lat": 34.8797417,
+      "lng": 136.6221279,
+      "distance_km": 8.45
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.8021385,
+      "lng": 136.4615799,
+      "distance_km": 8.56
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.91051947195606,
+      "lng": 136.59834060430612,
+      "distance_km": 9.14
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.910670491834225,
+      "lng": 136.5986264123078,
+      "distance_km": 9.17
+    },
+    {
+      "name": "\u6cb3\u539f\u7530",
+      "class": "stop_position",
+      "lat": 34.9107596,
+      "lng": 136.5986521,
+      "distance_km": 9.18
+    },
+    {
+      "name": "\u6cb3\u539f\u7530",
+      "class": "railway_station",
+      "lat": 34.9108158,
+      "lng": 136.5986239,
+      "distance_km": 9.18
+    },
+    {
+      "name": "\u6cb3\u539f\u7530",
+      "class": "stop_position",
+      "lat": 34.9107947,
+      "lng": 136.5985795,
+      "distance_km": 9.18
+    },
+    {
+      "name": "\u6cb3\u539f\u7530",
+      "class": "railway_station",
+      "lat": 34.9110456,
+      "lng": 136.5991042,
+      "distance_km": 9.23
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.911297122807774,
+      "lng": 136.5992629468745,
+      "distance_km": 9.26
+    },
+    {
+      "name": "\u9577\u592a\u30ce\u6d66",
+      "class": "railway_station",
+      "lat": 34.891806,
+      "lng": 136.6264384,
+      "distance_km": 9.49
+    },
+    {
+      "name": "\u767d\u585a\u53e3\u5317",
+      "class": "bus_stop",
+      "lat": 34.7576445,
+      "lng": 136.5236597,
+      "distance_km": 9.63
+    },
+    {
+      "name": "\u767d\u585a\u53e3\u5317",
+      "class": "bus_stop",
+      "lat": 34.757626,
+      "lng": 136.5233853,
+      "distance_km": 9.64
+    },
+    {
+      "name": "\u4e00\u8eab\u7530",
+      "class": "railway_station",
+      "lat": 34.7627725,
+      "lng": 136.4995209,
+      "distance_km": 9.7
+    },
+    {
+      "name": "\u6771\u4e00\u8eab\u7530",
+      "class": "railway_station",
+      "lat": 34.7586349,
+      "lng": 136.5121073,
+      "distance_km": 9.76
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.7586086,
+      "lng": 136.5121373,
+      "distance_km": 9.76
+    },
+    {
+      "name": "\u9ad8\u7530\u672c\u5c71",
+      "class": "stop_position",
+      "lat": 34.7554402,
+      "lng": 136.5165323,
+      "distance_km": 10.0
+    },
+    {
+      "name": "\u9ad8\u7530\u672c\u5c71",
+      "class": "stop_position",
+      "lat": 34.7554319,
+      "lng": 136.5165699,
+      "distance_km": 10.0
+    },
+    {
+      "name": "\u9ad8\u7530\u672c\u5c71",
+      "class": "railway_station",
+      "lat": 34.7554368,
+      "lng": 136.5165485,
+      "distance_km": 10.0
+    },
+    {
+      "name": "\u5185\u90e8\u99c5\u524d",
+      "class": "bus_stop",
+      "lat": 34.9252389,
+      "lng": 136.5863283,
+      "distance_km": 10.03
+    },
+    {
+      "name": "\u5185\u90e8",
+      "class": "railway_station",
+      "lat": 34.9255211,
+      "lng": 136.5868613,
+      "distance_km": 10.07
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.92556242438073,
+      "lng": 136.58687382347463,
+      "distance_km": 10.08
+    },
+    {
+      "name": "\u5185\u90e8",
+      "class": "stop_position",
+      "lat": 34.9255376,
+      "lng": 136.5868716,
+      "distance_km": 10.08
+    },
+    {
+      "name": "\u5185\u90e8\u99c5\u524d",
+      "class": "bus_stop",
+      "lat": 34.9258294,
+      "lng": 136.5864208,
+      "distance_km": 10.09
+    },
+    {
+      "name": "\u5c0f\u53e4\u66fd",
+      "class": "railway_station",
+      "lat": 34.9286823,
+      "lng": 136.5921888,
+      "distance_km": 10.6
+    },
+    {
+      "name": "\u5c0f\u53e4\u66fd",
+      "class": "stop_position",
+      "lat": 34.9286663,
+      "lng": 136.5922115,
+      "distance_km": 10.6
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.92878243699806,
+      "lng": 136.59227869652167,
+      "distance_km": 10.61
+    },
+    {
+      "name": "\u6960",
+      "class": "railway_station",
+      "lat": 34.9046568,
+      "lng": 136.6310496,
+      "distance_km": 10.69
+    },
+    {
+      "name": "\u7b39\u5ddd\u30c6\u30cb\u30b9\u5834",
+      "class": "bus_stop",
+      "lat": 34.9364712,
+      "lng": 136.5697817,
+      "distance_km": 10.71
+    },
+    {
+      "name": "\u7b39\u5ddd\u30b8\u30e3\u30d6",
+      "class": "bus_stop",
+      "lat": 34.939737,
+      "lng": 136.5675789,
+      "distance_km": 11.02
+    },
+    {
+      "name": "\u8056\u6bcd\u306e\u5bb6\u524d",
+      "class": "bus_stop",
+      "lat": 34.9385421,
+      "lng": 136.5750331,
+      "distance_km": 11.06
+    },
+    {
+      "name": "\u8056\u6bcd\u306e\u5bb6\u524d",
+      "class": "bus_stop",
+      "lat": 34.938584,
+      "lng": 136.5751533,
+      "distance_km": 11.06
+    },
+    {
+      "name": "\u5317\u6960",
+      "class": "railway_station",
+      "lat": 34.9160396,
+      "lng": 136.6248881,
+      "distance_km": 11.15
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.74416383750374,
+      "lng": 136.5139908887806,
+      "distance_km": 11.27
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.744090247562966,
+      "lng": 136.51384290516162,
+      "distance_km": 11.29
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.93413137449861,
+      "lng": 136.59616182129932,
+      "distance_km": 11.3
+    },
+    {
+      "name": "\u8ffd\u5206",
+      "class": "railway_station",
+      "lat": 34.9341166,
+      "lng": 136.5960869,
+      "distance_km": 11.3
+    },
+    {
+      "name": "\u6c5f\u6238\u6a4b",
+      "class": "stop_position",
+      "lat": 34.7439135,
+      "lng": 136.5138588,
+      "distance_km": 11.3
+    },
+    {
+      "name": "\u6c5f\u6238\u6a4b",
+      "class": "railway_station",
+      "lat": 34.7439129,
+      "lng": 136.5138743,
+      "distance_km": 11.3
+    },
+    {
+      "name": "\u6c5f\u6238\u6a4b",
+      "class": "stop_position",
+      "lat": 34.743908,
+      "lng": 136.5138984,
+      "distance_km": 11.3
+    },
+    {
+      "name": "\u6c5f\u6238\u6a4b",
+      "class": "stop_position",
+      "lat": 34.743903,
+      "lng": 136.513999,
+      "distance_km": 11.3
+    },
+    {
+      "name": "\u8ffd\u5206",
+      "class": "stop_position",
+      "lat": 34.9341421,
+      "lng": 136.5961995,
+      "distance_km": 11.31
+    },
+    {
+      "name": "\u6c5f\u6238\u6a4b",
+      "class": "stop_position",
+      "lat": 34.7439212,
+      "lng": 136.5137516,
+      "distance_km": 11.31
+    },
+    {
+      "name": "\u6cca",
+      "class": "railway_station",
+      "lat": 34.9401272,
+      "lng": 136.5984599,
+      "distance_km": 11.99
+    },
+    {
+      "name": "\u4e09\u4ea4\u30db\u30fc\u30e0\u524d",
+      "class": "bus_stop",
+      "lat": 34.7374625,
+      "lng": 136.5148044,
+      "distance_km": 11.99
+    },
+    {
+      "name": "\u6cca",
+      "class": "stop_position",
+      "lat": 34.9402339,
+      "lng": 136.598429,
+      "distance_km": 12.0
+    },
+    {
+      "name": "\u6cca",
+      "class": "stop_position",
+      "lat": 34.9402545,
+      "lng": 136.5983605,
+      "distance_km": 12.0
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.94039245641025,
+      "lng": 136.59844035213715,
+      "distance_km": 12.02
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.9394097,
+      "lng": 136.600826,
+      "distance_km": 12.02
+    },
+    {
+      "name": "\u4e09\u4ea4\u30db\u30fc\u30e0\u524d",
+      "class": "bus_stop",
+      "lat": 34.7364365,
+      "lng": 136.5141222,
+      "distance_km": 12.11
+    },
+    {
+      "name": "\u6d25",
+      "class": "stop_position",
+      "lat": 34.734328,
+      "lng": 136.5106373,
+      "distance_km": 12.41
+    },
+    {
+      "name": "\u5869\u6d5c",
+      "class": "railway_station",
+      "lat": 34.9327505,
+      "lng": 136.622168,
+      "distance_km": 12.42
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.73432398457658,
+      "lng": 136.5102338769919,
+      "distance_km": 12.42
+    },
+    {
+      "name": "\u6d25\u99c5\u524d\u30d0\u30b9\u30bf\u30fc\u30df\u30ca\u30eb",
+      "class": "bus_station",
+      "lat": 34.73404880045259,
+      "lng": 136.51109298382667,
+      "distance_km": 12.43
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.7341075,
+      "lng": 136.5109379,
+      "distance_km": 12.43
+    },
+    {
+      "name": "\u6d25",
+      "class": "stop_position",
+      "lat": 34.7340274,
+      "lng": 136.5105649,
+      "distance_km": 12.44
+    },
+    {
+      "name": "\u6d25",
+      "class": "stop_position",
+      "lat": 34.7339917,
+      "lng": 136.5103559,
+      "distance_km": 12.45
+    },
+    {
+      "name": "\u6d25",
+      "class": "railway_station",
+      "lat": 34.733994,
+      "lng": 136.5102642,
+      "distance_km": 12.45
+    },
+    {
+      "name": "\u6d25",
+      "class": "stop_position",
+      "lat": 34.7339924,
+      "lng": 136.5101825,
+      "distance_km": 12.45
+    },
+    {
+      "name": "\u6d25\u99c5\u6771\u53e3",
+      "class": "bus_stop",
+      "lat": 34.7332285,
+      "lng": 136.5121641,
+      "distance_km": 12.5
+    },
+    {
+      "name": "\u6804\u753a\u4e09\u4e01\u76ee",
+      "class": "bus_stop",
+      "lat": 34.733186,
+      "lng": 136.5123961,
+      "distance_km": 12.5
+    },
+    {
+      "name": "\u6d25\u99c5\u897f\u53e3",
+      "class": "bus_stop",
+      "lat": 34.733271,
+      "lng": 136.5097092,
+      "distance_km": 12.54
+    },
+    {
+      "name": "\u5357\u56db\u65e5\u5e02",
+      "class": "railway_station",
+      "lat": 34.9414238,
+      "lng": 136.6094959,
+      "distance_km": 12.59
+    },
+    {
+      "name": "\u5357\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9415991,
+      "lng": 136.6097549,
+      "distance_km": 12.62
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.941614754210484,
+      "lng": 136.60971220945768,
+      "distance_km": 12.62
+    },
+    {
+      "name": "\u5357\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9416601,
+      "lng": 136.6096676,
+      "distance_km": 12.62
+    },
+    {
+      "name": "\u770c\u5e81\u524d",
+      "class": "bus_stop",
+      "lat": 34.7294112,
+      "lng": 136.5122884,
+      "distance_km": 12.91
+    },
+    {
+      "name": "\u770c\u5e81\u524d",
+      "class": "bus_stop",
+      "lat": 34.7292689,
+      "lng": 136.5119088,
+      "distance_km": 12.93
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.9525945,
+      "lng": 136.5908872,
+      "distance_km": 13.0
+    },
+    {
+      "name": "\u897f\u65e5\u91ce",
+      "class": "railway_station",
+      "lat": 34.952921,
+      "lng": 136.5911548,
+      "distance_km": 13.04
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.95291656503298,
+      "lng": 136.59115929666464,
+      "distance_km": 13.04
+    },
+    {
+      "name": "\u897f\u65e5\u91ce",
+      "class": "stop_position",
+      "lat": 34.9529413,
+      "lng": 136.5911439,
+      "distance_km": 13.04
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.95012667972528,
+      "lng": 136.6011057418539,
+      "distance_km": 13.1
+    },
+    {
+      "name": "\u5357\u65e5\u6c38",
+      "class": "stop_position",
+      "lat": 34.9501991,
+      "lng": 136.6010985,
+      "distance_km": 13.11
+    },
+    {
+      "name": "\u5357\u65e5\u6c38",
+      "class": "railway_station",
+      "lat": 34.9501922,
+      "lng": 136.6011219,
+      "distance_km": 13.11
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.84902003242564,
+      "lng": 136.39525964555904,
+      "distance_km": 13.32
+    },
+    {
+      "name": "\u95a2",
+      "class": "stop_position",
+      "lat": 34.8490513,
+      "lng": 136.3951119,
+      "distance_km": 13.33
+    },
+    {
+      "name": "\u95a2",
+      "class": "railway_station",
+      "lat": 34.8490885,
+      "lng": 136.3947946,
+      "distance_km": 13.36
+    },
+    {
+      "name": "\u95a2",
+      "class": "stop_position",
+      "lat": 34.8491169,
+      "lng": 136.3945686,
+      "distance_km": 13.38
+    },
+    {
+      "name": "\u6d77\u5c71\u9053",
+      "class": "railway_station",
+      "lat": 34.9431481,
+      "lng": 136.6229932,
+      "distance_km": 13.4
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.849156475757404,
+      "lng": 136.39432909862694,
+      "distance_km": 13.4
+    },
+    {
+      "name": "\u65e5\u6c38",
+      "class": "stop_position",
+      "lat": 34.9556811,
+      "lng": 136.6041762,
+      "distance_km": 13.78
+    },
+    {
+      "name": "\u65e5\u6c38",
+      "class": "stop_position",
+      "lat": 34.9556931,
+      "lng": 136.6041481,
+      "distance_km": 13.78
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.95573663142447,
+      "lng": 136.60410182666564,
+      "distance_km": 13.78
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.95573014100904,
+      "lng": 136.604242694162,
+      "distance_km": 13.79
+    },
+    {
+      "name": "\u65e5\u6c38",
+      "class": "railway_station",
+      "lat": 34.9557339,
+      "lng": 136.6043227,
+      "distance_km": 13.79
+    },
+    {
+      "name": "\u65e5\u6c38",
+      "class": "stop_position",
+      "lat": 34.9557877,
+      "lng": 136.6040535,
+      "distance_km": 13.79
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 34.9557806,
+      "lng": 136.6045921,
+      "distance_km": 13.81
+    },
+    {
+      "name": "\u6d25\u9ad8\u6821\u53e3",
+      "class": "bus_stop",
+      "lat": 34.7202012,
+      "lng": 136.4942244,
+      "distance_km": 14.32
+    },
+    {
+      "name": "\u6d25\u9ad8\u6821\u53e3",
+      "class": "bus_stop",
+      "lat": 34.7201378,
+      "lng": 136.4943337,
+      "distance_km": 14.32
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.9593581093849,
+      "lng": 136.61051812816385,
+      "distance_km": 14.4
+    },
+    {
+      "name": "\u8d64\u5800",
+      "class": "stop_position",
+      "lat": 34.9593753,
+      "lng": 136.6105968,
+      "distance_km": 14.4
+    },
+    {
+      "name": "\u6d25\u9ad8\u6821\u524d",
+      "class": "bus_stop",
+      "lat": 34.7196671,
+      "lng": 136.4932381,
+      "distance_km": 14.4
+    },
+    {
+      "name": "\u8d64\u5800",
+      "class": "railway_station",
+      "lat": 34.9594971,
+      "lng": 136.6107334,
+      "distance_km": 14.42
+    },
+    {
+      "name": "\u65b0\u6b63",
+      "class": "railway_station",
+      "lat": 34.9562066,
+      "lng": 136.6185216,
+      "distance_km": 14.43
+    },
+    {
+      "name": "\u6d25\u65b0\u753a\u99c5\u524d",
+      "class": "bus_stop",
+      "lat": 34.7163764,
+      "lng": 136.4994993,
+      "distance_km": 14.59
+    },
+    {
+      "name": "\u6d25\u65b0\u753a\u99c5\u524d",
+      "class": "bus_stop",
+      "lat": 34.7162524,
+      "lng": 136.4993689,
+      "distance_km": 14.61
+    },
+    {
+      "name": "\u6d25\u65b0\u753a\u99c5\u524d",
+      "class": "bus_stop",
+      "lat": 34.7161661,
+      "lng": 136.4993273,
+      "distance_km": 14.62
+    },
+    {
+      "name": "\u6d25\u65b0\u753a",
+      "class": "stop_position",
+      "lat": 34.7157847,
+      "lng": 136.5000053,
+      "distance_km": 14.64
+    },
+    {
+      "name": "\u6d25\u65b0\u753a",
+      "class": "railway_station",
+      "lat": 34.7157738,
+      "lng": 136.5000733,
+      "distance_km": 14.64
+    },
+    {
+      "name": "\u6d25\u65b0\u753a",
+      "class": "stop_position",
+      "lat": 34.7157648,
+      "lng": 136.500126,
+      "distance_km": 14.64
+    },
+    {
+      "name": "\u6d25\u65b0\u753a",
+      "class": "stop_position",
+      "lat": 34.7157913,
+      "lng": 136.4999691,
+      "distance_km": 14.64
+    },
+    {
+      "name": "\u6d25\u65b0\u753a\u99c5\u524d",
+      "class": "bus_stop",
+      "lat": 34.7159622,
+      "lng": 136.4993904,
+      "distance_km": 14.64
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.715744258794714,
+      "lng": 136.5000703297027,
+      "distance_km": 14.65
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.71566250278278,
+      "lng": 136.49989104773948,
+      "distance_km": 14.66
+    },
+    {
+      "name": "\u6d25\u306a\u304e\u3055\u307e\u3061",
+      "class": "ferry_terminal",
+      "lat": 34.7112027,
+      "lng": 136.5251459,
+      "distance_km": 14.74
+    },
+    {
+      "name": "\u4f0a\u52e2\u677e\u672c",
+      "class": "stop_position",
+      "lat": 34.9697641,
+      "lng": 136.5905593,
+      "distance_km": 14.79
+    },
+    {
+      "name": "\u4f0a\u52e2\u677e\u672c",
+      "class": "railway_station",
+      "lat": 34.9697925,
+      "lng": 136.5905754,
+      "distance_km": 14.8
+    },
+    {
+      "name": "\u4f0a\u52e2\u677e\u672c",
+      "class": "stop_position",
+      "lat": 34.9698153,
+      "lng": 136.5905928,
+      "distance_km": 14.8
+    },
+    {
+      "name": "\u4e2d\u5ddd\u539f",
+      "class": "stop_position",
+      "lat": 34.9693354,
+      "lng": 136.6032315,
+      "distance_km": 15.14
+    },
+    {
+      "name": "\u4e2d\u5ddd\u539f",
+      "class": "stop_position",
+      "lat": 34.9693659,
+      "lng": 136.6032223,
+      "distance_km": 15.14
+    },
+    {
+      "name": "\u4e2d\u5ddd\u539f",
+      "class": "railway_station",
+      "lat": 34.9693506,
+      "lng": 136.6032269,
+      "distance_km": 15.14
+    },
+    {
+      "name": "\u4f0a\u52e2\u5ddd\u5cf6",
+      "class": "stop_position",
+      "lat": 34.9776322,
+      "lng": 136.5667361,
+      "distance_km": 15.14
+    },
+    {
+      "name": "\u4f0a\u52e2\u5ddd\u5cf6",
+      "class": "railway_station",
+      "lat": 34.9776086,
+      "lng": 136.5667365,
+      "distance_km": 15.14
+    },
+    {
+      "name": "\u4f0a\u52e2\u5ddd\u5cf6",
+      "class": "stop_position",
+      "lat": 34.9776679,
+      "lng": 136.5667312,
+      "distance_km": 15.15
+    },
+    {
+      "name": "\u4fee\u6210\u753a",
+      "class": "bus_stop",
+      "lat": 34.7091232,
+      "lng": 136.5029059,
+      "distance_km": 15.3
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.96565816442347,
+      "lng": 136.61827499947833,
+      "distance_km": 15.34
+    },
+    {
+      "name": "\u3042\u3059\u306a\u308d\u3046\u56db\u65e5\u5e02",
+      "class": "railway_station",
+      "lat": 34.9657512,
+      "lng": 136.618275,
+      "distance_km": 15.35
+    },
+    {
+      "name": "\u3042\u3059\u306a\u308d\u3046\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9657312,
+      "lng": 136.6182558,
+      "distance_km": 15.35
+    },
+    {
+      "name": "\u3042\u3059\u306a\u308d\u3046\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9657334,
+      "lng": 136.6182967,
+      "distance_km": 15.35
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9661726,
+      "lng": 136.6186981,
+      "distance_km": 15.41
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "platform",
+      "lat": 34.96640983809042,
+      "lng": 136.61828968701607,
+      "distance_km": 15.42
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9665483,
+      "lng": 136.6182277,
+      "distance_km": 15.43
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9665538,
+      "lng": 136.6183591,
+      "distance_km": 15.43
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "bus_station",
+      "lat": 34.9667902,
+      "lng": 136.6179416,
+      "distance_km": 15.44
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "bus_stop",
+      "lat": 34.9666891,
+      "lng": 136.6181214,
+      "distance_km": 15.44
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "bus_stop",
+      "lat": 34.9669336,
+      "lng": 136.6181465,
+      "distance_km": 15.46
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "bus_station",
+      "lat": 34.9657912,
+      "lng": 136.6212396,
+      "distance_km": 15.48
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "railway_station",
+      "lat": 34.9670382,
+      "lng": 136.6186048,
+      "distance_km": 15.49
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9671089,
+      "lng": 136.6184357,
+      "distance_km": 15.49
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9670648,
+      "lng": 136.6185871,
+      "distance_km": 15.49
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "platform",
+      "lat": 34.967147199828666,
+      "lng": 136.61853316031468,
+      "distance_km": 15.5
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9670594,
+      "lng": 136.6186286,
+      "distance_km": 15.5
+    },
+    {
+      "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
+      "class": "platform",
+      "lat": 34.967136692731316,
+      "lng": 136.61870070874872,
+      "distance_km": 15.51
+    },
+    {
+      "name": "\u6a01\u5927\u795e\u793e",
+      "class": "bus_stop",
+      "lat": 34.9625874,
+      "lng": 136.4532933,
+      "distance_km": 15.51
+    },
+    {
+      "name": "JR\u56db\u65e5\u5e02",
+      "class": "bus_stop",
+      "lat": 34.9628391,
+      "lng": 136.6291056,
+      "distance_km": 15.55
+    },
+    {
+      "name": "\u56db\u65e5\u5e02",
+      "class": "railway_station",
+      "lat": 34.9630151,
+      "lng": 136.6302658,
+      "distance_km": 15.62
+    },
+    {
+      "name": "\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9630061,
+      "lng": 136.6303331,
+      "distance_km": 15.62
+    },
+    {
+      "name": "\u56db\u65e5\u5e02",
+      "class": "stop_position",
+      "lat": 34.9630391,
+      "lng": 136.6302091,
+      "distance_km": 15.62
+    },
+    {
+      "name": "\u6cc9\u30b1\u4e18\u56e3\u5730",
+      "class": "bus_stop",
+      "lat": 34.7142547,
+      "lng": 136.462216,
+      "distance_km": 16.03
+    },
+    {
+      "name": "\u5ddd\u539f\u753a",
+      "class": "railway_station",
+      "lat": 34.9769522,
+      "lng": 136.6230443,
+      "distance_km": 16.66
+    }
+  ],
   "overture_release": "2026-08-19.0"
 }
