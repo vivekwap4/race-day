@@ -2,7 +2,7 @@
 // filter switching, and the click/hover interactions for clusters and
 // individual points.
 
-import { state, CLUSTER_COLOR, HOTEL_COLOR, FOOD_COLOR, SOURCE_ID } from "./state.js";
+import { state, HOTEL_COLOR, FOOD_COLOR, CIRCUIT_COLOR, SOURCE_ID } from "./state.js";
 import { map } from "./map.js";
 import { displayName } from "./utils.js";
 import { showHotelDetail } from "./hotels.js";
@@ -15,12 +15,11 @@ export function renderCircuitMarker() {
 
   const { circuit } = state.currentData;
   const el = document.createElement("div");
-  el.style.cssText =
-    "width:16px;height:16px;border-radius:50%;background:#c0392b;border:2px solid white;box-shadow:0 0 0 1px rgba(0,0,0,0.15);";
+  el.style.cssText = `width:26px;height:26px;border-radius:50%;background:${CIRCUIT_COLOR};border:3px solid white;box-shadow:0 0 0 2px ${CIRCUIT_COLOR}66, 0 2px 6px rgba(0,0,0,0.3);`;
   state.markers.push(
     new maplibregl.Marker({ element: el })
       .setLngLat([circuit.lng, circuit.lat])
-      .setPopup(new maplibregl.Popup({ offset: 12 }).setText(circuit.name))
+      .setPopup(new maplibregl.Popup({ offset: 16 }).setText(circuit.name))
       .addTo(map)
   );
 }
@@ -96,7 +95,7 @@ export function renderClusterLayer() {
     source: SOURCE_ID,
     filter: ["has", "point_count"],
     paint: {
-      "circle-color": CLUSTER_COLOR,
+      "circle-color": color,
       "circle-radius": ["step", ["coalesce", ["get", "point_count"], 0], 16, 10, 20, 25, 26],
       "circle-stroke-width": 2,
       "circle-stroke-color": "#ffffff",
@@ -147,18 +146,28 @@ export function registerClusterInteractions() {
   // the same point found the feature fine when the delegated handler didn't
   // fire at all. Using the generic form with a manual query sidesteps that.
   map.on("click", (e) => {
+    // queryRenderedFeatures throws if the named layer doesn't currently
+    // exist on the style at all (not just "has no features here") — true
+    // whenever no circuit is loaded yet, or briefly during a theme swap
+    // before renderClusterLayer re-adds it. Bail out early in that case.
+    if (!map.getLayer("clusters")) return;
+
     const clusterFeatures = map.queryRenderedFeatures(e.point, { layers: ["clusters"] });
     if (clusterFeatures.length) {
       const clusterId = clusterFeatures[0].properties.cluster_id;
-      map.getSource(SOURCE_ID).getClusterExpansionZoom(clusterId, (err, zoom) => {
-        if (err) return;
-        // getClusterExpansionZoom can come back with a null zoom (no error)
-        // in some edge cases — passing that straight to easeTo throws a
-        // validation error and silently aborts. Fall back to a reasonable
-        // "zoom in a bit" default instead.
-        const targetZoom = zoom == null ? Math.min(map.getZoom() + 2, 16) : zoom;
-        map.easeTo({ center: clusterFeatures[0].geometry.coordinates, zoom: targetZoom });
-      });
+      // This MapLibre version's getClusterExpansionZoom returns a Promise,
+      // not the older Node-style (err, zoom) callback — confirmed directly
+      // in the console (a callback passed here was simply never invoked,
+      // even though the Promise itself resolved fine). Using .then() here
+      // instead of a callback is the actual fix, not a workaround.
+      map
+        .getSource(SOURCE_ID)
+        .getClusterExpansionZoom(clusterId)
+        .then((zoom) => {
+          const targetZoom = zoom == null ? Math.min(map.getZoom() + 2, 16) : zoom;
+          map.easeTo({ center: clusterFeatures[0].geometry.coordinates, zoom: targetZoom });
+        })
+        .catch(() => {});
       return;
     }
 
@@ -174,6 +183,10 @@ export function registerClusterInteractions() {
   });
 
   map.on("mousemove", (e) => {
+    if (!map.getLayer("clusters")) {
+      map.getCanvas().style.cursor = "";
+      return;
+    }
     const hits = map.queryRenderedFeatures(e.point, { layers: ["clusters", "unclustered-point"] });
     map.getCanvas().style.cursor = hits.length ? "pointer" : "";
   });

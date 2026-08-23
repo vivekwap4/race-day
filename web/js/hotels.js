@@ -1,7 +1,7 @@
 // Hotel list (synced to the current map viewport), the hotel detail panel,
 // and the race weekend schedule collapsible.
 
-import { state, TIER_CLASS } from "./state.js";
+import { state, TIER_CLASS, HIGHLIGHT_COLOR } from "./state.js";
 import { map } from "./map.js";
 import { haversineKm, escapeHtml, displayName } from "./utils.js";
 
@@ -42,7 +42,22 @@ export function showHotelDetail(hotel) {
   document.getElementById("panel-content").classList.add("hidden");
   document.getElementById("hotel-detail").classList.remove("hidden");
 
-  map.flyTo({ center: [hotel.lng, hotel.lat], zoom: 15 });
+  renderSelectedHotelMarker(hotel);
+
+  // Hiding, not another camera-movement change: the cluster/cluster-count
+  // layers' underlying data is recomputed in a background worker whenever
+  // zoom changes, and that recompute lags slightly behind the camera —
+  // regardless of flyTo/easeTo/jumpTo. During that lag the layer can
+  // briefly show the previous zoom's (clustered) data. Hiding it for the
+  // transition and revealing it once the map is truly idle sidesteps the
+  // issue entirely instead of chasing camera-animation timing further.
+  if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", "none");
+  if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", "none");
+  map.jumpTo({ center: [hotel.lng, hotel.lat], zoom: 15 });
+  map.once("idle", () => {
+    if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", "visible");
+    if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", "visible");
+  });
 
   const nearbyFood = state.currentData.food
     .map((f) => ({ ...f, d: haversineKm(hotel.lat, hotel.lng, f.lat, f.lng) }))
@@ -73,6 +88,38 @@ export function showHotelDetail(hotel) {
 export function showHotelList() {
   document.getElementById("hotel-detail").classList.add("hidden");
   document.getElementById("panel-content").classList.remove("hidden");
+  clearSelectedHotelMarker();
+}
+
+// --- Highlight marker for the currently-selected hotel, so it's easy to
+// spot among all the other hotel points/bubbles on the map. Separate from
+// the data-driven unclustered-point layer since MapLibre's layer paint
+// can't easily single out one feature dynamically without a fragile
+// per-selection filter expression — a plain DOM marker on top is simpler.
+
+function renderSelectedHotelMarker(hotel) {
+  clearSelectedHotelMarker();
+  const el = document.createElement("div");
+  el.className = "hotel-highlight-marker";
+  el.innerHTML = `
+    <svg width="32" height="42" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="${HIGHLIGHT_COLOR}" stroke="#ffffff" stroke-width="1"/>
+      <circle cx="12" cy="9" r="3" fill="#ffffff"/>
+    </svg>
+  `;
+  // anchor: "bottom" so the pin's pointed tip sits exactly on the
+  // coordinate, the same way a real map pin points at a location —
+  // not the marker's visual center, which is what MapLibre uses by default.
+  state.selectedHotelMarker = new maplibregl.Marker({ element: el, anchor: "bottom" })
+    .setLngLat([hotel.lng, hotel.lat])
+    .addTo(map);
+}
+
+export function clearSelectedHotelMarker() {
+  if (state.selectedHotelMarker) {
+    state.selectedHotelMarker.remove();
+    state.selectedHotelMarker = null;
+  }
 }
 
 export function toggleSchedule() {

@@ -13,6 +13,7 @@ export const state = {
   language: (navigator.language || "en").toLowerCase().startsWith("en") ? "en" : "local",
   markers: [],
   homeMarkers: [],
+  selectedHotelMarker: null,
 };
 
 export const TIER_CLASS = {
@@ -22,8 +23,10 @@ export const TIER_CLASS = {
 };
 
 export const CLUSTER_COLOR = "#e63946";
-export const HOTEL_COLOR = "#6ea8fe";
+export const HOTEL_COLOR = "#e63946"; // matches CLUSTER_COLOR deliberately — hotel dots and bubbles should read as the same category
 export const FOOD_COLOR = "#f0b25e";
+export const CIRCUIT_COLOR = "#7c3aed"; // distinct from hotel/food/cluster red-amber palette, so the circuit itself always stands out
+export const HIGHLIGHT_COLOR = "#059669"; // emerald — used only for the selected-hotel pin, distinct from every other color on the map
 export const SOURCE_ID = "places";
 
 // One flag per circuit, keyed to scripts/circuits.json's keys. Kept here

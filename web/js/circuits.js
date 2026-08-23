@@ -2,11 +2,11 @@
 // home-view world map before anything is selected, and loading a circuit's
 // data once picked.
 
-import { state, CIRCUIT_FLAGS } from "./state.js";
+import { state, CIRCUIT_FLAGS, CIRCUIT_COLOR } from "./state.js";
 import { map } from "./map.js";
 import { escapeHtml } from "./utils.js";
 import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
-import { renderHotelList } from "./hotels.js";
+import { renderHotelList, clearSelectedHotelMarker } from "./hotels.js";
 
 export function populateCircuitPicker() {
   const list = document.getElementById("circuit-list");
@@ -81,7 +81,7 @@ export function renderHomeMarkers() {
   Object.entries(state.circuits).forEach(([key, c]) => {
     const el = document.createElement("div");
     el.style.cssText =
-      "width:10px;height:10px;border-radius:50%;background:#e63946;border:2px solid white;box-shadow:0 0 0 1px rgba(0,0,0,0.15);cursor:pointer;";
+      `width:14px;height:14px;border-radius:50%;background:${CIRCUIT_COLOR};border:2px solid white;box-shadow:0 0 0 1px rgba(0,0,0,0.15);cursor:pointer;`;
     const marker = new maplibregl.Marker({ element: el })
       .setLngLat([c.lng, c.lat])
       .setPopup(new maplibregl.Popup({ offset: 10 }).setText(`${c.name} — ${c.location}`))
@@ -105,12 +105,20 @@ export async function loadCircuit(key) {
     return;
   }
   clearHomeMarkers();
+  clearSelectedHotelMarker();
   state.currentCircuit = key;
   state.currentData = await res.json();
 
   document.getElementById("panel-empty").classList.add("hidden");
   document.getElementById("panel-content").classList.remove("hidden");
   document.getElementById("hotel-detail").classList.add("hidden");
+
+  // Clear immediately, don't wait for moveend: renderHotelList() only runs
+  // once the flyTo animation below finishes, which can take a second or two
+  // for circuits far apart — without this, the previous circuit's hotels
+  // stay visible in the list for the entire flight.
+  document.getElementById("hotel-list").innerHTML = "";
+  document.getElementById("in-view-count").textContent = "0";
 
   const { circuit } = state.currentData;
   document.getElementById("circuit-name").textContent = circuit.name;

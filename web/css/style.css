@@ -413,6 +413,10 @@ body[data-theme="dark"] #map canvas.maplibregl-canvas {
   filter: brightness(1.9) contrast(1.3);
 }
 
+.hotel-highlight-marker {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.35));
+}
+
 @media (max-width: 860px) {
   #map {
     right: 0;
