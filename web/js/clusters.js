@@ -139,24 +139,32 @@ export function renderClusterLayer() {
 // correctly even after that layer is removed and re-added.
 
 export function registerClusterInteractions() {
-  map.on("click", "clusters", (e) => {
-    const features = map.queryRenderedFeatures(e.point, { layers: ["clusters"] });
-    if (!features.length) return;
-    const clusterId = features[0].properties.cluster_id;
-    map.getSource(SOURCE_ID).getClusterExpansionZoom(clusterId, (err, zoom) => {
-      if (err) return;
-      // getClusterExpansionZoom can come back with a null zoom (no error)
-      // in some edge cases — passing that straight to easeTo throws a
-      // validation error and silently aborts the whole click. Fall back
-      // to a reasonable "zoom in a bit" default instead.
-      const targetZoom = zoom == null ? Math.min(map.getZoom() + 2, 16) : zoom;
-      map.easeTo({ center: features[0].geometry.coordinates, zoom: targetZoom });
-    });
-  });
+  // Deliberately NOT using MapLibre's delegated on(type, layerId, fn) form
+  // here. That form appeared to silently stop matching after the clusters
+  // layer had been removed and re-added a few times (which renderClusterLayer
+  // does on every circuit load, filter change, and theme toggle) — confirmed
+  // via a manual console test that a plain click + queryRenderedFeatures at
+  // the same point found the feature fine when the delegated handler didn't
+  // fire at all. Using the generic form with a manual query sidesteps that.
+  map.on("click", (e) => {
+    const clusterFeatures = map.queryRenderedFeatures(e.point, { layers: ["clusters"] });
+    if (clusterFeatures.length) {
+      const clusterId = clusterFeatures[0].properties.cluster_id;
+      map.getSource(SOURCE_ID).getClusterExpansionZoom(clusterId, (err, zoom) => {
+        if (err) return;
+        // getClusterExpansionZoom can come back with a null zoom (no error)
+        // in some edge cases — passing that straight to easeTo throws a
+        // validation error and silently aborts. Fall back to a reasonable
+        // "zoom in a bit" default instead.
+        const targetZoom = zoom == null ? Math.min(map.getZoom() + 2, 16) : zoom;
+        map.easeTo({ center: clusterFeatures[0].geometry.coordinates, zoom: targetZoom });
+      });
+      return;
+    }
 
-  map.on("click", "unclustered-point", (e) => {
-    if (!e.features.length) return;
-    const props = e.features[0].properties;
+    const pointFeatures = map.queryRenderedFeatures(e.point, { layers: ["unclustered-point"] });
+    if (!pointFeatures.length) return;
+    const props = pointFeatures[0].properties;
     if (state.activeLayer === "hotels") {
       const hotel = state.currentData.hotels.find((h) => h.name === props.name && h.lat === props.lat);
       if (hotel) showHotelDetail(hotel);
@@ -165,8 +173,8 @@ export function registerClusterInteractions() {
     }
   });
 
-  map.on("mouseenter", "clusters", () => (map.getCanvas().style.cursor = "pointer"));
-  map.on("mouseleave", "clusters", () => (map.getCanvas().style.cursor = ""));
-  map.on("mouseenter", "unclustered-point", () => (map.getCanvas().style.cursor = "pointer"));
-  map.on("mouseleave", "unclustered-point", () => (map.getCanvas().style.cursor = ""));
+  map.on("mousemove", (e) => {
+    const hits = map.queryRenderedFeatures(e.point, { layers: ["clusters", "unclustered-point"] });
+    map.getCanvas().style.cursor = hits.length ? "pointer" : "";
+  });
 }
