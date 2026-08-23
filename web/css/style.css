@@ -359,6 +359,7 @@ body {
 .detail-row {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-size: 13px;
   padding: 8px 0;
   border-bottom: 1px solid var(--border);
@@ -367,6 +368,67 @@ body {
 
 .detail-row:last-child {
   border-bottom: none;
+}
+
+.transit-badge {
+  font-size: 11px;
+  padding: 2px 9px;
+  border-radius: 999px;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.transit-badge.confident {
+  background: var(--tier-short-bg);
+  color: var(--tier-short-text);
+}
+
+.transit-badge.neutral {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+
+.detail-section-header {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: 0 0 8px;
+}
+
+.detail-section-header.food {
+  color: var(--tier-long-text);
+}
+
+.detail-section-header.transit {
+  color: var(--tier-short-text);
+}
+
+.detail-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0 12px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.detail-card.food {
+  border-left: 3px solid var(--tier-long-text);
+}
+
+.detail-card.transit {
+  border-left: 3px solid var(--tier-short-text);
+}
+
+.detail-footnote {
+  font-size: 11px;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin: 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
 }
 
 .empty-state {

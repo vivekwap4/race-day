@@ -1,7 +1,7 @@
 // Hotel list (synced to the current map viewport), the hotel detail panel,
 // and the race weekend schedule collapsible.
 
-import { state, TIER_CLASS, HIGHLIGHT_COLOR, TRANSIT_LABELS } from "./state.js";
+import { state, TIER_CLASS, HIGHLIGHT_COLOR, TRANSIT_LABELS, TRANSIT_CONFIDENT_CLASSES, TRANSIT_CLASS_PRIORITY } from "./state.js";
 import { map } from "./map.js";
 import { haversineKm, escapeHtml, displayName } from "./utils.js";
 
@@ -66,41 +66,75 @@ export function showHotelDetail(hotel) {
 
   // (state.currentData.transit || []) guards against data files extracted
   // before this field existed — old JSON just won't have a transit array.
-  const nearbyTransit = (state.currentData.transit || [])
-    .map((t) => ({ ...t, d: haversineKm(hotel.lat, hotel.lng, t.lat, t.lng) }))
-    .filter((t) => t.d <= 0.5)
-    .sort((a, b) => a.d - b.d);
+  const nearbyTransit = dedupeTransit(
+    (state.currentData.transit || [])
+      .map((t) => ({ ...t, d: haversineKm(hotel.lat, hotel.lng, t.lat, t.lng) }))
+      .filter((t) => t.d <= 0.5)
+  ).sort((a, b) => a.d - b.d);
 
   document.getElementById("hotel-detail-body").innerHTML = `
-    <h1 style="font-size:18px;margin:12px 0 2px;">${escapeHtml(displayName(hotel))}</h1>
-    <p class="muted small" style="margin:0 0 14px;">${hotel.distance_km} km from circuit &middot; <span class="tier-badge ${TIER_CLASS[hotel.access_tier] || ""}">${hotel.access_tier}</span></p>
-    <p class="section-label">Food options nearby</p>
-    ${
-      nearbyFood.length
-        ? nearbyFood
-            .slice(0, 6)
-            .map(
-              (f) => `<div class="detail-row"><span>${escapeHtml(displayName(f))}</span><span class="muted">${f.d.toFixed(2)} km</span></div>`
-            )
-            .join("")
-        : '<p class="empty-state">No food places within 1 km in the current data.</p>'
-    }
-    <p class="section-label" style="margin-top:14px;">Transit nearby</p>
-    ${
-      nearbyTransit.length
-        ? nearbyTransit
-            .slice(0, 6)
-            .map(
-              (t) => `<div class="detail-row"><span>${escapeHtml(t.name)} <span class="muted small">(${TRANSIT_LABELS[t.class] || t.class})</span></span><span class="muted">${t.d.toFixed(2)} km</span></div>`
-            )
-            .join("")
-        : '<p class="empty-state">No transit stops within 500 m in the current data.</p>'
-    }
-    <p class="muted small" style="margin-top:14px;">
+    <h1 style="font-size:18px;margin:12px 0 4px;">${escapeHtml(displayName(hotel))}</h1>
+    <div style="display:flex;align-items:center;gap:8px;margin:0 0 16px;">
+      <span class="muted small">${hotel.distance_km} km from circuit</span>
+      <span class="tier-badge ${TIER_CLASS[hotel.access_tier] || ""}">${hotel.access_tier}</span>
+    </div>
+
+    <p class="detail-section-header food">Food options nearby</p>
+    <div class="detail-card food">
+      ${
+        nearbyFood.length
+          ? nearbyFood
+              .slice(0, 6)
+              .map(
+                (f) => `<div class="detail-row"><span>${escapeHtml(displayName(f))}</span><span class="muted">${f.d.toFixed(2)} km</span></div>`
+              )
+              .join("")
+          : '<p class="empty-state">No food places within 1 km in the current data.</p>'
+      }
+    </div>
+
+    <p class="detail-section-header transit">Transit nearby</p>
+    <div class="detail-card transit">
+      ${
+        nearbyTransit.length
+          ? nearbyTransit
+              .slice(0, 6)
+              .map((t) => {
+                const confident = TRANSIT_CONFIDENT_CLASSES.has(t.class);
+                const label = TRANSIT_LABELS[t.class] || t.class;
+                return `<div class="detail-row"><span>${escapeHtml(t.name)}</span><span style="display:flex;align-items:center;gap:8px;"><span class="transit-badge ${confident ? "confident" : "neutral"}">${label}</span><span class="muted">${t.d.toFixed(2)} km</span></span></div>`;
+              })
+              .join("")
+          : '<p class="empty-state">No transit stops within 500 m in the current data.</p>'
+      }
+    </div>
+
+    <p class="detail-footnote">
       Distances are straight-line, not routed. Access tier is derived from distance only —
       see the README for the exact thresholds and their limits.
     </p>
   `;
+}
+
+// Overture/OSM model a single physical stop as several records — typically
+// one stop_position plus one platform per direction — all sharing the same
+// name and sitting almost on top of each other. Merge those into one row,
+// keeping the closest distance and the most specific/informative class
+// available among the duplicates (see TRANSIT_CLASS_PRIORITY).
+function dedupeTransit(list) {
+  const byName = new Map();
+  list.forEach((t) => {
+    const existing = byName.get(t.name);
+    if (!existing) {
+      byName.set(t.name, { ...t });
+      return;
+    }
+    if (t.d < existing.d) existing.d = t.d;
+    if (TRANSIT_CLASS_PRIORITY.indexOf(t.class) < TRANSIT_CLASS_PRIORITY.indexOf(existing.class)) {
+      existing.class = t.class;
+    }
+  });
+  return Array.from(byName.values());
 }
 
 export function showHotelList() {
@@ -120,7 +154,7 @@ function renderSelectedHotelMarker(hotel) {
   const el = document.createElement("div");
   el.className = "hotel-highlight-marker";
   el.innerHTML = `
-    <svg width="32" height="42" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <svg width="32" height="29" viewBox="0 0 24 22" xmlns="http://www.w3.org/2000/svg">
       <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="${HIGHLIGHT_COLOR}" stroke="#ffffff" stroke-width="1"/>
       <circle cx="12" cy="9" r="3" fill="#ffffff"/>
     </svg>

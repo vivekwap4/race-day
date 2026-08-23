@@ -1,7 +1,7 @@
 // Theme (light/dark) and language (local/English) toggle logic.
 
 import { state } from "./state.js";
-import { map, mapStyleFor } from "./map.js";
+import { map, mapStyleFor, hideBasemapClutterLayers } from "./map.js";
 import { renderClusterLayer } from "./clusters.js";
 import { renderHotelList } from "./hotels.js";
 
@@ -22,6 +22,7 @@ export function toggleTheme() {
 
   map.once("style.load", () => {
     map.jumpTo({ center: preservedCenter, zoom: preservedZoom });
+    hideBasemapClutterLayers();
     if (!state.currentData) return;
     // Always wait for idle rather than checking isStyleLoaded() and
     // sometimes rendering immediately — that race is what exposed a

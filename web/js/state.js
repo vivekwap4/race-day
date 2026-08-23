@@ -44,6 +44,34 @@ export const TRANSIT_LABELS = {
   subway_station: "Metro station",
 };
 
+// Overture's platform/stop_position classes come from generic OSM tags
+// (public_transport=platform / stop_position) that don't encode transit
+// mode — could be bus, tram, or train. The other classes ARE mode-specific.
+// Used to badge confidently-known stops differently from ambiguous ones,
+// rather than guessing a mode we can't actually confirm.
+export const TRANSIT_CONFIDENT_CLASSES = new Set([
+  "bus_stop",
+  "bus_station",
+  "railway_station",
+  "railway_halt",
+  "ferry_terminal",
+  "subway_station",
+]);
+
+// When merging duplicate records for the same named stop (a stop_position
+// plus one platform per direction is normal OSM/Overture modeling for a
+// single physical stop), prefer showing the most specific/informative class.
+export const TRANSIT_CLASS_PRIORITY = [
+  "railway_station",
+  "subway_station",
+  "ferry_terminal",
+  "bus_station",
+  "railway_halt",
+  "bus_stop",
+  "platform",
+  "stop_position",
+];
+
 // One flag per circuit, keyed to scripts/circuits.json's keys. Kept here
 // rather than in the data file since it's purely decorative UI, not data
 // Overture or the extraction pipeline has any part in.
