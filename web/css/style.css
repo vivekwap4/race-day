@@ -438,6 +438,24 @@ body {
   padding: 8px 12px;
 }
 
+.schedule-badge {
+  font-size: 11px;
+  padding: 2px 9px;
+  border-radius: 999px;
+  font-weight: 500;
+}
+
+.schedule-badge.upcoming {
+  background: var(--tier-short-bg);
+  color: var(--tier-short-text);
+}
+
+.schedule-badge.past {
+  background: var(--card-bg);
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+}
+
 .detail-footnote {
   font-size: 11px;
   color: var(--text-muted);

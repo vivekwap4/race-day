@@ -11,6 +11,16 @@ export function renderHotelList() {
   const countBadge = document.getElementById("in-view-count");
   list.innerHTML = "";
 
+  // Below zoom 13, the viewport covers too large an area for the list to be
+  // useful — hundreds of hotels, no meaningful way to choose. Prompt the user
+  // to zoom in instead. At zoom 13+ the list is genuinely navigable.
+  const LIST_ZOOM_THRESHOLD = 13;
+  if (map.getZoom() < LIST_ZOOM_THRESHOLD) {
+    countBadge.textContent = "—";
+    list.innerHTML = '<p class="empty-state">Zoom in to see hotels in this area.</p>';
+    return;
+  }
+
   const bounds = map.getBounds();
   const hotels = state.currentData.hotels.filter((h) => bounds.contains([h.lng, h.lat]));
   countBadge.textContent = hotels.length;
@@ -54,7 +64,11 @@ export function showHotelDetail(hotel) {
   // issue entirely instead of chasing camera-animation timing further.
   if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", "none");
   if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", "none");
-  map.jumpTo({ center: [hotel.lng, hotel.lat], zoom: 15 });
+  // easeTo gives a smooth pan+zoom; jumpTo was instant (jarring). The cluster
+  // flash that originally motivated using jumpTo is handled separately by hiding
+  // the layer before the move and revealing it once idle — so we can use easeTo
+  // here without the flash coming back.
+  map.easeTo({ center: [hotel.lng, hotel.lat], zoom: 15, duration: 600 });
   map.once("idle", () => {
     if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", "visible");
     if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", "visible");
@@ -208,23 +222,12 @@ export function registerZoomVisibilityHandler() {
     if (state.selectedPoiDot) {
       state.selectedPoiDot.getElement().style.display = zoomed ? "" : "none";
     }
-    // Only touch the cluster/dot layers while a hotel is actively selected —
-    // during normal hotel-list browsing these layers should always be visible
-    // regardless of zoom. Also, only hide them if genuinely zoomed out past the
-    // threshold; at zoom ≥ 12 always keep them visible.
-    if (state.selectedHotelMarker) {
-      const vis = zoomed ? "visible" : "none";
-      if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", vis);
-      if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", vis);
-      // unclustered-point is visible at zoom > 14 (clusterMaxZoom) — let
-      // MapLibre's own zoom filtering handle when it shows; we only force-hide
-      // it when zoomed all the way out past our THRESHOLD.
-      if (!zoomed && map.getLayer("unclustered-point")) {
-        map.setLayoutProperty("unclustered-point", "visibility", "none");
-      } else if (zoomed && map.getLayer("unclustered-point")) {
-        map.setLayoutProperty("unclustered-point", "visibility", "visible");
-      }
-    }
+    // Hide cluster layers below zoom threshold regardless of selection state.
+    // Previously this only fired when a hotel was selected, but clicking a
+    // bubble (expand cluster) also leaves cluster layers visible on zoom-out.
+    if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", zoomed ? "visible" : "none");
+    if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", zoomed ? "visible" : "none");
+    if (map.getLayer("unclustered-point")) map.setLayoutProperty("unclustered-point", "visibility", zoomed ? "visible" : "none");
   });
 }
 

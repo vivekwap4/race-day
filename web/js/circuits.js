@@ -6,8 +6,9 @@ import { state, CIRCUIT_FLAGS, CIRCUIT_COLOR } from "./state.js";
 import { map } from "./map.js";
 import { escapeHtml } from "./utils.js";
 import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
-import { renderHotelList, clearSelectedHotelMarker } from "./hotels.js";
+import { renderHotelList, clearSelectedHotelMarker, clearSelectedPoiMarker } from "./hotels.js";
 import { renderTrack, clearTrack } from "./track.js";
+import { loadSchedule } from "./schedule.js";
 
 export function populateCircuitPicker() {
   const list = document.getElementById("circuit-list");
@@ -107,20 +108,16 @@ export async function loadCircuit(key) {
   }
   clearHomeMarkers();
   clearSelectedHotelMarker();
+  clearSelectedPoiMarker();
   clearTrack();
   state.currentCircuit = key;
   state.currentData = await res.json();
 
-  document.getElementById("panel-empty").classList.add("hidden");
-  document.getElementById("panel-content").classList.remove("hidden");
+  // Hide the entire panel during travel — showing the empty/stale state from
+  // the previous circuit while the map is flying to a new one is confusing.
+  // The panel reappears once the map has settled on the new circuit.
+  document.getElementById("side-panel").classList.add("hidden");
   document.getElementById("hotel-detail").classList.add("hidden");
-
-  // Clear immediately, don't wait for moveend: renderHotelList() only runs
-  // once the flyTo animation below finishes, which can take a second or two
-  // for circuits far apart — without this, the previous circuit's hotels
-  // stay visible in the list for the entire flight.
-  document.getElementById("hotel-list").innerHTML = "";
-  document.getElementById("in-view-count").textContent = "0";
 
   const { circuit } = state.currentData;
   document.getElementById("circuit-name").textContent = circuit.name;
@@ -128,9 +125,16 @@ export async function loadCircuit(key) {
 
   map.flyTo({ center: [circuit.lng, circuit.lat], zoom: 12 });
   map.once("moveend", () => {
+    document.getElementById("side-panel").classList.remove("hidden");
+    document.getElementById("panel-empty").classList.add("hidden");
+    document.getElementById("panel-content").classList.remove("hidden");
+    // Clear hotel list immediately (it will be repopulated by renderHotelList)
+    document.getElementById("hotel-list").innerHTML = "";
+    document.getElementById("in-view-count").textContent = "0";
     renderCircuitMarker();
     renderClusterLayer();
     renderHotelList();
     renderTrack(key);
+    loadSchedule(key);
   });
 }
