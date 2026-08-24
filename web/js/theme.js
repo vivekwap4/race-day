@@ -4,17 +4,12 @@ import { state } from "./state.js";
 import { map, mapStyleFor, hideBasemapClutterLayers } from "./map.js";
 import { renderClusterLayer } from "./clusters.js";
 import { renderHotelList } from "./hotels.js";
+import { renderTrack } from "./track.js";
 
 export function toggleTheme() {
   state.theme = state.theme === "dark" ? "light" : "dark";
   applyTheme();
 
-  // setStyle can reset the camera to a default zoomed-out view when
-  // switching between structurally different styles (light <-> dark here),
-  // and it also removes any custom sources/layers we'd added (the hotel/
-  // food clusters). Handle both explicitly here rather than relying on a
-  // separate persistent listener, which raced against this one on the same
-  // event and led to the cluster layer sometimes not coming back.
   const preservedCenter = map.getCenter();
   const preservedZoom = map.getZoom();
 
@@ -24,10 +19,10 @@ export function toggleTheme() {
     map.jumpTo({ center: preservedCenter, zoom: preservedZoom });
     hideBasemapClutterLayers();
     if (!state.currentData) return;
-    // Always wait for idle rather than checking isStyleLoaded() and
-    // sometimes rendering immediately — that race is what exposed a
-    // transient null point_count value right after a style swap.
-    map.once("idle", renderClusterLayer);
+    map.once("idle", () => {
+      renderClusterLayer();
+      if (state.currentCircuit) renderTrack(state.currentCircuit);
+    });
   });
 }
 

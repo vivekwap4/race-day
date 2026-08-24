@@ -7,6 +7,7 @@ import { map } from "./map.js";
 import { escapeHtml } from "./utils.js";
 import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
 import { renderHotelList, clearSelectedHotelMarker } from "./hotels.js";
+import { renderTrack, clearTrack } from "./track.js";
 
 export function populateCircuitPicker() {
   const list = document.getElementById("circuit-list");
@@ -106,6 +107,7 @@ export async function loadCircuit(key) {
   }
   clearHomeMarkers();
   clearSelectedHotelMarker();
+  clearTrack();
   state.currentCircuit = key;
   state.currentData = await res.json();
 
@@ -129,5 +131,6 @@ export async function loadCircuit(key) {
     renderCircuitMarker();
     renderClusterLayer();
     renderHotelList();
+    renderTrack(key);
   });
 }

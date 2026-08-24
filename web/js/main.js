@@ -7,7 +7,7 @@ import { map } from "./map.js";
 import { applyTheme, applyLanguageLabel, toggleTheme, toggleLanguage } from "./theme.js";
 import { populateCircuitPicker, renderHomeMarkers } from "./circuits.js";
 import { setActiveLayer, setFoodCategory, registerClusterInteractions } from "./clusters.js";
-import { renderHotelList, showHotelList, toggleSchedule } from "./hotels.js";
+import { renderHotelList, showHotelList, toggleSchedule, registerZoomVisibilityHandler } from "./hotels.js";
 
 async function init() {
   const res = await fetch("data/circuits.json");
@@ -33,6 +33,7 @@ async function init() {
 
   map.on("moveend", renderHotelList);
   registerClusterInteractions();
+  registerZoomVisibilityHandler();
 }
 
 init();

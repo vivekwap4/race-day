@@ -37,6 +37,15 @@ does the rest.
 
 ## Key trade-offs and cuts
 
+- **Only places above a confidence threshold (0.8) are included.** Overture
+  aggregates places from multiple providers without manual verification, so
+  low-confidence records occasionally carry garbage names — we found a
+  specific example (a "hotel" with an unrelated, domain-like name) that
+  scored 0.77, and checked the 0.75–0.85 band near one circuit before
+  picking 0.8 as the cutoff, rather than a round number picked blind.
+  Still a judgment call, not something Overture defines as "correct" — a
+  stricter threshold means fewer false positives but also fewer real hotels
+  in areas with sparser Overture coverage; a looser one is the reverse.
 - **Access tier is a straight-line distance heuristic, not routing.**
   "Walkable" / "Short Transfer" / "Long Transfer" are thresholds I picked
   (1.5 km / 10 km), not something Overture defines or a real travel-time
@@ -53,6 +62,13 @@ does the rest.
   the pre-computed static-data pattern the way a fixed circuit list does,
   and doing it properly needs either a curated city list or a live backend.
   Deliberately cut to keep this submission scoped to a working core.
+- **Data only refreshes on a code push, not on a schedule.** The extraction
+  Action triggers on push to `scripts/extract.py` or `scripts/circuits.json`,
+  or manually. It does not run automatically when Overture publishes a new
+  monthly release with no code change on our end — so data can go stale
+  silently between pushes. The fix is a `schedule:` cron trigger in the
+  workflow (e.g. monthly, matching Overture's own release cadence), which
+  is a small addition but not yet wired in.
 - **Only two circuits are extracted** (Suzuka, COTA) as a proof of concept.
   Adding more is a one-line config change plus a re-run of the Action, not a
   code change — the pipeline is built to scale, the seed data isn't.
@@ -78,3 +94,9 @@ python scripts/extract.py --all
 Plain HTML/CSS/JS + MapLibre GL JS, no build step. Data extraction in Python
 with DuckDB against Overture's GeoParquet release. Deployed as a static site
 (Render free tier, or any static host).
+
+## Data sources
+
+- **Hotel, food, and transit data:** [Overture Maps Foundation](https://overturemaps.org/) — places and base/infrastructure themes. Extracted at build time via GitHub Actions; no runtime dependency on Overture or S3.
+- **Circuit track geometry:** [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits) (MIT License, © Tomislav Bacinger) — filtered to the 24 circuits in this app; geometry unchanged.
+- **Map tiles:** [OpenFreeMap](https://openfreemap.org/) (Liberty / Dark styles) — free, no API key.

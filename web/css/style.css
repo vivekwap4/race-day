@@ -422,6 +422,22 @@ body {
   border-left: 3px solid var(--tier-short-text);
 }
 
+.detail-row.clickable {
+  cursor: pointer;
+}
+
+.detail-row.clickable:hover {
+  background: var(--card-bg);
+  margin: 0 -12px;
+  padding: 8px 12px;
+}
+
+.detail-row.clickable.active {
+  background: var(--tier-short-bg);
+  margin: 0 -12px;
+  padding: 8px 12px;
+}
+
 .detail-footnote {
   font-size: 11px;
   color: var(--text-muted);

@@ -14,6 +14,9 @@ export const state = {
   markers: [],
   homeMarkers: [],
   selectedHotelMarker: null,
+  selectedHotelDot: null,
+  selectedPoiMarker: null,
+  selectedPoiDot: null,
 };
 
 export const TIER_CLASS = {
