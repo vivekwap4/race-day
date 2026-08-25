@@ -1,4 +1,4 @@
-# Race Day — F1 race weekend logistics
+# Race Day — Your F1 race weekend companion
 
 **Pitch:** for a fan traveling to an F1 race weekend, Race Day answers "where
 should I stay and how hard is it to actually get to the circuit" using real
@@ -47,14 +47,15 @@ does the rest.
   stricter threshold means fewer false positives but also fewer real hotels
   in areas with sparser Overture coverage; a looser one is the reverse.
 - **Access tier is a straight-line distance heuristic, not routing.**
-  "Walkable" / "Short Transfer" / "Long Transfer" are thresholds I picked
-  (1.5 km / 10 km), not something Overture defines or a real travel-time
-  computation. A hotel 3 km away by straight line could be a 20-minute drive
-  if a river or the circuit itself sits between you. A real routing engine
-  (Valhalla/OSRM) would fix this but is out of scope for this pass.
+  Three tiers, defined in miles:
+  - **Walkable** — ≤ 1 mile (1.609 km): on foot in ~20 minutes, no transport needed
+  - **Short Transfer** — ≤ 6 miles (9.656 km): quick rideshare or taxi, roughly 20 minutes on race day without major road closures
+  - **Long Transfer** — > 6 miles: plan your transport carefully; race-day road closures can significantly extend journey times
+
+  These are my own judgment calls, not something Overture defines. Straight-line distance also doesn't account for topology — a hotel 2 miles away by crow-flies could be a 30-minute detour if a river or the circuit perimeter sits between you. A real routing engine (Valhalla/OSRM) would give more accurate results but is out of scope for this build.
 - **Session schedule (FP1/FP2/FP3, qualifying, race times) is stubbed, not
   built.** It's a real feature I want (live data from OpenF1 or the Jolpica
-  API), but I deliberately treated it as secondary to the core logistics
+  API), but I deliberately treated it as secondary to the core hotel-finding
   view and didn't want to ship a half-wired API integration. The UI has the
   slot for it already.
 - **"Watch in your own city" (bars/pubs for races you're not attending) is

@@ -8,7 +8,7 @@ import { state } from "./state.js";
 // light and dark styles, so the map itself follows the theme toggle too,
 // not just the app's UI chrome.
 export const MAP_STYLE_LIGHT = "https://tiles.openfreemap.org/styles/liberty";
-export const MAP_STYLE_DARK = "https://tiles.openfreemap.org/styles/dark";
+export const MAP_STYLE_DARK  = "https://tiles.openfreemap.org/styles/fiord";
 
 export function mapStyleFor(theme) {
   return theme === "dark" ? MAP_STYLE_DARK : MAP_STYLE_LIGHT;
@@ -21,7 +21,7 @@ export const map = new maplibregl.Map({
   zoom: 1.5,
 });
 
-map.addControl(new maplibregl.NavigationControl(), "bottom-right");
+map.addControl(new maplibregl.NavigationControl(), "bottom-left");
 
 // OpenFreeMap's styles ship generic POI labels/icons (random shops,
 // obscure businesses) tiered by importance rank: poi_r1 (most important,

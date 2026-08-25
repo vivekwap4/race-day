@@ -1,7 +1,7 @@
 // Hotel list (synced to the current map viewport), the hotel detail panel,
 // and the race weekend schedule collapsible.
 
-import { state, TIER_CLASS, HIGHLIGHT_COLOR, HOTEL_COLOR, TRANSIT_LABELS, TRANSIT_CONFIDENT_CLASSES, TRANSIT_CLASS_PRIORITY } from "./state.js";
+import { state, TIER_CLASS, HIGHLIGHT_COLOR, HOTEL_COLOR, TRANSIT_LABELS, TRANSIT_CONFIDENT_CLASSES, TRANSIT_CLASS_PRIORITY, formatDist } from "./state.js";
 import { map } from "./map.js";
 import { haversineKm, escapeHtml, displayName } from "./utils.js";
 
@@ -39,7 +39,7 @@ export function renderHotelList() {
       card.innerHTML = `
         <div>
           <p class="hotel-name">${escapeHtml(displayName(h))}</p>
-          <p class="hotel-distance">${h.distance_km} km</p>
+          <p class="hotel-distance">${formatDist(h.distance_km)}</p>
         </div>
         <span class="tier-badge ${TIER_CLASS[h.access_tier] || ""}">${h.access_tier}</span>
       `;
@@ -49,11 +49,13 @@ export function renderHotelList() {
 }
 
 export function showHotelDetail(hotel) {
+  state.currentHotel = hotel;
   document.getElementById("panel-content").classList.add("hidden");
   document.getElementById("hotel-detail").classList.remove("hidden");
 
   renderSelectedHotelMarker(hotel);
   clearSelectedPoiMarker();
+  clearRoute();
 
   // Hiding, not another camera-movement change: the cluster/cluster-count
   // layers' underlying data is recomputed in a background worker whenever
@@ -90,10 +92,13 @@ export function showHotelDetail(hotel) {
   state._nearbyTransit = nearbyTransit;
 
   document.getElementById("hotel-detail-body").innerHTML = `
-    <h1 style="font-size:18px;margin:12px 0 4px;">${escapeHtml(displayName(hotel))}</h1>
-    <div style="display:flex;align-items:center;gap:8px;margin:0 0 16px;">
-      <span class="muted small">${hotel.distance_km} km from circuit</span>
-      <span class="tier-badge ${TIER_CLASS[hotel.access_tier] || ""}">${hotel.access_tier}</span>
+    <div class="hotel-header-card">
+      <div class="hotel-header-top">
+        <h1 class="hotel-header-name">${escapeHtml(displayName(hotel))}</h1>
+        <span class="tier-badge ${TIER_CLASS[hotel.access_tier] || ""}">${hotel.access_tier}</span>
+      </div>
+      <p class="hotel-header-distance">${formatDist(hotel.distance_km)} from circuit</p>
+      <p id="hotel-walk-info" class="hotel-walk-info hidden"></p>
     </div>
 
     <p class="detail-section-header food">Food options nearby</p>
@@ -103,10 +108,10 @@ export function showHotelDetail(hotel) {
           ? nearbyFood
               .slice(0, 6)
               .map(
-                (f, i) => `<div class="detail-row clickable" data-poi-type="food" data-poi-index="${i}"><span>${escapeHtml(displayName(f))}</span><span class="muted">${f.d.toFixed(2)} km</span></div>`
+                (f, i) => `<div class="detail-row clickable" data-poi-type="food" data-poi-index="${i}"><span>${escapeHtml(displayName(f))}</span><span class="muted">${formatDist(f.d.toFixed(2))}</span></div>`
               )
               .join("")
-          : '<p class="empty-state">No food places within 1 km in the current data.</p>'
+          : `<p class="empty-state">No food places within ${formatDist(1)} in the current data.</p>`
       }
     </div>
 
@@ -119,17 +124,13 @@ export function showHotelDetail(hotel) {
               .map((t, i) => {
                 const confident = TRANSIT_CONFIDENT_CLASSES.has(t.class);
                 const label = TRANSIT_LABELS[t.class] || t.class;
-                return `<div class="detail-row clickable" data-poi-type="transit" data-poi-index="${i}"><span>${escapeHtml(t.name)}</span><span style="display:flex;align-items:center;gap:8px;"><span class="transit-badge ${confident ? "confident" : "neutral"}">${label}</span><span class="muted">${t.d.toFixed(2)} km</span></span></div>`;
+                return `<div class="detail-row clickable transit-row" data-poi-type="transit" data-poi-index="${i}"><span>${escapeHtml(t.name)}</span><span class="transit-badge ${confident ? "confident" : "neutral"}">${label}</span><span class="transit-dist">${formatDist(t.d.toFixed(2))}</span></div>`;
               })
               .join("")
           : '<p class="empty-state">No transit stops within 500 m in the current data.</p>'
       }
     </div>
 
-    <p class="detail-footnote">
-      Distances are straight-line, not routed. Access tier is derived from distance only —
-      see the README for the exact thresholds and their limits.
-    </p>
   `;
 
   // Wire up click handlers on each row
@@ -141,6 +142,7 @@ export function showHotelDetail(hotel) {
       if (!poi) return;
       const color = type === "food" ? "#d97706" : "#2563eb";
       renderSelectedPoiMarker(poi.lng, poi.lat, color);
+      drawConnectionLine(hotel.lng, hotel.lat, poi.lng, poi.lat);
 
       // Fit both the hotel and the tapped POI within the viewport — just
       // jumping to the POI's coordinates loses the hotel off-screen when
@@ -194,10 +196,12 @@ function dedupeTransit(list) {
 }
 
 export function showHotelList() {
+  state.currentHotel = null;
   document.getElementById("hotel-detail").classList.add("hidden");
   document.getElementById("panel-content").classList.remove("hidden");
   clearSelectedHotelMarker();
   clearSelectedPoiMarker();
+  clearRoute();
 }
 
 // --- Zoom-based visibility: hide the hotel highlight pin and hotel/cluster
@@ -305,6 +309,127 @@ export function clearSelectedPoiMarker() {
     state.selectedPoiDot.remove();
     state.selectedPoiDot = null;
   }
+  clearConnectionLine();
+}
+
+// --- Walking route between hotel and selected POI via OSRM ---
+
+const ROUTE_SOURCE = "walking-route";
+const ROUTE_LAYER  = "walking-route-line";
+const _routeCache  = {}; // session cache keyed by "lng1,lat1-lng2,lat2"
+let _routeRequestId = 0; // incremented per request to discard stale responses
+let _currentRouteGeometry = null; // stored so theme toggle can re-draw it
+
+function routeCacheKey(lng1, lat1, lng2, lat2) {
+  return `${lng1},${lat1}-${lng2},${lat2}`;
+}
+
+function routeColor() {
+  // Visible against both the liberty (light) and fiord (dark) basemaps
+  return state.theme === "dark" ? "#00fff5" : "#e63946";
+}
+
+async function fetchWalkingRoute(hotelLng, hotelLat, poiLng, poiLat) {
+  const key = routeCacheKey(hotelLng, hotelLat, poiLng, poiLat);
+  if (_routeCache[key]) return _routeCache[key];
+
+  try {
+    const url = `https://router.project-osrm.org/route/v1/foot/${hotelLng},${hotelLat};${poiLng},${poiLat}?geometries=geojson&overview=full`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`OSRM ${res.status}`);
+    const data = await res.json();
+    const geometry = data?.routes?.[0]?.geometry;
+    const duration = data?.routes?.[0]?.duration;
+    const distance = data?.routes?.[0]?.distance;
+    if (!geometry) throw new Error("No route geometry");
+    const result = { geometry, duration, distance };
+    _routeCache[key] = result;
+    return result;
+  } catch (err) {
+    console.warn("[route] OSRM fetch failed, falling back to straight line:", err);
+    return null;
+  }
+}
+
+function removeRouteLayers() {
+  if (map.getLayer(ROUTE_LAYER)) map.removeLayer(ROUTE_LAYER);
+  if (map.getSource(ROUTE_SOURCE)) map.removeSource(ROUTE_SOURCE);
+  const svg = document.getElementById("poi-connection-line");
+  if (svg) svg.classList.add("hidden");
+}
+
+export function drawRoute(geometry) {
+  removeRouteLayers(); // remove existing layers without wiping geometry state
+  _currentRouteGeometry = geometry;
+  if (!map.isStyleLoaded()) return;
+  map.addSource(ROUTE_SOURCE, {
+    type: "geojson",
+    data: { type: "Feature", geometry },
+  });
+  map.addLayer({
+    id: ROUTE_LAYER,
+    type: "line",
+    source: ROUTE_SOURCE,
+    layout: { "line-join": "round", "line-cap": "round" },
+    paint: {
+      "line-color": routeColor(),
+      "line-width": 3,
+      "line-dasharray": [2, 2],
+      "line-opacity": 0.9,
+    },
+  });
+}
+
+export function clearRoute() {
+  console.log("[route] clearRoute called from:", new Error().stack.split('\n')[2].trim());
+  _currentRouteGeometry = null;
+  removeRouteLayers();
+}
+
+export function redrawRouteAfterThemeChange() {
+  console.log("[route] redrawRouteAfterThemeChange called, geometry:", _currentRouteGeometry ? "present" : "null");
+  if (_currentRouteGeometry) drawRoute(_currentRouteGeometry);
+}
+
+async function drawConnectionLine(hotelLng, hotelLat, poiLng, poiLat) {
+  // Increment request ID — if another POI is tapped before this resolves,
+  // the stale response will be discarded and won't write to the wrong element.
+  const requestId = ++_routeRequestId;
+
+  const route = await fetchWalkingRoute(hotelLng, hotelLat, poiLng, poiLat);
+  if (requestId !== _routeRequestId) return; // stale — a newer request is in flight
+
+  if (route) {
+    drawRoute(route.geometry);
+    const walkEl = document.getElementById("hotel-walk-info");
+    if (walkEl && route.distance != null && route.duration != null) {
+      const distStr = formatDist((route.distance / 1000).toFixed(2));
+      const mins = Math.round(route.duration / 60);
+      walkEl.textContent = `${distStr} · ~${mins} min walk`;
+      walkEl.classList.remove("hidden");
+    }
+  } else {
+    // SVG fallback
+    const svg = document.getElementById("poi-connection-line");
+    if (svg) {
+      svg.classList.remove("hidden");
+      const seg = document.getElementById("poi-connection-segment");
+      const updateSvg = () => {
+        try {
+          const h = map.project([hotelLng, hotelLat]);
+          const p = map.project([poiLng, poiLat]);
+          if (seg) { seg.setAttribute("x1", h.x); seg.setAttribute("y1", h.y); seg.setAttribute("x2", p.x); seg.setAttribute("y2", p.y); }
+        } catch {}
+      };
+      updateSvg();
+      map.on("move", updateSvg);
+      map.on("zoom", updateSvg);
+    }
+  }
+}
+
+function clearConnectionLine() {
+  clearRoute();
 }
 
 export function toggleSchedule() {

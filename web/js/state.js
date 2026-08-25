@@ -17,7 +17,25 @@ export const state = {
   selectedHotelDot: null,
   selectedPoiMarker: null,
   selectedPoiDot: null,
+  currentHotel: null, // hotel currently shown in the detail panel
+  useMiles: false, // set to true for US circuits; togglable by user
 };
+
+// US circuit keys — these default to miles when loaded.
+const US_CIRCUITS = new Set(["miami", "cota", "las_vegas"]);
+
+export function setUnitForCircuit(circuitKey) {
+  state.useMiles = US_CIRCUITS.has(circuitKey);
+}
+
+// Converts a km value to the current display unit and returns a formatted string.
+export function formatDist(km) {
+  if (state.useMiles) {
+    const mi = km * 0.621371;
+    return `${mi.toFixed(2)} mi`;
+  }
+  return `${km} km`;
+}
 
 export const TIER_CLASS = {
   Walkable: "tier-Walkable",
@@ -28,7 +46,14 @@ export const TIER_CLASS = {
 export const CLUSTER_COLOR = "#e63946";
 export const HOTEL_COLOR = "#e63946"; // matches CLUSTER_COLOR deliberately — hotel dots and bubbles should read as the same category
 export const FOOD_COLOR = "#f0b25e";
-export const CIRCUIT_COLOR = "#7c3aed"; // distinct from hotel/food/cluster red-amber palette, so the circuit itself always stands out
+export const CIRCUIT_COLOR = "#7c3aed"; // light theme circuit color (purple)
+export const CIRCUIT_COLOR_DARK = "#00fff5"; // dark theme circuit color (electric cyan)
+
+// Returns the correct circuit color for the current theme — purple in light,
+// electric cyan in dark (for readability against the fiord basemap's navy).
+export function getCircuitColor() {
+  return state.theme === "dark" ? CIRCUIT_COLOR_DARK : CIRCUIT_COLOR;
+}
 export const HIGHLIGHT_COLOR = "#059669"; // emerald — used only for the selected-hotel pin, distinct from every other color on the map
 export const SOURCE_ID = "places";
 

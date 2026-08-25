@@ -2,9 +2,11 @@
 
 import { state } from "./state.js";
 import { map, mapStyleFor, hideBasemapClutterLayers } from "./map.js";
-import { renderClusterLayer } from "./clusters.js";
+import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
 import { renderHotelList } from "./hotels.js";
 import { renderTrack } from "./track.js";
+import { renderHomeMarkers } from "./circuits.js";
+import { redrawRouteAfterThemeChange } from "./hotels.js";
 
 export function toggleTheme() {
   state.theme = state.theme === "dark" ? "light" : "dark";
@@ -12,17 +14,36 @@ export function toggleTheme() {
 
   const preservedCenter = map.getCenter();
   const preservedZoom = map.getZoom();
+  const hadData = !!state.currentData;
+  const circuitKey = state.currentCircuit;
 
   map.setStyle(mapStyleFor(state.theme));
 
-  map.once("style.load", () => {
+  // MapLibre v4: style.load doesn't reliably fire after setStyle.
+  // Confirmed by direct console instrumentation — idle fires but style.load
+  // doesn't. Use idle directly, which fires once the new style is fully settled.
+  map.once("idle", () => {
     map.jumpTo({ center: preservedCenter, zoom: preservedZoom });
     hideBasemapClutterLayers();
-    if (!state.currentData) return;
-    map.once("idle", () => {
-      renderClusterLayer();
-      if (state.currentCircuit) renderTrack(state.currentCircuit);
-    });
+    if (!hadData) {
+      // No circuit selected — re-render home markers so they use the new theme color
+      renderHomeMarkers();
+      return;
+    }
+    renderCircuitMarker();
+    renderClusterLayer(true);
+    if (circuitKey) {
+      renderTrack(circuitKey)
+        .then(() => redrawRouteAfterThemeChange())
+        .catch(() => {
+          map.once("idle", () => {
+            renderTrack(circuitKey);
+            redrawRouteAfterThemeChange();
+          });
+        });
+    } else {
+      redrawRouteAfterThemeChange();
+    }
   });
 }
 

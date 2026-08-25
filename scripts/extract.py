@@ -48,10 +48,13 @@ FOOD_CATEGORIES_MAP = {
     "bar": ["bar", "pub", "sports_bar"],
 }
 
-# Straight-line distance thresholds (km) for the access tier shown in the UI.
-# These are our own judgment calls, not something Overture defines — see README.
-WALKABLE_KM = 1.5
-SHORT_TRANSFER_KM = 10.0
+# Straight-line distance thresholds for the access tier shown in the UI.
+# Defined in miles, converted to km for comparison against extracted distances.
+# Walkable      : ≤ 1 mile  (1.609 km) — on foot in ~20 min, no transport needed
+# Short Transfer: ≤ 6 miles (9.656 km) — quick rideshare/taxi, ~20 min on race day
+# Long Transfer : > 6 miles — plan transport carefully; road closures can add time
+WALKABLE_KM = 1.609        # 1 mile
+SHORT_TRANSFER_KM = 9.656  # 6 miles
 # anything beyond SHORT_TRANSFER_KM is "Long Transfer"
 
 # Transit stops live in Overture's base theme (infrastructure type, transit

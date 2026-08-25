@@ -3,12 +3,28 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Race Day — F1 race weekend logistics</title>
+  <title>Race Day — Your F1 race weekend companion</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4/dist/maplibre-gl.css" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body data-theme="light">
   <div id="map"></div>
+  <svg id="poi-connection-line" class="hidden" xmlns="http://www.w3.org/2000/svg">
+    <line id="poi-connection-segment" x1="0" y1="0" x2="0" y2="0"/>
+  </svg>
+
+  <div id="travel-overlay" class="hidden" aria-live="polite">
+    <div class="travel-card">
+      <p class="travel-icon">✈️</p>
+      <p class="travel-label">Flying to</p>
+      <p class="travel-name" id="travel-circuit-name"></p>
+      <p class="travel-location" id="travel-circuit-location"></p>
+    </div>
+  </div>
+
+  <button id="return-to-circuit" class="hidden" aria-label="Return to selected circuit">
+    <span id="return-circuit-label">← Las Vegas Strip Circuit</span>
+  </button>
 
   <div id="map-overlay">
     <div id="top-controls">
@@ -43,13 +59,20 @@
 
   <aside id="side-panel">
     <div id="panel-empty" class="panel-section">
-      <p class="muted">Pick a circuit above to see race weekend logistics.</p>
+      <p class="muted">Pick a circuit above to get started.</p>
     </div>
 
     <div id="panel-content" class="hidden">
       <div class="panel-section">
-        <h1 id="circuit-name">—</h1>
-        <p id="circuit-location" class="muted"></p>
+        <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+          <div>
+            <h1 id="circuit-name">—</h1>
+            <p id="circuit-location" class="muted"></p>
+          </div>
+          <button id="unit-toggle" class="unit-toggle-btn" aria-label="Toggle distance units" title="Toggle km/mi" style="margin-top:4px;flex-shrink:0;">
+            <span id="unit-label">km</span>
+          </button>
+        </div>
       </div>
 
       <div class="panel-section">
@@ -76,7 +99,12 @@
     </div>
 
     <div id="hotel-detail" class="hidden panel-section">
-      <button id="detail-back" class="row-button">&larr; Back to list</button>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
+        <button id="detail-back" class="row-button" style="flex:1;">&larr; Back to list</button>
+        <button id="unit-toggle-detail" class="unit-toggle-btn" aria-label="Toggle distance units" title="Toggle km/mi" style="flex-shrink:0;margin-left:8px;">
+          <span id="unit-label-detail">km</span>
+        </button>
+      </div>
       <div id="hotel-detail-body"></div>
     </div>
   </aside>

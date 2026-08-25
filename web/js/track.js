@@ -6,7 +6,7 @@
 // runtime, so the track outline renders with no external dependencies.
 
 import { map } from "./map.js";
-import { CIRCUIT_COLOR } from "./state.js";
+import { CIRCUIT_COLOR, getCircuitColor } from "./state.js";
 
 const TRACK_SOURCE = "circuit-track";
 const TRACK_LAYER = "circuit-track-line";
@@ -50,7 +50,7 @@ export async function renderTrack(circuitKey) {
       "line-cap": "round",
     },
     paint: {
-      "line-color": CIRCUIT_COLOR,
+      "line-color": getCircuitColor(),
       "line-width": 3,
       "line-opacity": 0.85,
     },

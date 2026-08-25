@@ -2,7 +2,7 @@
 // home-view world map before anything is selected, and loading a circuit's
 // data once picked.
 
-import { state, CIRCUIT_FLAGS, CIRCUIT_COLOR } from "./state.js";
+import { state, CIRCUIT_FLAGS, CIRCUIT_COLOR, getCircuitColor, setUnitForCircuit } from "./state.js";
 import { map } from "./map.js";
 import { escapeHtml } from "./utils.js";
 import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
@@ -64,7 +64,8 @@ function closeCircuitDropdown() {
 // same way.
 export function selectCircuit(key) {
   const c = state.circuits[key];
-  if (!c) return;
+  console.log("[selectCircuit]", key, c);
+  if (!c) { console.warn("[selectCircuit] no circuit data for key:", key); return; }
   const flag = CIRCUIT_FLAGS[key] || "";
   document.getElementById("circuit-trigger-label").textContent = `${flag} ${c.name} — ${c.location}`;
   document.querySelectorAll(".circuit-option").forEach((el) => {
@@ -81,16 +82,23 @@ export function selectCircuit(key) {
 export function renderHomeMarkers() {
   clearHomeMarkers();
   Object.entries(state.circuits).forEach(([key, c]) => {
+    const isSelected = key === state.currentCircuit;
     const el = document.createElement("div");
-    el.style.cssText =
-      `width:14px;height:14px;border-radius:50%;background:${CIRCUIT_COLOR};border:2px solid white;box-shadow:0 0 0 1px rgba(0,0,0,0.15);cursor:pointer;`;
+    const color = getCircuitColor();
+    if (isSelected) {
+      el.style.cssText = `width:18px;height:18px;border-radius:50%;background:${color};border:2px solid white;box-shadow:0 0 0 3px ${color}88;cursor:default;`;
+    } else {
+      el.style.cssText = `width:14px;height:14px;border-radius:50%;background:${color};border:2px solid white;box-shadow:0 0 0 1px rgba(0,0,0,0.15);cursor:pointer;opacity:0.7;`;
+    }
     const marker = new maplibregl.Marker({ element: el })
       .setLngLat([c.lng, c.lat])
-      .setPopup(new maplibregl.Popup({ offset: 10 }).setText(`${c.name} — ${c.location}`))
-      .addTo(map);
-    el.addEventListener("click", () => {
-      selectCircuit(key);
-    });
+      .addTo(map); // no popup — it interferes with click handling
+    if (!isSelected) {
+      el.addEventListener("click", (e) => {
+        e.stopPropagation();
+        selectCircuit(key);
+      });
+    }
     state.homeMarkers.push(marker);
   });
 }
@@ -100,38 +108,89 @@ export function clearHomeMarkers() {
   state.homeMarkers = [];
 }
 
+// Deselects the current circuit — clears all circuit-specific state and
+// layers, resets the dropdown label, and re-renders the home markers so
+// the user can see and pick any circuit again.
+export function resetCircuitSelection() {
+  if (!state.currentData) return;
+  state.currentCircuit = null;
+  state.currentData = null;
+  clearSelectedHotelMarker();
+  clearSelectedPoiMarker();
+  clearTrack();
+  // Remove cluster/unclustered layers
+  ["clusters", "cluster-count", "unclustered-point"].forEach((id) => {
+    if (map.getLayer(id)) map.removeLayer(id);
+  });
+  if (map.getSource("places")) map.removeSource("places");
+  // Remove the selected-circuit dot marker
+  state.markers.forEach((m) => m.remove());
+  state.markers = [];
+  // Restore home markers and reset the picker label
+  renderHomeMarkers();
+  const triggerLabel = document.getElementById("circuit-trigger-label");
+  if (triggerLabel) triggerLabel.textContent = "Choose a circuit";
+  document.getElementById("panel-content").classList.add("hidden");
+  document.getElementById("hotel-detail").classList.add("hidden");
+  document.getElementById("panel-empty").classList.remove("hidden");
+  // Reset the schedule body
+  const scheduleBody = document.getElementById("schedule-body");
+  if (scheduleBody) scheduleBody.innerHTML = "";
+}
+
 export async function loadCircuit(key) {
   const res = await fetch(`data/${key}.json`);
   if (!res.ok) {
     console.error(`No data file for circuit '${key}'. Run scripts/extract.py first.`);
     return;
   }
-  clearHomeMarkers();
   clearSelectedHotelMarker();
   clearSelectedPoiMarker();
   clearTrack();
   state.currentCircuit = key;
   state.currentData = await res.json();
 
-  // Hide the entire panel during travel — showing the empty/stale state from
-  // the previous circuit while the map is flying to a new one is confusing.
-  // The panel reappears once the map has settled on the new circuit.
-  document.getElementById("side-panel").classList.add("hidden");
-  document.getElementById("hotel-detail").classList.add("hidden");
+  // Re-render home markers immediately so the selected circuit gets its
+  // distinctive ring while the flight animation plays. The zoom handler
+  // will hide/show them based on zoom level.
+  renderHomeMarkers();
 
+  // Auto-set distance unit based on circuit country (miles for US, km elsewhere)
+  setUnitForCircuit(key);
+  const unitText = state.useMiles ? "mi" : "km";
+  const el1 = document.getElementById("unit-label");
+  const el2 = document.getElementById("unit-label-detail");
+  if (el1) el1.textContent = unitText;
+  if (el2) el2.textContent = unitText;
   const { circuit } = state.currentData;
   document.getElementById("circuit-name").textContent = circuit.name;
   document.getElementById("circuit-location").textContent = circuit.location;
 
+  // Show the travel overlay during the flight.
+  const overlay = document.getElementById("travel-overlay");
+  document.getElementById("travel-circuit-name").textContent = circuit.name;
+  document.getElementById("travel-circuit-location").textContent = circuit.location;
+  overlay.classList.remove("hidden");
+
+  // Clear hotel detail and list, show main panel content.
+  document.getElementById("hotel-detail").classList.add("hidden");
+  document.getElementById("panel-empty").classList.add("hidden");
+  document.getElementById("panel-content").classList.remove("hidden");
+  document.getElementById("hotel-list").innerHTML = "";
+  document.getElementById("in-view-count").textContent = "0";
+
+  // Circuit marker at destination visible during flight
+  renderCircuitMarker();
+
+  const thisGeneration = (state._loadGeneration = (state._loadGeneration || 0) + 1);
+  state._flying = true;
+
   map.flyTo({ center: [circuit.lng, circuit.lat], zoom: 12 });
   map.once("moveend", () => {
-    document.getElementById("side-panel").classList.remove("hidden");
-    document.getElementById("panel-empty").classList.add("hidden");
-    document.getElementById("panel-content").classList.remove("hidden");
-    // Clear hotel list immediately (it will be repopulated by renderHotelList)
-    document.getElementById("hotel-list").innerHTML = "";
-    document.getElementById("in-view-count").textContent = "0";
-    renderCircuitMarker();
+    state._flying = false;
+    if (state._loadGeneration !== thisGeneration) return;
+    overlay.classList.add("hidden");
+    clearHomeMarkers();
     renderClusterLayer();
     renderHotelList();
     renderTrack(key);

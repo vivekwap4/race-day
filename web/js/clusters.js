@@ -2,7 +2,7 @@
 // filter switching, and the click/hover interactions for clusters and
 // individual points.
 
-import { state, HOTEL_COLOR, FOOD_COLOR, CIRCUIT_COLOR, SOURCE_ID } from "./state.js";
+import { state, HOTEL_COLOR, FOOD_COLOR, CIRCUIT_COLOR, getCircuitColor, SOURCE_ID } from "./state.js";
 import { map } from "./map.js";
 import { displayName } from "./utils.js";
 import { showHotelDetail } from "./hotels.js";
@@ -15,13 +15,16 @@ export function renderCircuitMarker() {
 
   const { circuit } = state.currentData;
   const el = document.createElement("div");
-  el.style.cssText = `width:26px;height:26px;border-radius:50%;background:${CIRCUIT_COLOR};border:3px solid white;box-shadow:0 0 0 2px ${CIRCUIT_COLOR}66, 0 2px 6px rgba(0,0,0,0.3);`;
-  state.markers.push(
-    new maplibregl.Marker({ element: el })
-      .setLngLat([circuit.lng, circuit.lat])
-      .setPopup(new maplibregl.Popup({ offset: 16 }).setText(circuit.name))
-      .addTo(map)
-  );
+  const color = getCircuitColor();
+  el.style.cssText = `width:26px;height:26px;border-radius:50%;background:${color};border:3px solid white;box-shadow:0 0 0 2px ${color}66, 0 2px 6px rgba(0,0,0,0.3);`;
+  const marker = new maplibregl.Marker({ element: el })
+    .setLngLat([circuit.lng, circuit.lat])
+    .setPopup(new maplibregl.Popup({ offset: 16 }).setText(circuit.name))
+    .addTo(map);
+  state.markers.push(marker);
+
+  // Also store reference for the zoom-visibility handler
+  state.circuitMarker = marker;
 }
 
 // --- Layer / filter controls ---
@@ -67,9 +70,9 @@ function toGeoJSON(points) {
   };
 }
 
-export function renderClusterLayer() {
-  if (!map.isStyleLoaded()) {
-    map.once("idle", renderClusterLayer);
+export function renderClusterLayer(force = false) {
+  if (!force && !map.isStyleLoaded()) {
+    map.once("idle", () => renderClusterLayer());
     return;
   }
 
