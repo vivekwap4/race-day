@@ -48,133 +48,286 @@ export function renderHotelList() {
     });
 }
 
+// Food category pill labels shown in the hotel detail panel
+const FOOD_GROUP_LABELS = {
+  all:        "All",
+  restaurant: "Restaurants",
+  cafe:       "Cafes",
+  bar:        "Bars",
+  fast_food:  "Fast food",
+};
+
+// Active food category filter within the hotel detail (separate from the
+// main Hotels/Food map layer toggle)
+let _detailFoodCategory = "all";
+
+// Active MapLibre popup (for hover/tap on unclustered food/transit dots)
+let _activePopup = null;
+let _lastPopupArgs = null;
+let _isReplacingPopup = false; // set synchronously around programmatic .remove()
+
+function clearPopup() {
+  if (_activePopup) {
+    _isReplacingPopup = true;
+    _activePopup.remove();
+    _activePopup = null;
+    _isReplacingPopup = false;
+  }
+}
+
+export function rerenderPopupAfterThemeChange() {
+  if (_lastPopupArgs) _renderPopup(..._lastPopupArgs);
+}
+
+function makePillHtml(category, label, color, isActive) {
+  const bg   = isActive ? color : "var(--card-bg)";
+  const fg   = isActive ? "#fff" : "var(--text-secondary)";
+  const bdr  = isActive ? "none" : "0.5px solid var(--border)";
+  return `<button class="food-pill${isActive ? " active" : ""}" data-cat="${category}"
+    style="background:${bg};color:${fg};border:${bdr};font-size:12px;padding:4px 12px;
+    border-radius:999px;cursor:pointer;white-space:nowrap;font-weight:${isActive ? "600" : "400"};"
+  >${label}</button>`;
+}
+
+function renderFoodRows(nearbyFood, activeCat) {
+  const filtered = activeCat === "all"
+    ? nearbyFood
+    : nearbyFood.filter(f => f.food_group === activeCat);
+  const limited  = filtered.slice(0, 8); // hard cap
+  if (!limited.length) {
+    return `<p class="empty-state">No ${activeCat === "all" ? "" : FOOD_GROUP_LABELS[activeCat]?.toLowerCase() + " "}options within 500 m.</p>`;
+  }
+  return limited.map((f, i) =>
+    `<div class="detail-row clickable" data-poi-type="food" data-poi-index="${i}">
+       <span>${escapeHtml(displayName(f))}</span>
+       <span class="muted">${formatDist(f.d.toFixed(2))}</span>
+     </div>`
+  ).join("");
+}
+
+export function showPopup(lng, lat, name, categoryLabel, categoryColor, distStr) {
+  if (_activePopup) {
+    _isReplacingPopup = true;
+    _activePopup.remove();
+    _activePopup = null;
+    _isReplacingPopup = false;
+  }
+  _lastPopupArgs = [lng, lat, name, categoryLabel, categoryColor, distStr];
+  _renderPopup(lng, lat, name, categoryLabel, categoryColor, distStr);
+}
+
+function _renderPopup(lng, lat, name, categoryLabel, categoryColor, distStr) {
+  if (_activePopup) {
+    _isReplacingPopup = true;
+    _activePopup.remove();
+    _activePopup = null;
+    _isReplacingPopup = false;
+  }
+  const emoji = categoryColor === "#2563eb" ? "🚌"
+    : categoryColor === "#e63946" ? "🏨"
+    : "🍽️";
+  // Use CSS classes for text colors — they pick up CSS variable changes
+  // automatically when the theme switches, no JS re-render needed.
+  const html = `<div class="rd-popup">
+    <div class="rd-popup-header">
+      <span class="rd-popup-emoji">${emoji}</span>
+      <span class="rd-popup-name">${escapeHtml(name)}</span>
+    </div>
+    <div class="rd-popup-meta">
+      <span class="rd-popup-pill" style="background:${categoryColor}20;color:${categoryColor};">${escapeHtml(categoryLabel)}</span>
+      ${distStr ? `<span class="rd-popup-dist">${distStr}</span>` : ""}
+    </div>
+  </div>`;
+  _activePopup = new maplibregl.Popup({
+    closeButton: true,
+    closeOnClick: true,
+    offset: 14,
+    className: "race-day-popup",
+    maxWidth: "260px",
+  }).setLngLat([lng, lat]).setHTML(html).addTo(map);
+  _activePopup.on("close", () => {
+    _activePopup = null;
+    _lastPopupArgs = null;
+    if (!_isReplacingPopup) {
+      clearRoute();
+      clearSelectedPoiMarker();
+    }
+  });
+}
+
 export function showHotelDetail(hotel) {
   state.currentHotel = hotel;
+  _detailFoodCategory = "all";
   document.getElementById("panel-content").classList.add("hidden");
   document.getElementById("hotel-detail").classList.remove("hidden");
 
   renderSelectedHotelMarker(hotel);
   clearSelectedPoiMarker();
   clearRoute();
+  clearPopup();
 
-  // Hiding, not another camera-movement change: the cluster/cluster-count
-  // layers' underlying data is recomputed in a background worker whenever
-  // zoom changes, and that recompute lags slightly behind the camera —
-  // regardless of flyTo/easeTo/jumpTo. During that lag the layer can
-  // briefly show the previous zoom's (clustered) data. Hiding it for the
-  // transition and revealing it once the map is truly idle sidesteps the
-  // issue entirely instead of chasing camera-animation timing further.
   if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", "none");
   if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", "none");
-  // easeTo gives a smooth pan+zoom; jumpTo was instant (jarring). The cluster
-  // flash that originally motivated using jumpTo is handled separately by hiding
-  // the layer before the move and revealing it once idle — so we can use easeTo
-  // here without the flash coming back.
   map.easeTo({ center: [hotel.lng, hotel.lat], zoom: 15, duration: 600 });
   map.once("idle", () => {
     if (map.getLayer("clusters")) map.setLayoutProperty("clusters", "visibility", "visible");
     if (map.getLayer("cluster-count")) map.setLayoutProperty("cluster-count", "visibility", "visible");
   });
 
+  // Hard 500m limit for both food and transit
   const nearbyFood = state.currentData.food
     .map((f) => ({ ...f, d: haversineKm(hotel.lat, hotel.lng, f.lat, f.lng) }))
-    .filter((f) => f.d <= 1)
+    .filter((f) => f.d <= 0.5)
     .sort((a, b) => a.d - b.d);
 
   const nearbyTransit = dedupeTransit(
     (state.currentData.transit || [])
       .map((t) => ({ ...t, d: haversineKm(hotel.lat, hotel.lng, t.lat, t.lng) }))
       .filter((t) => t.d <= 0.5)
-  ).sort((a, b) => a.d - b.d);
+  ).sort((a, b) => a.d - b.d).slice(0, 8);
 
-  // Store for click handlers to reference
-  state._nearbyFood = nearbyFood;
+  state._nearbyFood    = nearbyFood;
   state._nearbyTransit = nearbyTransit;
 
-  document.getElementById("hotel-detail-body").innerHTML = `
-    <div class="hotel-header-card">
-      <div class="hotel-header-top">
-        <h1 class="hotel-header-name">${escapeHtml(displayName(hotel))}</h1>
-        <span class="tier-badge ${TIER_CLASS[hotel.access_tier] || ""}">${hotel.access_tier}</span>
+  // Determine which food category pills to show (only those with results)
+  const availableGroups = ["all", ...["restaurant","cafe","bar","fast_food"]
+    .filter(g => nearbyFood.some(f => f.food_group === g))];
+
+  function buildHtml(activeCat) {
+    const pills = availableGroups.map(g =>
+      makePillHtml(g, FOOD_GROUP_LABELS[g], "#d97706", g === activeCat)
+    ).join("");
+
+    const transitRows = nearbyTransit.length
+      ? nearbyTransit.map((t, i) => {
+          const confident = TRANSIT_CONFIDENT_CLASSES.has(t.class);
+          const label = TRANSIT_LABELS[t.class] || t.class;
+          return `<div class="detail-row clickable transit-row" data-poi-type="transit" data-poi-index="${i}">
+            <span>${escapeHtml(t.name)}</span>
+            <span class="transit-badge ${confident ? "confident" : "neutral"}">${label}</span>
+            <span class="transit-dist">${formatDist(t.d.toFixed(2))}</span>
+          </div>`;
+        }).join("")
+      : '<p class="empty-state">No transit stops within 500 m.</p>';
+
+    return `
+      <div class="hotel-header-card">
+        <div class="hotel-header-top">
+          <h1 class="hotel-header-name">${escapeHtml(displayName(hotel))}</h1>
+          <span class="tier-badge ${TIER_CLASS[hotel.access_tier] || ""}">${hotel.access_tier}</span>
+        </div>
+        <p class="hotel-header-distance">${formatDist(hotel.distance_km)} from circuit</p>
       </div>
-      <p class="hotel-header-distance">${formatDist(hotel.distance_km)} from circuit</p>
-      <p id="hotel-walk-info" class="hotel-walk-info hidden"></p>
-    </div>
 
-    <p class="detail-section-header food">Food options nearby</p>
-    <div class="detail-card food">
-      ${
-        nearbyFood.length
-          ? nearbyFood
-              .slice(0, 6)
-              .map(
-                (f, i) => `<div class="detail-row clickable" data-poi-type="food" data-poi-index="${i}"><span>${escapeHtml(displayName(f))}</span><span class="muted">${formatDist(f.d.toFixed(2))}</span></div>`
-              )
-              .join("")
-          : `<p class="empty-state">No food places within ${formatDist(1)} in the current data.</p>`
-      }
-    </div>
+      <p class="detail-section-header food">Food nearby</p>
+      <div style="display:flex;gap:6px;overflow-x:auto;padding-bottom:4px;margin-bottom:10px;scrollbar-width:none;">
+        ${pills}
+      </div>
+      <div class="detail-card food" id="food-rows">
+        ${renderFoodRows(nearbyFood, activeCat)}
+      </div>
 
-    <p class="detail-section-header transit">Transit nearby</p>
-    <div class="detail-card transit">
-      ${
-        nearbyTransit.length
-          ? nearbyTransit
-              .slice(0, 6)
-              .map((t, i) => {
-                const confident = TRANSIT_CONFIDENT_CLASSES.has(t.class);
-                const label = TRANSIT_LABELS[t.class] || t.class;
-                return `<div class="detail-row clickable transit-row" data-poi-type="transit" data-poi-index="${i}"><span>${escapeHtml(t.name)}</span><span class="transit-badge ${confident ? "confident" : "neutral"}">${label}</span><span class="transit-dist">${formatDist(t.d.toFixed(2))}</span></div>`;
-              })
-              .join("")
-          : '<p class="empty-state">No transit stops within 500 m in the current data.</p>'
-      }
-    </div>
+      <p class="detail-section-header transit">Transit nearby</p>
+      <div class="detail-card transit">${transitRows}</div>
+    `;
+  }
 
-  `;
+  document.getElementById("hotel-detail-body").innerHTML = buildHtml("all");
 
-  // Wire up click handlers on each row
-  document.querySelectorAll("#hotel-detail-body .detail-row.clickable").forEach((row) => {
-    row.addEventListener("click", () => {
-      const type = row.dataset.poiType;
-      const idx = parseInt(row.dataset.poiIndex, 10);
-      const poi = type === "food" ? state._nearbyFood[idx] : state._nearbyTransit[idx];
-      if (!poi) return;
-      const color = type === "food" ? "#d97706" : "#2563eb";
-      renderSelectedPoiMarker(poi.lng, poi.lat, color);
-      drawConnectionLine(hotel.lng, hotel.lat, poi.lng, poi.lat);
-
-      // Fit both the hotel and the tapped POI within the viewport — just
-      // jumping to the POI's coordinates loses the hotel off-screen when
-      // they're more than a block apart.
-      const hotelLng = state.currentData && hotel ? hotel.lng : poi.lng;
-      const hotelLat = state.currentData && hotel ? hotel.lat : poi.lat;
-      const minLng = Math.min(hotelLng, poi.lng);
-      const maxLng = Math.max(hotelLng, poi.lng);
-      const minLat = Math.min(hotelLat, poi.lat);
-      const maxLat = Math.max(hotelLat, poi.lat);
-
-      // If they're essentially at the same point, just jump there directly
-      // rather than fitBounds (which would zoom too far in with zero extent).
-      const sameLoc = Math.abs(maxLng - minLng) < 0.0001 && Math.abs(maxLat - minLat) < 0.0001;
-      if (sameLoc) {
-        map.jumpTo({ center: [poi.lng, poi.lat], zoom: 17 });
-      } else {
-        map.fitBounds([[minLng, minLat], [maxLng, maxLat]], {
-          padding: { top: 80, bottom: 80, left: 80, right: 80 },
-          maxZoom: 17,
+  function wireHandlers() {
+    // Category pill clicks
+    document.querySelectorAll(".food-pill").forEach(pill => {
+      pill.addEventListener("click", () => {
+        _detailFoodCategory = pill.dataset.cat;
+        document.getElementById("food-rows").innerHTML =
+          renderFoodRows(nearbyFood, _detailFoodCategory);
+        document.querySelectorAll(".food-pill").forEach(p => {
+          const active = p.dataset.cat === _detailFoodCategory;
+          p.style.background = active ? "#d97706" : "var(--card-bg)";
+          p.style.color      = active ? "#fff"    : "var(--text-secondary)";
+          p.style.border     = active ? "none"    : "0.5px solid var(--border)";
+          p.style.fontWeight = active ? "600"     : "400";
         });
-      }
-      // Highlight the active row
-      document.querySelectorAll("#hotel-detail-body .detail-row.clickable").forEach((r) =>
-        r.classList.remove("active")
-      );
-      row.classList.add("active");
+        wireFoodRowHandlers();
+      });
     });
-  });
+    wireFoodRowHandlers();
+    wireTransitRowHandlers();
+  }
+
+  function wireFoodRowHandlers() {
+    document.querySelectorAll("#food-rows .detail-row.clickable").forEach((row) => {
+      row.addEventListener("click", () => {
+        const filtered = _detailFoodCategory === "all"
+          ? nearbyFood
+          : nearbyFood.filter(f => f.food_group === _detailFoodCategory);
+        const poi = filtered[parseInt(row.dataset.poiIndex, 10)];
+        if (!poi) return;
+        activatePoi(poi, "food", hotel, row);
+      });
+    });
+  }
+
+  function wireTransitRowHandlers() {
+    document.querySelectorAll("#hotel-detail-body .detail-row.clickable[data-poi-type='transit']").forEach((row) => {
+      row.addEventListener("click", () => {
+        const poi = nearbyTransit[parseInt(row.dataset.poiIndex, 10)];
+        if (!poi) return;
+        activatePoi(poi, "transit", hotel, row);
+      });
+    });
+  }
+
+  wireHandlers();
 }
 
-// Overture/OSM model a single physical stop as several records — typically
+// Shared handler for tapping a food/transit POI — from the panel list OR
+// from the map. Draws the route, shows the popup, fits the viewport.
+export function activatePoi(poi, type, hotel, activeRow) {
+  const color = type === "food" ? "#d97706" : "#2563eb";
+  const label = type === "food"
+    ? (FOOD_GROUP_LABELS[poi.food_group] || poi.category || "Food")
+    : (TRANSIT_LABELS[poi.class] || poi.class || "Transit");
+
+  renderSelectedPoiMarker(poi.lng, poi.lat, color);
+
+  // Show popup immediately with straight-line distance as placeholder;
+  // updates to walking distance once OSRM resolves.
+  showPopup(poi.lng, poi.lat, displayName(poi), label, color,
+    `${formatDist(poi.d.toFixed(2))} straight-line`);
+
+  drawConnectionLine(hotel.lng, hotel.lat, poi.lng, poi.lat, (walkDist, walkMins) => {
+    // Update popup with actual walking distance once route arrives
+    showPopup(poi.lng, poi.lat, displayName(poi), label, color,
+      `${walkDist} · ~${walkMins} min walk`);
+  });
+
+  // Fit both hotel and POI in viewport
+  if (hotel) {
+    const minLng = Math.min(hotel.lng, poi.lng);
+    const maxLng = Math.max(hotel.lng, poi.lng);
+    const minLat = Math.min(hotel.lat, poi.lat);
+    const maxLat = Math.max(hotel.lat, poi.lat);
+    const sameLoc = Math.abs(maxLng - minLng) < 0.0001 && Math.abs(maxLat - minLat) < 0.0001;
+    if (sameLoc) {
+      map.jumpTo({ center: [poi.lng, poi.lat], zoom: 17 });
+    } else {
+      map.fitBounds([[minLng, minLat], [maxLng, maxLat]], {
+        padding: { top: 80, bottom: 80, left: 80, right: 80 },
+        maxZoom: 17,
+      });
+    }
+  }
+
+  // Highlight active row in panel if tapped from list
+  if (activeRow) {
+    document.querySelectorAll("#hotel-detail-body .detail-row.clickable")
+      .forEach(r => r.classList.remove("active"));
+    activeRow.classList.add("active");
+  }
+}
+
+// Overture/OSM model a single physical stop as several records —
 // one stop_position plus one platform per direction — all sharing the same
 // name and sitting almost on top of each other. Merge those into one row,
 // keeping the closest distance and the most specific/informative class
@@ -309,7 +462,6 @@ export function clearSelectedPoiMarker() {
     state.selectedPoiDot.remove();
     state.selectedPoiDot = null;
   }
-  clearConnectionLine();
 }
 
 // --- Walking route between hotel and selected POI via OSRM ---
@@ -381,35 +533,26 @@ export function drawRoute(geometry) {
 }
 
 export function clearRoute() {
-  console.log("[route] clearRoute called from:", new Error().stack.split('\n')[2].trim());
   _currentRouteGeometry = null;
   removeRouteLayers();
 }
 
 export function redrawRouteAfterThemeChange() {
-  console.log("[route] redrawRouteAfterThemeChange called, geometry:", _currentRouteGeometry ? "present" : "null");
   if (_currentRouteGeometry) drawRoute(_currentRouteGeometry);
 }
 
-async function drawConnectionLine(hotelLng, hotelLat, poiLng, poiLat) {
-  // Increment request ID — if another POI is tapped before this resolves,
-  // the stale response will be discarded and won't write to the wrong element.
+async function drawConnectionLine(hotelLng, hotelLat, poiLng, poiLat, onRouteResolved) {
   const requestId = ++_routeRequestId;
-
   const route = await fetchWalkingRoute(hotelLng, hotelLat, poiLng, poiLat);
-  if (requestId !== _routeRequestId) return; // stale — a newer request is in flight
-
+  if (requestId !== _routeRequestId) return;
   if (route) {
     drawRoute(route.geometry);
-    const walkEl = document.getElementById("hotel-walk-info");
-    if (walkEl && route.distance != null && route.duration != null) {
+    if (onRouteResolved && route.distance != null && route.duration != null) {
       const distStr = formatDist((route.distance / 1000).toFixed(2));
       const mins = Math.round(route.duration / 60);
-      walkEl.textContent = `${distStr} · ~${mins} min walk`;
-      walkEl.classList.remove("hidden");
+      onRouteResolved(distStr, mins);
     }
   } else {
-    // SVG fallback
     const svg = document.getElementById("poi-connection-line");
     if (svg) {
       svg.classList.remove("hidden");

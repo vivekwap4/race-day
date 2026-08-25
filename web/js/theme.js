@@ -3,10 +3,7 @@
 import { state } from "./state.js";
 import { map, mapStyleFor, hideBasemapClutterLayers } from "./map.js";
 import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
-import { renderHotelList } from "./hotels.js";
-import { renderTrack } from "./track.js";
-import { renderHomeMarkers } from "./circuits.js";
-import { redrawRouteAfterThemeChange } from "./hotels.js";
+import { renderHotelList, redrawRouteAfterThemeChange, rerenderPopupAfterThemeChange } from "./hotels.js";
 
 export function toggleTheme() {
   state.theme = state.theme === "dark" ? "light" : "dark";
@@ -34,15 +31,17 @@ export function toggleTheme() {
     renderClusterLayer(true);
     if (circuitKey) {
       renderTrack(circuitKey)
-        .then(() => redrawRouteAfterThemeChange())
+        .then(() => { redrawRouteAfterThemeChange(); rerenderPopupAfterThemeChange(); })
         .catch(() => {
           map.once("idle", () => {
             renderTrack(circuitKey);
             redrawRouteAfterThemeChange();
+            rerenderPopupAfterThemeChange();
           });
         });
     } else {
       redrawRouteAfterThemeChange();
+      rerenderPopupAfterThemeChange();
     }
   });
 }

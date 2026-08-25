@@ -593,7 +593,80 @@ body[data-theme="dark"] .hotel-walk-info {
   border-color: var(--text-secondary);
 }
 
-/* --- POI connection line overlay --- */
+/* --- Custom map popup for food/transit/hotel hover --- */
+
+.race-day-popup .maplibregl-popup-content {
+  padding: 0;
+  border-radius: 10px;
+  background: var(--control-bg);
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  font-family: var(--font-sans, system-ui);
+  overflow: hidden;
+}
+
+.race-day-popup .maplibregl-popup-tip {
+  border-top-color: var(--control-bg) !important;
+}
+
+.race-day-popup .maplibregl-popup-close-button {
+  font-size: 16px;
+  color: var(--text-secondary);
+  padding: 4px 8px;
+  line-height: 1;
+  top: 4px;
+  right: 4px;
+}
+
+.race-day-popup .maplibregl-popup-close-button:hover {
+  color: var(--text-primary);
+  background: none;
+}
+
+.rd-popup {
+  padding: 10px 12px;
+  min-width: 160px;
+}
+
+.rd-popup-header {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 6px;
+  padding-right: 16px; /* room for close button */
+}
+
+.rd-popup-emoji {
+  font-size: 15px;
+  flex-shrink: 0;
+}
+
+.rd-popup-name {
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--text-primary);
+}
+
+.rd-popup-meta {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.rd-popup-pill {
+  font-size: 11px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.rd-popup-dist {
+  font-size: 11px;
+  white-space: nowrap;
+  color: var(--text-secondary);
+}
 
 #poi-connection-line {
   position: fixed;

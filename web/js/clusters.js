@@ -2,10 +2,10 @@
 // filter switching, and the click/hover interactions for clusters and
 // individual points.
 
-import { state, HOTEL_COLOR, FOOD_COLOR, CIRCUIT_COLOR, getCircuitColor, SOURCE_ID } from "./state.js";
+import { state, HOTEL_COLOR, FOOD_COLOR, CIRCUIT_COLOR, getCircuitColor, SOURCE_ID, TRANSIT_LABELS, TRANSIT_CONFIDENT_CLASSES } from "./state.js";
 import { map } from "./map.js";
-import { displayName } from "./utils.js";
-import { showHotelDetail } from "./hotels.js";
+import { escapeHtml, displayName, haversineKm } from "./utils.js";
+import { showHotelDetail, showPopup, activatePoi } from "./hotels.js";
 
 // --- Circuit marker (always a plain DOM marker, never clustered) ---
 
@@ -177,13 +177,41 @@ export function registerClusterInteractions() {
     const pointFeatures = map.queryRenderedFeatures(e.point, { layers: ["unclustered-point"] });
     if (!pointFeatures.length) return;
     const props = pointFeatures[0].properties;
+    const coords = pointFeatures[0].geometry.coordinates;
+
     if (state.activeLayer === "hotels") {
       const hotel = state.currentData.hotels.find((h) => h.name === props.name && h.lat === props.lat);
       if (hotel) showHotelDetail(hotel);
     } else {
-      new maplibregl.Popup({ offset: 10 }).setLngLat(e.lngLat).setText(displayName(props)).addTo(map);
+      // Food or transit dot tapped — show popup and draw route from selected hotel
+      const type = state.activeLayer === "food" ? "food" : "transit";
+      const color = type === "food" ? "#d97706" : "#2563eb";
+      const label = type === "food"
+        ? (props.food_group ? (props.food_group.charAt(0).toUpperCase() + props.food_group.slice(1).replace("_", " ")) : "Food")
+        : (TRANSIT_LABELS[props.class] || props.class || "Transit");
+
+      if (state.currentHotel) {
+        // Build a minimal POI object compatible with activatePoi
+        const hotel = state.currentHotel;
+        const poi = {
+          ...props,
+          lng: coords[0], lat: coords[1],
+          d: haversineKm(hotel.lat, hotel.lng, coords[1], coords[0]),
+          food_group: props.food_group,
+        };
+        activatePoi(poi, type, hotel, null);
+      } else {
+        showPopup(coords[0], coords[1], displayName(props), label, color, null);
+      }
     }
   });
+
+  let _hoverPopupTimeout = null;
+  let _hoverPopup = null;
+
+  function clearHoverPopup() {
+    if (_hoverPopup) { _hoverPopup.remove(); _hoverPopup = null; }
+  }
 
   map.on("mousemove", (e) => {
     if (!map.getLayer("clusters")) {
@@ -192,5 +220,52 @@ export function registerClusterInteractions() {
     }
     const hits = map.queryRenderedFeatures(e.point, { layers: ["clusters", "unclustered-point"] });
     map.getCanvas().style.cursor = hits.length ? "pointer" : "";
+
+    const pts = map.queryRenderedFeatures(e.point, { layers: ["unclustered-point"] });
+    if (pts.length) {
+      clearTimeout(_hoverPopupTimeout);
+      _hoverPopupTimeout = setTimeout(() => {
+        clearHoverPopup();
+        const props = pts[0].properties;
+        const coords = pts[0].geometry.coordinates;
+        let color, label;
+        if (state.activeLayer === "hotels") {
+          color = "#e63946";
+          label = props.access_tier || "Hotel";
+        } else if (state.activeLayer === "food") {
+          color = "#d97706";
+          label = props.food_group
+            ? props.food_group.charAt(0).toUpperCase() + props.food_group.slice(1).replace("_", " ")
+            : "Food";
+        } else {
+          color = "#2563eb";
+          label = TRANSIT_LABELS[props.class] || props.class || "Transit";
+        }
+        const isDark = document.body.getAttribute("data-theme") === "dark";
+        const textPrimary = isDark ? "#f0f0f0" : "#1a1a1a";
+        const textSub     = isDark ? "#9aa0ad" : "#6b7280";
+        const emoji = color === "#2563eb" ? "🚌" : color === "#e63946" ? "🏨" : "🍽️";
+        const html = `<div class="rd-popup">
+          <div class="rd-popup-header">
+            <span class="rd-popup-emoji">${emoji}</span>
+            <span class="rd-popup-name" style="color:${textPrimary};">${escapeHtml(displayName(props))}</span>
+          </div>
+          <div class="rd-popup-meta">
+            <span class="rd-popup-pill" style="background:${color}20;color:${color};">${escapeHtml(label)}</span>
+          </div>
+        </div>`;
+        _hoverPopup = new maplibregl.Popup({
+          closeButton: false,
+          closeOnClick: true,
+          offset: 14,
+          className: "race-day-popup",
+          maxWidth: "240px",
+        }).setLngLat(coords).setHTML(html).addTo(map);
+        _hoverPopup.on("close", () => { _hoverPopup = null; });
+      }, 150);
+    } else {
+      clearTimeout(_hoverPopupTimeout);
+      clearHoverPopup();
+    }
   });
 }
