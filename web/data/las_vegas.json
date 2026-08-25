@@ -1130,7 +1130,7 @@
       "lat": 36.1159935117719,
       "lng": -115.17723311520571,
       "distance_km": 1.51,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Piazza San Marco At The Venetian Hotel Las Vegas",
@@ -1139,7 +1139,7 @@
       "lat": 36.12255901666667,
       "lng": -115.16886265242859,
       "distance_km": 1.52,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Hotel And Casino Cesar Palace",
@@ -1148,7 +1148,7 @@
       "lat": 36.11897174421381,
       "lng": -115.17499421668747,
       "distance_km": 1.52,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Wynn Cristal Ballroom",
@@ -1157,7 +1157,7 @@
       "lat": 36.123639,
       "lng": -115.163226,
       "distance_km": 1.52,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Vanetian Hotel",
@@ -1166,7 +1166,7 @@
       "lat": 36.116913275,
       "lng": -115.1772008,
       "distance_km": 1.55,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Veterian",
@@ -1175,7 +1175,7 @@
       "lat": 36.12196,
       "lng": -115.17131,
       "distance_km": 1.56,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Venetian Escorts Las Vegas",
@@ -1184,7 +1184,7 @@
       "lat": 36.1222484506,
       "lng": -115.17100914,
       "distance_km": 1.58,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "California Pizza Kitchen",
@@ -1193,7 +1193,7 @@
       "lat": 36.1206,
       "lng": -115.17401,
       "distance_km": 1.59,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Hotel Suites Of America",
@@ -3623,7 +3623,7 @@
       "lat": 36.1941675,
       "lng": -115.1307513,
       "distance_km": 9.78,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Knotty Pine Motel",
@@ -3632,7 +3632,7 @@
       "lat": 36.19444287862085,
       "lng": -115.12982003852328,
       "distance_km": 9.83,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Summer Hill Estate",
@@ -25842,17 +25842,17 @@
       "distance_km": 3.86
     },
     {
-      "name": "D Gates - Blue Line",
-      "class": "railway_station",
-      "lat": 36.0818336,
-      "lng": -115.1369748,
-      "distance_km": 3.87
-    },
-    {
       "name": "Southbound Eastern after Flamingo",
       "class": "bus_stop",
       "lat": 36.1138763,
       "lng": -115.1193807,
+      "distance_km": 3.87
+    },
+    {
+      "name": "D Gates - Blue Line",
+      "class": "railway_station",
+      "lat": 36.0818336,
+      "lng": -115.1369748,
       "distance_km": 3.87
     },
     {
@@ -25996,17 +25996,17 @@
       "distance_km": 4.01
     },
     {
-      "name": "Northbound Valley View after Pennwood",
-      "class": "bus_stop",
-      "lat": 36.13821,
-      "lng": -115.1903967,
-      "distance_km": 4.03
-    },
-    {
       "name": "Southbound Las Vegas before Sunset",
       "class": "bus_stop",
       "lat": 36.0747914,
       "lng": -115.1728732,
+      "distance_km": 4.03
+    },
+    {
+      "name": "Northbound Valley View after Pennwood",
+      "class": "bus_stop",
+      "lat": 36.13821,
+      "lng": -115.1903967,
       "distance_km": 4.03
     },
     {
@@ -26388,17 +26388,17 @@
       "distance_km": 4.33
     },
     {
-      "name": "Northbound Decatur before Reno",
-      "class": "bus_stop",
-      "lat": 36.0970283,
-      "lng": -115.2077988,
-      "distance_km": 4.34
-    },
-    {
       "name": "Westbound Sunset before Bermuda",
       "class": "bus_stop",
       "lat": 36.0714983,
       "lng": -115.1541998,
+      "distance_km": 4.34
+    },
+    {
+      "name": "Northbound Decatur before Reno",
+      "class": "bus_stop",
+      "lat": 36.0970283,
+      "lng": -115.2077988,
       "distance_km": 4.34
     },
     {
@@ -26430,13 +26430,6 @@
       "distance_km": 4.36
     },
     {
-      "name": "Northbound Rancho after Bryn Mawr",
-      "class": "bus_stop",
-      "lat": 36.1483543,
-      "lng": -115.1730138,
-      "distance_km": 4.37
-    },
-    {
       "name": "Eastbound Sunset after Bermuda",
       "class": "bus_stop",
       "lat": 36.0712513,
@@ -26448,6 +26441,13 @@
       "class": "bus_stop",
       "lat": 36.0707003,
       "lng": -115.1635868,
+      "distance_km": 4.37
+    },
+    {
+      "name": "Northbound Rancho after Bryn Mawr",
+      "class": "bus_stop",
+      "lat": 36.1483543,
+      "lng": -115.1730138,
       "distance_km": 4.37
     },
     {
@@ -26486,13 +26486,6 @@
       "distance_km": 4.42
     },
     {
-      "name": "Eastbound Sahara after Maryland",
-      "class": "bus_stop",
-      "lat": 36.144071,
-      "lng": -115.1365698,
-      "distance_km": 4.43
-    },
-    {
       "name": "Westbound Sunset after Las Vegas",
       "class": "bus_stop",
       "lat": 36.0712153,
@@ -26500,17 +26493,24 @@
       "distance_km": 4.43
     },
     {
-      "name": "Northbound Main after Las Vegas",
+      "name": "Eastbound Sahara after Maryland",
       "class": "bus_stop",
-      "lat": 36.1494363,
-      "lng": -115.1541888,
-      "distance_km": 4.44
+      "lat": 36.144071,
+      "lng": -115.1365698,
+      "distance_km": 4.43
     },
     {
       "name": "Northbound Gilespie before Via Antonio",
       "class": "bus_stop",
       "lat": 36.0700493,
       "lng": -115.1633718,
+      "distance_km": 4.44
+    },
+    {
+      "name": "Northbound Main after Las Vegas",
+      "class": "bus_stop",
+      "lat": 36.1494363,
+      "lng": -115.1541888,
       "distance_km": 4.44
     },
     {
@@ -26570,6 +26570,13 @@
       "distance_km": 4.48
     },
     {
+      "name": "Eastbound Sunset after Grier",
+      "class": "bus_stop",
+      "lat": 36.0714033,
+      "lng": -115.1476808,
+      "distance_km": 4.49
+    },
+    {
       "name": "Southbound Decatur after Spring Mountain",
       "class": "bus_stop",
       "lat": 36.1254629,
@@ -26581,13 +26588,6 @@
       "class": "bus_stop",
       "lat": 36.1154403,
       "lng": -115.2116922,
-      "distance_km": 4.49
-    },
-    {
-      "name": "Eastbound Sunset after Grier",
-      "class": "bus_stop",
-      "lat": 36.0714033,
-      "lng": -115.1476808,
       "distance_km": 4.49
     },
     {
@@ -26612,17 +26612,17 @@
       "distance_km": 4.5
     },
     {
-      "name": "Northbound Decatur after Spring Mountain",
-      "class": "bus_stop",
-      "lat": 36.1267093,
-      "lng": -115.2079408,
-      "distance_km": 4.51
-    },
-    {
       "name": "Southbound Las Vegas after Sunset",
       "class": "bus_stop",
       "lat": 36.0703653,
       "lng": -115.1726098,
+      "distance_km": 4.51
+    },
+    {
+      "name": "Northbound Decatur after Spring Mountain",
+      "class": "bus_stop",
+      "lat": 36.1267093,
+      "lng": -115.2079408,
       "distance_km": 4.51
     },
     {
@@ -26633,17 +26633,17 @@
       "distance_km": 4.53
     },
     {
-      "name": "Eastbound Sahara after Valley View",
-      "class": "bus_stop",
-      "lat": 36.1442213,
-      "lng": -115.1898269,
-      "distance_km": 4.54
-    },
-    {
       "name": "Eastbound Sunset before Las Vegas",
       "class": "bus_stop",
       "lat": 36.0707941,
       "lng": -115.1761759,
+      "distance_km": 4.54
+    },
+    {
+      "name": "Eastbound Sahara after Valley View",
+      "class": "bus_stop",
+      "lat": 36.1442213,
+      "lng": -115.1898269,
       "distance_km": 4.54
     },
     {
@@ -26703,20 +26703,6 @@
       "distance_km": 4.6
     },
     {
-      "name": "Southbound Las Vegas after Oakey",
-      "class": "bus_stop",
-      "lat": 36.1507885,
-      "lng": -115.1528604,
-      "distance_km": 4.61
-    },
-    {
-      "name": "Westbound Sahara before Valley View",
-      "class": "bus_stop",
-      "lat": 36.1445783,
-      "lng": -115.1905188,
-      "distance_km": 4.61
-    },
-    {
       "name": "Las Vegas South Strip Transit Terminal Bay 18",
       "class": "bus_stop",
       "lat": 36.0685687,
@@ -26749,6 +26735,20 @@
       "class": "stop_position",
       "lat": 36.068623,
       "lng": -115.1653347,
+      "distance_km": 4.61
+    },
+    {
+      "name": "Southbound Las Vegas after Oakey",
+      "class": "bus_stop",
+      "lat": 36.1507885,
+      "lng": -115.1528604,
+      "distance_km": 4.61
+    },
+    {
+      "name": "Westbound Sahara before Valley View",
+      "class": "bus_stop",
+      "lat": 36.1445783,
+      "lng": -115.1905188,
       "distance_km": 4.61
     },
     {
@@ -26801,6 +26801,20 @@
       "distance_km": 4.62
     },
     {
+      "name": "Westbound Sunset after Paradise",
+      "class": "bus_stop",
+      "lat": 36.0717713,
+      "lng": -115.1416978,
+      "distance_km": 4.63
+    },
+    {
+      "name": "Las Vegas South Strip Transit Terminal",
+      "class": "bus_station",
+      "lat": 36.06841942149158,
+      "lng": -115.16514761949416,
+      "distance_km": 4.63
+    },
+    {
       "name": "Northbound Las Vegas before Oakey",
       "class": "bus_stop",
       "lat": 36.1508856,
@@ -26819,20 +26833,6 @@
       "class": "bus_stop",
       "lat": 36.1441282,
       "lng": -115.132634,
-      "distance_km": 4.63
-    },
-    {
-      "name": "Westbound Sunset after Paradise",
-      "class": "bus_stop",
-      "lat": 36.0717713,
-      "lng": -115.1416978,
-      "distance_km": 4.63
-    },
-    {
-      "name": "Las Vegas South Strip Transit Terminal",
-      "class": "bus_station",
-      "lat": 36.06841942149158,
-      "lng": -115.16514761949416,
       "distance_km": 4.63
     },
     {
@@ -26899,17 +26899,17 @@
       "distance_km": 4.65
     },
     {
-      "name": "Southbound Rancho after Oakey",
-      "class": "bus_stop",
-      "lat": 36.1510073,
-      "lng": -115.1731628,
-      "distance_km": 4.66
-    },
-    {
       "name": "Las Vegas South Strip Transit Terminal Bay 9",
       "class": "bus_stop",
       "lat": 36.0682614,
       "lng": -115.1663648,
+      "distance_km": 4.66
+    },
+    {
+      "name": "Southbound Rancho after Oakey",
+      "class": "bus_stop",
+      "lat": 36.1510073,
+      "lng": -115.1731628,
       "distance_km": 4.66
     },
     {
@@ -26955,17 +26955,17 @@
       "distance_km": 4.7
     },
     {
-      "name": "Southbound Decatur after Diablo",
-      "class": "bus_stop",
-      "lat": 36.0894883,
-      "lng": -115.2081088,
-      "distance_km": 4.71
-    },
-    {
       "name": "Eastbound Sunset after Paradise",
       "class": "bus_stop",
       "lat": 36.0715643,
       "lng": -115.1402748,
+      "distance_km": 4.71
+    },
+    {
+      "name": "Southbound Decatur after Diablo",
+      "class": "bus_stop",
+      "lat": 36.0894883,
+      "lng": -115.2081088,
       "distance_km": 4.71
     },
     {
@@ -27004,13 +27004,6 @@
       "distance_km": 4.75
     },
     {
-      "name": "Northbound Rancho after Oakey",
-      "class": "bus_stop",
-      "lat": 36.1519333,
-      "lng": -115.1729188,
-      "distance_km": 4.76
-    },
-    {
       "name": "Westbound Sunset before Polaris",
       "class": "bus_stop",
       "lat": 36.0714683,
@@ -27022,6 +27015,13 @@
       "class": "bus_stop",
       "lat": 36.0677002,
       "lng": -115.1541322,
+      "distance_km": 4.76
+    },
+    {
+      "name": "Northbound Rancho after Oakey",
+      "class": "bus_stop",
+      "lat": 36.1519333,
+      "lng": -115.1729188,
       "distance_km": 4.76
     },
     {
@@ -27074,13 +27074,6 @@
       "distance_km": 4.79
     },
     {
-      "name": "Northbound Decatur after Russell",
-      "class": "bus_stop",
-      "lat": 36.0873653,
-      "lng": -115.2077248,
-      "distance_km": 4.8
-    },
-    {
       "name": "Eastbound Sunset before Polaris",
       "class": "bus_stop",
       "lat": 36.0712633,
@@ -27088,17 +27081,24 @@
       "distance_km": 4.8
     },
     {
-      "name": "Eastbound Tropicana after Lindell",
+      "name": "Northbound Decatur after Russell",
       "class": "bus_stop",
-      "lat": 36.1004093,
-      "lng": -115.2144118,
-      "distance_km": 4.81
+      "lat": 36.0873653,
+      "lng": -115.2077248,
+      "distance_km": 4.8
     },
     {
       "name": "Southbound Las Vegas after Town Square",
       "class": "bus_stop",
       "lat": 36.0676003,
       "lng": -115.1726378,
+      "distance_km": 4.81
+    },
+    {
+      "name": "Eastbound Tropicana after Lindell",
+      "class": "bus_stop",
+      "lat": 36.1004093,
+      "lng": -115.2144118,
       "distance_km": 4.81
     },
     {
@@ -27158,17 +27158,17 @@
       "distance_km": 4.85
     },
     {
-      "name": "Southbound Decatur after Palmyra",
-      "class": "bus_stop",
-      "lat": 36.1330653,
-      "lng": -115.2082968,
-      "distance_km": 4.87
-    },
-    {
       "name": "Westbound Sunset after Escondido",
       "class": "bus_stop",
       "lat": 36.0719253,
       "lng": -115.1353108,
+      "distance_km": 4.87
+    },
+    {
+      "name": "Southbound Decatur after Palmyra",
+      "class": "bus_stop",
+      "lat": 36.1330653,
+      "lng": -115.2082968,
       "distance_km": 4.87
     },
     {
@@ -27193,17 +27193,17 @@
       "distance_km": 4.88
     },
     {
-      "name": "Northbound Maryland after Bonita",
-      "class": "bus_stop",
-      "lat": 36.149162,
-      "lng": -115.1368496,
-      "distance_km": 4.91
-    },
-    {
       "name": "Eastbound Sunset after Valley View",
       "class": "bus_stop",
       "lat": 36.0715243,
       "lng": -115.1891118,
+      "distance_km": 4.91
+    },
+    {
+      "name": "Northbound Maryland after Bonita",
+      "class": "bus_stop",
+      "lat": 36.149162,
+      "lng": -115.1368496,
       "distance_km": 4.91
     },
     {
@@ -27219,20 +27219,6 @@
       "lat": 36.1344303,
       "lng": -115.2079418,
       "distance_km": 4.93
-    },
-    {
-      "name": "Westbound Tropicana before Lindell",
-      "class": "bus_stop",
-      "lat": 36.1005643,
-      "lng": -115.2160678,
-      "distance_km": 4.95
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 36.1005816,
-      "lng": -115.2160273,
-      "distance_km": 4.95
     },
     {
       "name": "Eastbound Sunset after Escondido",
@@ -27253,6 +27239,20 @@
       "class": "bus_stop",
       "lat": 36.0655022,
       "lng": -115.163573,
+      "distance_km": 4.95
+    },
+    {
+      "name": "Westbound Tropicana before Lindell",
+      "class": "bus_stop",
+      "lat": 36.1005643,
+      "lng": -115.2160678,
+      "distance_km": 4.95
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.1005816,
+      "lng": -115.2160273,
       "distance_km": 4.95
     },
     {
@@ -27333,6 +27333,13 @@
       "distance_km": 5.07
     },
     {
+      "name": "Westbound Hidden Well after La Cienega",
+      "class": "bus_stop",
+      "lat": 36.0643226,
+      "lng": -115.1619133,
+      "distance_km": 5.08
+    },
+    {
       "name": "Southbound Commerce before Imperial",
       "class": "bus_stop",
       "lat": 36.1553143,
@@ -27351,13 +27358,6 @@
       "class": "bus_stop",
       "lat": 36.1548521,
       "lng": -115.1513027,
-      "distance_km": 5.08
-    },
-    {
-      "name": "Westbound Hidden Well after La Cienega",
-      "class": "bus_stop",
-      "lat": 36.0643226,
-      "lng": -115.1619133,
       "distance_km": 5.08
     },
     {
@@ -27410,6 +27410,13 @@
       "distance_km": 5.13
     },
     {
+      "name": "Westbound Pilot at 748 East Pilot",
+      "class": "bus_stop",
+      "lat": 36.0656553,
+      "lng": -115.1461648,
+      "distance_km": 5.14
+    },
+    {
       "name": "Eastbound Sahara before Arville",
       "class": "bus_stop",
       "lat": 36.1442946,
@@ -27421,13 +27428,6 @@
       "class": "bus_stop",
       "lat": 36.1377743,
       "lng": -115.2079528,
-      "distance_km": 5.14
-    },
-    {
-      "name": "Westbound Pilot at 748 East Pilot",
-      "class": "bus_stop",
-      "lat": 36.0656553,
-      "lng": -115.1461648,
       "distance_km": 5.14
     },
     {
@@ -27459,17 +27459,17 @@
       "distance_km": 5.15
     },
     {
-      "name": "Northbound Main before Colorado",
-      "class": "bus_stop",
-      "lat": 36.1558713,
-      "lng": -115.1536728,
-      "distance_km": 5.16
-    },
-    {
       "name": "Westbound Sunset before Hinson",
       "class": "bus_stop",
       "lat": 36.0719243,
       "lng": -115.1950838,
+      "distance_km": 5.16
+    },
+    {
+      "name": "Northbound Main before Colorado",
+      "class": "bus_stop",
+      "lat": 36.1558713,
+      "lng": -115.1536728,
       "distance_km": 5.16
     },
     {
@@ -27494,17 +27494,17 @@
       "distance_km": 5.18
     },
     {
-      "name": "Southbound Decatur before Edna",
-      "class": "bus_stop",
-      "lat": 36.1380983,
-      "lng": -115.2083008,
-      "distance_km": 5.19
-    },
-    {
       "name": "Westbound Pilot after Paradise",
       "class": "bus_stop",
       "lat": 36.0663653,
       "lng": -115.1417328,
+      "distance_km": 5.19
+    },
+    {
+      "name": "Southbound Decatur before Edna",
+      "class": "bus_stop",
+      "lat": 36.1380983,
+      "lng": -115.2083008,
       "distance_km": 5.19
     },
     {
@@ -27564,17 +27564,17 @@
       "distance_km": 5.23
     },
     {
-      "name": "Eastbound Flamingo after Duneville",
-      "class": "bus_stop",
-      "lat": 36.1146004,
-      "lng": -115.2202699,
-      "distance_km": 5.24
-    },
-    {
       "name": "Eastbound George Crockett after Gilespie",
       "class": "bus_stop",
       "lat": 36.0629126,
       "lng": -115.1627426,
+      "distance_km": 5.24
+    },
+    {
+      "name": "Eastbound Flamingo after Duneville",
+      "class": "bus_stop",
+      "lat": 36.1146004,
+      "lng": -115.2202699,
       "distance_km": 5.24
     },
     {
@@ -27599,17 +27599,17 @@
       "distance_km": 5.24
     },
     {
-      "name": "Westbound Spring Mountain after Lindell",
-      "class": "bus_stop",
-      "lat": 36.1259153,
-      "lng": -115.2172848,
-      "distance_km": 5.25
-    },
-    {
       "name": "Southbound Paradise after Pilot",
       "class": "bus_stop",
       "lat": 36.06594,
       "lng": -115.1413214,
+      "distance_km": 5.25
+    },
+    {
+      "name": "Westbound Spring Mountain after Lindell",
+      "class": "bus_stop",
+      "lat": 36.1259153,
+      "lng": -115.2172848,
       "distance_km": 5.25
     },
     {
@@ -27732,17 +27732,17 @@
       "distance_km": 5.38
     },
     {
-      "name": "Northbound Maryland before Franklin",
-      "class": "bus_stop",
-      "lat": 36.1538975,
-      "lng": -115.1368529,
-      "distance_km": 5.39
-    },
-    {
       "name": "Eastbound Sunset after Arville",
       "class": "bus_stop",
       "lat": 36.0716263,
       "lng": -115.1988148,
+      "distance_km": 5.39
+    },
+    {
+      "name": "Northbound Maryland before Franklin",
+      "class": "bus_stop",
+      "lat": 36.1538975,
+      "lng": -115.1368529,
       "distance_km": 5.39
     },
     {
@@ -27767,17 +27767,17 @@
       "distance_km": 5.4
     },
     {
-      "name": "Westbound Sahara before Decatur",
-      "class": "bus_stop",
-      "lat": 36.1447078,
-      "lng": -115.2046379,
-      "distance_km": 5.42
-    },
-    {
       "name": "Westbound Sunset after Arville",
       "class": "bus_stop",
       "lat": 36.0718843,
       "lng": -115.1998728,
+      "distance_km": 5.42
+    },
+    {
+      "name": "Westbound Sahara before Decatur",
+      "class": "bus_stop",
+      "lat": 36.1447078,
+      "lng": -115.2046379,
       "distance_km": 5.42
     },
     {
@@ -27802,13 +27802,6 @@
       "distance_km": 5.45
     },
     {
-      "name": "Westbound Charleston after Shadow",
-      "class": "bus_stop",
-      "lat": 36.1590573,
-      "lng": -115.1662282,
-      "distance_km": 5.47
-    },
-    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 36.0775798,
@@ -27816,11 +27809,11 @@
       "distance_km": 5.47
     },
     {
-      "name": "Charleston",
+      "name": "Westbound Charleston after Shadow",
       "class": "bus_stop",
-      "lat": 36.1579601,
-      "lng": -115.1482005,
-      "distance_km": 5.48
+      "lat": 36.1590573,
+      "lng": -115.1662282,
+      "distance_km": 5.47
     },
     {
       "name": "Southbound Decatur before Sobb",
@@ -27837,6 +27830,13 @@
       "distance_km": 5.48
     },
     {
+      "name": "Charleston",
+      "class": "bus_stop",
+      "lat": 36.1579601,
+      "lng": -115.1482005,
+      "distance_km": 5.48
+    },
+    {
       "name": "Westbound Flamingo after Pecos",
       "class": "bus_stop",
       "lat": 36.1153938,
@@ -27844,17 +27844,17 @@
       "distance_km": 5.48
     },
     {
-      "name": "Eastbound Charleston after Rancho",
-      "class": "bus_stop",
-      "lat": 36.1587436,
-      "lng": -115.1720974,
-      "distance_km": 5.49
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 36.0606095,
       "lng": -115.1638782,
+      "distance_km": 5.49
+    },
+    {
+      "name": "Eastbound Charleston after Rancho",
+      "class": "bus_stop",
+      "lat": 36.1587436,
+      "lng": -115.1720974,
       "distance_km": 5.49
     },
     {
@@ -27879,20 +27879,6 @@
       "distance_km": 5.5
     },
     {
-      "name": "Westbound Charleston after Tonopah",
-      "class": "bus_stop",
-      "lat": 36.1590396,
-      "lng": -115.1706309,
-      "distance_km": 5.51
-    },
-    {
-      "name": "Eastbound Spring Mountain after Duneville",
-      "class": "bus_stop",
-      "lat": 36.1255973,
-      "lng": -115.2204058,
-      "distance_km": 5.51
-    },
-    {
       "name": "Northbound Decatur before Sobb",
       "class": "bus_stop",
       "lat": 36.0767899,
@@ -27914,6 +27900,20 @@
       "distance_km": 5.51
     },
     {
+      "name": "Westbound Charleston after Tonopah",
+      "class": "bus_stop",
+      "lat": 36.1590396,
+      "lng": -115.1706309,
+      "distance_km": 5.51
+    },
+    {
+      "name": "Eastbound Spring Mountain after Duneville",
+      "class": "bus_stop",
+      "lat": 36.1255973,
+      "lng": -115.2204058,
+      "distance_km": 5.51
+    },
+    {
       "name": "Southbound Pecos after Milenko",
       "class": "bus_stop",
       "lat": 36.1103713,
@@ -27926,13 +27926,6 @@
       "lat": 36.1001733,
       "lng": -115.1021408,
       "distance_km": 5.51
-    },
-    {
-      "name": "Eastbound Charleston after 3rd",
-      "class": "bus_stop",
-      "lat": 36.1587058,
-      "lng": -115.1502798,
-      "distance_km": 5.52
     },
     {
       "name": "Stop",
@@ -27956,6 +27949,13 @@
       "distance_km": 5.52
     },
     {
+      "name": "Eastbound Charleston after 3rd",
+      "class": "bus_stop",
+      "lat": 36.1587058,
+      "lng": -115.1502798,
+      "distance_km": 5.52
+    },
+    {
       "name": "Southbound Pecos after Harmon",
       "class": "bus_stop",
       "lat": 36.1071553,
@@ -27968,13 +27968,6 @@
       "lat": 36.1298683,
       "lng": -115.1059188,
       "distance_km": 5.52
-    },
-    {
-      "name": "Eastbound Charleston after 3rd",
-      "class": "stop_position",
-      "lat": 36.1587685,
-      "lng": -115.1502818,
-      "distance_km": 5.53
     },
     {
       "name": "Westbound Pilot at 840 East Pilot",
@@ -27995,6 +27988,13 @@
       "class": "platform",
       "lat": 36.060280399999996,
       "lng": -115.16399094999998,
+      "distance_km": 5.53
+    },
+    {
+      "name": "Eastbound Charleston after 3rd",
+      "class": "stop_position",
+      "lat": 36.1587685,
+      "lng": -115.1502818,
       "distance_km": 5.53
     },
     {
@@ -28026,6 +28026,13 @@
       "distance_km": 5.53
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.0602406,
+      "lng": -115.1639304,
+      "distance_km": 5.54
+    },
+    {
       "name": "Northbound Main after Charleston",
       "class": "stop_position",
       "lat": 36.1593265,
@@ -28051,13 +28058,6 @@
       "class": "stop_position",
       "lat": 36.1589744,
       "lng": -115.1734255,
-      "distance_km": 5.54
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 36.0602406,
-      "lng": -115.1639304,
       "distance_km": 5.54
     },
     {
@@ -28138,20 +28138,6 @@
       "distance_km": 5.57
     },
     {
-      "name": "Westbound Charleston after Las Vegas",
-      "class": "stop_position",
-      "lat": 36.1589227,
-      "lng": -115.1482444,
-      "distance_km": 5.58
-    },
-    {
-      "name": "Eastbound Sahara after Decatur",
-      "class": "bus_stop",
-      "lat": 36.1443344,
-      "lng": -115.2074367,
-      "distance_km": 5.58
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 36.0598183,
@@ -28163,6 +28149,20 @@
       "class": "bus_stop",
       "lat": 36.0598255,
       "lng": -115.1639304,
+      "distance_km": 5.58
+    },
+    {
+      "name": "Westbound Charleston after Las Vegas",
+      "class": "stop_position",
+      "lat": 36.1589227,
+      "lng": -115.1482444,
+      "distance_km": 5.58
+    },
+    {
+      "name": "Eastbound Sahara after Decatur",
+      "class": "bus_stop",
+      "lat": 36.1443344,
+      "lng": -115.2074367,
       "distance_km": 5.58
     },
     {
@@ -28187,6 +28187,13 @@
       "distance_km": 5.59
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.0596205,
+      "lng": -115.1639159,
+      "distance_km": 5.6
+    },
+    {
       "name": "Northbound Rancho after Charleston",
       "class": "bus_stop",
       "lat": 36.1596133,
@@ -28201,18 +28208,18 @@
       "distance_km": 5.6
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 36.0596205,
-      "lng": -115.1639159,
-      "distance_km": 5.6
-    },
-    {
       "name": "Northbound Pecos after Tropicana",
       "class": "bus_stop",
       "lat": 36.1006743,
       "lng": -115.1008908,
       "distance_km": 5.6
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 36.05960035,
+      "lng": -115.16396219999999,
+      "distance_km": 5.61
     },
     {
       "name": "Northbound Shadow before Hastings",
@@ -28236,32 +28243,11 @@
       "distance_km": 5.61
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 36.05960035,
-      "lng": -115.16396219999999,
-      "distance_km": 5.61
-    },
-    {
       "name": "Southbound Pecos after Tropicana",
       "class": "bus_stop",
       "lat": 36.0994113,
       "lng": -115.1011958,
       "distance_km": 5.61
-    },
-    {
-      "name": "Eastbound Charleston after Cahlan",
-      "class": "stop_position",
-      "lat": 36.158856,
-      "lng": -115.1784236,
-      "distance_km": 5.62
-    },
-    {
-      "name": "Eastbound Charleston after Cahlan",
-      "class": "bus_stop",
-      "lat": 36.1587788,
-      "lng": -115.1784245,
-      "distance_km": 5.62
     },
     {
       "name": "Bus stop",
@@ -28275,6 +28261,20 @@
       "class": "bus_stop",
       "lat": 36.0600773,
       "lng": -115.1721998,
+      "distance_km": 5.62
+    },
+    {
+      "name": "Eastbound Charleston after Cahlan",
+      "class": "stop_position",
+      "lat": 36.158856,
+      "lng": -115.1784236,
+      "distance_km": 5.62
+    },
+    {
+      "name": "Eastbound Charleston after Cahlan",
+      "class": "bus_stop",
+      "lat": 36.1587788,
+      "lng": -115.1784245,
       "distance_km": 5.62
     },
     {
@@ -28292,20 +28292,6 @@
       "distance_km": 5.62
     },
     {
-      "name": "Northbound Jones after Rochelle",
-      "class": "bus_stop",
-      "lat": 36.1113463,
-      "lng": -115.2248078,
-      "distance_km": 5.63
-    },
-    {
-      "name": "Northbound Jones after Harmon",
-      "class": "bus_stop",
-      "lat": 36.1078703,
-      "lng": -115.2248438,
-      "distance_km": 5.63
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 36.059384050000006,
@@ -28317,6 +28303,20 @@
       "class": "bus_stop",
       "lat": 36.0593498,
       "lng": -115.1638066,
+      "distance_km": 5.63
+    },
+    {
+      "name": "Northbound Jones after Rochelle",
+      "class": "bus_stop",
+      "lat": 36.1113463,
+      "lng": -115.2248078,
+      "distance_km": 5.63
+    },
+    {
+      "name": "Northbound Jones after Harmon",
+      "class": "bus_stop",
+      "lat": 36.1078703,
+      "lng": -115.2248438,
       "distance_km": 5.63
     },
     {
@@ -28411,17 +28411,17 @@
       "distance_km": 5.67
     },
     {
-      "name": "Eastbound Charleston before 8th",
-      "class": "stop_position",
-      "lat": 36.1587724,
-      "lng": -115.1435611,
-      "distance_km": 5.68
-    },
-    {
       "name": "Northbound Paradise after White",
       "class": "bus_stop",
       "lat": 36.0618903,
       "lng": -115.1410028,
+      "distance_km": 5.68
+    },
+    {
+      "name": "Eastbound Charleston before 8th",
+      "class": "stop_position",
+      "lat": 36.1587724,
+      "lng": -115.1435611,
       "distance_km": 5.68
     },
     {
@@ -28451,6 +28451,13 @@
       "lat": 36.0999233,
       "lng": -115.1000998,
       "distance_km": 5.69
+    },
+    {
+      "name": "Eastbound Sunset after Ullom",
+      "class": "bus_stop",
+      "lat": 36.0716253,
+      "lng": -115.2042788,
+      "distance_km": 5.7
     },
     {
       "name": "Southbound Commerce before Charleston",
@@ -28485,13 +28492,6 @@
       "class": "bus_stop",
       "lat": 36.11467,
       "lng": -115.225443,
-      "distance_km": 5.7
-    },
-    {
-      "name": "Eastbound Sunset after Ullom",
-      "class": "bus_stop",
-      "lat": 36.0716253,
-      "lng": -115.2042788,
       "distance_km": 5.7
     },
     {
@@ -28614,17 +28614,17 @@
       "distance_km": 5.75
     },
     {
-      "name": "Eastbound Charleston after 10th",
-      "class": "stop_position",
-      "lat": 36.1587827,
-      "lng": -115.1407218,
-      "distance_km": 5.76
-    },
-    {
       "name": "Southbound Paradise before White",
       "class": "bus_stop",
       "lat": 36.0610581,
       "lng": -115.1412256,
+      "distance_km": 5.76
+    },
+    {
+      "name": "Eastbound Charleston after 10th",
+      "class": "stop_position",
+      "lat": 36.1587827,
+      "lng": -115.1407218,
       "distance_km": 5.76
     },
     {
@@ -28663,20 +28663,6 @@
       "distance_km": 5.78
     },
     {
-      "name": "Northbound Jones after Twain",
-      "class": "bus_stop",
-      "lat": 36.1223283,
-      "lng": -115.2248048,
-      "distance_km": 5.79
-    },
-    {
-      "name": "Southbound Jones after Tropicana",
-      "class": "bus_stop",
-      "lat": 36.0991803,
-      "lng": -115.2252078,
-      "distance_km": 5.79
-    },
-    {
       "name": "Northbound Gilespie after Warm Springs",
       "class": "bus_stop",
       "lat": 36.0579023,
@@ -28688,6 +28674,20 @@
       "class": "bus_stop",
       "lat": 36.0579563,
       "lng": -115.1632241,
+      "distance_km": 5.79
+    },
+    {
+      "name": "Northbound Jones after Twain",
+      "class": "bus_stop",
+      "lat": 36.1223283,
+      "lng": -115.2248048,
+      "distance_km": 5.79
+    },
+    {
+      "name": "Southbound Jones after Tropicana",
+      "class": "bus_stop",
+      "lat": 36.0991803,
+      "lng": -115.2252078,
       "distance_km": 5.79
     },
     {
@@ -28761,6 +28761,13 @@
       "distance_km": 5.83
     },
     {
+      "name": "Northbound Decatur after Sunset",
+      "class": "bus_stop",
+      "lat": 36.0724414,
+      "lng": -115.2076443,
+      "distance_km": 5.84
+    },
+    {
       "name": "Eastbound Charleston after Cashman",
       "class": "bus_stop",
       "lat": 36.1588414,
@@ -28786,13 +28793,6 @@
       "class": "bus_stop",
       "lat": 36.161847,
       "lng": -115.1520754,
-      "distance_km": 5.84
-    },
-    {
-      "name": "Northbound Decatur after Sunset",
-      "class": "bus_stop",
-      "lat": 36.0724414,
-      "lng": -115.2076443,
       "distance_km": 5.84
     },
     {
@@ -28845,6 +28845,20 @@
       "distance_km": 5.87
     },
     {
+      "name": "Eastbound Sunset after Decatur",
+      "class": "bus_stop",
+      "lat": 36.0715702,
+      "lng": -115.207108,
+      "distance_km": 5.88
+    },
+    {
+      "name": "Northbound Las Vegas after Warm Springs",
+      "class": "bus_stop",
+      "lat": 36.0577523,
+      "lng": -115.1721918,
+      "distance_km": 5.88
+    },
+    {
       "name": "Westbound Charleston after Maryland",
       "class": "bus_stop",
       "lat": 36.1590328,
@@ -28866,31 +28880,17 @@
       "distance_km": 5.88
     },
     {
-      "name": "Southbound Jones after Foothill",
-      "class": "bus_stop",
-      "lat": 36.0957753,
-      "lng": -115.2252518,
-      "distance_km": 5.88
-    },
-    {
-      "name": "Eastbound Sunset after Decatur",
-      "class": "bus_stop",
-      "lat": 36.0715702,
-      "lng": -115.207108,
-      "distance_km": 5.88
-    },
-    {
-      "name": "Northbound Las Vegas after Warm Springs",
-      "class": "bus_stop",
-      "lat": 36.0577523,
-      "lng": -115.1721918,
-      "distance_km": 5.88
-    },
-    {
       "name": "Southbound Eastern after Sunset",
       "class": "bus_stop",
       "lat": 36.0704353,
       "lng": -115.1188128,
+      "distance_km": 5.88
+    },
+    {
+      "name": "Southbound Jones after Foothill",
+      "class": "bus_stop",
+      "lat": 36.0957753,
+      "lng": -115.2252518,
       "distance_km": 5.88
     },
     {
@@ -28908,6 +28908,13 @@
       "distance_km": 5.88
     },
     {
+      "name": "Westbound Warm Springs after Placid",
+      "class": "bus_stop",
+      "lat": 36.0571133,
+      "lng": -115.1595988,
+      "distance_km": 5.89
+    },
+    {
       "name": "Southbound Decatur after O'Bannon",
       "class": "bus_stop",
       "lat": 36.1475977,
@@ -28915,11 +28922,11 @@
       "distance_km": 5.89
     },
     {
-      "name": "Westbound Warm Springs after Placid",
+      "name": "Westbound Warm Springs after Gilespie",
       "class": "bus_stop",
-      "lat": 36.0571133,
-      "lng": -115.1595988,
-      "distance_km": 5.89
+      "lat": 36.0570543,
+      "lng": -115.1656308,
+      "distance_km": 5.9
     },
     {
       "name": "Southbound Shadow after Pinto",
@@ -28947,13 +28954,6 @@
       "class": "bus_stop",
       "lat": 36.1259679,
       "lng": -115.2247893,
-      "distance_km": 5.9
-    },
-    {
-      "name": "Westbound Warm Springs after Gilespie",
-      "class": "bus_stop",
-      "lat": 36.0570543,
-      "lng": -115.1656308,
       "distance_km": 5.9
     },
     {
@@ -29006,27 +29006,6 @@
       "distance_km": 5.93
     },
     {
-      "name": "Southbound Grand Central at Las Vegas North Premium Outlets",
-      "class": "bus_stop",
-      "lat": 36.1632325,
-      "lng": -115.1570888,
-      "distance_km": 5.94
-    },
-    {
-      "name": "Northbound Decatur before Oakey",
-      "class": "bus_stop",
-      "lat": 36.1485306,
-      "lng": -115.2079619,
-      "distance_km": 5.94
-    },
-    {
-      "name": "Northbound Jones after Hacienda",
-      "class": "bus_stop",
-      "lat": 36.0931513,
-      "lng": -115.2249428,
-      "distance_km": 5.94
-    },
-    {
       "name": "Westbound Sunset after Decatur",
       "class": "bus_stop",
       "lat": 36.0719073,
@@ -29048,6 +29027,20 @@
       "distance_km": 5.94
     },
     {
+      "name": "Southbound Grand Central at Las Vegas North Premium Outlets",
+      "class": "bus_stop",
+      "lat": 36.1632325,
+      "lng": -115.1570888,
+      "distance_km": 5.94
+    },
+    {
+      "name": "Northbound Decatur before Oakey",
+      "class": "bus_stop",
+      "lat": 36.1485306,
+      "lng": -115.2079619,
+      "distance_km": 5.94
+    },
+    {
       "name": "Westbound Tropicana after Pearl",
       "class": "bus_stop",
       "lat": 36.1002533,
@@ -29055,11 +29048,11 @@
       "distance_km": 5.94
     },
     {
-      "name": "Westbound Spring Mountain after Jones",
+      "name": "Northbound Jones after Hacienda",
       "class": "bus_stop",
-      "lat": 36.1255753,
-      "lng": -115.2256168,
-      "distance_km": 5.95
+      "lat": 36.0931513,
+      "lng": -115.2249428,
+      "distance_km": 5.94
     },
     {
       "name": "Stop",
@@ -29076,18 +29069,18 @@
       "distance_km": 5.95
     },
     {
+      "name": "Westbound Spring Mountain after Jones",
+      "class": "bus_stop",
+      "lat": 36.1255753,
+      "lng": -115.2256168,
+      "distance_km": 5.95
+    },
+    {
       "name": "Eastbound Desert Inn after Pecos",
       "class": "bus_stop",
       "lat": 36.1296063,
       "lng": -115.1005098,
       "distance_km": 5.95
-    },
-    {
-      "name": "Las Vegas North Premium Outlets",
-      "class": "bus_stop",
-      "lat": 36.1633959,
-      "lng": -115.1570189,
-      "distance_km": 5.96
     },
     {
       "name": "Eastbound Warm Springs after Las Vegas",
@@ -29104,18 +29097,18 @@
       "distance_km": 5.96
     },
     {
+      "name": "Las Vegas North Premium Outlets",
+      "class": "bus_stop",
+      "lat": 36.1633959,
+      "lng": -115.1570189,
+      "distance_km": 5.96
+    },
+    {
       "name": "Eastbound Flamingo after Pearl",
       "class": "bus_stop",
       "lat": 36.1151313,
       "lng": -115.0961728,
       "distance_km": 5.96
-    },
-    {
-      "name": "Pawn Plaza",
-      "class": "bus_stop",
-      "lat": 36.161938,
-      "lng": -115.1455771,
-      "distance_km": 5.97
     },
     {
       "name": "Westbound Warm Springs after Las Vegas",
@@ -29132,6 +29125,20 @@
       "distance_km": 5.97
     },
     {
+      "name": "Pawn Plaza",
+      "class": "bus_stop",
+      "lat": 36.161938,
+      "lng": -115.1455771,
+      "distance_km": 5.97
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 36.070988,
+      "lng": -115.2079924,
+      "distance_km": 5.98
+    },
+    {
       "name": "Northbound Grand Centeal at Las Vegas Premium Outlets North",
       "class": "bus_stop",
       "lat": 36.1636267,
@@ -29146,18 +29153,18 @@
       "distance_km": 5.98
     },
     {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 36.070988,
-      "lng": -115.2079924,
-      "distance_km": 5.98
-    },
-    {
       "name": "Northbound McLeod before Sahara",
       "class": "bus_stop",
       "lat": 36.1431223,
       "lng": -115.1098018,
       "distance_km": 5.98
+    },
+    {
+      "name": "Southbound Decatur after Sunset",
+      "class": "bus_stop",
+      "lat": 36.0709661,
+      "lng": -115.2081453,
+      "distance_km": 5.99
     },
     {
       "name": "Northbound Grand Central at Las Vegas North Premium Outlets",
@@ -29185,13 +29192,6 @@
       "class": "bus_stop",
       "lat": 36.1632523,
       "lng": -115.1725478,
-      "distance_km": 5.99
-    },
-    {
-      "name": "Southbound Decatur after Sunset",
-      "class": "bus_stop",
-      "lat": 36.0709661,
-      "lng": -115.2081453,
       "distance_km": 5.99
     },
     {
@@ -29230,13 +29230,6 @@
       "distance_km": 6.0
     },
     {
-      "name": "Southbound Jones after Hacienda",
-      "class": "bus_stop",
-      "lat": 36.0919773,
-      "lng": -115.2252398,
-      "distance_km": 6.01
-    },
-    {
       "name": "Eastbound Warm Springs after Amigo",
       "class": "bus_stop",
       "lat": 36.0569813,
@@ -29248,6 +29241,13 @@
       "class": "bus_stop",
       "lat": 36.1513063,
       "lng": -115.1189938,
+      "distance_km": 6.01
+    },
+    {
+      "name": "Southbound Jones after Hacienda",
+      "class": "bus_stop",
+      "lat": 36.0919773,
+      "lng": -115.2252398,
       "distance_km": 6.01
     },
     {
@@ -29272,6 +29272,13 @@
       "distance_km": 6.03
     },
     {
+      "name": "Westbound Warm Springs after Pollock",
+      "class": "bus_stop",
+      "lat": 36.0572823,
+      "lng": -115.1460678,
+      "distance_km": 6.04
+    },
+    {
       "name": "Southbound Valley View after Charleston",
       "class": "bus_stop",
       "lat": 36.1584835,
@@ -29290,13 +29297,6 @@
       "class": "bus_stop",
       "lat": 36.1610767,
       "lng": -115.1392392,
-      "distance_km": 6.04
-    },
-    {
-      "name": "Westbound Warm Springs after Pollock",
-      "class": "bus_stop",
-      "lat": 36.0572823,
-      "lng": -115.1460678,
       "distance_km": 6.04
     },
     {
@@ -29405,6 +29405,13 @@
       "distance_km": 6.08
     },
     {
+      "name": "Eastbound Warm Springs after Puritan",
+      "class": "bus_stop",
+      "lat": 36.0570933,
+      "lng": -115.1446308,
+      "distance_km": 6.09
+    },
+    {
       "name": "Westbound Charleston before Valley View",
       "class": "bus_stop",
       "lat": 36.1591761,
@@ -29416,13 +29423,6 @@
       "class": "stop_position",
       "lat": 36.1588771,
       "lng": -115.1316573,
-      "distance_km": 6.09
-    },
-    {
-      "name": "Eastbound Warm Springs after Puritan",
-      "class": "bus_stop",
-      "lat": 36.0570933,
-      "lng": -115.1446308,
       "distance_km": 6.09
     },
     {
@@ -29461,13 +29461,6 @@
       "distance_km": 6.1
     },
     {
-      "name": "Northbound Jones before Spring Ranch",
-      "class": "bus_stop",
-      "lat": 36.0892763,
-      "lng": -115.2250378,
-      "distance_km": 6.1
-    },
-    {
       "name": "Northbound Eastern before Sunset Rd",
       "class": "bus_stop",
       "lat": 36.0680113,
@@ -29482,6 +29475,20 @@
       "distance_km": 6.1
     },
     {
+      "name": "Northbound Jones before Spring Ranch",
+      "class": "bus_stop",
+      "lat": 36.0892763,
+      "lng": -115.2250378,
+      "distance_km": 6.1
+    },
+    {
+      "name": "Westbound Warm Springs after Paradise",
+      "class": "bus_stop",
+      "lat": 36.0573743,
+      "lng": -115.1425168,
+      "distance_km": 6.11
+    },
+    {
       "name": "Westbound Garces after Casino Center",
       "class": "stop_position",
       "lat": 36.1638675,
@@ -29493,13 +29500,6 @@
       "class": "bus_stop",
       "lat": 36.1647345,
       "lng": -115.1559499,
-      "distance_km": 6.11
-    },
-    {
-      "name": "Westbound Warm Springs after Paradise",
-      "class": "bus_stop",
-      "lat": 36.0573743,
-      "lng": -115.1425168,
       "distance_km": 6.11
     },
     {
@@ -29706,6 +29706,13 @@
       "distance_km": 6.17
     },
     {
+      "name": "RTC Mobility Training Center at SMF",
+      "class": "bus_stop",
+      "lat": 36.0703493,
+      "lng": -115.2103528,
+      "distance_km": 6.18
+    },
+    {
       "name": "Southbound Martin Luther King after Alta",
       "class": "bus_stop",
       "lat": 36.1655393,
@@ -29790,11 +29797,11 @@
       "distance_km": 6.18
     },
     {
-      "name": "RTC Mobility Training Center at SMF",
+      "name": "Eastbound Warm Springs after Paradise",
       "class": "bus_stop",
-      "lat": 36.0703493,
-      "lng": -115.2103528,
-      "distance_km": 6.18
+      "lat": 36.0571843,
+      "lng": -115.1404808,
+      "distance_km": 6.19
     },
     {
       "name": "Southbound Shadow after Alta",
@@ -29832,11 +29839,11 @@
       "distance_km": 6.19
     },
     {
-      "name": "Eastbound Warm Springs after Paradise",
+      "name": "Southbound Paradise after Warm Springs",
       "class": "bus_stop",
-      "lat": 36.0571843,
-      "lng": -115.1404808,
-      "distance_km": 6.19
+      "lat": 36.0568667,
+      "lng": -115.1410564,
+      "distance_km": 6.21
     },
     {
       "name": "Bonneville Transit Center Bay 1",
@@ -29864,13 +29871,6 @@
       "class": "stop_position",
       "lat": 36.1647395,
       "lng": -115.1483735,
-      "distance_km": 6.21
-    },
-    {
-      "name": "Southbound Paradise after Warm Springs",
-      "class": "bus_stop",
-      "lat": 36.0568667,
-      "lng": -115.1410564,
       "distance_km": 6.21
     },
     {
@@ -29930,17 +29930,17 @@
       "distance_km": 6.23
     },
     {
-      "name": "Northbound Jones before Conroe",
-      "class": "bus_stop",
-      "lat": 36.0863603,
-      "lng": -115.2251148,
-      "distance_km": 6.23
-    },
-    {
       "name": "Eastbound Sunset after McLeod",
       "class": "bus_stop",
       "lat": 36.0714453,
       "lng": -115.1119118,
+      "distance_km": 6.23
+    },
+    {
+      "name": "Northbound Jones before Conroe",
+      "class": "bus_stop",
+      "lat": 36.0863603,
+      "lng": -115.2251148,
       "distance_km": 6.23
     },
     {
@@ -30000,6 +30000,20 @@
       "distance_km": 6.25
     },
     {
+      "name": "Northbound Dean Martin before Warm Springs",
+      "class": "bus_stop",
+      "lat": 36.0564143,
+      "lng": -115.1834468,
+      "distance_km": 6.26
+    },
+    {
+      "name": "Northbound Paradise before Warm Springs",
+      "class": "bus_stop",
+      "lat": 36.0564273,
+      "lng": -115.1407518,
+      "distance_km": 6.26
+    },
+    {
       "name": "Westbound Alta after Martin Luther King",
       "class": "stop_position",
       "lat": 36.1663059,
@@ -30035,25 +30049,18 @@
       "distance_km": 6.26
     },
     {
-      "name": "Northbound Dean Martin before Warm Springs",
-      "class": "bus_stop",
-      "lat": 36.0564143,
-      "lng": -115.1834468,
-      "distance_km": 6.26
-    },
-    {
-      "name": "Northbound Paradise before Warm Springs",
-      "class": "bus_stop",
-      "lat": 36.0564273,
-      "lng": -115.1407518,
-      "distance_km": 6.26
-    },
-    {
       "name": "Westbound Desert Inn after Brentwood",
       "class": "bus_stop",
       "lat": 36.1297763,
       "lng": -115.0969728,
       "distance_km": 6.26
+    },
+    {
+      "name": "Southbound Dean Martin after Warm Springs",
+      "class": "bus_stop",
+      "lat": 36.0563743,
+      "lng": -115.1836888,
+      "distance_km": 6.27
     },
     {
       "name": "Westbound Alta after Martin Luther King",
@@ -30067,13 +30074,6 @@
       "class": "bus_stop",
       "lat": 36.152771,
       "lng": -115.2077683,
-      "distance_km": 6.27
-    },
-    {
-      "name": "Southbound Dean Martin after Warm Springs",
-      "class": "bus_stop",
-      "lat": 36.0563743,
-      "lng": -115.1836888,
       "distance_km": 6.27
     },
     {
@@ -30091,6 +30091,13 @@
       "distance_km": 6.27
     },
     {
+      "name": "Southbound Pecos after Oquendo",
+      "class": "bus_stop",
+      "lat": 36.0823223,
+      "lng": -115.1011018,
+      "distance_km": 6.29
+    },
+    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 36.099965,
@@ -30102,13 +30109,6 @@
       "class": "bus_stop",
       "lat": 36.0999633,
       "lng": -115.2311498,
-      "distance_km": 6.29
-    },
-    {
-      "name": "Southbound Pecos after Oquendo",
-      "class": "bus_stop",
-      "lat": 36.0823223,
-      "lng": -115.1011018,
       "distance_km": 6.29
     },
     {
@@ -30154,6 +30154,13 @@
       "distance_km": 6.31
     },
     {
+      "name": "Northbound Las Vegas before Warm Springs",
+      "class": "bus_stop",
+      "lat": 36.0537823,
+      "lng": -115.1721998,
+      "distance_km": 6.32
+    },
+    {
       "name": "Westbound Bonneville after Grand Central",
       "class": "bus_stop",
       "lat": 36.1666684,
@@ -30168,11 +30175,11 @@
       "distance_km": 6.32
     },
     {
-      "name": "Northbound Las Vegas before Warm Springs",
+      "name": "Eastbound Warm Springs after Marilissa",
       "class": "bus_stop",
-      "lat": 36.0537823,
-      "lng": -115.1721998,
-      "distance_km": 6.32
+      "lat": 36.0573213,
+      "lng": -115.1355708,
+      "distance_km": 6.33
     },
     {
       "name": "Northbound Martin Luther King after Alta",
@@ -30200,13 +30207,6 @@
       "class": "bus_stop",
       "lat": 36.1649161,
       "lng": -115.1436825,
-      "distance_km": 6.33
-    },
-    {
-      "name": "Eastbound Warm Springs after Marilissa",
-      "class": "bus_stop",
-      "lat": 36.0573213,
-      "lng": -115.1355708,
       "distance_km": 6.33
     },
     {
@@ -30245,17 +30245,17 @@
       "distance_km": 6.35
     },
     {
-      "name": "Southbound Jones after Russell",
-      "class": "bus_stop",
-      "lat": 36.0846653,
-      "lng": -115.2254848,
-      "distance_km": 6.35
-    },
-    {
       "name": "Westbound Sahara after Mojave",
       "class": "bus_stop",
       "lat": 36.1445193,
       "lng": -115.1058978,
+      "distance_km": 6.35
+    },
+    {
+      "name": "Southbound Jones after Russell",
+      "class": "bus_stop",
+      "lat": 36.0846653,
+      "lng": -115.2254848,
       "distance_km": 6.35
     },
     {
@@ -30350,17 +30350,17 @@
       "distance_km": 6.4
     },
     {
-      "name": "Eastbound Flamingo after Torrey Pines",
-      "class": "bus_stop",
-      "lat": 36.1143591,
-      "lng": -115.2333676,
-      "distance_km": 6.41
-    },
-    {
       "name": "Westbound Warm Springs after Tamarus",
       "class": "bus_stop",
       "lat": 36.0576223,
       "lng": -115.1325088,
+      "distance_km": 6.41
+    },
+    {
+      "name": "Eastbound Flamingo after Torrey Pines",
+      "class": "bus_stop",
+      "lat": 36.1143591,
+      "lng": -115.2333676,
       "distance_km": 6.41
     },
     {
@@ -30413,17 +30413,17 @@
       "distance_km": 6.45
     },
     {
-      "name": "Eastbound Charleston after Faircenter",
-      "class": "stop_position",
-      "lat": 36.158987,
-      "lng": -115.2008548,
-      "distance_km": 6.46
-    },
-    {
       "name": "Eastbound Warm Springs after Tamarus",
       "class": "bus_stop",
       "lat": 36.0574363,
       "lng": -115.1316108,
+      "distance_km": 6.46
+    },
+    {
+      "name": "Eastbound Charleston after Faircenter",
+      "class": "stop_position",
+      "lat": 36.158987,
+      "lng": -115.2008548,
       "distance_km": 6.46
     },
     {
@@ -30490,13 +30490,6 @@
       "distance_km": 6.54
     },
     {
-      "name": "Southbound Jones after Eldora",
-      "class": "bus_stop",
-      "lat": 36.1394103,
-      "lng": -115.2253318,
-      "distance_km": 6.55
-    },
-    {
       "name": "Northbound Decatur before I-215",
       "class": "bus_stop",
       "lat": 36.0639156,
@@ -30504,17 +30497,24 @@
       "distance_km": 6.55
     },
     {
-      "name": "Bus stop",
+      "name": "Southbound Jones after Eldora",
       "class": "bus_stop",
-      "lat": 36.1684365,
-      "lng": -115.1724094,
-      "distance_km": 6.56
+      "lat": 36.1394103,
+      "lng": -115.2253318,
+      "distance_km": 6.55
     },
     {
       "name": "Westbound Warm Springs after Shadow Crest",
       "class": "bus_stop",
       "lat": 36.0577943,
       "lng": -115.1282798,
+      "distance_km": 6.56
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.1684365,
+      "lng": -115.1724094,
       "distance_km": 6.56
     },
     {
@@ -30546,6 +30546,13 @@
       "distance_km": 6.58
     },
     {
+      "name": "Southbound Paradise after Eldorado",
+      "class": "bus_stop",
+      "lat": 36.0532294,
+      "lng": -115.1409386,
+      "distance_km": 6.6
+    },
+    {
       "name": "Northbound Martin Luther King at 301 South Martin Luther King",
       "class": "bus_stop",
       "lat": 36.1693583,
@@ -30560,11 +30567,18 @@
       "distance_km": 6.6
     },
     {
-      "name": "Southbound Paradise after Eldorado",
+      "name": "Northbound Jones after Patrick",
       "class": "bus_stop",
-      "lat": 36.0532294,
-      "lng": -115.1409386,
-      "distance_km": 6.6
+      "lat": 36.0787213,
+      "lng": -115.2247118,
+      "distance_km": 6.61
+    },
+    {
+      "name": "Southbound Dean Martin after Eldorado",
+      "class": "bus_stop",
+      "lat": 36.0531573,
+      "lng": -115.1837018,
+      "distance_km": 6.61
     },
     {
       "name": "Northbound Decatur after Faircenter",
@@ -30578,20 +30592,6 @@
       "class": "bus_stop",
       "lat": 36.1409313,
       "lng": -115.2250908,
-      "distance_km": 6.61
-    },
-    {
-      "name": "Northbound Jones after Patrick",
-      "class": "bus_stop",
-      "lat": 36.0787213,
-      "lng": -115.2247118,
-      "distance_km": 6.61
-    },
-    {
-      "name": "Southbound Dean Martin after Eldorado",
-      "class": "bus_stop",
-      "lat": 36.0531573,
-      "lng": -115.1837018,
       "distance_km": 6.61
     },
     {
@@ -30616,20 +30616,6 @@
       "distance_km": 6.62
     },
     {
-      "name": "Westbound Tropicana after Torrey Pines",
-      "class": "bus_stop",
-      "lat": 36.0999543,
-      "lng": -115.2349118,
-      "distance_km": 6.63
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 36.0999477,
-      "lng": -115.2349168,
-      "distance_km": 6.63
-    },
-    {
       "name": "Eastbound Warm Springs after Spencer",
       "class": "bus_stop",
       "lat": 36.0575053,
@@ -30644,11 +30630,32 @@
       "distance_km": 6.63
     },
     {
+      "name": "Westbound Tropicana after Torrey Pines",
+      "class": "bus_stop",
+      "lat": 36.0999543,
+      "lng": -115.2349118,
+      "distance_km": 6.63
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.0999477,
+      "lng": -115.2349168,
+      "distance_km": 6.63
+    },
+    {
       "name": "Southbound Eastern after Charleston",
       "class": "bus_stop",
       "lat": 36.1584284,
       "lng": -115.1190973,
       "distance_km": 6.63
+    },
+    {
+      "name": "Westbound Badura after Decatur",
+      "class": "bus_stop",
+      "lat": 36.0635833,
+      "lng": -115.2086058,
+      "distance_km": 6.64
     },
     {
       "name": "Symphony Park",
@@ -30662,13 +30669,6 @@
       "class": "bus_stop",
       "lat": 36.1661303,
       "lng": -115.1371108,
-      "distance_km": 6.64
-    },
-    {
-      "name": "Westbound Badura after Decatur",
-      "class": "bus_stop",
-      "lat": 36.0635833,
-      "lng": -115.2086058,
       "distance_km": 6.64
     },
     {
@@ -30693,6 +30693,13 @@
       "distance_km": 6.65
     },
     {
+      "name": "Northbound Paradise before Eldorado",
+      "class": "bus_stop",
+      "lat": 36.0526943,
+      "lng": -115.1407068,
+      "distance_km": 6.66
+    },
+    {
       "name": "Westbound Carson after 9th",
       "class": "bus_stop",
       "lat": 36.1663903,
@@ -30714,24 +30721,17 @@
       "distance_km": 6.66
     },
     {
-      "name": "Northbound Paradise before Eldorado",
+      "name": "Southbound Decatur after Badura",
       "class": "bus_stop",
-      "lat": 36.0526943,
-      "lng": -115.1407068,
-      "distance_km": 6.66
+      "lat": 36.0628383,
+      "lng": -115.2080098,
+      "distance_km": 6.67
     },
     {
       "name": "Southbound Decatur after Charleston",
       "class": "stop_position",
       "lat": 36.1585091,
       "lng": -115.2059719,
-      "distance_km": 6.67
-    },
-    {
-      "name": "Southbound Decatur after Badura",
-      "class": "bus_stop",
-      "lat": 36.0628383,
-      "lng": -115.2080098,
       "distance_km": 6.67
     },
     {
@@ -30980,6 +30980,13 @@
       "distance_km": 6.77
     },
     {
+      "name": "Westbound Warm Springs after Burnham",
+      "class": "bus_stop",
+      "lat": 36.0574643,
+      "lng": -115.1240118,
+      "distance_km": 6.78
+    },
+    {
       "name": "Northbound 4th after Carson",
       "class": "bus_stop",
       "lat": 36.1687953,
@@ -30998,13 +31005,6 @@
       "class": "bus_stop",
       "lat": 36.1692845,
       "lng": -115.1445045,
-      "distance_km": 6.78
-    },
-    {
-      "name": "Westbound Warm Springs after Burnham",
-      "class": "bus_stop",
-      "lat": 36.0574643,
-      "lng": -115.1240118,
       "distance_km": 6.78
     },
     {
@@ -31071,13 +31071,6 @@
       "distance_km": 6.82
     },
     {
-      "name": "Northbound 4th at Fremont Street Experience",
-      "class": "bus_stop",
-      "lat": 36.1692523,
-      "lng": -115.1420008,
-      "distance_km": 6.83
-    },
-    {
       "name": "Northbound Jones after Post",
       "class": "bus_stop",
       "lat": 36.0748003,
@@ -31099,6 +31092,13 @@
       "distance_km": 6.83
     },
     {
+      "name": "Northbound 4th at Fremont Street Experience",
+      "class": "bus_stop",
+      "lat": 36.1692523,
+      "lng": -115.1420008,
+      "distance_km": 6.83
+    },
+    {
       "name": "Eastbound Tropicana after Rollingwood",
       "class": "bus_stop",
       "lat": 36.1001143,
@@ -31106,17 +31106,17 @@
       "distance_km": 6.83
     },
     {
-      "name": "Greyhound",
-      "class": "bus_station",
-      "lat": 36.1703648,
-      "lng": -115.1475753,
-      "distance_km": 6.84
-    },
-    {
       "name": "Eastbound Badura before Edmond",
       "class": "bus_stop",
       "lat": 36.0641493,
       "lng": -115.2129028,
+      "distance_km": 6.84
+    },
+    {
+      "name": "Greyhound",
+      "class": "bus_station",
+      "lat": 36.1703648,
+      "lng": -115.1475753,
       "distance_km": 6.84
     },
     {
@@ -31148,6 +31148,13 @@
       "distance_km": 6.87
     },
     {
+      "name": "Northbound Dean Martin after Robindale",
+      "class": "bus_stop",
+      "lat": 36.0505343,
+      "lng": -115.1834608,
+      "distance_km": 6.88
+    },
+    {
       "name": "Northbound Jones after Sahara",
       "class": "bus_stop",
       "lat": 36.1451773,
@@ -31159,13 +31166,6 @@
       "class": "bus_stop",
       "lat": 36.1452144,
       "lng": -115.2251266,
-      "distance_km": 6.88
-    },
-    {
-      "name": "Northbound Dean Martin after Robindale",
-      "class": "bus_stop",
-      "lat": 36.0505343,
-      "lng": -115.1834608,
       "distance_km": 6.88
     },
     {
@@ -31183,17 +31183,17 @@
       "distance_km": 6.88
     },
     {
-      "name": "Northbound Valley View after Alta",
-      "class": "bus_stop",
-      "lat": 36.1669696,
-      "lng": -115.1923997,
-      "distance_km": 6.89
-    },
-    {
       "name": "Southbound Jones after Post",
       "class": "bus_stop",
       "lat": 36.0741293,
       "lng": -115.2246908,
+      "distance_km": 6.89
+    },
+    {
+      "name": "Northbound Valley View after Alta",
+      "class": "bus_stop",
+      "lat": 36.1669696,
+      "lng": -115.1923997,
       "distance_km": 6.89
     },
     {
@@ -31337,6 +31337,13 @@
       "distance_km": 6.97
     },
     {
+      "name": "Southbound Las Vegas at Moberly",
+      "class": "bus_stop",
+      "lat": 36.0478243,
+      "lng": -115.1725018,
+      "distance_km": 6.98
+    },
+    {
       "name": "Westbound Flamingo after Redwood",
       "class": "bus_stop",
       "lat": 36.1147168,
@@ -31348,13 +31355,6 @@
       "class": "bus_stop",
       "lat": 36.0999833,
       "lng": -115.2388898,
-      "distance_km": 6.98
-    },
-    {
-      "name": "Southbound Las Vegas at Moberly",
-      "class": "bus_stop",
-      "lat": 36.0478243,
-      "lng": -115.1725018,
       "distance_km": 6.98
     },
     {
@@ -31379,17 +31379,17 @@
       "distance_km": 7.01
     },
     {
-      "name": "Eastbound Stewart after 13th",
-      "class": "bus_stop",
-      "lat": 36.1674273,
-      "lng": -115.1296758,
-      "distance_km": 7.02
-    },
-    {
       "name": "Northbound Jones after Sunset",
       "class": "bus_stop",
       "lat": 36.0715653,
       "lng": -115.2241648,
+      "distance_km": 7.02
+    },
+    {
+      "name": "Eastbound Stewart after 13th",
+      "class": "bus_stop",
+      "lat": 36.1674273,
+      "lng": -115.1296758,
       "distance_km": 7.02
     },
     {
@@ -31428,17 +31428,17 @@
       "distance_km": 7.03
     },
     {
-      "name": "Westbound Stewart after 14th",
-      "class": "bus_stop",
-      "lat": 36.1673903,
-      "lng": -115.1292118,
-      "distance_km": 7.04
-    },
-    {
       "name": "Eastbound Badura after Lindell",
       "class": "bus_stop",
       "lat": 36.0639963,
       "lng": -115.2160358,
+      "distance_km": 7.04
+    },
+    {
+      "name": "Westbound Stewart after 14th",
+      "class": "bus_stop",
+      "lat": 36.1673903,
+      "lng": -115.1292118,
       "distance_km": 7.04
     },
     {
@@ -31533,6 +31533,13 @@
       "distance_km": 7.08
     },
     {
+      "name": "Westbound Badura after Lindell",
+      "class": "bus_stop",
+      "lat": 36.0641403,
+      "lng": -115.2171288,
+      "distance_km": 7.1
+    },
+    {
       "name": "Southbound Main before Fremont Street",
       "class": "bus_stop",
       "lat": 36.172453,
@@ -31558,13 +31565,6 @@
       "class": "bus_stop",
       "lat": 36.1481663,
       "lng": -115.2256048,
-      "distance_km": 7.1
-    },
-    {
-      "name": "Westbound Badura after Lindell",
-      "class": "bus_stop",
-      "lat": 36.0641403,
-      "lng": -115.2171288,
       "distance_km": 7.1
     },
     {
@@ -31596,6 +31596,13 @@
       "distance_km": 7.11
     },
     {
+      "name": "Northbound Decatur after Warm Springs",
+      "class": "bus_stop",
+      "lat": 36.0575073,
+      "lng": -115.2076618,
+      "distance_km": 7.12
+    },
+    {
       "name": "Northbound Grand Central at City",
       "class": "bus_stop",
       "lat": 36.1732237,
@@ -31610,24 +31617,17 @@
       "distance_km": 7.12
     },
     {
-      "name": "Northbound Decatur after Warm Springs",
+      "name": "Northbound Las Vegas after Mesa Verde",
       "class": "bus_stop",
-      "lat": 36.0575073,
-      "lng": -115.2076618,
-      "distance_km": 7.12
+      "lat": 36.0463623,
+      "lng": -115.1721908,
+      "distance_km": 7.13
     },
     {
       "name": "Northbound 13th after Stewart",
       "class": "bus_stop",
       "lat": 36.1684783,
       "lng": -115.1297018,
-      "distance_km": 7.13
-    },
-    {
-      "name": "Northbound Las Vegas after Mesa Verde",
-      "class": "bus_stop",
-      "lat": 36.0463623,
-      "lng": -115.1721908,
       "distance_km": 7.13
     },
     {
@@ -31673,13 +31673,6 @@
       "distance_km": 7.15
     },
     {
-      "name": "Eastbound Stewart after 4th",
-      "class": "bus_stop",
-      "lat": 36.1717913,
-      "lng": -115.1398558,
-      "distance_km": 7.16
-    },
-    {
       "name": "Southbound Jones after Sunset",
       "class": "bus_stop",
       "lat": 36.0698543,
@@ -31691,6 +31684,13 @@
       "class": "bus_stop",
       "lat": 36.0479456,
       "lng": -115.1408987,
+      "distance_km": 7.16
+    },
+    {
+      "name": "Eastbound Stewart after 4th",
+      "class": "bus_stop",
+      "lat": 36.1717913,
+      "lng": -115.1398558,
       "distance_km": 7.16
     },
     {
@@ -31729,6 +31729,13 @@
       "distance_km": 7.18
     },
     {
+      "name": "Southbound Dean Martin after Moberly",
+      "class": "bus_stop",
+      "lat": 36.0477263,
+      "lng": -115.1837108,
+      "distance_km": 7.19
+    },
+    {
       "name": "Mob Museum",
       "class": "bus_stop",
       "lat": 36.1724841,
@@ -31740,13 +31747,6 @@
       "class": "bus_stop",
       "lat": 36.1732118,
       "lng": -115.1452103,
-      "distance_km": 7.19
-    },
-    {
-      "name": "Southbound Dean Martin after Moberly",
-      "class": "bus_stop",
-      "lat": 36.0477263,
-      "lng": -115.1837108,
       "distance_km": 7.19
     },
     {
@@ -31778,20 +31778,6 @@
       "distance_km": 7.21
     },
     {
-      "name": "Northbound Las Vegas after Stewart",
-      "class": "bus_stop",
-      "lat": 36.1721025,
-      "lng": -115.1386561,
-      "distance_km": 7.22
-    },
-    {
-      "name": "Eastbound Flamingo after Rainbow",
-      "class": "bus_stop",
-      "lat": 36.1143703,
-      "lng": -115.2424151,
-      "distance_km": 7.22
-    },
-    {
       "name": "Southbound Decatur after Warm Springs",
       "class": "bus_stop",
       "lat": 36.0566273,
@@ -31806,18 +31792,18 @@
       "distance_km": 7.22
     },
     {
-      "name": "Eastbound Flamingo after Rainbow",
-      "class": "stop_position",
-      "lat": 36.1144633,
-      "lng": -115.2424471,
-      "distance_km": 7.23
+      "name": "Northbound Las Vegas after Stewart",
+      "class": "bus_stop",
+      "lat": 36.1721025,
+      "lng": -115.1386561,
+      "distance_km": 7.22
     },
     {
-      "name": "Eastbound Tropicana after Rainbow",
+      "name": "Eastbound Flamingo after Rainbow",
       "class": "bus_stop",
-      "lat": 36.0996843,
-      "lng": -115.2416908,
-      "distance_km": 7.23
+      "lat": 36.1143703,
+      "lng": -115.2424151,
+      "distance_km": 7.22
     },
     {
       "name": "Northbound Dean Martin before Moberly",
@@ -31827,10 +31813,24 @@
       "distance_km": 7.23
     },
     {
+      "name": "Eastbound Flamingo after Rainbow",
+      "class": "stop_position",
+      "lat": 36.1144633,
+      "lng": -115.2424471,
+      "distance_km": 7.23
+    },
+    {
       "name": "Westbound Sunset before Pecos",
       "class": "bus_stop",
       "lat": 36.0715643,
       "lng": -115.0972808,
+      "distance_km": 7.23
+    },
+    {
+      "name": "Eastbound Tropicana after Rainbow",
+      "class": "bus_stop",
+      "lat": 36.0996843,
+      "lng": -115.2416908,
       "distance_km": 7.23
     },
     {
@@ -32212,20 +32212,6 @@
       "distance_km": 7.43
     },
     {
-      "name": "Westbound Tropicana after Rainbow",
-      "class": "bus_stop",
-      "lat": 36.0999633,
-      "lng": -115.2441308,
-      "distance_km": 7.44
-    },
-    {
-      "name": "Northbound Rainbow at Spanish Palms Condos",
-      "class": "bus_stop",
-      "lat": 36.0946653,
-      "lng": -115.2428268,
-      "distance_km": 7.44
-    },
-    {
       "name": "Northbound Las Vegas after Windmill",
       "class": "bus_stop",
       "lat": 36.0435733,
@@ -32233,10 +32219,24 @@
       "distance_km": 7.44
     },
     {
+      "name": "Westbound Tropicana after Rainbow",
+      "class": "bus_stop",
+      "lat": 36.0999633,
+      "lng": -115.2441308,
+      "distance_km": 7.44
+    },
+    {
       "name": "Westbound Sahara after Sandhill",
       "class": "bus_stop",
       "lat": 36.1464033,
       "lng": -115.0927308,
+      "distance_km": 7.44
+    },
+    {
+      "name": "Northbound Rainbow at Spanish Palms Condos",
+      "class": "bus_stop",
+      "lat": 36.0946653,
+      "lng": -115.2428268,
       "distance_km": 7.44
     },
     {
@@ -32268,6 +32268,13 @@
       "distance_km": 7.45
     },
     {
+      "name": "Eastbound Badura after Corporate Plaza",
+      "class": "bus_stop",
+      "lat": 36.0627973,
+      "lng": -115.2212668,
+      "distance_km": 7.46
+    },
+    {
       "name": "Eastbound Bonanza after Martin Luther King",
       "class": "bus_stop",
       "lat": 36.1770293,
@@ -32293,13 +32300,6 @@
       "class": "stop_position",
       "lat": 36.159102,
       "lng": -115.2188004,
-      "distance_km": 7.46
-    },
-    {
-      "name": "Eastbound Badura after Corporate Plaza",
-      "class": "bus_stop",
-      "lat": 36.0627973,
-      "lng": -115.2212668,
       "distance_km": 7.46
     },
     {
@@ -32688,17 +32688,17 @@
       "distance_km": 7.61
     },
     {
-      "name": "Southbound Maryland after Bonanza",
-      "class": "bus_stop",
-      "lat": 36.1736223,
-      "lng": -115.1307918,
-      "distance_km": 7.62
-    },
-    {
       "name": "Southbound Decatur before Maulding",
       "class": "bus_stop",
       "lat": 36.0523423,
       "lng": -115.2080168,
+      "distance_km": 7.62
+    },
+    {
+      "name": "Southbound Maryland after Bonanza",
+      "class": "bus_stop",
+      "lat": 36.1736223,
+      "lng": -115.1307918,
       "distance_km": 7.62
     },
     {
@@ -32758,13 +32758,6 @@
       "distance_km": 7.66
     },
     {
-      "name": "Southbound Rainbow before Dewey",
-      "class": "bus_stop",
-      "lat": 36.0882233,
-      "lng": -115.2430668,
-      "distance_km": 7.66
-    },
-    {
       "name": "Northbound Boulder before Lamb",
       "class": "bus_stop",
       "lat": 36.1264713,
@@ -32783,6 +32776,13 @@
       "class": "bus_stop",
       "lat": 36.1590023,
       "lng": -115.1022373,
+      "distance_km": 7.66
+    },
+    {
+      "name": "Southbound Rainbow before Dewey",
+      "class": "bus_stop",
+      "lat": 36.0882233,
+      "lng": -115.2430668,
       "distance_km": 7.66
     },
     {
@@ -32821,13 +32821,6 @@
       "distance_km": 7.67
     },
     {
-      "name": "Southbound Jones after Transverse",
-      "class": "bus_stop",
-      "lat": 36.1563573,
-      "lng": -115.2255458,
-      "distance_km": 7.68
-    },
-    {
       "name": "Westbound Badura before Jones",
       "class": "bus_stop",
       "lat": 36.0621313,
@@ -32842,17 +32835,24 @@
       "distance_km": 7.68
     },
     {
-      "name": "Westbound Bonanza after Main",
+      "name": "Southbound Jones after Transverse",
       "class": "bus_stop",
-      "lat": 36.1774339,
-      "lng": -115.1433901,
-      "distance_km": 7.69
+      "lat": 36.1563573,
+      "lng": -115.2255458,
+      "distance_km": 7.68
     },
     {
       "name": "Northbound Las Vegas before Windmill",
       "class": "bus_stop",
       "lat": 36.0413173,
       "lng": -115.1721928,
+      "distance_km": 7.69
+    },
+    {
+      "name": "Westbound Bonanza after Main",
+      "class": "bus_stop",
+      "lat": 36.1774339,
+      "lng": -115.1433901,
       "distance_km": 7.69
     },
     {
@@ -32947,17 +32947,17 @@
       "distance_km": 7.72
     },
     {
-      "name": "Northbound Rainbow after Russell",
-      "class": "bus_stop",
-      "lat": 36.0855323,
-      "lng": -115.2426508,
-      "distance_km": 7.72
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 36.0710742,
       "lng": -115.0910951,
+      "distance_km": 7.72
+    },
+    {
+      "name": "Northbound Rainbow after Russell",
+      "class": "bus_stop",
+      "lat": 36.0855323,
+      "lng": -115.2426508,
       "distance_km": 7.72
     },
     {
@@ -33129,13 +33129,6 @@
       "distance_km": 7.79
     },
     {
-      "name": "Southbound Rainbow after Russell",
-      "class": "bus_stop",
-      "lat": 36.0844153,
-      "lng": -115.2429738,
-      "distance_km": 7.8
-    },
-    {
       "name": "Northbound Paradise after Windmill",
       "class": "bus_stop",
       "lat": 36.0430955,
@@ -33147,6 +33140,13 @@
       "class": "bus_stop",
       "lat": 36.0430683,
       "lng": -115.1882278,
+      "distance_km": 7.8
+    },
+    {
+      "name": "Southbound Rainbow after Russell",
+      "class": "bus_stop",
+      "lat": 36.0844153,
+      "lng": -115.2429738,
       "distance_km": 7.8
     },
     {
@@ -33171,17 +33171,17 @@
       "distance_km": 7.82
     },
     {
-      "name": "Southbound Rainbow after Edna",
-      "class": "stop_position",
-      "lat": 36.1363133,
-      "lng": -115.2430362,
-      "distance_km": 7.83
-    },
-    {
       "name": "Northbound Dean Martin after Blue Diamond",
       "class": "bus_stop",
       "lat": 36.0427643,
       "lng": -115.1879508,
+      "distance_km": 7.83
+    },
+    {
+      "name": "Southbound Rainbow after Edna",
+      "class": "stop_position",
+      "lat": 36.1363133,
+      "lng": -115.2430362,
       "distance_km": 7.83
     },
     {
@@ -33241,6 +33241,13 @@
       "distance_km": 7.86
     },
     {
+      "name": "Northbound Jones after Arby",
+      "class": "bus_stop",
+      "lat": 36.0604339,
+      "lng": -115.2246412,
+      "distance_km": 7.87
+    },
+    {
       "name": "Eastbound Washington after Martin Luther King",
       "class": "bus_stop",
       "lat": 36.1807843,
@@ -33262,24 +33269,17 @@
       "distance_km": 7.87
     },
     {
-      "name": "Northbound Rainbow after Oquendo",
-      "class": "bus_stop",
-      "lat": 36.0818273,
-      "lng": -115.2425988,
-      "distance_km": 7.87
-    },
-    {
-      "name": "Northbound Jones after Arby",
-      "class": "bus_stop",
-      "lat": 36.0604339,
-      "lng": -115.2246412,
-      "distance_km": 7.87
-    },
-    {
       "name": "Westbound Charleston before Pecos",
       "class": "bus_stop",
       "lat": 36.1590047,
       "lng": -115.0989538,
+      "distance_km": 7.87
+    },
+    {
+      "name": "Northbound Rainbow after Oquendo",
+      "class": "bus_stop",
+      "lat": 36.0818273,
+      "lng": -115.2425988,
       "distance_km": 7.87
     },
     {
@@ -33295,6 +33295,13 @@
       "lat": 36.1803873,
       "lng": -115.1519528,
       "distance_km": 7.88
+    },
+    {
+      "name": "Southbound Maryland after Windmill",
+      "class": "bus_stop",
+      "lat": 36.0422093,
+      "lng": -115.136368,
+      "distance_km": 7.89
     },
     {
       "name": "Westbound Washington after Martin Luther King",
@@ -33325,6 +33332,13 @@
       "distance_km": 7.89
     },
     {
+      "name": "Eastbound Warm Springs after Tomiyasu",
+      "class": "bus_stop",
+      "lat": 36.0569053,
+      "lng": -115.1038908,
+      "distance_km": 7.89
+    },
+    {
       "name": "Southbound Rainbow before Oquendo",
       "class": "bus_stop",
       "lat": 36.0820083,
@@ -33332,18 +33346,11 @@
       "distance_km": 7.89
     },
     {
-      "name": "Southbound Maryland after Windmill",
+      "name": "Southbound Decatur after Robindale",
       "class": "bus_stop",
-      "lat": 36.0422093,
-      "lng": -115.136368,
-      "distance_km": 7.89
-    },
-    {
-      "name": "Eastbound Warm Springs after Tomiyasu",
-      "class": "bus_stop",
-      "lat": 36.0569053,
-      "lng": -115.1038908,
-      "distance_km": 7.89
+      "lat": 36.0493143,
+      "lng": -115.2080038,
+      "distance_km": 7.9
     },
     {
       "name": "Eastbound Washington after Tonopah",
@@ -33371,13 +33378,6 @@
       "class": "stop_position",
       "lat": 36.1606298,
       "lng": -115.2239064,
-      "distance_km": 7.9
-    },
-    {
-      "name": "Southbound Decatur after Robindale",
-      "class": "bus_stop",
-      "lat": 36.0493143,
-      "lng": -115.2080038,
       "distance_km": 7.9
     },
     {
@@ -33556,6 +33556,13 @@
       "distance_km": 8.0
     },
     {
+      "name": "Northbound Las Vegas before Shelbourne",
+      "class": "bus_stop",
+      "lat": 36.0383843,
+      "lng": -115.1721518,
+      "distance_km": 8.01
+    },
+    {
       "name": "Westbound Washington after D",
       "class": "bus_stop",
       "lat": 36.1810053,
@@ -33570,18 +33577,18 @@
       "distance_km": 8.01
     },
     {
-      "name": "Northbound Las Vegas before Shelbourne",
-      "class": "bus_stop",
-      "lat": 36.0383843,
-      "lng": -115.1721518,
-      "distance_km": 8.01
-    },
-    {
       "name": "Northbound Boulder after Indios",
       "class": "bus_stop",
       "lat": 36.1218573,
       "lng": -115.0742538,
       "distance_km": 8.01
+    },
+    {
+      "name": "Southbound Las Vegas after Shelbourne",
+      "class": "bus_stop",
+      "lat": 36.0384043,
+      "lng": -115.1725618,
+      "distance_km": 8.02
     },
     {
       "name": "Eastbound Washington after Rancho",
@@ -33623,13 +33630,6 @@
       "class": "bus_stop",
       "lat": 36.1411753,
       "lng": -115.2427316,
-      "distance_km": 8.02
-    },
-    {
-      "name": "Southbound Las Vegas after Shelbourne",
-      "class": "bus_stop",
-      "lat": 36.0384043,
-      "lng": -115.1725618,
       "distance_km": 8.02
     },
     {
@@ -33724,6 +33724,13 @@
       "distance_km": 8.05
     },
     {
+      "name": "Northbound Dean Martin before Blue Diamond",
+      "class": "bus_stop",
+      "lat": 36.0405803,
+      "lng": -115.1879288,
+      "distance_km": 8.06
+    },
+    {
       "name": "Westbound Washington before Rancho",
       "class": "bus_stop",
       "lat": 36.1811803,
@@ -33735,13 +33742,6 @@
       "class": "bus_stop",
       "lat": 36.1803943,
       "lng": -115.1408598,
-      "distance_km": 8.06
-    },
-    {
-      "name": "Northbound Dean Martin before Blue Diamond",
-      "class": "bus_stop",
-      "lat": 36.0405803,
-      "lng": -115.1879288,
       "distance_km": 8.06
     },
     {
@@ -33801,17 +33801,17 @@
       "distance_km": 8.1
     },
     {
-      "name": "Northbound Rancho after Washington",
-      "class": "bus_stop",
-      "lat": 36.1816203,
-      "lng": -115.1795318,
-      "distance_km": 8.11
-    },
-    {
       "name": "Southbound Rainbow after Patrick",
       "class": "bus_stop",
       "lat": 36.0771813,
       "lng": -115.2428558,
+      "distance_km": 8.11
+    },
+    {
+      "name": "Northbound Rancho after Washington",
+      "class": "bus_stop",
+      "lat": 36.1816203,
+      "lng": -115.1795318,
       "distance_km": 8.11
     },
     {
@@ -33857,13 +33857,6 @@
       "distance_km": 8.12
     },
     {
-      "name": "Westbound Russell before Timber Creek",
-      "class": "bus_stop",
-      "lat": 36.0852833,
-      "lng": -115.2473878,
-      "distance_km": 8.13
-    },
-    {
       "name": "Eastbound Tropicana after Mountain Vista",
       "class": "bus_stop",
       "lat": 36.1001773,
@@ -33899,17 +33892,24 @@
       "distance_km": 8.13
     },
     {
-      "name": "Westbound Washington after Sahara",
+      "name": "Westbound Russell before Timber Creek",
       "class": "bus_stop",
-      "lat": 36.1812623,
-      "lng": -115.1827698,
-      "distance_km": 8.14
+      "lat": 36.0852833,
+      "lng": -115.2473878,
+      "distance_km": 8.13
     },
     {
       "name": "Northbound Jones after Warm Springs",
       "class": "bus_stop",
       "lat": 36.0570633,
       "lng": -115.2247558,
+      "distance_km": 8.14
+    },
+    {
+      "name": "Westbound Washington after Sahara",
+      "class": "bus_stop",
+      "lat": 36.1812623,
+      "lng": -115.1827698,
       "distance_km": 8.14
     },
     {
@@ -34032,13 +34032,6 @@
       "distance_km": 8.19
     },
     {
-      "name": "Westbound Tropicana after Tenaya",
-      "class": "bus_stop",
-      "lat": 36.0998633,
-      "lng": -115.2525998,
-      "distance_km": 8.2
-    },
-    {
       "name": "Northbound Maryland before Windmill",
       "class": "bus_stop",
       "lat": 36.0393833,
@@ -34060,11 +34053,11 @@
       "distance_km": 8.2
     },
     {
-      "name": "Westbound Maryland after Sagman",
+      "name": "Westbound Tropicana after Tenaya",
       "class": "bus_stop",
-      "lat": 36.1783423,
-      "lng": -115.1276388,
-      "distance_km": 8.21
+      "lat": 36.0998633,
+      "lng": -115.2525998,
+      "distance_km": 8.2
     },
     {
       "name": "Northbound Rainbow after Post",
@@ -34078,6 +34071,13 @@
       "class": "bus_stop",
       "lat": 36.0459873,
       "lng": -115.2076598,
+      "distance_km": 8.21
+    },
+    {
+      "name": "Westbound Maryland after Sagman",
+      "class": "bus_stop",
+      "lat": 36.1783423,
+      "lng": -115.1276388,
       "distance_km": 8.21
     },
     {
@@ -34221,17 +34221,17 @@
       "distance_km": 8.32
     },
     {
-      "name": "Westbound Charleston before Torrey Pines",
-      "class": "bus_stop",
-      "lat": 36.1593396,
-      "lng": -115.2319887,
-      "distance_km": 8.33
-    },
-    {
       "name": "Southbound Decatur after Mesa Verde",
       "class": "bus_stop",
       "lat": 36.0449123,
       "lng": -115.2080388,
+      "distance_km": 8.33
+    },
+    {
+      "name": "Westbound Charleston before Torrey Pines",
+      "class": "bus_stop",
+      "lat": 36.1593396,
+      "lng": -115.2319887,
       "distance_km": 8.33
     },
     {
@@ -34249,6 +34249,13 @@
       "distance_km": 8.34
     },
     {
+      "name": "Westbound Warm Springs after Jones",
+      "class": "bus_stop",
+      "lat": 36.0564333,
+      "lng": -115.2274438,
+      "distance_km": 8.36
+    },
+    {
       "name": "Northbound D after Madison",
       "class": "bus_stop",
       "lat": 36.1841475,
@@ -34260,13 +34267,6 @@
       "class": "bus_stop",
       "lat": 36.1812953,
       "lng": -115.1916708,
-      "distance_km": 8.36
-    },
-    {
-      "name": "Westbound Warm Springs after Jones",
-      "class": "bus_stop",
-      "lat": 36.0564333,
-      "lng": -115.2274438,
       "distance_km": 8.36
     },
     {
@@ -34298,17 +34298,17 @@
       "distance_km": 8.39
     },
     {
-      "name": "Northbound Jones after Alta",
-      "class": "bus_stop",
-      "lat": 36.1668703,
-      "lng": -115.2237038,
-      "distance_km": 8.4
-    },
-    {
       "name": "Northbound Rainbow after Sunset",
       "class": "bus_stop",
       "lat": 36.0711373,
       "lng": -115.2423368,
+      "distance_km": 8.4
+    },
+    {
+      "name": "Northbound Jones after Alta",
+      "class": "bus_stop",
+      "lat": 36.1668703,
+      "lng": -115.2237038,
       "distance_km": 8.4
     },
     {
@@ -34473,13 +34473,6 @@
       "distance_km": 8.46
     },
     {
-      "name": "Eastbound Russell after Tenaya",
-      "class": "bus_stop",
-      "lat": 36.0850503,
-      "lng": -115.2511258,
-      "distance_km": 8.46
-    },
-    {
       "name": "Westbound Flamingo after Boulder",
       "class": "bus_stop",
       "lat": 36.1150518,
@@ -34494,11 +34487,11 @@
       "distance_km": 8.46
     },
     {
-      "name": "Northbound Las Vegas after Washington",
+      "name": "Eastbound Russell after Tenaya",
       "class": "bus_stop",
-      "lat": 36.1827033,
-      "lng": -115.1338938,
-      "distance_km": 8.47
+      "lat": 36.0850503,
+      "lng": -115.2511258,
+      "distance_km": 8.46
     },
     {
       "name": "Northbound Jones after Eldorado",
@@ -34508,11 +34501,11 @@
       "distance_km": 8.47
     },
     {
-      "name": "Bus stop",
+      "name": "Northbound Las Vegas after Washington",
       "class": "bus_stop",
-      "lat": 36.1827122,
-      "lng": -115.1338314,
-      "distance_km": 8.48
+      "lat": 36.1827033,
+      "lng": -115.1338938,
+      "distance_km": 8.47
     },
     {
       "name": "Eastbound Warm Springs before Jones",
@@ -34529,6 +34522,13 @@
       "distance_km": 8.48
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.1827122,
+      "lng": -115.1338314,
+      "distance_km": 8.48
+    },
+    {
       "name": "Eastbound Sunset after Green Valley",
       "class": "bus_stop",
       "lat": 36.0707753,
@@ -34541,6 +34541,13 @@
       "lat": 36.1157653,
       "lng": -115.0680808,
       "distance_km": 8.48
+    },
+    {
+      "name": "Southbound Rainbow after Sunset",
+      "class": "bus_stop",
+      "lat": 36.0700013,
+      "lng": -115.2426988,
+      "distance_km": 8.49
     },
     {
       "name": "Northbound Decatur after Bonanza",
@@ -34568,13 +34575,6 @@
       "class": "bus_stop",
       "lat": 36.1145133,
       "lng": -115.2565788,
-      "distance_km": 8.49
-    },
-    {
-      "name": "Southbound Rainbow after Sunset",
-      "class": "bus_stop",
-      "lat": 36.0700013,
-      "lng": -115.2426988,
       "distance_km": 8.49
     },
     {
@@ -34648,6 +34648,13 @@
       "distance_km": 8.53
     },
     {
+      "name": "Eastbound Windmill after Decatur",
+      "class": "bus_stop",
+      "lat": 36.0423763,
+      "lng": -115.2071978,
+      "distance_km": 8.54
+    },
+    {
       "name": "Southbound Rancho after Riverside",
       "class": "bus_stop",
       "lat": 36.1849653,
@@ -34669,13 +34676,6 @@
       "distance_km": 8.54
     },
     {
-      "name": "Eastbound Windmill after Decatur",
-      "class": "bus_stop",
-      "lat": 36.0423763,
-      "lng": -115.2071978,
-      "distance_km": 8.54
-    },
-    {
       "name": "Southbound Eastern after Windmill",
       "class": "bus_stop",
       "lat": 36.0416313,
@@ -34690,13 +34690,6 @@
       "distance_km": 8.56
     },
     {
-      "name": "Eastbound Washington after Hogan",
-      "class": "bus_stop",
-      "lat": 36.1809853,
-      "lng": -115.1993918,
-      "distance_km": 8.57
-    },
-    {
       "name": "Southbound Jones after Eldorado",
       "class": "bus_stop",
       "lat": 36.0522706,
@@ -34708,6 +34701,13 @@
       "class": "bus_stop",
       "lat": 36.0358513,
       "lng": -115.1360098,
+      "distance_km": 8.57
+    },
+    {
+      "name": "Eastbound Washington after Hogan",
+      "class": "bus_stop",
+      "lat": 36.1809853,
+      "lng": -115.1993918,
       "distance_km": 8.57
     },
     {
@@ -34739,6 +34739,13 @@
       "distance_km": 8.58
     },
     {
+      "name": "Northbound Las Vegas after Ford",
+      "class": "bus_stop",
+      "lat": 36.0331313,
+      "lng": -115.1721518,
+      "distance_km": 8.59
+    },
+    {
       "name": "Westbound Charleston after Torrey Pines",
       "class": "stop_position",
       "lat": 36.1592222,
@@ -34750,13 +34757,6 @@
       "class": "bus_stop",
       "lat": 36.1592886,
       "lng": -115.2359075,
-      "distance_km": 8.59
-    },
-    {
-      "name": "Northbound Las Vegas after Ford",
-      "class": "bus_stop",
-      "lat": 36.0331313,
-      "lng": -115.1721518,
       "distance_km": 8.59
     },
     {
@@ -34921,13 +34921,6 @@
       "distance_km": 8.71
     },
     {
-      "name": "Westbound Tropicana after Hartfield",
-      "class": "bus_stop",
-      "lat": 36.0997543,
-      "lng": -115.2582988,
-      "distance_km": 8.71
-    },
-    {
       "name": "Southbound Green Valley after La Mesa",
       "class": "bus_stop",
       "lat": 36.0633233,
@@ -34935,17 +34928,24 @@
       "distance_km": 8.71
     },
     {
-      "name": "Southbound H after Owens",
+      "name": "Westbound Tropicana after Hartfield",
       "class": "bus_stop",
-      "lat": 36.1879643,
-      "lng": -115.1520688,
-      "distance_km": 8.72
+      "lat": 36.0997543,
+      "lng": -115.2582988,
+      "distance_km": 8.71
     },
     {
       "name": "Southbound Arville before Camero",
       "class": "bus_stop",
       "lat": 36.0375383,
       "lng": -115.1993208,
+      "distance_km": 8.72
+    },
+    {
+      "name": "Southbound H after Owens",
+      "class": "bus_stop",
+      "lat": 36.1879643,
+      "lng": -115.1520688,
       "distance_km": 8.72
     },
     {
@@ -34998,6 +34998,13 @@
       "distance_km": 8.74
     },
     {
+      "name": "Northbound Jones after Robindale",
+      "class": "bus_stop",
+      "lat": 36.0499443,
+      "lng": -115.2250998,
+      "distance_km": 8.75
+    },
+    {
       "name": "Eastbound Owens before H",
       "class": "bus_stop",
       "lat": 36.1882943,
@@ -35009,13 +35016,6 @@
       "class": "bus_stop",
       "lat": 36.1885843,
       "lng": -115.1569698,
-      "distance_km": 8.75
-    },
-    {
-      "name": "Northbound Jones after Robindale",
-      "class": "bus_stop",
-      "lat": 36.0499443,
-      "lng": -115.2250998,
       "distance_km": 8.75
     },
     {
@@ -35031,6 +35031,13 @@
       "lat": 36.1370563,
       "lng": -115.0707468,
       "distance_km": 8.75
+    },
+    {
+      "name": "Eastbound Warm Springs after Torrey Pines",
+      "class": "bus_stop",
+      "lat": 36.0559804,
+      "lng": -115.2331853,
+      "distance_km": 8.76
     },
     {
       "name": "Westbound Vegas before Tonopah",
@@ -35051,13 +35058,6 @@
       "class": "bus_stop",
       "lat": 36.1802462,
       "lng": -115.2063064,
-      "distance_km": 8.76
-    },
-    {
-      "name": "Eastbound Warm Springs after Torrey Pines",
-      "class": "bus_stop",
-      "lat": 36.0559804,
-      "lng": -115.2331853,
       "distance_km": 8.76
     },
     {
@@ -35173,6 +35173,13 @@
       "distance_km": 8.78
     },
     {
+      "name": "Northbound Tenaya after Patrick",
+      "class": "bus_stop",
+      "lat": 36.0780873,
+      "lng": -115.2516438,
+      "distance_km": 8.79
+    },
+    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 36.1890051,
@@ -35184,13 +35191,6 @@
       "class": "bus_stop",
       "lat": 36.1808186,
       "lng": -115.2055774,
-      "distance_km": 8.79
-    },
-    {
-      "name": "Northbound Tenaya after Patrick",
-      "class": "bus_stop",
-      "lat": 36.0780873,
-      "lng": -115.2516438,
       "distance_km": 8.79
     },
     {
@@ -35236,17 +35236,17 @@
       "distance_km": 8.8
     },
     {
-      "name": "Westbound Washington before Decatur",
-      "class": "bus_stop",
-      "lat": 36.1810803,
-      "lng": -115.205612,
-      "distance_km": 8.81
-    },
-    {
       "name": "Southbound Las Vegas after Ford",
       "class": "bus_stop",
       "lat": 36.0311763,
       "lng": -115.1725408,
+      "distance_km": 8.81
+    },
+    {
+      "name": "Westbound Washington before Decatur",
+      "class": "bus_stop",
+      "lat": 36.1810803,
+      "lng": -115.205612,
       "distance_km": 8.81
     },
     {
@@ -35299,13 +35299,6 @@
       "distance_km": 8.81
     },
     {
-      "name": "Southbound Martin Luther King before Vegas",
-      "class": "bus_stop",
-      "lat": 36.1893133,
-      "lng": -115.1610458,
-      "distance_km": 8.82
-    },
-    {
       "name": "Southbound Rainbow after Roy Horn",
       "class": "bus_stop",
       "lat": 36.0646063,
@@ -35317,6 +35310,13 @@
       "class": "bus_stop",
       "lat": 36.0646288,
       "lng": -115.2427389,
+      "distance_km": 8.82
+    },
+    {
+      "name": "Southbound Martin Luther King before Vegas",
+      "class": "bus_stop",
+      "lat": 36.1893133,
+      "lng": -115.1610458,
       "distance_km": 8.82
     },
     {
@@ -35348,6 +35348,13 @@
       "distance_km": 8.82
     },
     {
+      "name": "Northbound Decatur after Shelbourne",
+      "class": "bus_stop",
+      "lat": 36.0396203,
+      "lng": -115.2076848,
+      "distance_km": 8.83
+    },
+    {
       "name": "Westbound Owens after D",
       "class": "bus_stop",
       "lat": 36.1885543,
@@ -35359,13 +35366,6 @@
       "class": "bus_stop",
       "lat": 36.1886083,
       "lng": -115.1762338,
-      "distance_km": 8.83
-    },
-    {
-      "name": "Northbound Decatur after Shelbourne",
-      "class": "bus_stop",
-      "lat": 36.0396203,
-      "lng": -115.2076848,
       "distance_km": 8.83
     },
     {
@@ -35397,17 +35397,17 @@
       "distance_km": 8.84
     },
     {
-      "name": "Eastbound Sahara after Tenaya",
-      "class": "bus_stop",
-      "lat": 36.1437447,
-      "lng": -115.251432,
-      "distance_km": 8.85
-    },
-    {
       "name": "Westbound Warm Springs after Torrey Pines",
       "class": "bus_stop",
       "lat": 36.0562523,
       "lng": -115.2348418,
+      "distance_km": 8.85
+    },
+    {
+      "name": "Eastbound Sahara after Tenaya",
+      "class": "bus_stop",
+      "lat": 36.1437447,
+      "lng": -115.251432,
       "distance_km": 8.85
     },
     {
@@ -35677,17 +35677,17 @@
       "distance_km": 8.96
     },
     {
-      "name": "Westbound Alta after Torrey Pines",
-      "class": "stop_position",
-      "lat": 36.166407,
-      "lng": -115.233648,
-      "distance_km": 8.97
-    },
-    {
       "name": "Northbound Rainbow after Badura",
       "class": "bus_stop",
       "lat": 36.0618333,
       "lng": -115.2423288,
+      "distance_km": 8.97
+    },
+    {
+      "name": "Westbound Alta after Torrey Pines",
+      "class": "stop_position",
+      "lat": 36.166407,
+      "lng": -115.233648,
       "distance_km": 8.97
     },
     {
@@ -35712,6 +35712,13 @@
       "distance_km": 8.98
     },
     {
+      "name": "Northbound Maryland before Ford",
+      "class": "bus_stop",
+      "lat": 36.0319843,
+      "lng": -115.1360568,
+      "distance_km": 8.99
+    },
+    {
       "name": "Eastbound Owens after Davis",
       "class": "bus_stop",
       "lat": 36.1883433,
@@ -35730,13 +35737,6 @@
       "class": "bus_stop",
       "lat": 36.0995023,
       "lng": -115.2613818,
-      "distance_km": 8.99
-    },
-    {
-      "name": "Northbound Maryland before Ford",
-      "class": "bus_stop",
-      "lat": 36.0319843,
-      "lng": -115.1360568,
       "distance_km": 8.99
     },
     {
@@ -35768,17 +35768,17 @@
       "distance_km": 9.0
     },
     {
-      "name": "Westbound Tropicana after Buffalo",
-      "class": "bus_stop",
-      "lat": 36.0997597,
-      "lng": -115.2617266,
-      "distance_km": 9.01
-    },
-    {
       "name": "Northbound Eastern after Washington",
       "class": "bus_stop",
       "lat": 36.1819113,
       "lng": -115.1159428,
+      "distance_km": 9.01
+    },
+    {
+      "name": "Westbound Tropicana after Buffalo",
+      "class": "bus_stop",
+      "lat": 36.0997597,
+      "lng": -115.2617266,
       "distance_km": 9.01
     },
     {
@@ -35978,6 +35978,13 @@
       "distance_km": 9.08
     },
     {
+      "name": "Westbound Warm Springs before Redwood",
+      "class": "bus_stop",
+      "lat": 36.0560843,
+      "lng": -115.2382048,
+      "distance_km": 9.09
+    },
+    {
       "name": "Eastbound Vegas after Mountain",
       "class": "bus_stop",
       "lat": 36.1883583,
@@ -35989,13 +35996,6 @@
       "class": "bus_stop",
       "lat": 36.1256533,
       "lng": -115.2615098,
-      "distance_km": 9.09
-    },
-    {
-      "name": "Westbound Warm Springs before Redwood",
-      "class": "bus_stop",
-      "lat": 36.0560843,
-      "lng": -115.2382048,
       "distance_km": 9.09
     },
     {
@@ -36062,17 +36062,17 @@
       "distance_km": 9.12
     },
     {
-      "name": "Southbound H after Doolittle",
-      "class": "bus_stop",
-      "lat": 36.1918084,
-      "lng": -115.1519596,
-      "distance_km": 9.14
-    },
-    {
       "name": "Westbound Badura after Rainbow",
       "class": "bus_stop",
       "lat": 36.0614103,
       "lng": -115.2442648,
+      "distance_km": 9.14
+    },
+    {
+      "name": "Southbound H after Doolittle",
+      "class": "bus_stop",
+      "lat": 36.1918084,
+      "lng": -115.1519596,
       "distance_km": 9.14
     },
     {
@@ -36153,6 +36153,13 @@
       "distance_km": 9.17
     },
     {
+      "name": "Southbound Jones before Mineral Mound",
+      "class": "bus_stop",
+      "lat": 36.0452985,
+      "lng": -115.2257041,
+      "distance_km": 9.18
+    },
+    {
       "name": "Northbound Rainbow after Charleston",
       "class": "bus_stop",
       "lat": 36.160014,
@@ -36164,13 +36171,6 @@
       "class": "bus_stop",
       "lat": 36.1439863,
       "lng": -115.2553089,
-      "distance_km": 9.18
-    },
-    {
-      "name": "Southbound Jones before Mineral Mound",
-      "class": "bus_stop",
-      "lat": 36.0452985,
-      "lng": -115.2257041,
       "distance_km": 9.18
     },
     {
@@ -36195,6 +36195,13 @@
       "distance_km": 9.19
     },
     {
+      "name": "Northbound Las Vegas before Pebble",
+      "class": "bus_stop",
+      "lat": 36.0276573,
+      "lng": -115.1721678,
+      "distance_km": 9.2
+    },
+    {
       "name": "Northbound Jones at US HWY 95 North",
       "class": "bus_stop",
       "lat": 36.1761043,
@@ -36209,11 +36216,11 @@
       "distance_km": 9.2
     },
     {
-      "name": "Northbound Las Vegas before Pebble",
+      "name": "Southbound Las Vegas after Pebble",
       "class": "bus_stop",
-      "lat": 36.0276573,
-      "lng": -115.1721678,
-      "distance_km": 9.2
+      "lat": 36.0275714,
+      "lng": -115.172559,
+      "distance_km": 9.21
     },
     {
       "name": "Westbound Charleston after Rainbow",
@@ -36230,11 +36237,11 @@
       "distance_km": 9.21
     },
     {
-      "name": "Southbound Las Vegas after Pebble",
+      "name": "Westbound Patrick after Pioneer",
       "class": "bus_stop",
-      "lat": 36.0275714,
-      "lng": -115.172559,
-      "distance_km": 9.21
+      "lat": 36.0777073,
+      "lng": -115.2566798,
+      "distance_km": 9.22
     },
     {
       "name": "Bus stop",
@@ -36255,13 +36262,6 @@
       "class": "bus_stop",
       "lat": 36.1760663,
       "lng": -115.2241758,
-      "distance_km": 9.22
-    },
-    {
-      "name": "Westbound Patrick after Pioneer",
-      "class": "bus_stop",
-      "lat": 36.0777073,
-      "lng": -115.2566798,
       "distance_km": 9.22
     },
     {
@@ -36559,6 +36559,13 @@
       "distance_km": 9.35
     },
     {
+      "name": "Northbound Jones after Windmill",
+      "class": "bus_stop",
+      "lat": 36.0431703,
+      "lng": -115.2254378,
+      "distance_km": 9.36
+    },
+    {
       "name": "Eastbound Flamingo before Warbonnet",
       "class": "bus_stop",
       "lat": 36.1145307,
@@ -36570,13 +36577,6 @@
       "class": "bus_stop",
       "lat": 36.0847893,
       "lng": -115.2615848,
-      "distance_km": 9.36
-    },
-    {
-      "name": "Northbound Jones after Windmill",
-      "class": "bus_stop",
-      "lat": 36.0431703,
-      "lng": -115.2254378,
       "distance_km": 9.36
     },
     {
@@ -36594,20 +36594,6 @@
       "distance_km": 9.36
     },
     {
-      "name": "Eastbound Vegas after Yellow Rose",
-      "class": "bus_stop",
-      "lat": 36.1881723,
-      "lng": -115.2010388,
-      "distance_km": 9.37
-    },
-    {
-      "name": "Westbound Russell after Buffalo",
-      "class": "bus_stop",
-      "lat": 36.0850663,
-      "lng": -115.2618168,
-      "distance_km": 9.37
-    },
-    {
       "name": "Northbound Decatur after Blue Diamond",
       "class": "bus_stop",
       "lat": 36.0341457,
@@ -36622,11 +36608,18 @@
       "distance_km": 9.37
     },
     {
-      "name": "Northbound Rancho before Holly",
+      "name": "Eastbound Vegas after Yellow Rose",
       "class": "bus_stop",
-      "lat": 36.1916273,
-      "lng": -115.1886728,
-      "distance_km": 9.38
+      "lat": 36.1881723,
+      "lng": -115.2010388,
+      "distance_km": 9.37
+    },
+    {
+      "name": "Westbound Russell after Buffalo",
+      "class": "bus_stop",
+      "lat": 36.0850663,
+      "lng": -115.2618168,
+      "distance_km": 9.37
     },
     {
       "name": "Northbound Rainbow after Warm Springs",
@@ -36643,11 +36636,11 @@
       "distance_km": 9.38
     },
     {
-      "name": "Westbound Alta before Vassar",
+      "name": "Northbound Rancho before Holly",
       "class": "bus_stop",
-      "lat": 36.1665323,
-      "lng": -115.2399376,
-      "distance_km": 9.39
+      "lat": 36.1916273,
+      "lng": -115.1886728,
+      "distance_km": 9.38
     },
     {
       "name": "Westbound Badura after Montessouri",
@@ -36661,6 +36654,13 @@
       "class": "bus_stop",
       "lat": 36.0556693,
       "lng": -115.2422288,
+      "distance_km": 9.39
+    },
+    {
+      "name": "Westbound Alta before Vassar",
+      "class": "bus_stop",
+      "lat": 36.1665323,
+      "lng": -115.2399376,
       "distance_km": 9.39
     },
     {
@@ -36685,6 +36685,13 @@
       "distance_km": 9.39
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.0556275,
+      "lng": -115.2422888,
+      "distance_km": 9.4
+    },
+    {
       "name": "Northbound Jones before Granada",
       "class": "bus_stop",
       "lat": 36.1783533,
@@ -36706,20 +36713,6 @@
       "distance_km": 9.4
     },
     {
-      "name": "Northbound Buffalo after Oquendo",
-      "class": "bus_stop",
-      "lat": 36.0816553,
-      "lng": -115.2607448,
-      "distance_km": 9.4
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 36.0556275,
-      "lng": -115.2422888,
-      "distance_km": 9.4
-    },
-    {
       "name": "Northbound Eastern after Searles",
       "class": "bus_stop",
       "lat": 36.1858273,
@@ -36731,6 +36724,13 @@
       "class": "bus_stop",
       "lat": 36.1736133,
       "lng": -115.0932588,
+      "distance_km": 9.4
+    },
+    {
+      "name": "Northbound Buffalo after Oquendo",
+      "class": "bus_stop",
+      "lat": 36.0816553,
+      "lng": -115.2607448,
       "distance_km": 9.4
     },
     {
@@ -36818,17 +36818,17 @@
       "distance_km": 9.45
     },
     {
-      "name": "Westbound Vegas after Cordoba",
-      "class": "bus_stop",
-      "lat": 36.1883343,
-      "lng": -115.2032408,
-      "distance_km": 9.46
-    },
-    {
       "name": "Southbound Maryland after Pebble",
       "class": "bus_stop",
       "lat": 36.0275682,
       "lng": -115.1363553,
+      "distance_km": 9.46
+    },
+    {
+      "name": "Westbound Vegas after Cordoba",
+      "class": "bus_stop",
+      "lat": 36.1883343,
+      "lng": -115.2032408,
       "distance_km": 9.46
     },
     {
@@ -36837,20 +36837,6 @@
       "lat": 36.1775643,
       "lng": -115.0981218,
       "distance_km": 9.46
-    },
-    {
-      "name": "Southbound Decatur after Vegas",
-      "class": "bus_stop",
-      "lat": 36.1873099,
-      "lng": -115.2063948,
-      "distance_km": 9.47
-    },
-    {
-      "name": "Westbound Spring Mountain at 8000 Spring Mountain",
-      "class": "bus_stop",
-      "lat": 36.1257283,
-      "lng": -115.2658609,
-      "distance_km": 9.47
     },
     {
       "name": "Bus stop",
@@ -36864,6 +36850,20 @@
       "class": "bus_stop",
       "lat": 36.0252253,
       "lng": -115.1721318,
+      "distance_km": 9.47
+    },
+    {
+      "name": "Southbound Decatur after Vegas",
+      "class": "bus_stop",
+      "lat": 36.1873099,
+      "lng": -115.2063948,
+      "distance_km": 9.47
+    },
+    {
+      "name": "Westbound Spring Mountain at 8000 Spring Mountain",
+      "class": "bus_stop",
+      "lat": 36.1257283,
+      "lng": -115.2658609,
       "distance_km": 9.47
     },
     {
@@ -36888,6 +36888,13 @@
       "distance_km": 9.5
     },
     {
+      "name": "Northbound Buffalo after Patrick",
+      "class": "bus_stop",
+      "lat": 36.0787133,
+      "lng": -115.2606588,
+      "distance_km": 9.51
+    },
+    {
       "name": "Eastbound Lake Mead after Martin Luther King",
       "class": "bus_stop",
       "lat": 36.1955469,
@@ -36899,13 +36906,6 @@
       "class": "bus_stop",
       "lat": 36.1881053,
       "lng": -115.2053818,
-      "distance_km": 9.51
-    },
-    {
-      "name": "Northbound Buffalo after Patrick",
-      "class": "bus_stop",
-      "lat": 36.0787133,
-      "lng": -115.2606588,
       "distance_km": 9.51
     },
     {
@@ -36923,24 +36923,17 @@
       "distance_km": 9.52
     },
     {
-      "name": "Southbound Las Vegas before Tonopah",
-      "class": "bus_stop",
-      "lat": 36.1923063,
-      "lng": -115.1326648,
-      "distance_km": 9.53
-    },
-    {
-      "name": "Westbound Tropicana after Ragona",
-      "class": "bus_stop",
-      "lat": 36.0998943,
-      "lng": -115.2675188,
-      "distance_km": 9.53
-    },
-    {
       "name": "Southbound Jones after Windmill",
       "class": "bus_stop",
       "lat": 36.0414293,
       "lng": -115.2259008,
+      "distance_km": 9.53
+    },
+    {
+      "name": "Southbound Las Vegas before Tonopah",
+      "class": "bus_stop",
+      "lat": 36.1923063,
+      "lng": -115.1326648,
       "distance_km": 9.53
     },
     {
@@ -36951,11 +36944,25 @@
       "distance_km": 9.53
     },
     {
+      "name": "Westbound Tropicana after Ragona",
+      "class": "bus_stop",
+      "lat": 36.0998943,
+      "lng": -115.2675188,
+      "distance_km": 9.53
+    },
+    {
       "name": "Northbound Nellis after Sahara",
       "class": "bus_stop",
       "lat": 36.1448938,
       "lng": -115.0652853,
       "distance_km": 9.53
+    },
+    {
+      "name": "Southbound Buffalo before Patrick",
+      "class": "bus_stop",
+      "lat": 36.0786123,
+      "lng": -115.2609728,
+      "distance_km": 9.54
     },
     {
       "name": "Southbound H after Lake Mead",
@@ -36983,13 +36990,6 @@
       "class": "bus_stop",
       "lat": 36.192771,
       "lng": -115.1901422,
-      "distance_km": 9.54
-    },
-    {
-      "name": "Southbound Buffalo before Patrick",
-      "class": "bus_stop",
-      "lat": 36.0786123,
-      "lng": -115.2609728,
       "distance_km": 9.54
     },
     {
@@ -37063,6 +37063,13 @@
       "distance_km": 9.57
     },
     {
+      "name": "Southbound Las Vegas after Agate",
+      "class": "bus_stop",
+      "lat": 36.0242143,
+      "lng": -115.1725618,
+      "distance_km": 9.58
+    },
+    {
       "name": "Westbound Lake Mead after Revere",
       "class": "bus_stop",
       "lat": 36.1958093,
@@ -37088,13 +37095,6 @@
       "class": "stop_position",
       "lat": 36.1590461,
       "lng": -115.2499516,
-      "distance_km": 9.58
-    },
-    {
-      "name": "Southbound Las Vegas after Agate",
-      "class": "bus_stop",
-      "lat": 36.0242143,
-      "lng": -115.1725618,
       "distance_km": 9.58
     },
     {
@@ -37238,17 +37238,17 @@
       "distance_km": 9.63
     },
     {
-      "name": "Eastbound Vegas after Laurelhurst",
-      "class": "bus_stop",
-      "lat": 36.1881363,
-      "lng": -115.2086598,
-      "distance_km": 9.64
-    },
-    {
       "name": "Northbound Rainbow before Mardon",
       "class": "bus_stop",
       "lat": 36.0529003,
       "lng": -115.2429268,
+      "distance_km": 9.64
+    },
+    {
+      "name": "Eastbound Vegas after Laurelhurst",
+      "class": "bus_stop",
+      "lat": 36.1881363,
+      "lng": -115.2086598,
       "distance_km": 9.64
     },
     {
@@ -37385,6 +37385,13 @@
       "distance_km": 9.69
     },
     {
+      "name": "Eastbound Windmill after Windsor Oaks",
+      "class": "bus_stop",
+      "lat": 36.0418083,
+      "lng": -115.2294858,
+      "distance_km": 9.7
+    },
+    {
       "name": "Northbound Englestad after Recco",
       "class": "bus_stop",
       "lat": 36.1964553,
@@ -37396,13 +37403,6 @@
       "class": "bus_stop",
       "lat": 36.1668735,
       "lng": -115.2440629,
-      "distance_km": 9.7
-    },
-    {
-      "name": "Eastbound Windmill after Windsor Oaks",
-      "class": "bus_stop",
-      "lat": 36.0418083,
-      "lng": -115.2294858,
       "distance_km": 9.7
     },
     {
@@ -37490,6 +37490,13 @@
       "distance_km": 9.75
     },
     {
+      "name": "Northbound Tenaya before Badura",
+      "class": "bus_stop",
+      "lat": 36.0607833,
+      "lng": -115.2521798,
+      "distance_km": 9.76
+    },
+    {
       "name": "Eastbound Spring Mountain after Cimarron",
       "class": "bus_stop",
       "lat": 36.1256233,
@@ -37501,13 +37508,6 @@
       "class": "bus_stop",
       "lat": 36.1148743,
       "lng": -115.2706988,
-      "distance_km": 9.76
-    },
-    {
-      "name": "Northbound Tenaya before Badura",
-      "class": "bus_stop",
-      "lat": 36.0607833,
-      "lng": -115.2521798,
       "distance_km": 9.76
     },
     {
@@ -37539,13 +37539,6 @@
       "distance_km": 9.77
     },
     {
-      "name": "Westbound Russell after Warbonnet",
-      "class": "bus_stop",
-      "lat": 36.0851403,
-      "lng": -115.2666518,
-      "distance_km": 9.78
-    },
-    {
       "name": "Southbound Tenaya after Badura",
       "class": "bus_stop",
       "lat": 36.0609493,
@@ -37564,6 +37557,13 @@
       "class": "bus_stop",
       "lat": 36.0503243,
       "lng": -115.0823188,
+      "distance_km": 9.78
+    },
+    {
+      "name": "Westbound Russell after Warbonnet",
+      "class": "bus_stop",
+      "lat": 36.0851403,
+      "lng": -115.2666518,
       "distance_km": 9.78
     },
     {
@@ -37672,17 +37672,17 @@
       "distance_km": 9.86
     },
     {
-      "name": "Southbound Rancho after Coran",
-      "class": "bus_stop",
-      "lat": 36.1953143,
-      "lng": -115.1924308,
-      "distance_km": 9.87
-    },
-    {
       "name": "Northbound Las Vegas after Serene",
       "class": "bus_stop",
       "lat": 36.0216413,
       "lng": -115.1721118,
+      "distance_km": 9.87
+    },
+    {
+      "name": "Southbound Rancho after Coran",
+      "class": "bus_stop",
+      "lat": 36.1953143,
+      "lng": -115.1924308,
       "distance_km": 9.87
     },
     {
@@ -37693,13 +37693,6 @@
       "distance_km": 9.87
     },
     {
-      "name": "Eastbound Lake Mead after 5th",
-      "class": "bus_stop",
-      "lat": 36.1957483,
-      "lng": -115.1334238,
-      "distance_km": 9.88
-    },
-    {
       "name": "Southbound Las Vegas before Serene",
       "class": "bus_stop",
       "lat": 36.0215823,
@@ -37707,17 +37700,24 @@
       "distance_km": 9.88
     },
     {
-      "name": "Southbound Martin Luther King after Balzar",
+      "name": "Eastbound Lake Mead after 5th",
       "class": "bus_stop",
-      "lat": 36.1989293,
-      "lng": -115.1609538,
-      "distance_km": 9.89
+      "lat": 36.1957483,
+      "lng": -115.1334238,
+      "distance_km": 9.88
     },
     {
       "name": "Northbound Maryland after Warm Shadows",
       "class": "bus_stop",
       "lat": 36.0235593,
       "lng": -115.1362148,
+      "distance_km": 9.89
+    },
+    {
+      "name": "Southbound Martin Luther King after Balzar",
+      "class": "bus_stop",
+      "lat": 36.1989293,
+      "lng": -115.1609538,
       "distance_km": 9.89
     },
     {
@@ -37812,6 +37812,13 @@
       "distance_km": 9.92
     },
     {
+      "name": "Northbound Rainbow after Robindale",
+      "class": "bus_stop",
+      "lat": 36.0491923,
+      "lng": -115.2430618,
+      "distance_km": 9.93
+    },
+    {
       "name": "Southbound Simmons before Lake Mead",
       "class": "bus_stop",
       "lat": 36.1982553,
@@ -37823,13 +37830,6 @@
       "class": "bus_stop",
       "lat": 36.1840573,
       "lng": -115.2240498,
-      "distance_km": 9.93
-    },
-    {
-      "name": "Northbound Rainbow after Robindale",
-      "class": "bus_stop",
-      "lat": 36.0491923,
-      "lng": -115.2430618,
       "distance_km": 9.93
     },
     {
@@ -38036,20 +38036,6 @@
       "distance_km": 10.01
     },
     {
-      "name": "Westbound Charleston after Palmhurst",
-      "class": "bus_stop",
-      "lat": 36.159238,
-      "lng": -115.255664,
-      "distance_km": 10.02
-    },
-    {
-      "name": "Eastbound Charleston before Plantation",
-      "class": "bus_stop",
-      "lat": 36.1589617,
-      "lng": -115.2558782,
-      "distance_km": 10.02
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 36.0564131,
@@ -38061,6 +38047,20 @@
       "class": "bus_stop",
       "lat": 36.0564563,
       "lng": -115.2518948,
+      "distance_km": 10.02
+    },
+    {
+      "name": "Westbound Charleston after Palmhurst",
+      "class": "bus_stop",
+      "lat": 36.159238,
+      "lng": -115.255664,
+      "distance_km": 10.02
+    },
+    {
+      "name": "Eastbound Charleston before Plantation",
+      "class": "bus_stop",
+      "lat": 36.1589617,
+      "lng": -115.2558782,
       "distance_km": 10.02
     },
     {
@@ -38092,13 +38092,6 @@
       "distance_km": 10.03
     },
     {
-      "name": "Westbound Tropicana after Santoro",
-      "class": "bus_stop",
-      "lat": 36.1000543,
-      "lng": -115.2731718,
-      "distance_km": 10.03
-    },
-    {
       "name": "Eastbound Owens after Mojave",
       "class": "bus_stop",
       "lat": 36.1881943,
@@ -38110,6 +38103,13 @@
       "class": "stop_position",
       "lat": 36.1808254,
       "lng": -115.0931152,
+      "distance_km": 10.03
+    },
+    {
+      "name": "Westbound Tropicana after Santoro",
+      "class": "bus_stop",
+      "lat": 36.1000543,
+      "lng": -115.2731718,
       "distance_km": 10.03
     },
     {
@@ -38225,6 +38225,13 @@
       "distance_km": 10.11
     },
     {
+      "name": "Warm Springs West Bound",
+      "class": "bus_stop",
+      "lat": 36.0558376,
+      "lng": -115.2527356,
+      "distance_km": 10.12
+    },
+    {
       "name": "Southbound Las Vegas before Lake Mead",
       "class": "bus_stop",
       "lat": 36.1967858,
@@ -38239,24 +38246,17 @@
       "distance_km": 10.12
     },
     {
-      "name": "Warm Springs West Bound",
+      "name": "Westbound Warm Springs after Tenaya",
       "class": "bus_stop",
-      "lat": 36.0558376,
-      "lng": -115.2527356,
-      "distance_km": 10.12
+      "lat": 36.0558113,
+      "lng": -115.2527818,
+      "distance_km": 10.13
     },
     {
       "name": "Northbound Rainbow before Westcliff",
       "class": "bus_stop",
       "lat": 36.172655,
       "lng": -115.2441546,
-      "distance_km": 10.13
-    },
-    {
-      "name": "Westbound Warm Springs after Tenaya",
-      "class": "bus_stop",
-      "lat": 36.0558113,
-      "lng": -115.2527818,
       "distance_km": 10.13
     },
     {
@@ -38393,17 +38393,17 @@
       "distance_km": 10.21
     },
     {
-      "name": "Westbound Vegas after Saylor",
-      "class": "bus_stop",
-      "lat": 36.1884953,
-      "lng": -115.2214168,
-      "distance_km": 10.22
-    },
-    {
       "name": "Northbound Rainbow after Mesa Verde",
       "class": "bus_stop",
       "lat": 36.0453662,
       "lng": -115.2430961,
+      "distance_km": 10.22
+    },
+    {
+      "name": "Westbound Vegas after Saylor",
+      "class": "bus_stop",
+      "lat": 36.1884953,
+      "lng": -115.2214168,
       "distance_km": 10.22
     },
     {
@@ -38568,17 +38568,17 @@
       "distance_km": 10.31
     },
     {
-      "name": "Westbound Lake Mead after Decatur",
-      "class": "bus_stop",
-      "lat": 36.1956266,
-      "lng": -115.2066769,
-      "distance_km": 10.32
-    },
-    {
       "name": "Walmart",
       "class": "bus_stop",
       "lat": 36.0223625,
       "lng": -115.1242828,
+      "distance_km": 10.32
+    },
+    {
+      "name": "Westbound Lake Mead after Decatur",
+      "class": "bus_stop",
+      "lat": 36.1956266,
+      "lng": -115.2066769,
       "distance_km": 10.32
     },
     {
@@ -38701,6 +38701,13 @@
       "distance_km": 10.39
     },
     {
+      "name": "Westbound Wigwam after Langhorne Creek",
+      "class": "bus_stop",
+      "lat": 36.0347533,
+      "lng": -115.2309628,
+      "distance_km": 10.4
+    },
+    {
       "name": "Southbound Rancho after Lake Mead",
       "class": "bus_stop",
       "lat": 36.1994173,
@@ -38712,13 +38719,6 @@
       "class": "bus_stop",
       "lat": 36.1891563,
       "lng": -115.2239788,
-      "distance_km": 10.4
-    },
-    {
-      "name": "Westbound Wigwam after Langhorne Creek",
-      "class": "bus_stop",
-      "lat": 36.0347533,
-      "lng": -115.2309628,
       "distance_km": 10.4
     },
     {
@@ -38778,6 +38778,20 @@
       "distance_km": 10.45
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 36.020436,
+      "lng": -115.1267728,
+      "distance_km": 10.46
+    },
+    {
+      "name": "Eastbound Serene after Spencer",
+      "class": "bus_stop",
+      "lat": 36.0204523,
+      "lng": -115.1267318,
+      "distance_km": 10.46
+    },
+    {
       "name": "Northbound Las Vegas after Bruce",
       "class": "bus_stop",
       "lat": 36.1990863,
@@ -38817,20 +38831,6 @@
       "class": "stop_position",
       "lat": 36.1590213,
       "lng": -115.2615646,
-      "distance_km": 10.46
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 36.020436,
-      "lng": -115.1267728,
-      "distance_km": 10.46
-    },
-    {
-      "name": "Eastbound Serene after Spencer",
-      "class": "bus_stop",
-      "lat": 36.0204523,
-      "lng": -115.1267318,
       "distance_km": 10.46
     },
     {
@@ -38995,20 +38995,6 @@
       "distance_km": 10.54
     },
     {
-      "name": "Southbound Las Vegas after Hamilton",
-      "class": "bus_stop",
-      "lat": 36.1997673,
-      "lng": -115.1241578,
-      "distance_km": 10.55
-    },
-    {
-      "name": "Westbound Alta after Altamira",
-      "class": "bus_stop",
-      "lat": 36.1666063,
-      "lng": -115.2564819,
-      "distance_km": 10.55
-    },
-    {
       "name": "Northbound Torrey Pines after Grand Mayne",
       "class": "bus_stop",
       "lat": 36.0352783,
@@ -39020,6 +39006,20 @@
       "class": "bus_stop",
       "lat": 36.0204453,
       "lng": -115.1235918,
+      "distance_km": 10.55
+    },
+    {
+      "name": "Southbound Las Vegas after Hamilton",
+      "class": "bus_stop",
+      "lat": 36.1997673,
+      "lng": -115.1241578,
+      "distance_km": 10.55
+    },
+    {
+      "name": "Westbound Alta after Altamira",
+      "class": "bus_stop",
+      "lat": 36.1666063,
+      "lng": -115.2564819,
       "distance_km": 10.55
     },
     {
@@ -39114,17 +39114,17 @@
       "distance_km": 10.61
     },
     {
-      "name": "Southbound Rainbow after Washington",
-      "class": "bus_stop",
-      "lat": 36.1801697,
-      "lng": -115.2425236,
-      "distance_km": 10.63
-    },
-    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 36.0405884,
       "lng": -115.2435172,
+      "distance_km": 10.63
+    },
+    {
+      "name": "Southbound Rainbow after Washington",
+      "class": "bus_stop",
+      "lat": 36.1801697,
+      "lng": -115.2425236,
       "distance_km": 10.63
     },
     {
@@ -39240,17 +39240,17 @@
       "distance_km": 10.69
     },
     {
-      "name": "Northbound Jones after Carl",
-      "class": "bus_stop",
-      "lat": 36.1924463,
-      "lng": -115.2238918,
-      "distance_km": 10.71
-    },
-    {
       "name": "Eastbound Warm Springs after Buffalo",
       "class": "bus_stop",
       "lat": 36.0554923,
       "lng": -115.2604068,
+      "distance_km": 10.71
+    },
+    {
+      "name": "Northbound Jones after Carl",
+      "class": "bus_stop",
+      "lat": 36.1924463,
+      "lng": -115.2238918,
       "distance_km": 10.71
     },
     {
@@ -39352,17 +39352,17 @@
       "distance_km": 10.8
     },
     {
-      "name": "Eastbound Lake Mead after Saylor",
-      "class": "bus_stop",
-      "lat": 36.1955623,
-      "lng": -115.2194688,
-      "distance_km": 10.81
-    },
-    {
       "name": "Northbound Rainbow after Shelbourne",
       "class": "bus_stop",
       "lat": 36.0381263,
       "lng": -115.2432618,
+      "distance_km": 10.81
+    },
+    {
+      "name": "Eastbound Lake Mead after Saylor",
+      "class": "bus_stop",
+      "lat": 36.1955623,
+      "lng": -115.2194688,
       "distance_km": 10.81
     },
     {
@@ -39394,13 +39394,6 @@
       "distance_km": 10.83
     },
     {
-      "name": "Eastbound Charleston after Warbonnet",
-      "class": "stop_position",
-      "lat": 36.1590913,
-      "lng": -115.266421,
-      "distance_km": 10.84
-    },
-    {
       "name": "Westbound Warm Springs after Buffalo",
       "class": "bus_stop",
       "lat": 36.0557958,
@@ -39408,17 +39401,24 @@
       "distance_km": 10.84
     },
     {
-      "name": "Northbound Torrey Pines after Vegas",
-      "class": "bus_stop",
-      "lat": 36.1890243,
-      "lng": -115.2330908,
-      "distance_km": 10.85
+      "name": "Eastbound Charleston after Warbonnet",
+      "class": "stop_position",
+      "lat": 36.1590913,
+      "lng": -115.266421,
+      "distance_km": 10.84
     },
     {
       "name": "Southbound Rainbow before Shelbourne",
       "class": "bus_stop",
       "lat": 36.0380183,
       "lng": -115.2436418,
+      "distance_km": 10.85
+    },
+    {
+      "name": "Northbound Torrey Pines after Vegas",
+      "class": "bus_stop",
+      "lat": 36.1890243,
+      "lng": -115.2330908,
       "distance_km": 10.85
     },
     {
@@ -40059,17 +40059,17 @@
       "distance_km": 11.43
     },
     {
-      "name": "Southbound Torrey Pines after Lake Mead",
-      "class": "bus_stop",
-      "lat": 36.1953913,
-      "lng": -115.2332029,
-      "distance_km": 11.44
-    },
-    {
       "name": "Northbound Rainbow after Ford",
       "class": "bus_stop",
       "lat": 36.0306997,
       "lng": -115.2432106,
+      "distance_km": 11.44
+    },
+    {
+      "name": "Southbound Torrey Pines after Lake Mead",
+      "class": "bus_stop",
+      "lat": 36.1953913,
+      "lng": -115.2332029,
       "distance_km": 11.44
     },
     {
@@ -40108,17 +40108,17 @@
       "distance_km": 11.48
     },
     {
-      "name": "Eastbound Westcliff before Buffalo",
-      "class": "bus_stop",
-      "lat": 36.1738923,
-      "lng": -115.2627209,
-      "distance_km": 11.49
-    },
-    {
       "name": "Westbound Warm Springs after Cimarron",
       "class": "bus_stop",
       "lat": 36.0557121,
       "lng": -115.2709451,
+      "distance_km": 11.49
+    },
+    {
+      "name": "Eastbound Westcliff before Buffalo",
+      "class": "bus_stop",
+      "lat": 36.1738923,
+      "lng": -115.2627209,
       "distance_km": 11.49
     },
     {
@@ -40192,17 +40192,17 @@
       "distance_km": 11.55
     },
     {
-      "name": "Westbound Lake Mead after Torrey Pines",
-      "class": "bus_stop",
-      "lat": 36.1960273,
-      "lng": -115.2345159,
-      "distance_km": 11.56
-    },
-    {
       "name": "Eastbound Warm Springs before Cimarron",
       "class": "bus_stop",
       "lat": 36.0554037,
       "lng": -115.2716532,
+      "distance_km": 11.56
+    },
+    {
+      "name": "Westbound Lake Mead after Torrey Pines",
+      "class": "bus_stop",
+      "lat": 36.1960273,
+      "lng": -115.2345159,
       "distance_km": 11.56
     },
     {
@@ -40437,6 +40437,13 @@
       "distance_km": 11.84
     },
     {
+      "name": "Southbound Rainbow after Pebble",
+      "class": "bus_stop",
+      "lat": 36.0258423,
+      "lng": -115.2436568,
+      "distance_km": 11.88
+    },
+    {
       "name": "Westbound Lake Mead before Rainbow",
       "class": "bus_stop",
       "lat": 36.1960843,
@@ -40448,13 +40455,6 @@
       "class": "bus_stop",
       "lat": 36.1958643,
       "lng": -115.2409109,
-      "distance_km": 11.88
-    },
-    {
-      "name": "Southbound Rainbow after Pebble",
-      "class": "bus_stop",
-      "lat": 36.0258423,
-      "lng": -115.2436568,
       "distance_km": 11.88
     },
     {
@@ -40612,17 +40612,17 @@
       "distance_km": 12.11
     },
     {
-      "name": "Eastbound Westcliff before Charles Turk",
-      "class": "bus_stop",
-      "lat": 36.1737453,
-      "lng": -115.2716189,
-      "distance_km": 12.12
-    },
-    {
       "name": "Eastbound Blue Diamond after Rainbow",
       "class": "bus_stop",
       "lat": 36.0223853,
       "lng": -115.2425068,
+      "distance_km": 12.12
+    },
+    {
+      "name": "Eastbound Westcliff before Charles Turk",
+      "class": "bus_stop",
+      "lat": 36.1737453,
+      "lng": -115.2716189,
       "distance_km": 12.12
     },
     {

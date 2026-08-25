@@ -32,7 +32,7 @@
       "lat": 52.08304746,
       "lng": -1.03042227,
       "distance_km": 1.53,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Silverstone Bed and Breakfast",
@@ -320,7 +320,7 @@
       "lat": 51.98881082,
       "lng": -0.97684387,
       "distance_km": 9.75,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Travelodge Milton Keynes Old Stratford",
@@ -9628,6 +9628,13 @@
       "distance_km": 9.28
     },
     {
+      "name": "Northampton Road",
+      "class": "bus_stop",
+      "lat": 52.0400721,
+      "lng": -1.1395995,
+      "distance_km": 9.3
+    },
+    {
       "name": "Plough Inn (opp)",
       "class": "bus_stop",
       "lat": 52.1421786,
@@ -9653,13 +9660,6 @@
       "class": "bus_stop",
       "lat": 52.0958533,
       "lng": -0.8836423,
-      "distance_km": 9.3
-    },
-    {
-      "name": "Northampton Road",
-      "class": "bus_stop",
-      "lat": 52.0400721,
-      "lng": -1.1395995,
       "distance_km": 9.3
     },
     {
@@ -9698,17 +9698,17 @@
       "distance_km": 9.54
     },
     {
-      "name": "Elizabeth Woodville School (opp)",
-      "class": "bus_stop",
-      "lat": 52.0506365,
-      "lng": -0.8787185,
-      "distance_km": 9.63
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 52.0432797,
       "lng": -1.146785,
+      "distance_km": 9.63
+    },
+    {
+      "name": "Elizabeth Woodville School (opp)",
+      "class": "bus_stop",
+      "lat": 52.0506365,
+      "lng": -0.8787185,
       "distance_km": 9.63
     },
     {
@@ -10307,17 +10307,17 @@
       "distance_km": 12.44
     },
     {
-      "name": "Harnett Drive",
-      "class": "bus_stop",
-      "lat": 52.0611372,
-      "lng": -0.8332882,
-      "distance_km": 12.47
-    },
-    {
       "name": "The Square (opp)",
       "class": "bus_stop",
       "lat": 52.0776729,
       "lng": -1.1970404,
+      "distance_km": 12.47
+    },
+    {
+      "name": "Harnett Drive",
+      "class": "bus_stop",
+      "lat": 52.0611372,
+      "lng": -0.8332882,
       "distance_km": 12.47
     },
     {
@@ -11196,17 +11196,17 @@
       "distance_km": 14.8
     },
     {
-      "name": "Abbey Hill Roundabout East",
-      "class": "bus_stop",
-      "lat": 52.048301,
-      "lng": -0.8019393,
-      "distance_km": 14.81
-    },
-    {
       "name": "Bus Shelter (opp)",
       "class": "bus_stop",
       "lat": 52.0970815,
       "lng": -1.2279407,
+      "distance_km": 14.81
+    },
+    {
+      "name": "Abbey Hill Roundabout East",
+      "class": "bus_stop",
+      "lat": 52.048301,
+      "lng": -0.8019393,
       "distance_km": 14.81
     },
     {
@@ -11728,6 +11728,13 @@
       "distance_km": 15.6
     },
     {
+      "name": "Village Hall (o/s)",
+      "class": "bus_stop",
+      "lat": 52.1478489,
+      "lng": -1.2083179,
+      "distance_km": 15.61
+    },
+    {
       "name": "Johns Road (opp)",
       "class": "bus_stop",
       "lat": 52.2135639,
@@ -11753,13 +11760,6 @@
       "class": "bus_stop",
       "lat": 52.056404,
       "lng": -0.7879583,
-      "distance_km": 15.61
-    },
-    {
-      "name": "Village Hall (o/s)",
-      "class": "bus_stop",
-      "lat": 52.1478489,
-      "lng": -1.2083179,
       "distance_km": 15.61
     },
     {
@@ -11861,17 +11861,17 @@
       "distance_km": 15.74
     },
     {
-      "name": "Mathiesen Centre",
-      "class": "bus_stop",
-      "lat": 52.0576492,
-      "lng": -0.7856551,
-      "distance_km": 15.75
-    },
-    {
       "name": "Post Office (opp)",
       "class": "bus_stop",
       "lat": 52.148504,
       "lng": -1.2100893,
+      "distance_km": 15.75
+    },
+    {
+      "name": "Mathiesen Centre",
+      "class": "bus_stop",
+      "lat": 52.0576492,
+      "lng": -0.7856551,
       "distance_km": 15.75
     },
     {
@@ -12841,17 +12841,17 @@
       "distance_km": 16.82
     },
     {
-      "name": "The Quadrant",
-      "class": "bus_stop",
-      "lat": 52.0370224,
-      "lng": -0.7756675,
-      "distance_km": 16.83
-    },
-    {
       "name": "Washle Drive (opp)",
       "class": "bus_stop",
       "lat": 52.0696508,
       "lng": -1.2608367,
+      "distance_km": 16.83
+    },
+    {
+      "name": "The Quadrant",
+      "class": "bus_stop",
+      "lat": 52.0370224,
+      "lng": -0.7756675,
       "distance_km": 16.83
     },
     {
@@ -12939,17 +12939,17 @@
       "distance_km": 16.95
     },
     {
-      "name": "Milton Keynes Central",
-      "class": "railway_station",
-      "lat": 52.0342006,
-      "lng": -0.7748261,
-      "distance_km": 16.97
-    },
-    {
       "name": "New Inn (opp)",
       "class": "bus_stop",
       "lat": 52.0720188,
       "lng": -1.2630369,
+      "distance_km": 16.97
+    },
+    {
+      "name": "Milton Keynes Central",
+      "class": "railway_station",
+      "lat": 52.0342006,
+      "lng": -0.7748261,
       "distance_km": 16.97
     },
     {
@@ -12972,6 +12972,13 @@
       "lat": 52.0343585,
       "lng": -0.7745922,
       "distance_km": 16.98
+    },
+    {
+      "name": "New Inn (o/s)",
+      "class": "bus_stop",
+      "lat": 52.0719958,
+      "lng": -1.2632855,
+      "distance_km": 16.99
     },
     {
       "name": "Blacky More, adj. Lambrook Drive",
@@ -13002,11 +13009,11 @@
       "distance_km": 16.99
     },
     {
-      "name": "New Inn (o/s)",
+      "name": "Bus stop",
       "class": "bus_stop",
-      "lat": 52.0719958,
-      "lng": -1.2632855,
-      "distance_km": 16.99
+      "lat": 52.1698751,
+      "lng": -1.2077674,
+      "distance_km": 17.0
     },
     {
       "name": "Platform 6",
@@ -13048,13 +13055,6 @@
       "class": "platform",
       "lat": 52.03407236705056,
       "lng": -0.7743708011032852,
-      "distance_km": 17.0
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 52.1698751,
-      "lng": -1.2077674,
       "distance_km": 17.0
     },
     {
@@ -13506,17 +13506,17 @@
       "distance_km": 17.19
     },
     {
-      "name": "Marlborough Sreet",
-      "class": "bus_stop",
-      "lat": 52.0678915,
-      "lng": -0.7632715,
-      "distance_km": 17.2
-    },
-    {
       "name": "The Green (adj)",
       "class": "bus_stop",
       "lat": 52.0721472,
       "lng": -1.2663172,
+      "distance_km": 17.2
+    },
+    {
+      "name": "Marlborough Sreet",
+      "class": "bus_stop",
+      "lat": 52.0678915,
+      "lng": -0.7632715,
       "distance_km": 17.2
     },
     {
@@ -13947,17 +13947,17 @@
       "distance_km": 17.58
     },
     {
-      "name": "Heathercroft",
-      "class": "bus_stop",
-      "lat": 52.0645646,
-      "lng": -0.757792,
-      "distance_km": 17.59
-    },
-    {
       "name": "Library (o/s)",
       "class": "bus_stop",
       "lat": 52.0714908,
       "lng": -1.2720242,
+      "distance_km": 17.59
+    },
+    {
+      "name": "Heathercroft",
+      "class": "bus_stop",
+      "lat": 52.0645646,
+      "lng": -0.757792,
       "distance_km": 17.59
     },
     {
@@ -14003,6 +14003,13 @@
       "distance_km": 17.6
     },
     {
+      "name": "Rectory Lane (opp)",
+      "class": "bus_stop",
+      "lat": 52.0745457,
+      "lng": -1.2724212,
+      "distance_km": 17.61
+    },
+    {
       "name": "Mallow Gate",
       "class": "bus_stop",
       "lat": 52.0484604,
@@ -14017,20 +14024,6 @@
       "distance_km": 17.61
     },
     {
-      "name": "Rectory Lane (opp)",
-      "class": "bus_stop",
-      "lat": 52.0745457,
-      "lng": -1.2724212,
-      "distance_km": 17.61
-    },
-    {
-      "name": "Cadman Square",
-      "class": "bus_stop",
-      "lat": 52.0195155,
-      "lng": -0.7722875,
-      "distance_km": 17.62
-    },
-    {
       "name": "Stanwell Drive (near)",
       "class": "bus_stop",
       "lat": 52.0767809,
@@ -14042,6 +14035,13 @@
       "class": "bus_stop",
       "lat": 52.0748029,
       "lng": -1.2725097,
+      "distance_km": 17.62
+    },
+    {
+      "name": "Cadman Square",
+      "class": "bus_stop",
+      "lat": 52.0195155,
+      "lng": -0.7722875,
       "distance_km": 17.62
     },
     {
@@ -14115,17 +14115,17 @@
       "distance_km": 17.65
     },
     {
-      "name": "Cadman Square",
-      "class": "bus_stop",
-      "lat": 52.019104,
-      "lng": -0.771926,
-      "distance_km": 17.66
-    },
-    {
       "name": "Stanwell Drive (opp)",
       "class": "bus_stop",
       "lat": 52.0775314,
       "lng": -1.2730758,
+      "distance_km": 17.66
+    },
+    {
+      "name": "Cadman Square",
+      "class": "bus_stop",
+      "lat": 52.019104,
+      "lng": -0.771926,
       "distance_km": 17.66
     },
     {
@@ -14241,6 +14241,13 @@
       "distance_km": 17.76
     },
     {
+      "name": "Fire Station",
+      "class": "bus_stop",
+      "lat": 52.1738584,
+      "lng": -1.2169992,
+      "distance_km": 17.77
+    },
+    {
       "name": "Station Terrace",
       "class": "bus_stop",
       "lat": 52.0764283,
@@ -14252,13 +14259,6 @@
       "class": "bus_stop",
       "lat": 52.0432764,
       "lng": -0.7593934,
-      "distance_km": 17.77
-    },
-    {
-      "name": "Fire Station",
-      "class": "bus_stop",
-      "lat": 52.1738584,
-      "lng": -1.2169992,
       "distance_km": 17.77
     },
     {
@@ -14780,6 +14780,13 @@
       "distance_km": 18.17
     },
     {
+      "name": "Upper Astrop Road (opp)",
+      "class": "bus_stop",
+      "lat": 52.0225436,
+      "lng": -1.2674312,
+      "distance_km": 18.18
+    },
+    {
       "name": "Central Milton Keynes The Point (I5)",
       "class": "bus_stop",
       "lat": 52.0405476,
@@ -14791,13 +14798,6 @@
       "class": "bus_stop",
       "lat": 52.0552917,
       "lng": -0.7504126,
-      "distance_km": 18.18
-    },
-    {
-      "name": "Upper Astrop Road (opp)",
-      "class": "bus_stop",
-      "lat": 52.0225436,
-      "lng": -1.2674312,
       "distance_km": 18.18
     },
     {
@@ -14892,17 +14892,17 @@
       "distance_km": 18.23
     },
     {
-      "name": "Theatre District",
-      "class": "bus_stop",
-      "lat": 52.0439059,
-      "lng": -0.7521677,
-      "distance_km": 18.24
-    },
-    {
       "name": "The Butts (adj)",
       "class": "bus_stop",
       "lat": 51.9977102,
       "lng": -1.2512814,
+      "distance_km": 18.24
+    },
+    {
+      "name": "Theatre District",
+      "class": "bus_stop",
+      "lat": 52.0439059,
+      "lng": -0.7521677,
       "distance_km": 18.24
     },
     {
@@ -15011,20 +15011,6 @@
       "distance_km": 18.32
     },
     {
-      "name": "White Hart PH (o/s)",
-      "class": "bus_stop",
-      "lat": 52.1873916,
-      "lng": -0.8206514,
-      "distance_km": 18.34
-    },
-    {
-      "name": "Great Linford Roundabout East",
-      "class": "bus_stop",
-      "lat": 52.0642097,
-      "lng": -0.7467331,
-      "distance_km": 18.34
-    },
-    {
       "name": "The Ring (opp)",
       "class": "bus_stop",
       "lat": 52.0897119,
@@ -15039,6 +15025,27 @@
       "distance_km": 18.34
     },
     {
+      "name": "White Hart PH (o/s)",
+      "class": "bus_stop",
+      "lat": 52.1873916,
+      "lng": -0.8206514,
+      "distance_km": 18.34
+    },
+    {
+      "name": "Great Linford Roundabout East",
+      "class": "bus_stop",
+      "lat": 52.0642097,
+      "lng": -0.7467331,
+      "distance_km": 18.34
+    },
+    {
+      "name": "Grammar School (opp)",
+      "class": "bus_stop",
+      "lat": 51.9949654,
+      "lng": -1.2508468,
+      "distance_km": 18.35
+    },
+    {
       "name": "Theatre District",
       "class": "bus_stop",
       "lat": 52.0443732,
@@ -15050,13 +15057,6 @@
       "class": "bus_stop",
       "lat": 52.0321734,
       "lng": -0.7547362,
-      "distance_km": 18.35
-    },
-    {
-      "name": "Grammar School (opp)",
-      "class": "bus_stop",
-      "lat": 51.9949654,
-      "lng": -1.2508468,
       "distance_km": 18.35
     },
     {
@@ -15319,6 +15319,13 @@
       "distance_km": 18.51
     },
     {
+      "name": "Village Hall",
+      "class": "bus_stop",
+      "lat": 51.9776569,
+      "lng": -1.2364924,
+      "distance_km": 18.53
+    },
+    {
       "name": "Newport Pagnell Kipling Drive",
       "class": "bus_stop",
       "lat": 52.0852313,
@@ -15326,11 +15333,11 @@
       "distance_km": 18.53
     },
     {
-      "name": "Village Hall",
+      "name": "Banbury Road (o/s 12)",
       "class": "bus_stop",
-      "lat": 51.9776569,
-      "lng": -1.2364924,
-      "distance_km": 18.53
+      "lat": 52.0905916,
+      "lng": -1.2845083,
+      "distance_km": 18.54
     },
     {
       "name": "Oldbrook Boulevard",
@@ -15344,13 +15351,6 @@
       "class": "bus_stop",
       "lat": 52.026049,
       "lng": -0.75472,
-      "distance_km": 18.54
-    },
-    {
-      "name": "Banbury Road (o/s 12)",
-      "class": "bus_stop",
-      "lat": 52.0905916,
-      "lng": -1.2845083,
       "distance_km": 18.54
     },
     {
@@ -15382,6 +15382,13 @@
       "distance_km": 18.56
     },
     {
+      "name": "Banbury Road (opp 12)",
+      "class": "bus_stop",
+      "lat": 52.0904196,
+      "lng": -1.284966,
+      "distance_km": 18.57
+    },
+    {
       "name": "Poets Estate Local Centre",
       "class": "bus_stop",
       "lat": 52.0871397,
@@ -15407,13 +15414,6 @@
       "class": "bus_stop",
       "lat": 52.0261338,
       "lng": -0.7542367,
-      "distance_km": 18.57
-    },
-    {
-      "name": "Banbury Road (opp 12)",
-      "class": "bus_stop",
-      "lat": 52.0904196,
-      "lng": -1.284966,
       "distance_km": 18.57
     },
     {
@@ -15620,20 +15620,6 @@
       "distance_km": 18.66
     },
     {
-      "name": "The Red House",
-      "class": "bus_stop",
-      "lat": 52.0823549,
-      "lng": -0.7418572,
-      "distance_km": 18.67
-    },
-    {
-      "name": "Skeldon Roundabout West",
-      "class": "bus_stop",
-      "lat": 52.0489671,
-      "lng": -0.744458,
-      "distance_km": 18.67
-    },
-    {
       "name": "Corner Mount",
       "class": "bus_stop",
       "lat": 52.1097939,
@@ -15645,6 +15631,20 @@
       "class": "bus_stop",
       "lat": 52.1099996,
       "lng": -1.2813273,
+      "distance_km": 18.67
+    },
+    {
+      "name": "The Red House",
+      "class": "bus_stop",
+      "lat": 52.0823549,
+      "lng": -0.7418572,
+      "distance_km": 18.67
+    },
+    {
+      "name": "Skeldon Roundabout West",
+      "class": "bus_stop",
+      "lat": 52.0489671,
+      "lng": -0.744458,
       "distance_km": 18.67
     },
     {
@@ -15739,17 +15739,17 @@
       "distance_km": 18.74
     },
     {
-      "name": "Fishermead Local Centre",
-      "class": "bus_stop",
-      "lat": 52.0368374,
-      "lng": -0.7469702,
-      "distance_km": 18.75
-    },
-    {
       "name": "Cannings Garage (o/s)",
       "class": "bus_stop",
       "lat": 52.0239089,
       "lng": -1.2768576,
+      "distance_km": 18.75
+    },
+    {
+      "name": "Fishermead Local Centre",
+      "class": "bus_stop",
+      "lat": 52.0368374,
+      "lng": -0.7469702,
       "distance_km": 18.75
     },
     {
@@ -15851,17 +15851,17 @@
       "distance_km": 18.83
     },
     {
-      "name": "Tyringham Hall",
-      "class": "bus_stop",
-      "lat": 52.1155457,
-      "lng": -0.7476269,
-      "distance_km": 18.84
-    },
-    {
       "name": "Greensward",
       "class": "bus_stop",
       "lat": 52.1117737,
       "lng": -1.2832702,
+      "distance_km": 18.84
+    },
+    {
+      "name": "Tyringham Hall",
+      "class": "bus_stop",
+      "lat": 52.1155457,
+      "lng": -0.7476269,
       "distance_km": 18.84
     },
     {
@@ -15870,6 +15870,13 @@
       "lat": 52.0066161,
       "lng": -0.7614501,
       "distance_km": 18.84
+    },
+    {
+      "name": "Fairhaven Road",
+      "class": "bus_stop",
+      "lat": 51.9234198,
+      "lng": -1.1434131,
+      "distance_km": 18.85
     },
     {
       "name": "Yeomans Drive",
@@ -15883,13 +15890,6 @@
       "class": "bus_stop",
       "lat": 52.0452266,
       "lng": -0.7427693,
-      "distance_km": 18.85
-    },
-    {
-      "name": "Fairhaven Road",
-      "class": "bus_stop",
-      "lat": 51.9234198,
-      "lng": -1.1434131,
       "distance_km": 18.85
     },
     {
@@ -16005,13 +16005,6 @@
       "distance_km": 18.92
     },
     {
-      "name": "Eaglestone Roundabout West",
-      "class": "bus_stop",
-      "lat": 52.0307435,
-      "lng": -0.7466136,
-      "distance_km": 18.93
-    },
-    {
       "name": "The Rose and Crown PH (o/s)",
       "class": "bus_stop",
       "lat": 52.1354601,
@@ -16023,6 +16016,13 @@
       "class": "bus_stop",
       "lat": 52.1353158,
       "lng": -1.2728451,
+      "distance_km": 18.93
+    },
+    {
+      "name": "Eaglestone Roundabout West",
+      "class": "bus_stop",
+      "lat": 52.0307435,
+      "lng": -0.7466136,
       "distance_km": 18.93
     },
     {
@@ -16061,17 +16061,17 @@
       "distance_km": 18.95
     },
     {
-      "name": "Bleak Hall Industrial Estate",
-      "class": "bus_stop",
-      "lat": 52.0205964,
-      "lng": -0.7509656,
-      "distance_km": 18.96
-    },
-    {
       "name": "Elderfield Road",
       "class": "bus_stop",
       "lat": 51.9228192,
       "lng": -1.1449078,
+      "distance_km": 18.96
+    },
+    {
+      "name": "Bleak Hall Industrial Estate",
+      "class": "bus_stop",
+      "lat": 52.0205964,
+      "lng": -0.7509656,
       "distance_km": 18.96
     },
     {
@@ -16194,6 +16194,13 @@
       "distance_km": 19.07
     },
     {
+      "name": "Hare and Hounds",
+      "class": "bus_stop",
+      "lat": 52.1173124,
+      "lng": -1.2846091,
+      "distance_km": 19.08
+    },
+    {
       "name": "Willen Roundabout West",
       "class": "bus_stop",
       "lat": 52.0618266,
@@ -16212,13 +16219,6 @@
       "class": "bus_stop",
       "lat": 52.0355224,
       "lng": -0.7424533,
-      "distance_km": 19.08
-    },
-    {
-      "name": "Hare and Hounds",
-      "class": "bus_stop",
-      "lat": 52.1173124,
-      "lng": -1.2846091,
       "distance_km": 19.08
     },
     {
@@ -16292,13 +16292,6 @@
       "distance_km": 19.11
     },
     {
-      "name": "Fishermead Boulevard",
-      "class": "bus_stop",
-      "lat": 52.0397521,
-      "lng": -0.7403568,
-      "distance_km": 19.12
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 52.02118583503313,
@@ -16310,6 +16303,13 @@
       "class": "stop_position",
       "lat": 52.0216623,
       "lng": -1.2813744,
+      "distance_km": 19.12
+    },
+    {
+      "name": "Fishermead Boulevard",
+      "class": "bus_stop",
+      "lat": 52.0397521,
+      "lng": -0.7403568,
       "distance_km": 19.12
     },
     {
@@ -16642,17 +16642,17 @@
       "distance_km": 19.35
     },
     {
-      "name": "Springfield Local Centre",
-      "class": "bus_stop",
-      "lat": 52.0409443,
-      "lng": -0.7364995,
-      "distance_km": 19.36
-    },
-    {
       "name": "Garage",
       "class": "bus_stop",
       "lat": 52.1736829,
       "lng": -1.2463347,
+      "distance_km": 19.36
+    },
+    {
+      "name": "Springfield Local Centre",
+      "class": "bus_stop",
+      "lat": 52.0409443,
+      "lng": -0.7364995,
       "distance_km": 19.36
     },
     {
@@ -16915,17 +16915,17 @@
       "distance_km": 19.51
     },
     {
-      "name": "Kingfisher Centre",
-      "class": "bus_stop",
-      "lat": 52.0781558,
-      "lng": -0.7291908,
-      "distance_km": 19.52
-    },
-    {
       "name": "Water Lane",
       "class": "bus_stop",
       "lat": 51.9467486,
       "lng": -1.2124431,
+      "distance_km": 19.52
+    },
+    {
+      "name": "Kingfisher Centre",
+      "class": "bus_stop",
+      "lat": 52.0781558,
+      "lng": -0.7291908,
       "distance_km": 19.52
     },
     {
@@ -16950,17 +16950,17 @@
       "distance_km": 19.53
     },
     {
-      "name": "Coffee Hall Roundabout North",
-      "class": "bus_stop",
-      "lat": 52.0233653,
-      "lng": -0.7407881,
-      "distance_km": 19.54
-    },
-    {
       "name": "George and Dragon",
       "class": "bus_stop",
       "lat": 51.9601561,
       "lng": -1.2331076,
+      "distance_km": 19.54
+    },
+    {
+      "name": "Coffee Hall Roundabout North",
+      "class": "bus_stop",
+      "lat": 52.0233653,
+      "lng": -0.7407881,
       "distance_km": 19.54
     },
     {
@@ -17090,17 +17090,17 @@
       "distance_km": 19.62
     },
     {
-      "name": "Tongwell Industrial Estate",
-      "class": "bus_stop",
-      "lat": 52.0657989,
-      "lng": -0.7277227,
-      "distance_km": 19.63
-    },
-    {
       "name": "Crossroads",
       "class": "bus_stop",
       "lat": 51.9444088,
       "lng": -1.2107819,
+      "distance_km": 19.63
+    },
+    {
+      "name": "Tongwell Industrial Estate",
+      "class": "bus_stop",
+      "lat": 52.0657989,
+      "lng": -0.7277227,
       "distance_km": 19.63
     },
     {
@@ -17475,6 +17475,13 @@
       "distance_km": 19.86
     },
     {
+      "name": "Business Centre",
+      "class": "bus_stop",
+      "lat": 51.9184564,
+      "lng": -1.1594275,
+      "distance_km": 19.87
+    },
+    {
       "name": "The Barge Inn",
       "class": "bus_stop",
       "lat": 52.0454544,
@@ -17486,13 +17493,6 @@
       "class": "bus_stop",
       "lat": 52.0412696,
       "lng": -0.7287516,
-      "distance_km": 19.87
-    },
-    {
-      "name": "Business Centre",
-      "class": "bus_stop",
-      "lat": 51.9184564,
-      "lng": -1.1594275,
       "distance_km": 19.87
     },
     {
@@ -17510,17 +17510,17 @@
       "distance_km": 19.87
     },
     {
-      "name": "The Barge Inn",
-      "class": "bus_stop",
-      "lat": 52.04533,
-      "lng": -0.7275675,
-      "distance_km": 19.88
-    },
-    {
       "name": "Church Street",
       "class": "bus_stop",
       "lat": 52.199615,
       "lng": -1.2208486,
+      "distance_km": 19.88
+    },
+    {
+      "name": "The Barge Inn",
+      "class": "bus_stop",
+      "lat": 52.04533,
+      "lng": -0.7275675,
       "distance_km": 19.88
     },
     {
@@ -17538,17 +17538,17 @@
       "distance_km": 19.88
     },
     {
-      "name": "Butterfield Close",
-      "class": "bus_stop",
-      "lat": 52.0393593,
-      "lng": -0.7290749,
-      "distance_km": 19.89
-    },
-    {
       "name": "Church Street",
       "class": "bus_stop",
       "lat": 52.1996457,
       "lng": -1.2210267,
+      "distance_km": 19.89
+    },
+    {
+      "name": "Butterfield Close",
+      "class": "bus_stop",
+      "lat": 52.0393593,
+      "lng": -0.7290749,
       "distance_km": 19.89
     },
     {
@@ -17762,13 +17762,6 @@
       "distance_km": 20.03
     },
     {
-      "name": "Dodkin",
-      "class": "bus_stop",
-      "lat": 52.019348,
-      "lng": -0.735086,
-      "distance_km": 20.04
-    },
-    {
       "name": "Rochford Gardens",
       "class": "bus_stop",
       "lat": 51.9105709,
@@ -17780,6 +17773,13 @@
       "class": "stop_position",
       "lat": 51.9105432,
       "lng": -1.140467,
+      "distance_km": 20.04
+    },
+    {
+      "name": "Dodkin",
+      "class": "bus_stop",
+      "lat": 52.019348,
+      "lng": -0.735086,
       "distance_km": 20.04
     },
     {
@@ -17811,27 +17811,6 @@
       "distance_km": 20.04
     },
     {
-      "name": "Dodkin",
-      "class": "bus_stop",
-      "lat": 52.0194267,
-      "lng": -0.7348797,
-      "distance_km": 20.05
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 52.2306254,
-      "lng": -1.1581799,
-      "distance_km": 20.05
-    },
-    {
-      "name": "Duxford Close",
-      "class": "bus_stop",
-      "lat": 51.9091944,
-      "lng": -1.1358771,
-      "distance_km": 20.05
-    },
-    {
       "name": "Rochford Gardens",
       "class": "bus_stop",
       "lat": 51.9104726,
@@ -17843,6 +17822,27 @@
       "class": "stop_position",
       "lat": 51.9104726,
       "lng": -1.1404794,
+      "distance_km": 20.05
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 52.2306254,
+      "lng": -1.1581799,
+      "distance_km": 20.05
+    },
+    {
+      "name": "Dodkin",
+      "class": "bus_stop",
+      "lat": 52.0194267,
+      "lng": -0.7348797,
+      "distance_km": 20.05
+    },
+    {
+      "name": "Duxford Close",
+      "class": "bus_stop",
+      "lat": 51.9091944,
+      "lng": -1.1358771,
       "distance_km": 20.05
     },
     {
@@ -18042,6 +18042,13 @@
       "distance_km": 20.23
     },
     {
+      "name": "Bus Shelter",
+      "class": "bus_stop",
+      "lat": 51.925648,
+      "lng": -1.1875808,
+      "distance_km": 20.24
+    },
+    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 51.9740779,
@@ -18053,13 +18060,6 @@
       "class": "bus_stop",
       "lat": 51.9956039,
       "lng": -0.7470876,
-      "distance_km": 20.24
-    },
-    {
-      "name": "Bus Shelter",
-      "class": "bus_stop",
-      "lat": 51.925648,
-      "lng": -1.1875808,
       "distance_km": 20.24
     },
     {
@@ -18343,6 +18343,13 @@
       "distance_km": 20.43
     },
     {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 51.9063564,
+      "lng": -1.1398046,
+      "distance_km": 20.44
+    },
+    {
       "name": "Ashland Roundabout East",
       "class": "bus_stop",
       "lat": 52.015902,
@@ -18357,13 +18364,6 @@
       "distance_km": 20.44
     },
     {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 51.9063564,
-      "lng": -1.1398046,
-      "distance_km": 20.44
-    },
-    {
       "name": "Whitley Crescent",
       "class": "bus_stop",
       "lat": 51.9063178,
@@ -18371,17 +18371,17 @@
       "distance_km": 20.45
     },
     {
-      "name": "Granby Industrial Estate",
-      "class": "bus_stop",
-      "lat": 52.0076521,
-      "lng": -0.7352701,
-      "distance_km": 20.46
-    },
-    {
       "name": "Barberry Place Shops",
       "class": "bus_stop",
       "lat": 51.9109171,
       "lng": -1.1551942,
+      "distance_km": 20.46
+    },
+    {
+      "name": "Granby Industrial Estate",
+      "class": "bus_stop",
+      "lat": 52.0076521,
+      "lng": -0.7352701,
       "distance_km": 20.46
     },
     {
@@ -18448,6 +18448,13 @@
       "distance_km": 20.54
     },
     {
+      "name": "St Peters Crescent",
+      "class": "bus_stop",
+      "lat": 51.9076304,
+      "lng": -1.1481511,
+      "distance_km": 20.56
+    },
+    {
       "name": "St Lawrence's Church",
       "class": "bus_stop",
       "lat": 52.1460312,
@@ -18459,13 +18466,6 @@
       "class": "bus_stop",
       "lat": 52.1461124,
       "lng": -0.7380151,
-      "distance_km": 20.56
-    },
-    {
-      "name": "St Peters Crescent",
-      "class": "bus_stop",
-      "lat": 51.9076304,
-      "lng": -1.1481511,
       "distance_km": 20.56
     },
     {
@@ -18497,6 +18497,13 @@
       "distance_km": 20.58
     },
     {
+      "name": "Ruskin Walk",
+      "class": "bus_stop",
+      "lat": 51.9063126,
+      "lng": -1.145105,
+      "distance_km": 20.6
+    },
+    {
       "name": "Third Avenue",
       "class": "bus_stop",
       "lat": 52.0055381,
@@ -18506,22 +18513,15 @@
     {
       "name": "Ruskin Walk",
       "class": "bus_stop",
-      "lat": 51.9063126,
-      "lng": -1.145105,
-      "distance_km": 20.6
+      "lat": 51.9061759,
+      "lng": -1.1449734,
+      "distance_km": 20.61
     },
     {
       "name": "Post Office",
       "class": "bus_stop",
       "lat": 51.8995338,
       "lng": -1.1195805,
-      "distance_km": 20.61
-    },
-    {
-      "name": "Ruskin Walk",
-      "class": "bus_stop",
-      "lat": 51.9061759,
-      "lng": -1.1449734,
       "distance_km": 20.61
     },
     {
@@ -18546,13 +18546,6 @@
       "distance_km": 20.63
     },
     {
-      "name": "Cottingham Grove",
-      "class": "bus_stop",
-      "lat": 51.9924051,
-      "lng": -0.7430696,
-      "distance_km": 20.64
-    },
-    {
       "name": "Bristol Road",
       "class": "bus_stop",
       "lat": 51.9052092,
@@ -18574,17 +18567,24 @@
       "distance_km": 20.64
     },
     {
-      "name": "Retail Park",
-      "class": "platform",
-      "lat": 51.9033046,
-      "lng": -1.1361556,
-      "distance_km": 20.65
+      "name": "Cottingham Grove",
+      "class": "bus_stop",
+      "lat": 51.9924051,
+      "lng": -0.7430696,
+      "distance_km": 20.64
     },
     {
       "name": "Bristol Road",
       "class": "bus_stop",
       "lat": 51.9050194,
       "lng": -1.1421694,
+      "distance_km": 20.65
+    },
+    {
+      "name": "Retail Park",
+      "class": "platform",
+      "lat": 51.9033046,
+      "lng": -1.1361556,
       "distance_km": 20.65
     },
     {
@@ -18637,6 +18637,13 @@
       "distance_km": 20.7
     },
     {
+      "name": "Blake Road",
+      "class": "bus_stop",
+      "lat": 51.908063,
+      "lng": -1.1546663,
+      "distance_km": 20.72
+    },
+    {
       "name": "Stadium MK (Stop B)",
       "class": "bus_stop",
       "lat": 52.0087515,
@@ -18648,13 +18655,6 @@
       "class": "bus_stop",
       "lat": 52.0051519,
       "lng": -0.7327699,
-      "distance_km": 20.72
-    },
-    {
-      "name": "Blake Road",
-      "class": "bus_stop",
-      "lat": 51.908063,
-      "lng": -1.1546663,
       "distance_km": 20.72
     },
     {
@@ -19036,13 +19036,6 @@
       "distance_km": 21.04
     },
     {
-      "name": "Bletchley Bus Station",
-      "class": "bus_stop",
-      "lat": 51.9957175,
-      "lng": -0.7339639,
-      "distance_km": 21.05
-    },
-    {
       "name": "Rowan Road",
       "class": "bus_stop",
       "lat": 51.9046624,
@@ -19054,6 +19047,13 @@
       "class": "railway_station",
       "lat": 51.9032906,
       "lng": -1.149781,
+      "distance_km": 21.05
+    },
+    {
+      "name": "Bletchley Bus Station",
+      "class": "bus_stop",
+      "lat": 51.9957175,
+      "lng": -0.7339639,
       "distance_km": 21.05
     },
     {
@@ -19274,13 +19274,6 @@
       "distance_km": 21.25
     },
     {
-      "name": "Bletchley Tesco",
-      "class": "bus_stop",
-      "lat": 52.0019715,
-      "lng": -0.7262815,
-      "distance_km": 21.26
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 52.2400345,
@@ -19288,17 +19281,24 @@
       "distance_km": 21.26
     },
     {
-      "name": "Bus stop",
+      "name": "Bletchley Tesco",
       "class": "bus_stop",
-      "lat": 51.9509417,
-      "lng": -0.7758529,
-      "distance_km": 21.27
+      "lat": 52.0019715,
+      "lng": -0.7262815,
+      "distance_km": 21.26
     },
     {
       "name": "Bunyan Road",
       "class": "bus_stop",
       "lat": 51.9075781,
       "lng": -1.1697377,
+      "distance_km": 21.27
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 51.9509417,
+      "lng": -0.7758529,
       "distance_km": 21.27
     },
     {
@@ -19561,13 +19561,6 @@
       "distance_km": 21.64
     },
     {
-      "name": "Water Eaton Road",
-      "class": "bus_stop",
-      "lat": 51.9900467,
-      "lng": -0.7285861,
-      "distance_km": 21.65
-    },
-    {
       "name": "Bicester Bus Station",
       "class": "bus_stop",
       "lat": 51.898443,
@@ -19579,6 +19572,13 @@
       "class": "bus_stop",
       "lat": 51.8994278,
       "lng": -1.1568449,
+      "distance_km": 21.65
+    },
+    {
+      "name": "Water Eaton Road",
+      "class": "bus_stop",
+      "lat": 51.9900467,
+      "lng": -0.7285861,
       "distance_km": 21.65
     },
     {
@@ -19617,17 +19617,17 @@
       "distance_km": 21.7
     },
     {
-      "name": "High Street",
-      "class": "bus_stop",
-      "lat": 51.8979305,
-      "lng": -0.8751956,
-      "distance_km": 21.71
-    },
-    {
       "name": "Manorsfield Road",
       "class": "bus_stop",
       "lat": 51.8976702,
       "lng": -1.1530468,
+      "distance_km": 21.71
+    },
+    {
+      "name": "High Street",
+      "class": "bus_stop",
+      "lat": 51.8979305,
+      "lng": -0.8751956,
       "distance_km": 21.71
     },
     {
@@ -19778,17 +19778,17 @@
       "distance_km": 21.95
     },
     {
-      "name": "Water Eaton Co-op",
-      "class": "bus_stop",
-      "lat": 51.9895224,
-      "lng": -0.7241735,
-      "distance_km": 21.95
-    },
-    {
       "name": "Red Lion PH (o/s)",
       "class": "bus_stop",
       "lat": 52.2208526,
       "lng": -0.8010632,
+      "distance_km": 21.95
+    },
+    {
+      "name": "Water Eaton Co-op",
+      "class": "bus_stop",
+      "lat": 51.9895224,
+      "lng": -0.7241735,
       "distance_km": 21.95
     },
     {
@@ -19841,6 +19841,13 @@
       "distance_km": 21.99
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 52.2515251,
+      "lng": -0.8747723,
+      "distance_km": 22.0
+    },
+    {
       "name": "Water Eaton Co-op",
       "class": "bus_stop",
       "lat": 51.9894691,
@@ -19850,16 +19857,23 @@
     {
       "name": "Bus stop",
       "class": "bus_stop",
-      "lat": 52.2515251,
-      "lng": -0.8747723,
-      "distance_km": 22.0
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
       "lat": 52.2523242,
       "lng": -0.8771511,
       "distance_km": 22.01
+    },
+    {
+      "name": "Bowmont Square",
+      "class": "platform",
+      "lat": 51.9011854,
+      "lng": -1.1737634,
+      "distance_km": 22.02
+    },
+    {
+      "name": "Community Hospital",
+      "class": "bus_stop",
+      "lat": 51.8963284,
+      "lng": -1.1590602,
+      "distance_km": 22.02
     },
     {
       "name": "Downing Way",
@@ -19877,27 +19891,6 @@
     },
     {
       "name": "Bowmont Square",
-      "class": "platform",
-      "lat": 51.9011854,
-      "lng": -1.1737634,
-      "distance_km": 22.02
-    },
-    {
-      "name": "Community Hospital",
-      "class": "bus_stop",
-      "lat": 51.8963284,
-      "lng": -1.1590602,
-      "distance_km": 22.02
-    },
-    {
-      "name": "Merton Road",
-      "class": "bus_stop",
-      "lat": 52.2474612,
-      "lng": -1.1685697,
-      "distance_km": 22.03
-    },
-    {
-      "name": "Bowmont Square",
       "class": "bus_stop",
       "lat": 51.901059,
       "lng": -1.1736931,
@@ -19908,6 +19901,13 @@
       "class": "bus_stop",
       "lat": 51.9025813,
       "lng": -1.1779385,
+      "distance_km": 22.03
+    },
+    {
+      "name": "Merton Road",
+      "class": "bus_stop",
+      "lat": 52.2474612,
+      "lng": -1.1685697,
       "distance_km": 22.03
     },
     {
@@ -19946,13 +19946,6 @@
       "distance_km": 22.06
     },
     {
-      "name": "The Plough",
-      "class": "bus_stop",
-      "lat": 51.9900657,
-      "lng": -0.7218,
-      "distance_km": 22.07
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 52.2498488,
@@ -19960,11 +19953,11 @@
       "distance_km": 22.07
     },
     {
-      "name": "Grasmere Way",
+      "name": "The Plough",
       "class": "bus_stop",
-      "lat": 51.9852791,
-      "lng": -0.725394,
-      "distance_km": 22.08
+      "lat": 51.9900657,
+      "lng": -0.7218,
+      "distance_km": 22.07
     },
     {
       "name": "Grove Road (opp)",
@@ -19978,6 +19971,13 @@
       "class": "bus_stop",
       "lat": 52.2232943,
       "lng": -0.8025491,
+      "distance_km": 22.08
+    },
+    {
+      "name": "Grasmere Way",
+      "class": "bus_stop",
+      "lat": 51.9852791,
+      "lng": -0.725394,
       "distance_km": 22.08
     },
     {
@@ -20079,13 +20079,6 @@
       "distance_km": 22.2
     },
     {
-      "name": "Trinity Close",
-      "class": "bus_stop",
-      "lat": 52.2487611,
-      "lng": -1.1701756,
-      "distance_km": 22.21
-    },
-    {
       "name": "Highfield",
       "class": "bus_stop",
       "lat": 51.8992296,
@@ -20093,18 +20086,11 @@
       "distance_km": 22.21
     },
     {
-      "name": "Danetre Hospital",
+      "name": "Trinity Close",
       "class": "bus_stop",
-      "lat": 52.252459,
-      "lng": -1.1588954,
-      "distance_km": 22.22
-    },
-    {
-      "name": "Newton Leys St Helena Avenue",
-      "class": "bus_stop",
-      "lat": 51.9734571,
-      "lng": -0.7333162,
-      "distance_km": 22.22
+      "lat": 52.2487611,
+      "lng": -1.1701756,
+      "distance_km": 22.21
     },
     {
       "name": "Kings End",
@@ -20118,6 +20104,20 @@
       "class": "bus_stop",
       "lat": 51.8991407,
       "lng": -1.1738621,
+      "distance_km": 22.22
+    },
+    {
+      "name": "Danetre Hospital",
+      "class": "bus_stop",
+      "lat": 52.252459,
+      "lng": -1.1588954,
+      "distance_km": 22.22
+    },
+    {
+      "name": "Newton Leys St Helena Avenue",
+      "class": "bus_stop",
+      "lat": 51.9734571,
+      "lng": -0.7333162,
       "distance_km": 22.22
     },
     {
@@ -20142,17 +20142,17 @@
       "distance_km": 22.25
     },
     {
-      "name": "Newton Leys, St Helena Avenue Temporary Stop",
-      "class": "bus_stop",
-      "lat": 51.9735582,
-      "lng": -0.7326697,
-      "distance_km": 22.26
-    },
-    {
       "name": "Pingle Drive Bicester Village",
       "class": "bus_stop",
       "lat": 51.8944179,
       "lng": -1.160764,
+      "distance_km": 22.26
+    },
+    {
+      "name": "Newton Leys, St Helena Avenue Temporary Stop",
+      "class": "bus_stop",
+      "lat": 51.9735582,
+      "lng": -0.7326697,
       "distance_km": 22.26
     },
     {
@@ -20177,17 +20177,17 @@
       "distance_km": 22.31
     },
     {
-      "name": "Windermere Drive",
-      "class": "bus_stop",
-      "lat": 51.9811069,
-      "lng": -0.7250533,
-      "distance_km": 22.31
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 52.2530782,
       "lng": -0.8695489,
+      "distance_km": 22.31
+    },
+    {
+      "name": "Windermere Drive",
+      "class": "bus_stop",
+      "lat": 51.9811069,
+      "lng": -0.7250533,
       "distance_km": 22.31
     },
     {
@@ -20219,6 +20219,13 @@
       "distance_km": 22.36
     },
     {
+      "name": "Bicester Empire Road",
+      "class": "bus_stop",
+      "lat": 51.9009848,
+      "lng": -1.1833745,
+      "distance_km": 22.37
+    },
+    {
       "name": "The Leys (adj)",
       "class": "bus_stop",
       "lat": 52.2139142,
@@ -20237,13 +20244,6 @@
       "class": "bus_stop",
       "lat": 52.213697,
       "lng": -0.7799741,
-      "distance_km": 22.37
-    },
-    {
-      "name": "Bicester Empire Road",
-      "class": "bus_stop",
-      "lat": 51.9009848,
-      "lng": -1.1833745,
       "distance_km": 22.37
     },
     {
@@ -20324,6 +20324,13 @@
       "distance_km": 22.58
     },
     {
+      "name": "Norman Road",
+      "class": "bus_stop",
+      "lat": 52.2532718,
+      "lng": -0.8614429,
+      "distance_km": 22.58
+    },
+    {
       "name": "Lomond Drive",
       "class": "bus_stop",
       "lat": 51.9742267,
@@ -20335,13 +20342,6 @@
       "class": "bus_stop",
       "lat": 51.9796343,
       "lng": -0.7219209,
-      "distance_km": 22.58
-    },
-    {
-      "name": "Norman Road",
-      "class": "bus_stop",
-      "lat": 52.2532718,
-      "lng": -0.8614429,
       "distance_km": 22.58
     },
     {
@@ -20359,17 +20359,17 @@
       "distance_km": 22.6
     },
     {
-      "name": "Bypass Way (adj)",
-      "class": "bus_stop",
-      "lat": 52.2121606,
-      "lng": -0.7726619,
-      "distance_km": 22.61
-    },
-    {
       "name": "Primary School",
       "class": "bus_stop",
       "lat": 51.8970369,
       "lng": -1.1792224,
+      "distance_km": 22.61
+    },
+    {
+      "name": "Bypass Way (adj)",
+      "class": "bus_stop",
+      "lat": 52.2121606,
+      "lng": -0.7726619,
       "distance_km": 22.61
     },
     {

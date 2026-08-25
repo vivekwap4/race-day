@@ -1400,7 +1400,7 @@
       "lat": 21.56485051,
       "lng": 39.16425125,
       "distance_km": 9.69,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Jeddah Shadows Hotel Suites",
@@ -1409,7 +1409,7 @@
       "lat": 21.61007749,
       "lng": 39.19523062,
       "distance_km": 9.7,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Al Rabie Residence",
@@ -1418,7 +1418,7 @@
       "lat": 21.55219488,
       "lng": 39.14389681,
       "distance_km": 9.76,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "AlButat Hotel",
@@ -1427,7 +1427,7 @@
       "lat": 21.62227662,
       "lng": 39.19840228,
       "distance_km": 9.78,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Clarion Hotels SA",
@@ -1436,7 +1436,7 @@
       "lat": 21.60969,
       "lng": 39.19632,
       "distance_km": 9.82,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "\u0641\u0646\u062f\u0642 \u0628\u0627\u0631\u0643 \u062d\u064a\u0627\u0629",
@@ -1445,7 +1445,7 @@
       "lat": 21.57083622940366,
       "lng": 39.17323515558716,
       "distance_km": 9.84,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Sunset Jeddah",

@@ -32,7 +32,7 @@
       "lat": 50.45012648651,
       "lng": 5.9642028808594,
       "distance_km": 1.53,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Les Lucioles Francorchamps",
@@ -824,7 +824,7 @@
       "lat": 50.494886,
       "lng": 5.868009,
       "distance_km": 9.73,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "La Metairie and Son Auberge",
@@ -833,7 +833,7 @@
       "lat": 50.35583356,
       "lng": 5.9202294,
       "distance_km": 9.75,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "H\u00f4tel Cardinal",
@@ -842,7 +842,7 @@
       "lat": 50.49269687,
       "lng": 5.86433809,
       "distance_km": 9.77,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Chez Laurette",
@@ -851,7 +851,7 @@
       "lat": 50.47298896,
       "lng": 5.84507566,
       "distance_km": 9.79,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "La Trouvaille",
@@ -860,7 +860,7 @@
       "lat": 50.39342785,
       "lng": 6.09144649,
       "distance_km": 9.8,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Villa de Noailles",
@@ -869,7 +869,7 @@
       "lat": 50.4908836,
       "lng": 5.86148681,
       "distance_km": 9.81,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Villa Des Fleurs",
@@ -878,7 +878,7 @@
       "lat": 50.49130062,
       "lng": 5.86175267,
       "distance_km": 9.82,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Van der Valk Hotel Spa",
@@ -887,7 +887,7 @@
       "lat": 50.49278783,
       "lng": 5.86345823,
       "distance_km": 9.83,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Radisson Blu Palace Hotel",
@@ -896,7 +896,7 @@
       "lat": 50.49274496,
       "lng": 5.86340729,
       "distance_km": 9.83,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "BELVILLA - ( BE-4950-209 ) Charmant Chalet in Waimes met priv\u00e9sauna en jacuzzi",
@@ -905,7 +905,7 @@
       "lat": 50.438136,
       "lng": 6.110169,
       "distance_km": 9.83,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Logis Hotel Restaurant l'Auberge",
@@ -914,7 +914,7 @@
       "lat": 50.49204594,
       "lng": 5.86209588,
       "distance_km": 9.85,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "L'Ermitage des Fagnes",
@@ -923,7 +923,7 @@
       "lat": 50.486566,
       "lng": 5.8546018,
       "distance_km": 9.92,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "La Tonnellerie",
@@ -932,7 +932,7 @@
       "lat": 50.49332678,
       "lng": 5.86231603,
       "distance_km": 9.93,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "La Villa du Pr\u00e9 Du Cerf",
@@ -941,7 +941,7 @@
       "lat": 50.49918178,
       "lng": 5.87032528,
       "distance_km": 9.93,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "\u00d4 Secret du W\u00e9rihay",
@@ -950,7 +950,7 @@
       "lat": 50.47058616,
       "lng": 5.84111258,
       "distance_km": 9.94,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Hotel la Pitchounette",
@@ -959,7 +959,7 @@
       "lat": 50.51696688,
       "lng": 5.90810763,
       "distance_km": 9.94,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "L'Etape Fagnarde",
@@ -968,7 +968,7 @@
       "lat": 50.48746033,
       "lng": 5.8544142,
       "distance_km": 9.99,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Villa le Vert bois",
@@ -10117,17 +10117,17 @@
       "distance_km": 13.05
     },
     {
-      "name": "Recht Dichrod 7",
-      "class": "bus_stop",
-      "lat": 50.3287415,
-      "lng": 6.0420484,
-      "distance_km": 13.06
-    },
-    {
       "name": "Faymonville Ant\u00f6nchen",
       "class": "bus_stop",
       "lat": 50.4107652,
       "lng": 6.1510666,
+      "distance_km": 13.06
+    },
+    {
+      "name": "Recht Dichrod 7",
+      "class": "bus_stop",
+      "lat": 50.3287415,
+      "lng": 6.0420484,
       "distance_km": 13.06
     },
     {
@@ -10866,13 +10866,6 @@
       "distance_km": 13.86
     },
     {
-      "name": "Recht Feckelsborn",
-      "class": "bus_stop",
-      "lat": 50.3258366,
-      "lng": 6.059847,
-      "distance_km": 13.88
-    },
-    {
       "name": "Weywertz Haus Bouillon",
       "class": "bus_stop",
       "lat": 50.4287494,
@@ -10884,6 +10877,13 @@
       "class": "bus_stop",
       "lat": 50.428951,
       "lng": 6.1669436,
+      "distance_km": 13.88
+    },
+    {
+      "name": "Recht Feckelsborn",
+      "class": "bus_stop",
+      "lat": 50.3258366,
+      "lng": 6.059847,
       "distance_km": 13.88
     },
     {
@@ -10985,17 +10985,17 @@
       "distance_km": 13.95
     },
     {
-      "name": "Iveldingen Am Kreuz",
-      "class": "bus_stop",
-      "lat": 50.3712962,
-      "lng": 6.139107,
-      "distance_km": 13.96
-    },
-    {
       "name": "Weywertz Kreuzung",
       "class": "bus_stop",
       "lat": 50.4226486,
       "lng": 6.167143,
+      "distance_km": 13.96
+    },
+    {
+      "name": "Iveldingen Am Kreuz",
+      "class": "bus_stop",
+      "lat": 50.3712962,
+      "lng": 6.139107,
       "distance_km": 13.96
     },
     {
@@ -11034,17 +11034,17 @@
       "distance_km": 13.98
     },
     {
-      "name": "Iveldingen Dorf",
-      "class": "bus_stop",
-      "lat": 50.3615267,
-      "lng": 6.1290976,
-      "distance_km": 13.99
-    },
-    {
       "name": "Weywertz Haus Nr. 26",
       "class": "bus_stop",
       "lat": 50.4420513,
       "lng": 6.1687561,
+      "distance_km": 13.99
+    },
+    {
+      "name": "Iveldingen Dorf",
+      "class": "bus_stop",
+      "lat": 50.3615267,
+      "lng": 6.1290976,
       "distance_km": 13.99
     },
     {
@@ -11097,13 +11097,6 @@
       "distance_km": 14.01
     },
     {
-      "name": "Iveldingen Dorf",
-      "class": "bus_stop",
-      "lat": 50.3616269,
-      "lng": 6.1295289,
-      "distance_km": 14.01
-    },
-    {
       "name": "Weywertz Kreuzung",
       "class": "bus_stop",
       "lat": 50.4217943,
@@ -11115,6 +11108,13 @@
       "class": "bus_stop",
       "lat": 50.4230491,
       "lng": 6.1679843,
+      "distance_km": 14.01
+    },
+    {
+      "name": "Iveldingen Dorf",
+      "class": "bus_stop",
+      "lat": 50.3616269,
+      "lng": 6.1295289,
       "distance_km": 14.01
     },
     {
@@ -11209,13 +11209,6 @@
       "distance_km": 14.11
     },
     {
-      "name": "Petit-Thier Blanche Fontaine",
-      "class": "bus_stop",
-      "lat": 50.3103361,
-      "lng": 5.976684,
-      "distance_km": 14.11
-    },
-    {
       "name": "Weywertz Br\u00fcckberg",
       "class": "bus_stop",
       "lat": 50.4442441,
@@ -11232,15 +11225,22 @@
     {
       "name": "Petit-Thier Blanche Fontaine",
       "class": "bus_stop",
-      "lat": 50.3100155,
-      "lng": 5.9756359,
-      "distance_km": 14.15
+      "lat": 50.3103361,
+      "lng": 5.976684,
+      "distance_km": 14.11
     },
     {
       "name": "Stop",
       "class": "stop_position",
       "lat": 50.4433141,
       "lng": 6.1710461,
+      "distance_km": 14.15
+    },
+    {
+      "name": "Petit-Thier Blanche Fontaine",
+      "class": "bus_stop",
+      "lat": 50.3100155,
+      "lng": 5.9756359,
       "distance_km": 14.15
     },
     {
@@ -11293,17 +11293,17 @@
       "distance_km": 14.18
     },
     {
-      "name": "Poteau Route de Recht",
-      "class": "bus_stop",
-      "lat": 50.3121259,
-      "lng": 6.0109722,
-      "distance_km": 14.19
-    },
-    {
       "name": "Weywertz Sourbrodter Strasse",
       "class": "bus_stop",
       "lat": 50.4502171,
       "lng": 6.1707961,
+      "distance_km": 14.19
+    },
+    {
+      "name": "Poteau Route de Recht",
+      "class": "bus_stop",
+      "lat": 50.3121259,
+      "lng": 6.0109722,
       "distance_km": 14.19
     },
     {
@@ -11335,17 +11335,17 @@
       "distance_km": 14.2
     },
     {
-      "name": "Iveldingen Haus Girkes",
-      "class": "bus_stop",
-      "lat": 50.3627543,
-      "lng": 6.1344323,
-      "distance_km": 14.21
-    },
-    {
       "name": "Weywertz Br\u00fcckberg",
       "class": "bus_stop",
       "lat": 50.4436804,
       "lng": 6.1717644,
+      "distance_km": 14.21
+    },
+    {
+      "name": "Iveldingen Haus Girkes",
+      "class": "bus_stop",
+      "lat": 50.3627543,
+      "lng": 6.1344323,
       "distance_km": 14.21
     },
     {
@@ -11461,17 +11461,17 @@
       "distance_km": 14.35
     },
     {
-      "name": "Petit-Thier \u00c9glise",
-      "class": "bus_stop",
-      "lat": 50.3081373,
-      "lng": 5.9687888,
-      "distance_km": 14.35
-    },
-    {
       "name": "Elsenborn Lager Camp",
       "class": "bus_stop",
       "lat": 50.4659785,
       "lng": 6.1690029,
+      "distance_km": 14.35
+    },
+    {
+      "name": "Petit-Thier \u00c9glise",
+      "class": "bus_stop",
+      "lat": 50.3081373,
+      "lng": 5.9687888,
       "distance_km": 14.35
     },
     {
@@ -12406,20 +12406,6 @@
       "distance_km": 15.6
     },
     {
-      "name": "Born Dorf",
-      "class": "bus_stop",
-      "lat": 50.33265,
-      "lng": 6.1181955,
-      "distance_km": 15.6
-    },
-    {
-      "name": "Born Dorf",
-      "class": "bus_stop",
-      "lat": 50.332635,
-      "lng": 6.118037,
-      "distance_km": 15.6
-    },
-    {
       "name": "Schoppen Kreuzung",
       "class": "bus_stop",
       "lat": 50.3881168,
@@ -12438,6 +12424,20 @@
       "class": "stop_position",
       "lat": 50.3881519,
       "lng": 6.1776677,
+      "distance_km": 15.6
+    },
+    {
+      "name": "Born Dorf",
+      "class": "bus_stop",
+      "lat": 50.33265,
+      "lng": 6.1181955,
+      "distance_km": 15.6
+    },
+    {
+      "name": "Born Dorf",
+      "class": "bus_stop",
+      "lat": 50.332635,
+      "lng": 6.118037,
       "distance_km": 15.6
     },
     {
@@ -12595,13 +12595,6 @@
       "distance_km": 15.69
     },
     {
-      "name": "Born Kalvarienberg",
-      "class": "bus_stop",
-      "lat": 50.3284823,
-      "lng": 6.1129256,
-      "distance_km": 15.71
-    },
-    {
       "name": "Eibertingen In Der Kirrbach",
       "class": "bus_stop",
       "lat": 50.3576696,
@@ -12613,6 +12606,13 @@
       "class": "bus_stop",
       "lat": 50.3598382,
       "lng": 6.1568267,
+      "distance_km": 15.71
+    },
+    {
+      "name": "Born Kalvarienberg",
+      "class": "bus_stop",
+      "lat": 50.3284823,
+      "lng": 6.1129256,
       "distance_km": 15.71
     },
     {
@@ -13092,20 +13092,6 @@
       "distance_km": 16.52
     },
     {
-      "name": "Born St.Vither Stra\u00dfe",
-      "class": "bus_stop",
-      "lat": 50.3172311,
-      "lng": 6.1089234,
-      "distance_km": 16.52
-    },
-    {
-      "name": "Born St.Vither Stra\u00dfe",
-      "class": "bus_stop",
-      "lat": 50.317216,
-      "lng": 6.108776,
-      "distance_km": 16.52
-    },
-    {
       "name": "Elsenborn Griesdeck",
       "class": "bus_stop",
       "lat": 50.461889,
@@ -13124,6 +13110,20 @@
       "class": "stop_position",
       "lat": 50.4618479,
       "lng": 6.2015221,
+      "distance_km": 16.52
+    },
+    {
+      "name": "Born St.Vither Stra\u00dfe",
+      "class": "bus_stop",
+      "lat": 50.3172311,
+      "lng": 6.1089234,
+      "distance_km": 16.52
+    },
+    {
+      "name": "Born St.Vither Stra\u00dfe",
+      "class": "bus_stop",
+      "lat": 50.317216,
+      "lng": 6.108776,
       "distance_km": 16.52
     },
     {
@@ -13484,6 +13484,13 @@
       "distance_km": 16.88
     },
     {
+      "name": "B\u00fctgenbach Athen\u00e4um",
+      "class": "bus_stop",
+      "lat": 50.4253778,
+      "lng": 6.2091098,
+      "distance_km": 16.89
+    },
+    {
       "name": "Nieder-Emmels 79",
       "class": "bus_stop",
       "lat": 50.307824,
@@ -13495,13 +13502,6 @@
       "class": "bus_stop",
       "lat": 50.3079234,
       "lng": 6.0963572,
-      "distance_km": 16.89
-    },
-    {
-      "name": "B\u00fctgenbach Athen\u00e4um",
-      "class": "bus_stop",
-      "lat": 50.4253778,
-      "lng": 6.2091098,
       "distance_km": 16.89
     },
     {
@@ -13960,13 +13960,6 @@
       "distance_km": 17.25
     },
     {
-      "name": "Nieder-Emmels Haus Lejeune",
-      "class": "bus_stop",
-      "lat": 50.3079149,
-      "lng": 6.106452,
-      "distance_km": 17.27
-    },
-    {
       "name": "Elsenborn Herzeb\u00f6sch",
       "class": "bus_stop",
       "lat": 50.4606338,
@@ -13981,25 +13974,18 @@
       "distance_km": 17.27
     },
     {
+      "name": "Nieder-Emmels Haus Lejeune",
+      "class": "bus_stop",
+      "lat": 50.3079149,
+      "lng": 6.106452,
+      "distance_km": 17.27
+    },
+    {
       "name": "Mangombroux \u00c9glise",
       "class": "bus_stop",
       "lat": 50.5832605,
       "lng": 5.8881916,
       "distance_km": 17.27
-    },
-    {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 50.30792,
-      "lng": 6.1065031,
-      "distance_km": 17.28
-    },
-    {
-      "name": "Nieder-Emmels Haus Lejeune",
-      "class": "bus_stop",
-      "lat": 50.3079381,
-      "lng": 6.1065581,
-      "distance_km": 17.28
     },
     {
       "name": "Elsenborn Herzeb\u00f6sch",
@@ -14013,6 +13999,20 @@
       "class": "stop_position",
       "lat": 50.4606575,
       "lng": 6.2126041,
+      "distance_km": 17.28
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 50.30792,
+      "lng": 6.1065031,
+      "distance_km": 17.28
+    },
+    {
+      "name": "Nieder-Emmels Haus Lejeune",
+      "class": "bus_stop",
+      "lat": 50.3079381,
+      "lng": 6.1065581,
       "distance_km": 17.28
     },
     {
@@ -14275,13 +14275,6 @@
       "distance_km": 17.48
     },
     {
-      "name": "Nieder-Emmels Kirche",
-      "class": "bus_stop",
-      "lat": 50.3044762,
-      "lng": 6.1034614,
-      "distance_km": 17.48
-    },
-    {
       "name": "Amel Haus 266",
       "class": "bus_stop",
       "lat": 50.3481304,
@@ -14298,9 +14291,9 @@
     {
       "name": "Nieder-Emmels Kirche",
       "class": "bus_stop",
-      "lat": 50.304369,
-      "lng": 6.1033525,
-      "distance_km": 17.49
+      "lat": 50.3044762,
+      "lng": 6.1034614,
+      "distance_km": 17.48
     },
     {
       "name": "Mirfeld 129",
@@ -14314,6 +14307,13 @@
       "class": "stop_position",
       "lat": 50.3597437,
       "lng": 6.186232,
+      "distance_km": 17.49
+    },
+    {
+      "name": "Nieder-Emmels Kirche",
+      "class": "bus_stop",
+      "lat": 50.304369,
+      "lng": 6.1033525,
       "distance_km": 17.49
     },
     {
@@ -14352,17 +14352,17 @@
       "distance_km": 17.5
     },
     {
-      "name": "Ober-Emmels Autobahn",
-      "class": "bus_stop",
-      "lat": 50.2970445,
-      "lng": 6.0838122,
-      "distance_km": 17.51
-    },
-    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 50.3425638,
       "lng": 6.1688903,
+      "distance_km": 17.51
+    },
+    {
+      "name": "Ober-Emmels Autobahn",
+      "class": "bus_stop",
+      "lat": 50.2970445,
+      "lng": 6.0838122,
       "distance_km": 17.51
     },
     {
@@ -14380,13 +14380,6 @@
       "distance_km": 17.51
     },
     {
-      "name": "Ober-Emmels Autobahn",
-      "class": "bus_stop",
-      "lat": 50.2969525,
-      "lng": 6.0838352,
-      "distance_km": 17.52
-    },
-    {
       "name": "Amel Adesberg",
       "class": "bus_stop",
       "lat": 50.3422786,
@@ -14398,6 +14391,13 @@
       "class": "bus_stop",
       "lat": 50.3425478,
       "lng": 6.1689628,
+      "distance_km": 17.52
+    },
+    {
+      "name": "Ober-Emmels Autobahn",
+      "class": "bus_stop",
+      "lat": 50.2969525,
+      "lng": 6.0838352,
       "distance_km": 17.52
     },
     {
@@ -14765,13 +14765,6 @@
       "distance_km": 17.72
     },
     {
-      "name": "Rodt Altes Zollhaus",
-      "class": "bus_stop",
-      "lat": 50.2869586,
-      "lng": 6.0553005,
-      "distance_km": 17.73
-    },
-    {
       "name": "Mirfeld Zentrum",
       "class": "bus_stop",
       "lat": 50.3565509,
@@ -14790,6 +14783,13 @@
       "class": "bus_stop",
       "lat": 50.3350633,
       "lng": 6.1634107,
+      "distance_km": 17.73
+    },
+    {
+      "name": "Rodt Altes Zollhaus",
+      "class": "bus_stop",
+      "lat": 50.2869586,
+      "lng": 6.0553005,
       "distance_km": 17.73
     },
     {
@@ -15451,17 +15451,17 @@
       "distance_km": 18.05
     },
     {
-      "name": "Neuville Maison Foresti\u00e8re",
-      "class": "bus_stop",
-      "lat": 50.2748869,
-      "lng": 5.960492,
-      "distance_km": 18.06
-    },
-    {
       "name": "B\u00fctgenbach Dom\u00e4ne",
       "class": "bus_stop",
       "lat": 50.410919,
       "lng": 6.2229638,
+      "distance_km": 18.06
+    },
+    {
+      "name": "Neuville Maison Foresti\u00e8re",
+      "class": "bus_stop",
+      "lat": 50.2748869,
+      "lng": 5.960492,
       "distance_km": 18.06
     },
     {
@@ -18176,15 +18176,15 @@
     {
       "name": "Wallerode Ameler Strasse 105",
       "class": "bus_stop",
-      "lat": 50.3088386,
-      "lng": 6.149896,
+      "lat": 50.3088298,
+      "lng": 6.1499994,
       "distance_km": 19.08
     },
     {
       "name": "Wallerode Ameler Strasse 105",
       "class": "bus_stop",
-      "lat": 50.3088298,
-      "lng": 6.1499994,
+      "lat": 50.3088386,
+      "lng": 6.149896,
       "distance_km": 19.08
     },
     {
@@ -18769,17 +18769,17 @@
       "distance_km": 19.36
     },
     {
-      "name": "Wallerode Walleroder Strasse",
-      "class": "bus_stop",
-      "lat": 50.3015441,
-      "lng": 6.1427304,
-      "distance_km": 19.37
-    },
-    {
       "name": "B\u00fcllingen Weg nach Honsfeld",
       "class": "bus_stop",
       "lat": 50.397564,
       "lng": 6.2375578,
+      "distance_km": 19.37
+    },
+    {
+      "name": "Wallerode Walleroder Strasse",
+      "class": "bus_stop",
+      "lat": 50.3015441,
+      "lng": 6.1427304,
       "distance_km": 19.37
     },
     {
@@ -18788,13 +18788,6 @@
       "lat": 50.4373246,
       "lng": 5.697964,
       "distance_km": 19.37
-    },
-    {
-      "name": "Wallerode Walleroder Strasse",
-      "class": "bus_stop",
-      "lat": 50.3012993,
-      "lng": 6.1425602,
-      "distance_km": 19.38
     },
     {
       "name": "B\u00fcllingen Weg nach Honsfeld",
@@ -18808,6 +18801,13 @@
       "class": "stop_position",
       "lat": 50.3976795,
       "lng": 6.2378532,
+      "distance_km": 19.38
+    },
+    {
+      "name": "Wallerode Walleroder Strasse",
+      "class": "bus_stop",
+      "lat": 50.3012993,
+      "lng": 6.1425602,
       "distance_km": 19.38
     },
     {
@@ -18888,6 +18888,13 @@
       "distance_km": 19.41
     },
     {
+      "name": "Medell Gemeindehaus",
+      "class": "bus_stop",
+      "lat": 50.3224259,
+      "lng": 6.1778313,
+      "distance_km": 19.42
+    },
+    {
       "name": "Sankt Vith Belle-Vue",
       "class": "bus_stop",
       "lat": 50.2898086,
@@ -18899,13 +18906,6 @@
       "class": "bus_stop",
       "lat": 50.2897994,
       "lng": 6.1181876,
-      "distance_km": 19.42
-    },
-    {
-      "name": "Medell Gemeindehaus",
-      "class": "bus_stop",
-      "lat": 50.3224259,
-      "lng": 6.1778313,
       "distance_km": 19.42
     },
     {
@@ -19441,6 +19441,13 @@
       "distance_km": 19.63
     },
     {
+      "name": "Kalterherberg Elsenborner Stra\u00dfe",
+      "class": "bus_stop",
+      "lat": 50.5130314,
+      "lng": 6.2220284,
+      "distance_km": 19.64
+    },
+    {
       "name": "Sankt Vith Cafe Gilson",
       "class": "bus_stop",
       "lat": 50.2830181,
@@ -19452,13 +19459,6 @@
       "class": "bus_stop",
       "lat": 50.2830589,
       "lng": 6.1067101,
-      "distance_km": 19.64
-    },
-    {
-      "name": "Kalterherberg Elsenborner Stra\u00dfe",
-      "class": "bus_stop",
-      "lat": 50.5130314,
-      "lng": 6.2220284,
       "distance_km": 19.64
     },
     {
@@ -20365,13 +20365,6 @@
       "distance_km": 20.0
     },
     {
-      "name": "Sankt Vith Friedhof",
-      "class": "bus_stop",
-      "lat": 50.2848755,
-      "lng": 6.1217064,
-      "distance_km": 20.01
-    },
-    {
       "name": "Kalterherberg Kleinfrankreich",
       "class": "stop_position",
       "lat": 50.5077515,
@@ -20383,6 +20376,13 @@
       "class": "bus_stop",
       "lat": 50.5077407,
       "lng": 6.2314662,
+      "distance_km": 20.01
+    },
+    {
+      "name": "Sankt Vith Friedhof",
+      "class": "bus_stop",
+      "lat": 50.2848755,
+      "lng": 6.1217064,
       "distance_km": 20.01
     },
     {
@@ -20421,13 +20421,6 @@
       "distance_km": 20.02
     },
     {
-      "name": "Sankt Vith Friedhof",
-      "class": "bus_stop",
-      "lat": 50.2849341,
-      "lng": 6.1218832,
-      "distance_km": 20.02
-    },
-    {
       "name": "Kalterherberg Monschauer Stra\u00dfe",
       "class": "stop_position",
       "lat": 50.5236854,
@@ -20453,6 +20446,13 @@
       "class": "bus_stop",
       "lat": 50.5194076,
       "lng": 6.2230682,
+      "distance_km": 20.02
+    },
+    {
+      "name": "Sankt Vith Friedhof",
+      "class": "bus_stop",
+      "lat": 50.2849341,
+      "lng": 6.1218832,
       "distance_km": 20.02
     },
     {
@@ -20505,17 +20505,17 @@
       "distance_km": 20.04
     },
     {
-      "name": "Sankt Vith Friedensstrasse",
-      "class": "bus_stop",
-      "lat": 50.2854425,
-      "lng": 6.1238457,
-      "distance_km": 20.04
-    },
-    {
       "name": "Kalterherberg Fedderbach",
       "class": "stop_position",
       "lat": 50.5270186,
       "lng": 6.216998,
+      "distance_km": 20.04
+    },
+    {
+      "name": "Sankt Vith Friedensstrasse",
+      "class": "bus_stop",
+      "lat": 50.2854425,
+      "lng": 6.1238457,
       "distance_km": 20.04
     },
     {
@@ -20524,6 +20524,13 @@
       "lat": 50.6121306,
       "lng": 6.0394549,
       "distance_km": 20.04
+    },
+    {
+      "name": "Kalterherberg Fedderbach",
+      "class": "bus_stop",
+      "lat": 50.5270584,
+      "lng": 6.2171008,
+      "distance_km": 20.05
     },
     {
       "name": "Sankt Vith Friedensstrasse",
@@ -20537,13 +20544,6 @@
       "class": "bus_stop",
       "lat": 50.288478,
       "lng": 6.1312986,
-      "distance_km": 20.05
-    },
-    {
-      "name": "Kalterherberg Fedderbach",
-      "class": "bus_stop",
-      "lat": 50.5270584,
-      "lng": 6.2171008,
       "distance_km": 20.05
     },
     {
@@ -21205,13 +21205,6 @@
       "distance_km": 20.38
     },
     {
-      "name": "Sankt Vith Vielsalmer Strasse",
-      "class": "bus_stop",
-      "lat": 50.2821089,
-      "lng": 6.1247536,
-      "distance_km": 20.39
-    },
-    {
       "name": "Wallerode Kirche",
       "class": "bus_stop",
       "lat": 50.2985447,
@@ -21230,6 +21223,13 @@
       "class": "bus_stop",
       "lat": 50.5261589,
       "lng": 6.2234283,
+      "distance_km": 20.39
+    },
+    {
+      "name": "Sankt Vith Vielsalmer Strasse",
+      "class": "bus_stop",
+      "lat": 50.2821089,
+      "lng": 6.1247536,
       "distance_km": 20.39
     },
     {
@@ -22311,13 +22311,6 @@
       "distance_km": 21.02
     },
     {
-      "name": "Sankt Vith Gesch\u00e4ftskomplex",
-      "class": "bus_stop",
-      "lat": 50.2731075,
-      "lng": 6.1187938,
-      "distance_km": 21.03
-    },
-    {
       "name": "Kalterherberg Sonnenberg",
       "class": "bus_stop",
       "lat": 50.5283047,
@@ -22329,6 +22322,13 @@
       "class": "stop_position",
       "lat": 50.5283992,
       "lng": 6.2317815,
+      "distance_km": 21.03
+    },
+    {
+      "name": "Sankt Vith Gesch\u00e4ftskomplex",
+      "class": "bus_stop",
+      "lat": 50.2731075,
+      "lng": 6.1187938,
       "distance_km": 21.03
     },
     {
@@ -22458,17 +22458,17 @@
       "distance_km": 21.15
     },
     {
-      "name": "Neundorf Zentrum 50",
-      "class": "bus_stop",
-      "lat": 50.2632429,
-      "lng": 6.0923387,
-      "distance_km": 21.16
-    },
-    {
       "name": "Kalterherberg Sonnenberg",
       "class": "bus_stop",
       "lat": 50.5287353,
       "lng": 6.2335487,
+      "distance_km": 21.16
+    },
+    {
+      "name": "Neundorf Zentrum 50",
+      "class": "bus_stop",
+      "lat": 50.2632429,
+      "lng": 6.0923387,
       "distance_km": 21.16
     },
     {
@@ -22661,13 +22661,6 @@
       "distance_km": 21.28
     },
     {
-      "name": "Sankt Vith P+R Sankt Vith",
-      "class": "bus_stop",
-      "lat": 50.2691761,
-      "lng": 6.1152983,
-      "distance_km": 21.29
-    },
-    {
       "name": "Sankt Vith Pr\u00fcmerberg",
       "class": "bus_stop",
       "lat": 50.2842681,
@@ -22686,6 +22679,13 @@
       "class": "bus_stop",
       "lat": 50.2842527,
       "lng": 6.1518925,
+      "distance_km": 21.29
+    },
+    {
+      "name": "Sankt Vith P+R Sankt Vith",
+      "class": "bus_stop",
+      "lat": 50.2691761,
+      "lng": 6.1152983,
       "distance_km": 21.29
     },
     {
@@ -24082,13 +24082,6 @@
       "distance_km": 22.69
     },
     {
-      "name": "Wiesenbach Gemeindehaus",
-      "class": "bus_stop",
-      "lat": 50.2645166,
-      "lng": 6.1421176,
-      "distance_km": 22.7
-    },
-    {
       "name": "Kirche",
       "class": "bus_stop",
       "lat": 50.5352066,
@@ -24107,6 +24100,13 @@
       "class": "stop_position",
       "lat": 50.535438,
       "lng": 6.2526491,
+      "distance_km": 22.7
+    },
+    {
+      "name": "Wiesenbach Gemeindehaus",
+      "class": "bus_stop",
+      "lat": 50.2645166,
+      "lng": 6.1421176,
       "distance_km": 22.7
     },
     {
@@ -24341,13 +24341,6 @@
       "distance_km": 23.08
     },
     {
-      "name": "Wiesenbach Breitfeld",
-      "class": "bus_stop",
-      "lat": 50.2629836,
-      "lng": 6.1483234,
-      "distance_km": 23.08
-    },
-    {
       "name": "Josefsheim",
       "class": "bus_stop",
       "lat": 50.5408905,
@@ -24359,6 +24352,13 @@
       "class": "stop_position",
       "lat": 50.5408875,
       "lng": 6.2540597,
+      "distance_km": 23.08
+    },
+    {
+      "name": "Wiesenbach Breitfeld",
+      "class": "bus_stop",
+      "lat": 50.2629836,
+      "lng": 6.1483234,
       "distance_km": 23.08
     },
     {

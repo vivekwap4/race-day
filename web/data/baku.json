@@ -536,7 +536,7 @@
       "lat": 40.37312807,
       "lng": 49.83551022,
       "distance_km": 1.51,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "NEMI HOTEL",
@@ -545,7 +545,7 @@
       "lat": 40.37270671,
       "lng": 49.83551923,
       "distance_km": 1.51,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Shah Palace Hotel",
@@ -554,7 +554,7 @@
       "lat": 40.36806004,
       "lng": 49.83641903,
       "distance_km": 1.51,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "La Casa Nizami",
@@ -563,7 +563,7 @@
       "lat": 40.37138557,
       "lng": 49.83544743,
       "distance_km": 1.52,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Azcot Hotel Baku - Nizami Street",
@@ -572,7 +572,7 @@
       "lat": 40.37100809,
       "lng": 49.83537024,
       "distance_km": 1.53,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "AF Hotel Baku",
@@ -581,7 +581,7 @@
       "lat": 40.38262893,
       "lng": 49.84080973,
       "distance_km": 1.55,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Baku Palace Hotel",
@@ -590,7 +590,7 @@
       "lat": 40.37258016,
       "lng": 49.83502501,
       "distance_km": 1.55,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Seven Boutique Hotel Baku",
@@ -599,7 +599,7 @@
       "lat": 40.37234096,
       "lng": 49.83504816,
       "distance_km": 1.55,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Viva Boutique Hotel",
@@ -608,7 +608,7 @@
       "lat": 40.37163945,
       "lng": 49.83481813,
       "distance_km": 1.57,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Old Street Boutique Hotel",
@@ -617,7 +617,7 @@
       "lat": 40.36740656,
       "lng": 49.83594358,
       "distance_km": 1.58,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Sultan Inn Boutique Hotel",
@@ -626,7 +626,7 @@
       "lat": 40.36629893,
       "lng": 49.83632252,
       "distance_km": 1.6,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Hostel White city",
@@ -2075,7 +2075,7 @@
       "lat": 40.30476699,
       "lng": 49.77727541,
       "distance_km": 9.91,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Homebridge Hotel Apartments",
