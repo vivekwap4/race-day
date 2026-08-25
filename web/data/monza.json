@@ -860,7 +860,7 @@
       "lat": 45.52778463,
       "lng": 9.26773619,
       "distance_km": 9.82,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Hotel Bristol",
@@ -869,7 +869,7 @@
       "lat": 45.53475323,
       "lng": 9.22672859,
       "distance_km": 9.94,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Hotel Nuovo Rond\u00f2",
@@ -878,7 +878,7 @@
       "lat": 45.53311016,
       "lng": 9.22988811,
       "distance_km": 10.0,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Locanda Al Milanino",
@@ -31421,17 +31421,17 @@
       "distance_km": 7.77
     },
     {
-      "name": "Via Repubblica - Viale Lombardia (Cologno Monzese)",
-      "class": "bus_stop",
-      "lat": 45.545899,
-      "lng": 9.2738711,
-      "distance_km": 7.77
-    },
-    {
       "name": "BURAGO Via Primo Villa",
       "class": "bus_stop",
       "lat": 45.5986991,
       "lng": 9.3780737,
+      "distance_km": 7.77
+    },
+    {
+      "name": "Via Repubblica - Viale Lombardia (Cologno Monzese)",
+      "class": "bus_stop",
+      "lat": 45.545899,
+      "lng": 9.2738711,
       "distance_km": 7.77
     },
     {
@@ -31456,20 +31456,6 @@
       "distance_km": 7.78
     },
     {
-      "name": "Via Tagliabue - Via Repubblica (Cologno Monzese)",
-      "class": "bus_stop",
-      "lat": 45.5459359,
-      "lng": 9.2709564,
-      "distance_km": 7.79
-    },
-    {
-      "name": "Via Tagliabue - Via Repubblica (Cologno Monzese)",
-      "class": "stop_position",
-      "lat": 45.5458895,
-      "lng": 9.2709597,
-      "distance_km": 7.79
-    },
-    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 45.6126059,
@@ -31481,6 +31467,20 @@
       "class": "bus_stop",
       "lat": 45.5988415,
       "lng": 9.3782792,
+      "distance_km": 7.79
+    },
+    {
+      "name": "Via Tagliabue - Via Repubblica (Cologno Monzese)",
+      "class": "bus_stop",
+      "lat": 45.5459359,
+      "lng": 9.2709564,
+      "distance_km": 7.79
+    },
+    {
+      "name": "Via Tagliabue - Via Repubblica (Cologno Monzese)",
+      "class": "stop_position",
+      "lat": 45.5458895,
+      "lng": 9.2709597,
       "distance_km": 7.79
     },
     {
@@ -31883,6 +31883,13 @@
       "distance_km": 8.04
     },
     {
+      "name": "AGRATE Via De Gasperi C.na Pescarola",
+      "class": "bus_stop",
+      "lat": 45.5767381,
+      "lng": 9.3684273,
+      "distance_km": 8.05
+    },
+    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 45.5444549,
@@ -31894,13 +31901,6 @@
       "class": "bus_stop",
       "lat": 45.5438801,
       "lng": 9.2667369,
-      "distance_km": 8.05
-    },
-    {
-      "name": "AGRATE Via De Gasperi C.na Pescarola",
-      "class": "bus_stop",
-      "lat": 45.5767381,
-      "lng": 9.3684273,
       "distance_km": 8.05
     },
     {
@@ -31974,17 +31974,17 @@
       "distance_km": 8.12
     },
     {
-      "name": "BRUGHERIO Luther King/Cambiaghi",
-      "class": "bus_stop",
-      "lat": 45.5437682,
-      "lng": 9.2999569,
-      "distance_km": 8.12
-    },
-    {
       "name": "Agrate - (Casello Autostradale)",
       "class": "bus_stop",
       "lat": 45.5697124,
       "lng": 9.3623263,
+      "distance_km": 8.12
+    },
+    {
+      "name": "BRUGHERIO Luther King/Cambiaghi",
+      "class": "bus_stop",
+      "lat": 45.5437682,
+      "lng": 9.2999569,
       "distance_km": 8.12
     },
     {
@@ -32030,17 +32030,17 @@
       "distance_km": 8.15
     },
     {
-      "name": "BRUGHERIO Luther King/Cambiaghi",
-      "class": "bus_stop",
-      "lat": 45.5434519,
-      "lng": 9.2997829,
-      "distance_km": 8.15
-    },
-    {
       "name": "VIMERCATE Ruginello - Via Diaz Via Solferino",
       "class": "bus_stop",
       "lat": 45.6239646,
       "lng": 9.385171,
+      "distance_km": 8.15
+    },
+    {
+      "name": "BRUGHERIO Luther King/Cambiaghi",
+      "class": "bus_stop",
+      "lat": 45.5434519,
+      "lng": 9.2997829,
       "distance_km": 8.15
     },
     {
@@ -32107,6 +32107,20 @@
       "distance_km": 8.18
     },
     {
+      "name": "BURAGO Via 25 Aprile",
+      "class": "bus_stop",
+      "lat": 45.5890663,
+      "lng": 9.3791969,
+      "distance_km": 8.18
+    },
+    {
+      "name": "BURAGO V.le Martiri della Libert\u00e0",
+      "class": "bus_stop",
+      "lat": 45.5976113,
+      "lng": 9.3831197,
+      "distance_km": 8.18
+    },
+    {
       "name": "Viale Italia - Via Lambro (Sesto San Giovanni)",
       "class": "bus_stop",
       "lat": 45.5446651,
@@ -32128,31 +32142,17 @@
       "distance_km": 8.18
     },
     {
-      "name": "BURAGO Via 25 Aprile",
-      "class": "bus_stop",
-      "lat": 45.5890663,
-      "lng": 9.3791969,
-      "distance_km": 8.18
-    },
-    {
       "name": "BURAGO V.le Martiri della Libert\u00e0",
       "class": "bus_stop",
-      "lat": 45.5976113,
-      "lng": 9.3831197,
-      "distance_km": 8.18
+      "lat": 45.5973993,
+      "lng": 9.3831329,
+      "distance_km": 8.19
     },
     {
       "name": "Cologno (Via Giordano)",
       "class": "bus_stop",
       "lat": 45.54201,
       "lng": 9.2764331,
-      "distance_km": 8.19
-    },
-    {
-      "name": "BURAGO V.le Martiri della Libert\u00e0",
-      "class": "bus_stop",
-      "lat": 45.5973993,
-      "lng": 9.3831329,
       "distance_km": 8.19
     },
     {
@@ -32303,6 +32303,13 @@
       "distance_km": 8.26
     },
     {
+      "name": "Via Stalingrado - Via Sant'Antonio (Cinisello Balsamo)",
+      "class": "bus_stop",
+      "lat": 45.5515277,
+      "lng": 9.2274809,
+      "distance_km": 8.26
+    },
+    {
       "name": "SESTO S. G. Gramsci/M.te Nero",
       "class": "bus_stop",
       "lat": 45.5463801,
@@ -32314,13 +32321,6 @@
       "class": "bus_stop",
       "lat": 45.5498845,
       "lng": 9.3306566,
-      "distance_km": 8.26
-    },
-    {
-      "name": "Via Stalingrado - Via Sant'Antonio (Cinisello Balsamo)",
-      "class": "bus_stop",
-      "lat": 45.5515277,
-      "lng": 9.2274809,
       "distance_km": 8.26
     },
     {
@@ -32583,13 +32583,6 @@
       "distance_km": 8.39
     },
     {
-      "name": "BRUGHERIO I\u00b0 Maggio/Volturno",
-      "class": "bus_stop",
-      "lat": 45.5411644,
-      "lng": 9.2987752,
-      "distance_km": 8.39
-    },
-    {
       "name": "Via Sant'Antonio - Piazza Italia (Cinisello Balsamo)",
       "class": "bus_stop",
       "lat": 45.5521971,
@@ -32602,6 +32595,20 @@
       "lat": 45.5520757,
       "lng": 9.2229089,
       "distance_km": 8.39
+    },
+    {
+      "name": "BRUGHERIO I\u00b0 Maggio/Volturno",
+      "class": "bus_stop",
+      "lat": 45.5411644,
+      "lng": 9.2987752,
+      "distance_km": 8.39
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5526342,
+      "lng": 9.340779,
+      "distance_km": 8.4
     },
     {
       "name": "Via Mozart - Via Campania (Cologno)",
@@ -32622,13 +32629,6 @@
       "class": "bus_stop",
       "lat": 45.5400942,
       "lng": 9.2857882,
-      "distance_km": 8.4
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5526342,
-      "lng": 9.340779,
       "distance_km": 8.4
     },
     {
@@ -32653,6 +32653,13 @@
       "distance_km": 8.41
     },
     {
+      "name": "VIMERCATE Ruginello - Via Diaz Via Eritrea",
+      "class": "bus_stop",
+      "lat": 45.6269888,
+      "lng": 9.3879697,
+      "distance_km": 8.41
+    },
+    {
       "name": "Via Mozart - Via Imbersago (Cologno)",
       "class": "stop_position",
       "lat": 45.5400226,
@@ -32664,13 +32671,6 @@
       "class": "stop_position",
       "lat": 45.5400287,
       "lng": 9.285768,
-      "distance_km": 8.41
-    },
-    {
-      "name": "VIMERCATE Ruginello - Via Diaz Via Eritrea",
-      "class": "bus_stop",
-      "lat": 45.6269888,
-      "lng": 9.3879697,
       "distance_km": 8.41
     },
     {
@@ -32709,6 +32709,13 @@
       "distance_km": 8.42
     },
     {
+      "name": "Via Fidelina",
+      "class": "bus_stop",
+      "lat": 45.5525651,
+      "lng": 9.3411393,
+      "distance_km": 8.42
+    },
+    {
       "name": "Via Bellini - Viale Casiraghi (Sesto San Giovanni)",
       "class": "stop_position",
       "lat": 45.5463957,
@@ -32741,13 +32748,6 @@
       "class": "bus_stop",
       "lat": 45.5399721,
       "lng": 9.2862676,
-      "distance_km": 8.42
-    },
-    {
-      "name": "Via Fidelina",
-      "class": "bus_stop",
-      "lat": 45.5525651,
-      "lng": 9.3411393,
       "distance_km": 8.42
     },
     {
@@ -33094,6 +33094,13 @@
       "distance_km": 8.55
     },
     {
+      "name": "AGRATE Omate - Via De Gasperi",
+      "class": "bus_stop",
+      "lat": 45.5781808,
+      "lng": 9.3771502,
+      "distance_km": 8.55
+    },
+    {
       "name": "Viale Lombardia - Via Don Sturzo (Cologno Monzese)",
       "class": "bus_stop",
       "lat": 45.5388347,
@@ -33105,13 +33112,6 @@
       "class": "stop_position",
       "lat": 45.5388332,
       "lng": 9.274988,
-      "distance_km": 8.55
-    },
-    {
-      "name": "AGRATE Omate - Via De Gasperi",
-      "class": "bus_stop",
-      "lat": 45.5781808,
-      "lng": 9.3771502,
       "distance_km": 8.55
     },
     {
@@ -33416,6 +33416,13 @@
       "distance_km": 8.71
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5526186,
+      "lng": 9.3475823,
+      "distance_km": 8.71
+    },
+    {
       "name": "Via Roma (Tangenziale Est) (Cologno)",
       "class": "bus_stop",
       "lat": 45.5373471,
@@ -33427,13 +33434,6 @@
       "class": "stop_position",
       "lat": 45.5373215,
       "lng": 9.2854979,
-      "distance_km": 8.71
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5526186,
-      "lng": 9.3475823,
       "distance_km": 8.71
     },
     {
@@ -33598,6 +33598,20 @@
       "distance_km": 8.75
     },
     {
+      "name": "AGRATE Via Filzi Via Cavour",
+      "class": "bus_stop",
+      "lat": 45.5782813,
+      "lng": 9.3802128,
+      "distance_km": 8.76
+    },
+    {
+      "name": "AGRATE Via Filzi Via D. Chiesa",
+      "class": "bus_stop",
+      "lat": 45.5784615,
+      "lng": 9.3803264,
+      "distance_km": 8.76
+    },
+    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 45.5424649,
@@ -33637,20 +33651,6 @@
       "class": "platform",
       "lat": 45.54237962221962,
       "lng": 9.239528149696731,
-      "distance_km": 8.76
-    },
-    {
-      "name": "AGRATE Via Filzi Via Cavour",
-      "class": "bus_stop",
-      "lat": 45.5782813,
-      "lng": 9.3802128,
-      "distance_km": 8.76
-    },
-    {
-      "name": "AGRATE Via Filzi Via D. Chiesa",
-      "class": "bus_stop",
-      "lat": 45.5784615,
-      "lng": 9.3803264,
       "distance_km": 8.76
     },
     {
@@ -33990,6 +33990,13 @@
       "distance_km": 8.9
     },
     {
+      "name": "CAPONAGO Via V. Emanuele",
+      "class": "bus_stop",
+      "lat": 45.5663236,
+      "lng": 9.3713597,
+      "distance_km": 8.91
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.53582370637353,
@@ -34067,13 +34074,6 @@
       "distance_km": 8.91
     },
     {
-      "name": "CAPONAGO Via V. Emanuele",
-      "class": "bus_stop",
-      "lat": 45.5663236,
-      "lng": 9.3713597,
-      "distance_km": 8.91
-    },
-    {
       "name": "Via De Sanctis - Via Gozzano (Cinisello Balsamo)",
       "class": "stop_position",
       "lat": 45.5478981,
@@ -34123,6 +34123,13 @@
       "distance_km": 8.93
     },
     {
+      "name": "CAPONAGO Via Sen. Simonetta",
+      "class": "bus_stop",
+      "lat": 45.5675416,
+      "lng": 9.3729841,
+      "distance_km": 8.93
+    },
+    {
       "name": "Cologno Nord M2",
       "class": "bus_stop",
       "lat": 45.5356458,
@@ -34134,13 +34141,6 @@
       "class": "platform",
       "lat": 45.535674121926455,
       "lng": 9.292051963843845,
-      "distance_km": 8.93
-    },
-    {
-      "name": "CAPONAGO Via Sen. Simonetta",
-      "class": "bus_stop",
-      "lat": 45.5675416,
-      "lng": 9.3729841,
       "distance_km": 8.93
     },
     {
@@ -34200,6 +34200,13 @@
       "distance_km": 8.95
     },
     {
+      "name": "CAPONAGO Via V. Emanuele",
+      "class": "bus_stop",
+      "lat": 45.5662277,
+      "lng": 9.3718697,
+      "distance_km": 8.95
+    },
+    {
       "name": "Cologno Nord M2",
       "class": "stop_position",
       "lat": 45.5354678,
@@ -34211,13 +34218,6 @@
       "class": "bus_stop",
       "lat": 45.5354514,
       "lng": 9.2919981,
-      "distance_km": 8.95
-    },
-    {
-      "name": "CAPONAGO Via V. Emanuele",
-      "class": "bus_stop",
-      "lat": 45.5662277,
-      "lng": 9.3718697,
       "distance_km": 8.95
     },
     {
@@ -34284,6 +34284,20 @@
       "distance_km": 8.97
     },
     {
+      "name": "VIMERCATE Via Trezzo",
+      "class": "bus_stop",
+      "lat": 45.6153413,
+      "lng": 9.3964649,
+      "distance_km": 8.97
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 45.6152658,
+      "lng": 9.3964435,
+      "distance_km": 8.97
+    },
+    {
       "name": "Cologno Nord M2",
       "class": "bus_station",
       "lat": 45.5352789905914,
@@ -34323,20 +34337,6 @@
       "class": "bus_stop",
       "lat": 45.5408845,
       "lng": 9.2377308,
-      "distance_km": 8.97
-    },
-    {
-      "name": "VIMERCATE Via Trezzo",
-      "class": "bus_stop",
-      "lat": 45.6153413,
-      "lng": 9.3964649,
-      "distance_km": 8.97
-    },
-    {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 45.6152658,
-      "lng": 9.3964435,
       "distance_km": 8.97
     },
     {
@@ -34382,6 +34382,13 @@
       "distance_km": 8.98
     },
     {
+      "name": "CAPONAGO Via Sen. Simonetta",
+      "class": "bus_stop",
+      "lat": 45.5667308,
+      "lng": 9.3732093,
+      "distance_km": 8.99
+    },
+    {
       "name": "Corso Roma - Via Boccaccio (Cologno)",
       "class": "bus_stop",
       "lat": 45.5347295,
@@ -34414,13 +34421,6 @@
       "class": "stop_position",
       "lat": 45.5453851,
       "lng": 9.2239405,
-      "distance_km": 8.99
-    },
-    {
-      "name": "CAPONAGO Via Sen. Simonetta",
-      "class": "bus_stop",
-      "lat": 45.5667308,
-      "lng": 9.3732093,
       "distance_km": 8.99
     },
     {
@@ -34515,17 +34515,17 @@
       "distance_km": 9.04
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5346699,
-      "lng": 9.2934922,
-      "distance_km": 9.05
-    },
-    {
       "name": "Via Asiago",
       "class": "bus_stop",
       "lat": 45.5501454,
       "lng": 9.35024,
+      "distance_km": 9.05
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5346699,
+      "lng": 9.2934922,
       "distance_km": 9.05
     },
     {
@@ -34956,20 +34956,6 @@
       "distance_km": 9.26
     },
     {
-      "name": "Via Giovanna d'Arco - Via Acciaierie (Sesto San Giovanni)",
-      "class": "bus_stop",
-      "lat": 45.5378392,
-      "lng": 9.2384046,
-      "distance_km": 9.26
-    },
-    {
-      "name": "Via Giovanna d'Arco - Via Acciaierie (Sesto San Giovanni)",
-      "class": "stop_position",
-      "lat": 45.5378837,
-      "lng": 9.2384501,
-      "distance_km": 9.26
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.56471301605502,
@@ -34981,6 +34967,20 @@
       "class": "bus_stop",
       "lat": 45.6368158,
       "lng": 9.3962383,
+      "distance_km": 9.26
+    },
+    {
+      "name": "Via Giovanna d'Arco - Via Acciaierie (Sesto San Giovanni)",
+      "class": "bus_stop",
+      "lat": 45.5378392,
+      "lng": 9.2384046,
+      "distance_km": 9.26
+    },
+    {
+      "name": "Via Giovanna d'Arco - Via Acciaierie (Sesto San Giovanni)",
+      "class": "stop_position",
+      "lat": 45.5378837,
+      "lng": 9.2384501,
       "distance_km": 9.26
     },
     {
@@ -36524,6 +36524,13 @@
       "distance_km": 9.83
     },
     {
+      "name": "AICURZIO C.na Restelli",
+      "class": "bus_stop",
+      "lat": 45.638386,
+      "lng": 9.4033406,
+      "distance_km": 9.84
+    },
+    {
       "name": "Cologno Centro",
       "class": "stop_position",
       "lat": 45.5271269,
@@ -36547,9 +36554,9 @@
     {
       "name": "AICURZIO C.na Restelli",
       "class": "bus_stop",
-      "lat": 45.638386,
-      "lng": 9.4033406,
-      "distance_km": 9.84
+      "lat": 45.6384542,
+      "lng": 9.4034524,
+      "distance_km": 9.85
     },
     {
       "name": "Via Longarone (Cimitero) (Cologno)",
@@ -36591,13 +36598,6 @@
       "class": "bus_stop",
       "lat": 45.5358963,
       "lng": 9.22576,
-      "distance_km": 9.85
-    },
-    {
-      "name": "AICURZIO C.na Restelli",
-      "class": "bus_stop",
-      "lat": 45.6384542,
-      "lng": 9.4034524,
       "distance_km": 9.85
     },
     {
@@ -36769,6 +36769,13 @@
       "distance_km": 9.92
     },
     {
+      "name": "BELLUSCO Via Milano",
+      "class": "bus_stop",
+      "lat": 45.6179534,
+      "lng": 9.4086029,
+      "distance_km": 9.92
+    },
+    {
       "name": "Viale Italia - Via Rimembranze (Sesto San Giovanni)",
       "class": "stop_position",
       "lat": 45.5312393,
@@ -36780,13 +36787,6 @@
       "class": "bus_stop",
       "lat": 45.5312295,
       "lng": 9.2398557,
-      "distance_km": 9.92
-    },
-    {
-      "name": "BELLUSCO Via Milano",
-      "class": "bus_stop",
-      "lat": 45.6179534,
-      "lng": 9.4086029,
       "distance_km": 9.92
     },
     {
@@ -36895,17 +36895,17 @@
       "distance_km": 9.98
     },
     {
-      "name": "Via Emilia - Viale Liguria (Cologno Monzese)",
-      "class": "stop_position",
-      "lat": 45.5260968,
-      "lng": 9.2722244,
-      "distance_km": 9.98
-    },
-    {
       "name": "BELLUSCO Via Milano",
       "class": "bus_stop",
       "lat": 45.6177876,
       "lng": 9.4094234,
+      "distance_km": 9.98
+    },
+    {
+      "name": "Via Emilia - Viale Liguria (Cologno Monzese)",
+      "class": "stop_position",
+      "lat": 45.5260968,
+      "lng": 9.2722244,
       "distance_km": 9.98
     },
     {
@@ -37280,17 +37280,17 @@
       "distance_km": 10.08
     },
     {
-      "name": "Via Pace - Via Volontari del Sangue (Sesto San Giovanni)",
-      "class": "bus_stop",
-      "lat": 45.5281466,
-      "lng": 9.2468978,
-      "distance_km": 10.08
-    },
-    {
       "name": "CAVENAGO Via Roma Via Miles",
       "class": "bus_stop",
       "lat": 45.580206,
       "lng": 9.4003341,
+      "distance_km": 10.08
+    },
+    {
+      "name": "Via Pace - Via Volontari del Sangue (Sesto San Giovanni)",
+      "class": "bus_stop",
+      "lat": 45.5281466,
+      "lng": 9.2468978,
       "distance_km": 10.08
     },
     {
@@ -37322,6 +37322,13 @@
       "distance_km": 10.09
     },
     {
+      "name": "CAVENAGO Via Roma Via Miles",
+      "class": "bus_stop",
+      "lat": 45.5800662,
+      "lng": 9.400391,
+      "distance_km": 10.09
+    },
+    {
       "name": "Via Fiume - Via Cadore (Cernusco sul Naviglio)",
       "class": "bus_stop",
       "lat": 45.5322054,
@@ -37333,13 +37340,6 @@
       "class": "bus_stop",
       "lat": 45.5314626,
       "lng": 9.3298013,
-      "distance_km": 10.09
-    },
-    {
-      "name": "CAVENAGO Via Roma Via Miles",
-      "class": "bus_stop",
-      "lat": 45.5800662,
-      "lng": 9.400391,
       "distance_km": 10.09
     },
     {
@@ -38260,17 +38260,17 @@
       "distance_km": 10.38
     },
     {
-      "name": "Via Colombo (Cernusco sul Naviglio)",
-      "class": "bus_stop",
-      "lat": 45.5270346,
-      "lng": 9.3231279,
-      "distance_km": 10.38
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 45.5505062,
       "lng": 9.3767265,
+      "distance_km": 10.38
+    },
+    {
+      "name": "Via Colombo (Cernusco sul Naviglio)",
+      "class": "bus_stop",
+      "lat": 45.5270346,
+      "lng": 9.3231279,
       "distance_km": 10.38
     },
     {
@@ -38526,20 +38526,6 @@
       "distance_km": 10.46
     },
     {
-      "name": "Via Caravaggio",
-      "class": "stop_position",
-      "lat": 45.5389983,
-      "lng": 9.3591607,
-      "distance_km": 10.46
-    },
-    {
-      "name": "Via Adua - Via Manzoni (Cernusco sul Naviglio)",
-      "class": "bus_stop",
-      "lat": 45.5281327,
-      "lng": 9.3304069,
-      "distance_km": 10.46
-    },
-    {
       "name": "BELLUSCO Circonvallazione",
       "class": "bus_stop",
       "lat": 45.6133551,
@@ -38551,6 +38537,20 @@
       "class": "stop_position",
       "lat": 45.6132764,
       "lng": 9.4155834,
+      "distance_km": 10.46
+    },
+    {
+      "name": "Via Caravaggio",
+      "class": "stop_position",
+      "lat": 45.5389983,
+      "lng": 9.3591607,
+      "distance_km": 10.46
+    },
+    {
+      "name": "Via Adua - Via Manzoni (Cernusco sul Naviglio)",
+      "class": "bus_stop",
+      "lat": 45.5281327,
+      "lng": 9.3304069,
       "distance_km": 10.46
     },
     {
@@ -38624,20 +38624,6 @@
       "distance_km": 10.49
     },
     {
-      "name": "Viale Edison - Piazza XI Settembre (Sesto San Giovanni)",
-      "class": "stop_position",
-      "lat": 45.5266541,
-      "lng": 9.2356709,
-      "distance_km": 10.5
-    },
-    {
-      "name": "Via Oberdan (Cernusco sul Naviglio)",
-      "class": "bus_stop",
-      "lat": 45.5265942,
-      "lng": 9.3262872,
-      "distance_km": 10.5
-    },
-    {
       "name": "BELLUSCO Circonvallazione",
       "class": "bus_stop",
       "lat": 45.6131324,
@@ -38649,6 +38635,20 @@
       "class": "stop_position",
       "lat": 45.6132263,
       "lng": 9.4160682,
+      "distance_km": 10.5
+    },
+    {
+      "name": "Viale Edison - Piazza XI Settembre (Sesto San Giovanni)",
+      "class": "stop_position",
+      "lat": 45.5266541,
+      "lng": 9.2356709,
+      "distance_km": 10.5
+    },
+    {
+      "name": "Via Oberdan (Cernusco sul Naviglio)",
+      "class": "bus_stop",
+      "lat": 45.5265942,
+      "lng": 9.3262872,
       "distance_km": 10.5
     },
     {
@@ -38736,6 +38736,13 @@
       "distance_km": 10.54
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5500781,
+      "lng": 9.3789752,
+      "distance_km": 10.54
+    },
+    {
       "name": "Via Livorno, 89 (Sesto San Giovanni)",
       "class": "bus_stop",
       "lat": 45.5232139,
@@ -38754,13 +38761,6 @@
       "class": "bus_stop",
       "lat": 45.5275016,
       "lng": 9.331173,
-      "distance_km": 10.54
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5500781,
-      "lng": 9.3789752,
       "distance_km": 10.54
     },
     {
@@ -38869,6 +38869,13 @@
       "distance_km": 10.57
     },
     {
+      "name": "BELLUSCO Via Castello",
+      "class": "bus_stop",
+      "lat": 45.6169791,
+      "lng": 9.4169629,
+      "distance_km": 10.57
+    },
+    {
       "name": "Cologno Sud M2",
       "class": "stop_position",
       "lat": 45.5206717,
@@ -38887,13 +38894,6 @@
       "class": "bus_stop",
       "lat": 45.5328992,
       "lng": 9.3481735,
-      "distance_km": 10.57
-    },
-    {
-      "name": "BELLUSCO Via Castello",
-      "class": "bus_stop",
-      "lat": 45.6169791,
-      "lng": 9.4169629,
       "distance_km": 10.57
     },
     {
@@ -39051,6 +39051,13 @@
       "distance_km": 10.62
     },
     {
+      "name": "CAVENAGO Via Roma Via S. Maria del Campo",
+      "class": "bus_stop",
+      "lat": 45.5819728,
+      "lng": 9.4089128,
+      "distance_km": 10.62
+    },
+    {
       "name": "Cologno Sud",
       "class": "stop_position",
       "lat": 45.5201848,
@@ -39076,13 +39083,6 @@
       "class": "stop_position",
       "lat": 45.5202063,
       "lng": 9.2749097,
-      "distance_km": 10.62
-    },
-    {
-      "name": "CAVENAGO Via Roma Via S. Maria del Campo",
-      "class": "bus_stop",
-      "lat": 45.5819728,
-      "lng": 9.4089128,
       "distance_km": 10.62
     },
     {
@@ -39359,13 +39359,6 @@
       "distance_km": 10.69
     },
     {
-      "name": "Via Marx - Via Livorno (Sesto San Giovanni)",
-      "class": "stop_position",
-      "lat": 45.5227246,
-      "lng": 9.2456454,
-      "distance_km": 10.69
-    },
-    {
       "name": "ORNAGO Via Vimercate",
       "class": "bus_stop",
       "lat": 45.601115,
@@ -39378,6 +39371,20 @@
       "lat": 45.6169254,
       "lng": 9.4184764,
       "distance_km": 10.69
+    },
+    {
+      "name": "Via Marx - Via Livorno (Sesto San Giovanni)",
+      "class": "stop_position",
+      "lat": 45.5227246,
+      "lng": 9.2456454,
+      "distance_km": 10.69
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5661688,
+      "lng": 9.39902,
+      "distance_km": 10.7
     },
     {
       "name": "Cologno Sud M2",
@@ -39405,13 +39412,6 @@
       "class": "bus_stop",
       "lat": 45.5235743,
       "lng": 9.2409577,
-      "distance_km": 10.7
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5661688,
-      "lng": 9.39902,
       "distance_km": 10.7
     },
     {
@@ -39583,13 +39583,6 @@
       "distance_km": 10.76
     },
     {
-      "name": "Via Stampa - Via Anguissola (Cernusco sul Naviglio)",
-      "class": "bus_stop",
-      "lat": 45.5304535,
-      "lng": 9.3466722,
-      "distance_km": 10.76
-    },
-    {
       "name": "Piazza Castello",
       "class": "bus_stop",
       "lat": 45.5512693,
@@ -39597,10 +39590,24 @@
       "distance_km": 10.76
     },
     {
+      "name": "Via Stampa - Via Anguissola (Cernusco sul Naviglio)",
+      "class": "bus_stop",
+      "lat": 45.5304535,
+      "lng": 9.3466722,
+      "distance_km": 10.76
+    },
+    {
       "name": "Via Bellini - Via Vittorio Veneto (Cusano Milanino)",
       "class": "bus_stop",
       "lat": 45.5451121,
       "lng": 9.1862682,
+      "distance_km": 10.77
+    },
+    {
+      "name": "SULBIATE P.za Castello",
+      "class": "bus_stop",
+      "lat": 45.6308536,
+      "lng": 9.4179074,
       "distance_km": 10.77
     },
     {
@@ -39629,13 +39636,6 @@
       "class": "bus_stop",
       "lat": 45.5228826,
       "lng": 9.2412376,
-      "distance_km": 10.77
-    },
-    {
-      "name": "SULBIATE P.za Castello",
-      "class": "bus_stop",
-      "lat": 45.6308536,
-      "lng": 9.4179074,
       "distance_km": 10.77
     },
     {
@@ -39681,6 +39681,13 @@
       "distance_km": 10.79
     },
     {
+      "name": "SULBIATE P.za Castello",
+      "class": "bus_stop",
+      "lat": 45.6307879,
+      "lng": 9.4180731,
+      "distance_km": 10.79
+    },
+    {
       "name": "Via Livorno, 236 (Sesto San Giovanni)",
       "class": "stop_position",
       "lat": 45.52099,
@@ -39706,13 +39713,6 @@
       "class": "stop_position",
       "lat": 45.5381443,
       "lng": 9.3646694,
-      "distance_km": 10.79
-    },
-    {
-      "name": "SULBIATE P.za Castello",
-      "class": "bus_stop",
-      "lat": 45.6307879,
-      "lng": 9.4180731,
       "distance_km": 10.79
     },
     {
@@ -39975,6 +39975,20 @@
       "distance_km": 10.82
     },
     {
+      "name": "ORNAGO Via Bellusco",
+      "class": "bus_stop",
+      "lat": 45.6012095,
+      "lng": 9.4187405,
+      "distance_km": 10.83
+    },
+    {
+      "name": "ORNAGO Via Bellusco",
+      "class": "bus_stop",
+      "lat": 45.6015169,
+      "lng": 9.4189174,
+      "distance_km": 10.83
+    },
+    {
       "name": "Via Buonarroti - Piazza Mercato (Cernusco sul Naviglio)",
       "class": "bus_stop",
       "lat": 45.5222645,
@@ -40000,20 +40014,6 @@
       "class": "stop_position",
       "lat": 45.522258,
       "lng": 9.2413184,
-      "distance_km": 10.83
-    },
-    {
-      "name": "ORNAGO Via Bellusco",
-      "class": "bus_stop",
-      "lat": 45.6012095,
-      "lng": 9.4187405,
-      "distance_km": 10.83
-    },
-    {
-      "name": "ORNAGO Via Bellusco",
-      "class": "bus_stop",
-      "lat": 45.6015169,
-      "lng": 9.4189174,
       "distance_km": 10.83
     },
     {
@@ -40339,17 +40339,17 @@
       "distance_km": 10.91
     },
     {
-      "name": "Via Verdi - Via Carroccio (Cernusco sul Naviglio)",
-      "class": "bus_stop",
-      "lat": 45.5257803,
-      "lng": 9.3374668,
-      "distance_km": 10.91
-    },
-    {
       "name": "BELLUSCO C.so Alpi Via Mezzago",
       "class": "bus_stop",
       "lat": 45.6225609,
       "lng": 9.42108,
+      "distance_km": 10.91
+    },
+    {
+      "name": "Via Verdi - Via Carroccio (Cernusco sul Naviglio)",
+      "class": "bus_stop",
+      "lat": 45.5257803,
+      "lng": 9.3374668,
       "distance_km": 10.91
     },
     {
@@ -40430,6 +40430,13 @@
       "distance_km": 10.93
     },
     {
+      "name": "CAVENAGO Via Dante",
+      "class": "bus_stop",
+      "lat": 45.5865303,
+      "lng": 9.4153264,
+      "distance_km": 10.93
+    },
+    {
       "name": "Corso Europa",
       "class": "bus_stop",
       "lat": 45.5487417,
@@ -40441,13 +40448,6 @@
       "class": "bus_stop",
       "lat": 45.548145,
       "lng": 9.3832242,
-      "distance_km": 10.93
-    },
-    {
-      "name": "CAVENAGO Via Dante",
-      "class": "bus_stop",
-      "lat": 45.5865303,
-      "lng": 9.4153264,
       "distance_km": 10.93
     },
     {
@@ -40472,6 +40472,13 @@
       "distance_km": 10.94
     },
     {
+      "name": "CAVENAGO Via Roma Via 24 Maggio",
+      "class": "bus_stop",
+      "lat": 45.583252,
+      "lng": 9.4138418,
+      "distance_km": 10.94
+    },
+    {
       "name": "Sesto Marelli M1",
       "class": "stop_position",
       "lat": 45.5241631,
@@ -40490,13 +40497,6 @@
       "class": "stop_position",
       "lat": 45.5487201,
       "lng": 9.3841899,
-      "distance_km": 10.94
-    },
-    {
-      "name": "CAVENAGO Via Roma Via 24 Maggio",
-      "class": "bus_stop",
-      "lat": 45.583252,
-      "lng": 9.4138418,
       "distance_km": 10.94
     },
     {
@@ -40801,6 +40801,13 @@
       "distance_km": 11.01
     },
     {
+      "name": "SULBIATE P.za Giovanni XXIII",
+      "class": "bus_stop",
+      "lat": 45.6339623,
+      "lng": 9.420412,
+      "distance_km": 11.02
+    },
+    {
       "name": "Cascina Burrona M2 (Cascina Burrona)",
       "class": "stop_position",
       "lat": 45.5171776,
@@ -40819,13 +40826,6 @@
       "class": "bus_stop",
       "lat": 45.5172074,
       "lng": 9.2979868,
-      "distance_km": 11.02
-    },
-    {
-      "name": "SULBIATE P.za Giovanni XXIII",
-      "class": "bus_stop",
-      "lat": 45.6339623,
-      "lng": 9.420412,
       "distance_km": 11.02
     },
     {
@@ -40927,6 +40927,13 @@
       "distance_km": 11.04
     },
     {
+      "name": "SULBIATE P.za Giovanni XXIII",
+      "class": "bus_stop",
+      "lat": 45.634099,
+      "lng": 9.420549,
+      "distance_km": 11.04
+    },
+    {
       "name": "Via Cavour - Via Tizzoni (Cernusco sul Naviglio)",
       "class": "bus_stop",
       "lat": 45.5232397,
@@ -40938,13 +40945,6 @@
       "class": "bus_stop",
       "lat": 45.5268796,
       "lng": 9.3446256,
-      "distance_km": 11.04
-    },
-    {
-      "name": "SULBIATE P.za Giovanni XXIII",
-      "class": "bus_stop",
-      "lat": 45.634099,
-      "lng": 9.420549,
       "distance_km": 11.04
     },
     {
@@ -40962,13 +40962,6 @@
       "distance_km": 11.05
     },
     {
-      "name": "Sesto Marelli",
-      "class": "subway_station",
-      "lat": 45.5234659,
-      "lng": 9.2279521,
-      "distance_km": 11.05
-    },
-    {
       "name": "ORNAGO P.za Martiri",
       "class": "bus_stop",
       "lat": 45.5985969,
@@ -40980,6 +40973,13 @@
       "class": "bus_stop",
       "lat": 45.6172861,
       "lng": 9.4231981,
+      "distance_km": 11.05
+    },
+    {
+      "name": "Sesto Marelli",
+      "class": "subway_station",
+      "lat": 45.5234659,
+      "lng": 9.2279521,
       "distance_km": 11.05
     },
     {
@@ -41053,6 +41053,13 @@
       "distance_km": 11.07
     },
     {
+      "name": "BELLUSCO C.so Alpi Via Bergamo",
+      "class": "bus_stop",
+      "lat": 45.6175056,
+      "lng": 9.4234302,
+      "distance_km": 11.07
+    },
+    {
       "name": "Sesto Marelli",
       "class": "stop_position",
       "lat": 45.5232752,
@@ -41064,13 +41071,6 @@
       "class": "stop_position",
       "lat": 45.5232685,
       "lng": 9.2279104,
-      "distance_km": 11.07
-    },
-    {
-      "name": "BELLUSCO C.so Alpi Via Bergamo",
-      "class": "bus_stop",
-      "lat": 45.6175056,
-      "lng": 9.4234302,
       "distance_km": 11.07
     },
     {
@@ -41109,13 +41109,6 @@
       "distance_km": 11.09
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.515908851149966,
-      "lng": 9.286649713267025,
-      "distance_km": 11.09
-    },
-    {
       "name": "CAVENAGO Via Roma Via 24 Maggio",
       "class": "bus_stop",
       "lat": 45.5837042,
@@ -41127,6 +41120,13 @@
       "class": "bus_stop",
       "lat": 45.5821528,
       "lng": 9.4154042,
+      "distance_km": 11.09
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.515908851149966,
+      "lng": 9.286649713267025,
       "distance_km": 11.09
     },
     {
@@ -41452,6 +41452,13 @@
       "distance_km": 11.19
     },
     {
+      "name": "CAVENAGO Via Piave",
+      "class": "bus_stop",
+      "lat": 45.5817789,
+      "lng": 9.4167347,
+      "distance_km": 11.2
+    },
+    {
       "name": "Viale Assunta (Cernusco sul Naviglio M2) (Cernusco sul Naviglio)",
       "class": "bus_stop",
       "lat": 45.5210045,
@@ -41463,13 +41470,6 @@
       "class": "platform",
       "lat": 45.5210307,
       "lng": 9.3304556,
-      "distance_km": 11.2
-    },
-    {
-      "name": "CAVENAGO Via Piave",
-      "class": "bus_stop",
-      "lat": 45.5817789,
-      "lng": 9.4167347,
       "distance_km": 11.2
     },
     {
@@ -42131,6 +42131,20 @@
       "distance_km": 11.37
     },
     {
+      "name": "BELLUSCO Via Bergamo",
+      "class": "bus_stop",
+      "lat": 45.6165263,
+      "lng": 9.4272588,
+      "distance_km": 11.37
+    },
+    {
+      "name": "SULBIATE Via Madre Laura",
+      "class": "bus_stop",
+      "lat": 45.636689,
+      "lng": 9.4242161,
+      "distance_km": 11.37
+    },
+    {
       "name": "Via Trasimeno - Via San Mamete",
       "class": "stop_position",
       "lat": 45.5155064,
@@ -42163,20 +42177,6 @@
       "class": "bus_stop",
       "lat": 45.5223424,
       "lng": 9.2212478,
-      "distance_km": 11.37
-    },
-    {
-      "name": "BELLUSCO Via Bergamo",
-      "class": "bus_stop",
-      "lat": 45.6165263,
-      "lng": 9.4272588,
-      "distance_km": 11.37
-    },
-    {
-      "name": "SULBIATE Via Madre Laura",
-      "class": "bus_stop",
-      "lat": 45.636689,
-      "lng": 9.4242161,
       "distance_km": 11.37
     },
     {
@@ -42264,6 +42264,13 @@
       "distance_km": 11.39
     },
     {
+      "name": "BELLUSCO Via Bergamo",
+      "class": "bus_stop",
+      "lat": 45.6163987,
+      "lng": 9.4275006,
+      "distance_km": 11.39
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.516467167139965,
@@ -42282,13 +42289,6 @@
       "class": "stop_position",
       "lat": 45.520258,
       "lng": 9.2276312,
-      "distance_km": 11.39
-    },
-    {
-      "name": "BELLUSCO Via Bergamo",
-      "class": "bus_stop",
-      "lat": 45.6163987,
-      "lng": 9.4275006,
       "distance_km": 11.39
     },
     {
@@ -42313,6 +42313,13 @@
       "distance_km": 11.4
     },
     {
+      "name": "SULBIATE Via Madre Laura",
+      "class": "bus_stop",
+      "lat": 45.6367321,
+      "lng": 9.4245915,
+      "distance_km": 11.4
+    },
+    {
       "name": "Via Saragat - Via Trasimeno",
       "class": "stop_position",
       "lat": 45.5154319,
@@ -42331,13 +42338,6 @@
       "class": "bus_stop",
       "lat": 45.5154876,
       "lng": 9.2496582,
-      "distance_km": 11.4
-    },
-    {
-      "name": "SULBIATE Via Madre Laura",
-      "class": "bus_stop",
-      "lat": 45.6367321,
-      "lng": 9.4245915,
       "distance_km": 11.4
     },
     {
@@ -43062,6 +43062,13 @@
       "distance_km": 11.54
     },
     {
+      "name": "CAMBIAGO V.le Brianza Via De Gasperi",
+      "class": "bus_stop",
+      "lat": 45.575609,
+      "lng": 9.4180072,
+      "distance_km": 11.54
+    },
+    {
       "name": "Vimodrone M2",
       "class": "bus_stop",
       "lat": 45.5118556,
@@ -43080,13 +43087,6 @@
       "class": "bus_stop",
       "lat": 45.5167596,
       "lng": 9.32611,
-      "distance_km": 11.54
-    },
-    {
-      "name": "CAMBIAGO V.le Brianza Via De Gasperi",
-      "class": "bus_stop",
-      "lat": 45.575609,
-      "lng": 9.4180072,
       "distance_km": 11.54
     },
     {
@@ -44364,6 +44364,13 @@
       "distance_km": 11.73
     },
     {
+      "name": "SULBIATE Via Aldo Moro",
+      "class": "bus_stop",
+      "lat": 45.6384777,
+      "lng": 9.4283214,
+      "distance_km": 11.73
+    },
+    {
       "name": "Cascina Gobba",
       "class": "stop_position",
       "lat": 45.5110804,
@@ -44389,13 +44396,6 @@
       "class": "bus_stop",
       "lat": 45.5105557,
       "lng": 9.2669085,
-      "distance_km": 11.73
-    },
-    {
-      "name": "SULBIATE Via Aldo Moro",
-      "class": "bus_stop",
-      "lat": 45.6384777,
-      "lng": 9.4283214,
       "distance_km": 11.73
     },
     {
@@ -44438,6 +44438,13 @@
       "class": "stop_position",
       "lat": 45.521981,
       "lng": 9.2113937,
+      "distance_km": 11.74
+    },
+    {
+      "name": "SULBIATE Via Aldo Moro",
+      "class": "bus_stop",
+      "lat": 45.6381505,
+      "lng": 9.428536,
       "distance_km": 11.74
     },
     {
@@ -44501,13 +44508,6 @@
       "class": "stop_position",
       "lat": 45.5172994,
       "lng": 9.2260089,
-      "distance_km": 11.74
-    },
-    {
-      "name": "SULBIATE Via Aldo Moro",
-      "class": "bus_stop",
-      "lat": 45.6381505,
-      "lng": 9.428536,
       "distance_km": 11.74
     },
     {
@@ -45022,6 +45022,13 @@
       "distance_km": 11.83
     },
     {
+      "name": "SULBIATE Via IV Novembre",
+      "class": "bus_stop",
+      "lat": 45.6353608,
+      "lng": 9.4305322,
+      "distance_km": 11.83
+    },
+    {
       "name": "Via Gassman - Via Tognazzi",
       "class": "bus_stop",
       "lat": 45.5133293,
@@ -45033,13 +45040,6 @@
       "class": "platform",
       "lat": 45.513327843984186,
       "lng": 9.239239401308925,
-      "distance_km": 11.83
-    },
-    {
-      "name": "SULBIATE Via IV Novembre",
-      "class": "bus_stop",
-      "lat": 45.6353608,
-      "lng": 9.4305322,
       "distance_km": 11.83
     },
     {
@@ -45078,6 +45078,13 @@
       "distance_km": 11.85
     },
     {
+      "name": "SULBIATE Via IV Novembre",
+      "class": "bus_stop",
+      "lat": 45.6354704,
+      "lng": 9.4307649,
+      "distance_km": 11.85
+    },
+    {
       "name": "Via Adriano - Via del Ricordo",
       "class": "bus_stop",
       "lat": 45.5117745,
@@ -45110,13 +45117,6 @@
       "class": "stop_position",
       "lat": 45.5132639,
       "lng": 9.2386782,
-      "distance_km": 11.85
-    },
-    {
-      "name": "SULBIATE Via IV Novembre",
-      "class": "bus_stop",
-      "lat": 45.6354704,
-      "lng": 9.4307649,
       "distance_km": 11.85
     },
     {
@@ -45260,6 +45260,13 @@
       "distance_km": 11.89
     },
     {
+      "name": "CAMBIAGO V.le Brianza V.le Vittorio Veneto",
+      "class": "bus_stop",
+      "lat": 45.5726257,
+      "lng": 9.4209786,
+      "distance_km": 11.89
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.5103311,
@@ -45278,13 +45285,6 @@
       "class": "platform",
       "lat": 45.5138533,
       "lng": 9.234017099999999,
-      "distance_km": 11.89
-    },
-    {
-      "name": "CAMBIAGO V.le Brianza V.le Vittorio Veneto",
-      "class": "bus_stop",
-      "lat": 45.5726257,
-      "lng": 9.4209786,
       "distance_km": 11.89
     },
     {
@@ -46240,17 +46240,17 @@
       "distance_km": 12.06
     },
     {
-      "name": "Via del Ricordo - Via De Notaris",
-      "class": "stop_position",
-      "lat": 45.5104289,
-      "lng": 9.2435111,
-      "distance_km": 12.06
-    },
-    {
       "name": "ORNAGO Via Santuario",
       "class": "bus_stop",
       "lat": 45.5987411,
       "lng": 9.4342735,
+      "distance_km": 12.06
+    },
+    {
+      "name": "Via del Ricordo - Via De Notaris",
+      "class": "stop_position",
+      "lat": 45.5104289,
+      "lng": 9.2435111,
       "distance_km": 12.06
     },
     {
@@ -46324,6 +46324,13 @@
       "distance_km": 12.11
     },
     {
+      "name": "ORNAGO Via Santuario",
+      "class": "bus_stop",
+      "lat": 45.5986835,
+      "lng": 9.4348666,
+      "distance_km": 12.11
+    },
+    {
       "name": "Via Ponte Nuovo - Via Mariani",
       "class": "bus_stop",
       "lat": 45.511578,
@@ -46349,13 +46356,6 @@
       "class": "bus_stop",
       "lat": 45.5070425,
       "lng": 9.2678687,
-      "distance_km": 12.11
-    },
-    {
-      "name": "ORNAGO Via Santuario",
-      "class": "bus_stop",
-      "lat": 45.5986835,
-      "lng": 9.4348666,
       "distance_km": 12.11
     },
     {
@@ -46569,6 +46569,13 @@
       "distance_km": 12.14
     },
     {
+      "name": "CAMBIAGO Via Manzoni",
+      "class": "bus_stop",
+      "lat": 45.5697218,
+      "lng": 9.4226622,
+      "distance_km": 12.14
+    },
+    {
       "name": "Via del Ricordo - Via De Notaris",
       "class": "stop_position",
       "lat": 45.5096343,
@@ -46618,13 +46625,6 @@
       "distance_km": 12.14
     },
     {
-      "name": "CAMBIAGO Via Manzoni",
-      "class": "bus_stop",
-      "lat": 45.5697218,
-      "lng": 9.4226622,
-      "distance_km": 12.14
-    },
-    {
       "name": "Limbiate Ospedale",
       "class": "platform",
       "lat": 45.6145665,
@@ -46653,17 +46653,17 @@
       "distance_km": 12.15
     },
     {
-      "name": "Via Palmanova, 209",
-      "class": "bus_stop",
-      "lat": 45.5082848,
-      "lng": 9.2514249,
-      "distance_km": 12.15
-    },
-    {
       "name": "MEZZAGO C.na Orobona (SP233)",
       "class": "bus_stop",
       "lat": 45.6355214,
       "lng": 9.4347009,
+      "distance_km": 12.15
+    },
+    {
+      "name": "Via Palmanova, 209",
+      "class": "bus_stop",
+      "lat": 45.5082848,
+      "lng": 9.2514249,
       "distance_km": 12.15
     },
     {
@@ -46702,6 +46702,13 @@
       "distance_km": 12.16
     },
     {
+      "name": "MEZZAGO C.na Orobona (SP233)",
+      "class": "bus_stop",
+      "lat": 45.6354557,
+      "lng": 9.4349866,
+      "distance_km": 12.17
+    },
+    {
       "name": "Via Roma - Via Erodoto (Pioltello)",
       "class": "bus_stop",
       "lat": 45.5112548,
@@ -46727,13 +46734,6 @@
       "class": "stop_position",
       "lat": 45.5135653,
       "lng": 9.2245625,
-      "distance_km": 12.17
-    },
-    {
-      "name": "MEZZAGO C.na Orobona (SP233)",
-      "class": "bus_stop",
-      "lat": 45.6354557,
-      "lng": 9.4349866,
       "distance_km": 12.17
     },
     {
@@ -46898,6 +46898,13 @@
       "distance_km": 12.21
     },
     {
+      "name": "CAMBIAGO Via Gramsci",
+      "class": "bus_stop",
+      "lat": 45.5708675,
+      "lng": 9.4243657,
+      "distance_km": 12.21
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.52197404526689,
@@ -46909,13 +46916,6 @@
       "class": "bus_station",
       "lat": 45.51988533606184,
       "lng": 9.357918503954963,
-      "distance_km": 12.21
-    },
-    {
-      "name": "CAMBIAGO Via Gramsci",
-      "class": "bus_stop",
-      "lat": 45.5708675,
-      "lng": 9.4243657,
       "distance_km": 12.21
     },
     {
@@ -48025,6 +48025,13 @@
       "distance_km": 12.4
     },
     {
+      "name": "CAMBIAGO Via Indipendenza",
+      "class": "bus_stop",
+      "lat": 45.5706727,
+      "lng": 9.426957,
+      "distance_km": 12.4
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.51093985,
@@ -48085,13 +48092,6 @@
       "class": "stop_position",
       "lat": 45.5115816,
       "lng": 9.3385552,
-      "distance_km": 12.4
-    },
-    {
-      "name": "CAMBIAGO Via Indipendenza",
-      "class": "bus_stop",
-      "lat": 45.5706727,
-      "lng": 9.426957,
       "distance_km": 12.4
     },
     {
@@ -48298,6 +48298,20 @@
       "distance_km": 12.44
     },
     {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 45.6158533,
+      "lng": 9.4410124,
+      "distance_km": 12.44
+    },
+    {
+      "name": "BELLUSCO Via dell'Industria",
+      "class": "bus_stop",
+      "lat": 45.6159293,
+      "lng": 9.4410176,
+      "distance_km": 12.44
+    },
+    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 45.521534,
@@ -48323,20 +48337,6 @@
       "class": "stop_position",
       "lat": 45.5255709,
       "lng": 9.37599,
-      "distance_km": 12.44
-    },
-    {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 45.6158533,
-      "lng": 9.4410124,
-      "distance_km": 12.44
-    },
-    {
-      "name": "BELLUSCO Via dell'Industria",
-      "class": "bus_stop",
-      "lat": 45.6159293,
-      "lng": 9.4410176,
       "distance_km": 12.44
     },
     {
@@ -48473,20 +48473,6 @@
       "distance_km": 12.47
     },
     {
-      "name": "Via Di Vittorio - Via Morelli (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.5043444,
-      "lng": 9.301002,
-      "distance_km": 12.47
-    },
-    {
-      "name": "Via Di Vittorio - Via Morelli (Segrate)",
-      "class": "stop_position",
-      "lat": 45.5043411,
-      "lng": 9.3009205,
-      "distance_km": 12.47
-    },
-    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 45.6157496,
@@ -48498,6 +48484,20 @@
       "class": "bus_stop",
       "lat": 45.6157175,
       "lng": 9.441396,
+      "distance_km": 12.47
+    },
+    {
+      "name": "Via Di Vittorio - Via Morelli (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.5043444,
+      "lng": 9.301002,
+      "distance_km": 12.47
+    },
+    {
+      "name": "Via Di Vittorio - Via Morelli (Segrate)",
+      "class": "stop_position",
+      "lat": 45.5043411,
+      "lng": 9.3009205,
       "distance_km": 12.47
     },
     {
@@ -48956,6 +48956,13 @@
       "distance_km": 12.52
     },
     {
+      "name": "MEZZAGO P.za Chiesa",
+      "class": "bus_stop",
+      "lat": 45.6246207,
+      "lng": 9.4416024,
+      "distance_km": 12.52
+    },
+    {
       "name": "Crescenzago",
       "class": "stop_position",
       "lat": 45.5053071,
@@ -48967,13 +48974,6 @@
       "class": "stop_position",
       "lat": 45.5053726,
       "lng": 9.2483438,
-      "distance_km": 12.52
-    },
-    {
-      "name": "MEZZAGO P.za Chiesa",
-      "class": "bus_stop",
-      "lat": 45.6246207,
-      "lng": 9.4416024,
       "distance_km": 12.52
     },
     {
@@ -49558,6 +49558,13 @@
       "distance_km": 12.61
     },
     {
+      "name": "MEZZAGO Via Concordia",
+      "class": "bus_stop",
+      "lat": 45.6275667,
+      "lng": 9.4423649,
+      "distance_km": 12.61
+    },
+    {
       "name": "Crescenzago M2",
       "class": "bus_stop",
       "lat": 45.5043197,
@@ -49569,13 +49576,6 @@
       "class": "platform",
       "lat": 45.5043036,
       "lng": 9.25005285,
-      "distance_km": 12.61
-    },
-    {
-      "name": "MEZZAGO Via Concordia",
-      "class": "bus_stop",
-      "lat": 45.6275667,
-      "lng": 9.4423649,
       "distance_km": 12.61
     },
     {
@@ -49726,6 +49726,13 @@
       "distance_km": 12.64
     },
     {
+      "name": "MEZZAGO Via Concordia",
+      "class": "bus_stop",
+      "lat": 45.6279962,
+      "lng": 9.442669,
+      "distance_km": 12.64
+    },
+    {
       "name": "Via Ponte Nuovo - Via Biumi",
       "class": "bus_stop",
       "lat": 45.5061341,
@@ -49758,13 +49765,6 @@
       "class": "platform",
       "lat": 45.50612635,
       "lng": 9.23742875,
-      "distance_km": 12.64
-    },
-    {
-      "name": "MEZZAGO Via Concordia",
-      "class": "bus_stop",
-      "lat": 45.6279962,
-      "lng": 9.442669,
       "distance_km": 12.64
     },
     {
@@ -49852,6 +49852,13 @@
       "distance_km": 12.65
     },
     {
+      "name": "MEZZAGO Via Curiel",
+      "class": "bus_stop",
+      "lat": 45.6290725,
+      "lng": 9.4426819,
+      "distance_km": 12.65
+    },
+    {
       "name": "Via Ponte Nuovo - Via Biumi",
       "class": "stop_position",
       "lat": 45.5060715,
@@ -49870,13 +49877,6 @@
       "class": "bus_stop",
       "lat": 45.514359,
       "lng": 9.355209,
-      "distance_km": 12.65
-    },
-    {
-      "name": "MEZZAGO Via Curiel",
-      "class": "bus_stop",
-      "lat": 45.6290725,
-      "lng": 9.4426819,
       "distance_km": 12.65
     },
     {
@@ -49922,6 +49922,13 @@
       "distance_km": 12.66
     },
     {
+      "name": "MEZZAGO Via Curiel",
+      "class": "bus_stop",
+      "lat": 45.629284,
+      "lng": 9.4426912,
+      "distance_km": 12.66
+    },
+    {
       "name": "Viale Monza - Via Erodoto",
       "class": "bus_stop",
       "lat": 45.5091519,
@@ -49947,13 +49954,6 @@
       "class": "stop_position",
       "lat": 45.5142911,
       "lng": 9.3551765,
-      "distance_km": 12.66
-    },
-    {
-      "name": "MEZZAGO Via Curiel",
-      "class": "bus_stop",
-      "lat": 45.629284,
-      "lng": 9.4426912,
       "distance_km": 12.66
     },
     {
@@ -50818,20 +50818,6 @@
       "distance_km": 12.81
     },
     {
-      "name": "Via Amendola - Via Olgetta (Rovagnasco)",
-      "class": "bus_stop",
-      "lat": 45.5003068,
-      "lng": 9.2846838,
-      "distance_km": 12.82
-    },
-    {
-      "name": "Via Amendola - Via Olgetta (Rovagnasco)",
-      "class": "bus_stop",
-      "lat": 45.5003125,
-      "lng": 9.284579,
-      "distance_km": 12.82
-    },
-    {
       "name": "Via Martiri di Marzabotto - Piazza Giovanni XXIII (Senago)",
       "class": "bus_stop",
       "lat": 45.5683563,
@@ -50843,6 +50829,20 @@
       "class": "bus_stop",
       "lat": 45.5143393,
       "lng": 9.2022996,
+      "distance_km": 12.82
+    },
+    {
+      "name": "Via Amendola - Via Olgetta (Rovagnasco)",
+      "class": "bus_stop",
+      "lat": 45.5003068,
+      "lng": 9.2846838,
+      "distance_km": 12.82
+    },
+    {
+      "name": "Via Amendola - Via Olgetta (Rovagnasco)",
+      "class": "bus_stop",
+      "lat": 45.5003125,
+      "lng": 9.284579,
       "distance_km": 12.82
     },
     {
@@ -50986,20 +50986,6 @@
       "distance_km": 12.86
     },
     {
-      "name": "Via Monzese, 25 (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4999537,
-      "lng": 9.2876172,
-      "distance_km": 12.87
-    },
-    {
-      "name": "Via Monzese, 25 (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4999433,
-      "lng": 9.2875739,
-      "distance_km": 12.87
-    },
-    {
       "name": "Bruzzano FN",
       "class": "platform",
       "lat": 45.52907655,
@@ -51025,6 +51011,20 @@
       "class": "bus_stop",
       "lat": 45.5140162,
       "lng": 9.2019563,
+      "distance_km": 12.87
+    },
+    {
+      "name": "Via Monzese, 25 (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4999537,
+      "lng": 9.2876172,
+      "distance_km": 12.87
+    },
+    {
+      "name": "Via Monzese, 25 (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4999433,
+      "lng": 9.2875739,
       "distance_km": 12.87
     },
     {
@@ -51406,6 +51406,20 @@
       "distance_km": 12.92
     },
     {
+      "name": "Via San Bernardo - Via Volta (Senago)",
+      "class": "bus_stop",
+      "lat": 45.5785104,
+      "lng": 9.123568,
+      "distance_km": 12.93
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5911271,
+      "lng": 9.1186753,
+      "distance_km": 12.93
+    },
+    {
       "name": "Residenza Portici (Milano Due)",
       "class": "stop_position",
       "lat": 45.4997355,
@@ -51424,20 +51438,6 @@
       "class": "bus_stop",
       "lat": 45.4996149,
       "lng": 9.2927087,
-      "distance_km": 12.93
-    },
-    {
-      "name": "Via San Bernardo - Via Volta (Senago)",
-      "class": "bus_stop",
-      "lat": 45.5785104,
-      "lng": 9.123568,
-      "distance_km": 12.93
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5911271,
-      "lng": 9.1186753,
       "distance_km": 12.93
     },
     {
@@ -51637,20 +51637,6 @@
       "distance_km": 12.96
     },
     {
-      "name": "Via Giovanni XXIII - Via San Carlo (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4992447,
-      "lng": 9.2932106,
-      "distance_km": 12.97
-    },
-    {
-      "name": "Via Giovanni XXIII - Via San Carlo (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4992354,
-      "lng": 9.2931641,
-      "distance_km": 12.97
-    },
-    {
       "name": "Via Togliatti - Via Deledda (Senago)",
       "class": "bus_stop",
       "lat": 45.5728441,
@@ -51683,6 +51669,20 @@
       "class": "stop_position",
       "lat": 45.5132448,
       "lng": 9.2011844,
+      "distance_km": 12.97
+    },
+    {
+      "name": "Via Giovanni XXIII - Via San Carlo (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4992447,
+      "lng": 9.2932106,
+      "distance_km": 12.97
+    },
+    {
+      "name": "Via Giovanni XXIII - Via San Carlo (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4992354,
+      "lng": 9.2931641,
       "distance_km": 12.97
     },
     {
@@ -52323,20 +52323,6 @@
       "distance_km": 13.06
     },
     {
-      "name": "Via Amendola - Via Nenni (Rovagnasco)",
-      "class": "bus_stop",
-      "lat": 45.4981016,
-      "lng": 9.2848474,
-      "distance_km": 13.07
-    },
-    {
-      "name": "Via Amendola - Via Nenni (Rovagnasco)",
-      "class": "bus_stop",
-      "lat": 45.498083,
-      "lng": 9.284697,
-      "distance_km": 13.07
-    },
-    {
       "name": "Via Oroboni - Via Senigallia",
       "class": "stop_position",
       "lat": 45.5292989,
@@ -52372,6 +52358,20 @@
       "distance_km": 13.07
     },
     {
+      "name": "Via Amendola - Via Nenni (Rovagnasco)",
+      "class": "bus_stop",
+      "lat": 45.4981016,
+      "lng": 9.2848474,
+      "distance_km": 13.07
+    },
+    {
+      "name": "Via Amendola - Via Nenni (Rovagnasco)",
+      "class": "bus_stop",
+      "lat": 45.498083,
+      "lng": 9.284697,
+      "distance_km": 13.07
+    },
+    {
       "name": "Viale Suzzani - Via Santa Monica",
       "class": "stop_position",
       "lat": 45.5122,
@@ -52393,13 +52393,6 @@
       "distance_km": 13.08
     },
     {
-      "name": "Via Giuseppe Di Vittorio - Via Kennedy (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4987425,
-      "lng": 9.3008573,
-      "distance_km": 13.08
-    },
-    {
       "name": "Via Oroboni - Via Senigallia",
       "class": "bus_stop",
       "lat": 45.5292541,
@@ -52411,6 +52404,13 @@
       "class": "platform",
       "lat": 45.52925055,
       "lng": 9.167060249999999,
+      "distance_km": 13.08
+    },
+    {
+      "name": "Via Giuseppe Di Vittorio - Via Kennedy (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4987425,
+      "lng": 9.3008573,
       "distance_km": 13.08
     },
     {
@@ -52498,13 +52498,6 @@
       "distance_km": 13.09
     },
     {
-      "name": "Via Amendola - Via Nenni (Rovagnasco)",
-      "class": "bus_stop",
-      "lat": 45.497827,
-      "lng": 9.2847133,
-      "distance_km": 13.1
-    },
-    {
       "name": "Via Casarsa - Piazza Fortunato",
       "class": "stop_position",
       "lat": 45.5243643,
@@ -52523,6 +52516,13 @@
       "class": "platform",
       "lat": 45.5243541,
       "lng": 9.174616,
+      "distance_km": 13.1
+    },
+    {
+      "name": "Via Amendola - Via Nenni (Rovagnasco)",
+      "class": "bus_stop",
+      "lat": 45.497827,
+      "lng": 9.2847133,
       "distance_km": 13.1
     },
     {
@@ -52848,20 +52848,6 @@
       "distance_km": 13.15
     },
     {
-      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4975377,
-      "lng": 9.2936931,
-      "distance_km": 13.16
-    },
-    {
-      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4975638,
-      "lng": 9.293822,
-      "distance_km": 13.16
-    },
-    {
       "name": "Via Maffi",
       "class": "stop_position",
       "lat": 45.5174618,
@@ -52876,11 +52862,18 @@
       "distance_km": 13.16
     },
     {
-      "name": "Portineria (Milano Due)",
+      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
       "class": "bus_stop",
-      "lat": 45.4978009,
-      "lng": 9.2641083,
-      "distance_km": 13.17
+      "lat": 45.4975377,
+      "lng": 9.2936931,
+      "distance_km": 13.16
+    },
+    {
+      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4975638,
+      "lng": 9.293822,
+      "distance_km": 13.16
     },
     {
       "name": "Bus stop",
@@ -52904,18 +52897,18 @@
       "distance_km": 13.17
     },
     {
-      "name": "Bus stop",
+      "name": "Portineria (Milano Due)",
       "class": "bus_stop",
-      "lat": 45.5100243,
-      "lng": 9.3579123,
+      "lat": 45.4978009,
+      "lng": 9.2641083,
       "distance_km": 13.17
     },
     {
       "name": "Bus stop",
       "class": "bus_stop",
-      "lat": 45.497831,
-      "lng": 9.3001815,
-      "distance_km": 13.18
+      "lat": 45.5100243,
+      "lng": 9.3579123,
+      "distance_km": 13.17
     },
     {
       "name": "Piazza Giustino Fortunato",
@@ -52932,32 +52925,18 @@
       "distance_km": 13.18
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.497831,
+      "lng": 9.3001815,
+      "distance_km": 13.18
+    },
+    {
       "name": "RONCELLO Via Matteotti",
       "class": "bus_stop",
       "lat": 45.6004213,
       "lng": 9.4490916,
       "distance_km": 13.18
-    },
-    {
-      "name": "Cimiano M2",
-      "class": "bus_stop",
-      "lat": 45.5005228,
-      "lng": 9.2401264,
-      "distance_km": 13.19
-    },
-    {
-      "name": "Cimiano M2",
-      "class": "stop_position",
-      "lat": 45.5005409,
-      "lng": 9.2400793,
-      "distance_km": 13.19
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.500509300000004,
-      "lng": 9.24014765,
-      "distance_km": 13.19
     },
     {
       "name": "Via Mazzini (Senago)",
@@ -53002,11 +52981,25 @@
       "distance_km": 13.19
     },
     {
+      "name": "Cimiano M2",
+      "class": "bus_stop",
+      "lat": 45.5005228,
+      "lng": 9.2401264,
+      "distance_km": 13.19
+    },
+    {
+      "name": "Cimiano M2",
+      "class": "stop_position",
+      "lat": 45.5005409,
+      "lng": 9.2400793,
+      "distance_km": 13.19
+    },
+    {
       "name": "Platform",
       "class": "platform",
-      "lat": 45.500146506197346,
-      "lng": 9.24156442028852,
-      "distance_km": 13.2
+      "lat": 45.500509300000004,
+      "lng": 9.24014765,
+      "distance_km": 13.19
     },
     {
       "name": "Via Comasina - Via Novate",
@@ -53028,6 +53021,41 @@
       "lat": 45.5159095,
       "lng": 9.1889741,
       "distance_km": 13.2
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.500146506197346,
+      "lng": 9.24156442028852,
+      "distance_km": 13.2
+    },
+    {
+      "name": "Via Battisti - Via Ospitaletto (Bollate)",
+      "class": "stop_position",
+      "lat": 45.5476604,
+      "lng": 9.1417827,
+      "distance_km": 13.21
+    },
+    {
+      "name": "Via Battisti - Via Ospitaletto (Bollate)",
+      "class": "bus_stop",
+      "lat": 45.5476719,
+      "lng": 9.1418506,
+      "distance_km": 13.21
+    },
+    {
+      "name": "Via Comasina - Via Novate",
+      "class": "bus_stop",
+      "lat": 45.5316066,
+      "lng": 9.1611652,
+      "distance_km": 13.21
+    },
+    {
+      "name": "Via Val di Ledro",
+      "class": "bus_stop",
+      "lat": 45.5159003,
+      "lng": 9.1888754,
+      "distance_km": 13.21
     },
     {
       "name": "Cimiano",
@@ -53065,34 +53093,6 @@
       "distance_km": 13.21
     },
     {
-      "name": "Via Battisti - Via Ospitaletto (Bollate)",
-      "class": "stop_position",
-      "lat": 45.5476604,
-      "lng": 9.1417827,
-      "distance_km": 13.21
-    },
-    {
-      "name": "Via Battisti - Via Ospitaletto (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.5476719,
-      "lng": 9.1418506,
-      "distance_km": 13.21
-    },
-    {
-      "name": "Via Comasina - Via Novate",
-      "class": "bus_stop",
-      "lat": 45.5316066,
-      "lng": 9.1611652,
-      "distance_km": 13.21
-    },
-    {
-      "name": "Via Val di Ledro",
-      "class": "bus_stop",
-      "lat": 45.5159003,
-      "lng": 9.1888754,
-      "distance_km": 13.21
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.5074919,
@@ -53104,6 +53104,27 @@
       "class": "bus_stop",
       "lat": 45.5075168,
       "lng": 9.2103329,
+      "distance_km": 13.22
+    },
+    {
+      "name": "Via Novate",
+      "class": "platform",
+      "lat": 45.5315716,
+      "lng": 9.161014699999999,
+      "distance_km": 13.22
+    },
+    {
+      "name": "Via Giovanni Danzi",
+      "class": "stop_position",
+      "lat": 45.5139126,
+      "lng": 9.1930969,
+      "distance_km": 13.22
+    },
+    {
+      "name": "Via Giovanni Danzi",
+      "class": "bus_stop",
+      "lat": 45.5139129,
+      "lng": 9.1930407,
       "distance_km": 13.22
     },
     {
@@ -53135,38 +53156,10 @@
       "distance_km": 13.22
     },
     {
-      "name": "Via Novate",
-      "class": "platform",
-      "lat": 45.5315716,
-      "lng": 9.161014699999999,
-      "distance_km": 13.22
-    },
-    {
-      "name": "Via Giovanni Danzi",
-      "class": "stop_position",
-      "lat": 45.5139126,
-      "lng": 9.1930969,
-      "distance_km": 13.22
-    },
-    {
-      "name": "Via Giovanni Danzi",
-      "class": "bus_stop",
-      "lat": 45.5139129,
-      "lng": 9.1930407,
-      "distance_km": 13.22
-    },
-    {
       "name": "Via Emilio De Marchi - Via Breda",
       "class": "stop_position",
       "lat": 45.507498,
       "lng": 9.2102627,
-      "distance_km": 13.23
-    },
-    {
-      "name": "Residenza Archi (Milano Due)",
-      "class": "stop_position",
-      "lat": 45.4971288,
-      "lng": 9.2660854,
       "distance_km": 13.23
     },
     {
@@ -53191,6 +53184,13 @@
       "distance_km": 13.23
     },
     {
+      "name": "Residenza Archi (Milano Due)",
+      "class": "stop_position",
+      "lat": 45.4971288,
+      "lng": 9.2660854,
+      "distance_km": 13.23
+    },
+    {
       "name": "Veduggio - Magenta/Concordia",
       "class": "bus_stop",
       "lat": 45.7344728,
@@ -53203,13 +53203,6 @@
       "lat": 45.734497,
       "lng": 9.2741829,
       "distance_km": 13.23
-    },
-    {
-      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4969212,
-      "lng": 9.2943714,
-      "distance_km": 13.24
     },
     {
       "name": "Via Battisti - Via Ospitaletto (Bollate)",
@@ -53261,6 +53254,13 @@
       "distance_km": 13.24
     },
     {
+      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4969212,
+      "lng": 9.2943714,
+      "distance_km": 13.24
+    },
+    {
       "name": "Gorgonzola - Restelli/Mazzini",
       "class": "bus_stop",
       "lat": 45.5316467,
@@ -53296,20 +53296,6 @@
       "distance_km": 13.25
     },
     {
-      "name": "Cimiano M2",
-      "class": "stop_position",
-      "lat": 45.4996074,
-      "lng": 9.242098,
-      "distance_km": 13.25
-    },
-    {
-      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4968457,
-      "lng": 9.2944157,
-      "distance_km": 13.25
-    },
-    {
       "name": "Niguarda Centro",
       "class": "stop_position",
       "lat": 45.514371,
@@ -53324,25 +53310,18 @@
       "distance_km": 13.25
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.4995486,
-      "lng": 9.2421483,
-      "distance_km": 13.26
-    },
-    {
       "name": "Cimiano M2",
-      "class": "bus_stop",
-      "lat": 45.4995518,
-      "lng": 9.2421784,
-      "distance_km": 13.26
+      "class": "stop_position",
+      "lat": 45.4996074,
+      "lng": 9.242098,
+      "distance_km": 13.25
     },
     {
-      "name": "Bus stop",
+      "name": "Via Cassanese - Via Giovanni XXIII (Segrate)",
       "class": "bus_stop",
-      "lat": 45.497715,
-      "lng": 9.3066862,
-      "distance_km": 13.26
+      "lat": 45.4968457,
+      "lng": 9.2944157,
+      "distance_km": 13.25
     },
     {
       "name": "Comasina M3",
@@ -53387,6 +53366,27 @@
       "distance_km": 13.26
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.4995486,
+      "lng": 9.2421483,
+      "distance_km": 13.26
+    },
+    {
+      "name": "Cimiano M2",
+      "class": "bus_stop",
+      "lat": 45.4995518,
+      "lng": 9.2421784,
+      "distance_km": 13.26
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.497715,
+      "lng": 9.3066862,
+      "distance_km": 13.26
+    },
+    {
       "name": "Via Cozzi via E. De Marchi",
       "class": "platform",
       "lat": 45.507881929326196,
@@ -53405,13 +53405,6 @@
       "class": "stop_position",
       "lat": 45.507819,
       "lng": 9.2078077,
-      "distance_km": 13.27
-    },
-    {
-      "name": "Portineria (Milano Due)",
-      "class": "bus_stop",
-      "lat": 45.4969716,
-      "lng": 9.2629871,
       "distance_km": 13.27
     },
     {
@@ -53443,18 +53436,18 @@
       "distance_km": 13.27
     },
     {
+      "name": "Portineria (Milano Due)",
+      "class": "bus_stop",
+      "lat": 45.4969716,
+      "lng": 9.2629871,
+      "distance_km": 13.27
+    },
+    {
       "name": "Via Mozart - Via Milano (Pioltello)",
       "class": "bus_stop",
       "lat": 45.5019973,
       "lng": 9.3334856,
       "distance_km": 13.27
-    },
-    {
-      "name": "Cimiano",
-      "class": "subway_station",
-      "lat": 45.499541,
-      "lng": 9.2407696,
-      "distance_km": 13.28
     },
     {
       "name": "Piazza Borromeo (Senago)",
@@ -53468,6 +53461,13 @@
       "class": "stop_position",
       "lat": 45.529422,
       "lng": 9.1629725,
+      "distance_km": 13.28
+    },
+    {
+      "name": "Cimiano",
+      "class": "subway_station",
+      "lat": 45.499541,
+      "lng": 9.2407696,
       "distance_km": 13.28
     },
     {
@@ -53534,6 +53534,13 @@
       "distance_km": 13.3
     },
     {
+      "name": "Comasina M3",
+      "class": "stop_position",
+      "lat": 45.5291519,
+      "lng": 9.1631036,
+      "distance_km": 13.3
+    },
+    {
       "name": "Via Cassanese - Via Monzese (Segrate)",
       "class": "bus_stop",
       "lat": 45.4961097,
@@ -53552,13 +53559,6 @@
       "class": "bus_stop",
       "lat": 45.4961104,
       "lng": 9.2881895,
-      "distance_km": 13.3
-    },
-    {
-      "name": "Comasina M3",
-      "class": "stop_position",
-      "lat": 45.5291519,
-      "lng": 9.1631036,
       "distance_km": 13.3
     },
     {
@@ -53646,6 +53646,20 @@
       "distance_km": 13.31
     },
     {
+      "name": "Viale Rubicone (Galeazzi)",
+      "class": "bus_stop",
+      "lat": 45.5226783,
+      "lng": 9.1731863,
+      "distance_km": 13.32
+    },
+    {
+      "name": "Viale Rubicone - Via Da Seregno",
+      "class": "bus_stop",
+      "lat": 45.522624,
+      "lng": 9.1732744,
+      "distance_km": 13.32
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.49937965,
@@ -53681,17 +53695,17 @@
       "distance_km": 13.32
     },
     {
-      "name": "Viale Rubicone (Galeazzi)",
+      "name": "GESSATE Via Brianza",
       "class": "bus_stop",
-      "lat": 45.5226783,
-      "lng": 9.1731863,
+      "lat": 45.5599547,
+      "lng": 9.4327058,
       "distance_km": 13.32
     },
     {
-      "name": "Viale Rubicone - Via Da Seregno",
+      "name": "GESSATE Via Brianza",
       "class": "bus_stop",
-      "lat": 45.522624,
-      "lng": 9.1732744,
+      "lat": 45.5598513,
+      "lng": 9.4326213,
       "distance_km": 13.32
     },
     {
@@ -53706,20 +53720,6 @@
       "class": "stop_position",
       "lat": 45.5018848,
       "lng": 9.3350096,
-      "distance_km": 13.32
-    },
-    {
-      "name": "GESSATE Via Brianza",
-      "class": "bus_stop",
-      "lat": 45.5599547,
-      "lng": 9.4327058,
-      "distance_km": 13.32
-    },
-    {
-      "name": "GESSATE Via Brianza",
-      "class": "bus_stop",
-      "lat": 45.5598513,
-      "lng": 9.4326213,
       "distance_km": 13.32
     },
     {
@@ -53751,20 +53751,6 @@
       "distance_km": 13.33
     },
     {
-      "name": "Via Morandi - Via Battisti (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4963681,
-      "lng": 9.2999695,
-      "distance_km": 13.34
-    },
-    {
-      "name": "Via Morandi - Via Battisti (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4963673,
-      "lng": 9.2999269,
-      "distance_km": 13.34
-    },
-    {
       "name": "Piazza Borromeo (Senago)",
       "class": "bus_stop",
       "lat": 45.5774056,
@@ -53783,6 +53769,20 @@
       "class": "stop_position",
       "lat": 45.5281326,
       "lng": 9.1637291,
+      "distance_km": 13.34
+    },
+    {
+      "name": "Via Morandi - Via Battisti (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4963681,
+      "lng": 9.2999695,
+      "distance_km": 13.34
+    },
+    {
+      "name": "Via Morandi - Via Battisti (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4963673,
+      "lng": 9.2999269,
       "distance_km": 13.34
     },
     {
@@ -53842,6 +53842,13 @@
       "distance_km": 13.35
     },
     {
+      "name": "Viale Rubicone - Via Da Seregno",
+      "class": "bus_stop",
+      "lat": 45.5225031,
+      "lng": 9.1726523,
+      "distance_km": 13.36
+    },
+    {
       "name": "Via Padova - Via Bengasi",
       "class": "bus_stop",
       "lat": 45.4998657,
@@ -53854,27 +53861,6 @@
       "lat": 45.499848,
       "lng": 9.2348652,
       "distance_km": 13.36
-    },
-    {
-      "name": "Viale Rubicone - Via Da Seregno",
-      "class": "bus_stop",
-      "lat": 45.5225031,
-      "lng": 9.1726523,
-      "distance_km": 13.36
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.49985425,
-      "lng": 9.2347417,
-      "distance_km": 13.37
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.4955673,
-      "lng": 9.2910191,
-      "distance_km": 13.37
     },
     {
       "name": "Via Monte Grappa - Via Pasubio (Bollate)",
@@ -53898,6 +53884,20 @@
       "distance_km": 13.37
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.49985425,
+      "lng": 9.2347417,
+      "distance_km": 13.37
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.4955673,
+      "lng": 9.2910191,
+      "distance_km": 13.37
+    },
+    {
       "name": "Turro M1",
       "class": "bus_stop",
       "lat": 45.5023556,
@@ -53917,13 +53917,6 @@
       "lat": 45.5305832,
       "lng": 9.4026232,
       "distance_km": 13.37
-    },
-    {
-      "name": "Via Suardi - Via Battisti (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4956836,
-      "lng": 9.2950668,
-      "distance_km": 13.38
     },
     {
       "name": "CESANO M.no v. Martinelli fr. 53 (BASF)",
@@ -53951,6 +53944,13 @@
       "class": "platform",
       "lat": 45.52691395,
       "lng": 9.16486205,
+      "distance_km": 13.38
+    },
+    {
+      "name": "Via Suardi - Via Battisti (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4956836,
+      "lng": 9.2950668,
       "distance_km": 13.38
     },
     {
@@ -54038,20 +54038,6 @@
       "distance_km": 13.39
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.496316050000004,
-      "lng": 9.2575871,
-      "distance_km": 13.39
-    },
-    {
-      "name": "Viale Turchia - Cascina Biblioteca",
-      "class": "bus_stop",
-      "lat": 45.4963082,
-      "lng": 9.257575,
-      "distance_km": 13.39
-    },
-    {
       "name": "Via Forni - Via Da Novate",
       "class": "stop_position",
       "lat": 45.5260656,
@@ -54070,6 +54056,20 @@
       "class": "bus_stop",
       "lat": 45.5260423,
       "lng": 9.1660399,
+      "distance_km": 13.39
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.496316050000004,
+      "lng": 9.2575871,
+      "distance_km": 13.39
+    },
+    {
+      "name": "Viale Turchia - Cascina Biblioteca",
+      "class": "bus_stop",
+      "lat": 45.4963082,
+      "lng": 9.257575,
       "distance_km": 13.39
     },
     {
@@ -54094,6 +54094,13 @@
       "distance_km": 13.4
     },
     {
+      "name": "Via Monte Grappa - Via Pasubio (Bollate)",
+      "class": "stop_position",
+      "lat": 45.5460254,
+      "lng": 9.140452,
+      "distance_km": 13.4
+    },
+    {
       "name": "Viale Turchia - Cascina Biblioteca",
       "class": "bus_stop",
       "lat": 45.4961595,
@@ -54105,13 +54112,6 @@
       "class": "platform",
       "lat": 45.49615495,
       "lng": 9.25799575,
-      "distance_km": 13.4
-    },
-    {
-      "name": "Via Monte Grappa - Via Pasubio (Bollate)",
-      "class": "stop_position",
-      "lat": 45.5460254,
-      "lng": 9.140452,
       "distance_km": 13.4
     },
     {
@@ -54213,34 +54213,6 @@
       "distance_km": 13.43
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.49906565,
-      "lng": 9.235906700000001,
-      "distance_km": 13.43
-    },
-    {
-      "name": "Via Derna - Via Benadir",
-      "class": "bus_stop",
-      "lat": 45.4990437,
-      "lng": 9.2358929,
-      "distance_km": 13.43
-    },
-    {
-      "name": "Via Derna - Via Benadir",
-      "class": "stop_position",
-      "lat": 45.4989894,
-      "lng": 9.2359696,
-      "distance_km": 13.43
-    },
-    {
-      "name": "Via Morandi - Via Battisti (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4955282,
-      "lng": 9.2997934,
-      "distance_km": 13.43
-    },
-    {
       "name": "Cesano Maderno - via Magenta fr. 60",
       "class": "bus_stop",
       "lat": 45.6363062,
@@ -54266,6 +54238,34 @@
       "class": "platform",
       "lat": 45.52664985,
       "lng": 9.16442645,
+      "distance_km": 13.43
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.49906565,
+      "lng": 9.235906700000001,
+      "distance_km": 13.43
+    },
+    {
+      "name": "Via Derna - Via Benadir",
+      "class": "bus_stop",
+      "lat": 45.4990437,
+      "lng": 9.2358929,
+      "distance_km": 13.43
+    },
+    {
+      "name": "Via Derna - Via Benadir",
+      "class": "stop_position",
+      "lat": 45.4989894,
+      "lng": 9.2359696,
+      "distance_km": 13.43
+    },
+    {
+      "name": "Via Morandi - Via Battisti (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4955282,
+      "lng": 9.2997934,
       "distance_km": 13.43
     },
     {
@@ -54430,6 +54430,20 @@
       "distance_km": 13.48
     },
     {
+      "name": "RONCELLO Via del Guadagno Via Matteotti",
+      "class": "bus_stop",
+      "lat": 45.6017837,
+      "lng": 9.4532393,
+      "distance_km": 13.48
+    },
+    {
+      "name": "BUSNAGO Via Italia",
+      "class": "bus_stop",
+      "lat": 45.6179948,
+      "lng": 9.4544371,
+      "distance_km": 13.48
+    },
+    {
       "name": "Via Antica di Cassano - Via Mantova (Cernusco sul Naviglio)",
       "class": "stop_position",
       "lat": 45.5027582,
@@ -54448,20 +54462,6 @@
       "class": "platform",
       "lat": 45.5027188,
       "lng": 9.3443334,
-      "distance_km": 13.48
-    },
-    {
-      "name": "RONCELLO Via del Guadagno Via Matteotti",
-      "class": "bus_stop",
-      "lat": 45.6017837,
-      "lng": 9.4532393,
-      "distance_km": 13.48
-    },
-    {
-      "name": "BUSNAGO Via Italia",
-      "class": "bus_stop",
-      "lat": 45.6179948,
-      "lng": 9.4544371,
       "distance_km": 13.48
     },
     {
@@ -54486,20 +54486,6 @@
       "distance_km": 13.49
     },
     {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 45.4984532,
-      "lng": 9.3261741,
-      "distance_km": 13.49
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.4984444,
-      "lng": 9.3263026,
-      "distance_km": 13.49
-    },
-    {
       "name": "Via Teano, 21",
       "class": "stop_position",
       "lat": 45.5284434,
@@ -54521,6 +54507,20 @@
       "distance_km": 13.49
     },
     {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 45.4984532,
+      "lng": 9.3261741,
+      "distance_km": 13.49
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.4984444,
+      "lng": 9.3263026,
+      "distance_km": 13.49
+    },
+    {
       "name": "RONCELLO Via del Guadagno Via Matteotti",
       "class": "bus_stop",
       "lat": 45.602127,
@@ -54533,13 +54533,6 @@
       "lat": 45.6178138,
       "lng": 9.4544542,
       "distance_km": 13.49
-    },
-    {
-      "name": "Via Cassanese - Via Marconi (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4941606,
-      "lng": 9.2793163,
-      "distance_km": 13.5
     },
     {
       "name": "Via Teano, 21",
@@ -54577,6 +54570,13 @@
       "distance_km": 13.5
     },
     {
+      "name": "Via Cassanese - Via Marconi (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4941606,
+      "lng": 9.2793163,
+      "distance_km": 13.5
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.5016153,
@@ -54591,17 +54591,17 @@
       "distance_km": 13.5
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.4982262,
-      "lng": 9.3260407,
-      "distance_km": 13.51
-    },
-    {
       "name": "LIMBIATE v. Mascagni 6",
       "class": "bus_stop",
       "lat": 45.614308,
       "lng": 9.1073987,
+      "distance_km": 13.51
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.4982262,
+      "lng": 9.3260407,
       "distance_km": 13.51
     },
     {
@@ -54696,20 +54696,6 @@
       "distance_km": 13.54
     },
     {
-      "name": "Milano Due (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4943847,
-      "lng": 9.263548,
-      "distance_km": 13.55
-    },
-    {
-      "name": "Milano Due (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4943505,
-      "lng": 9.2635549,
-      "distance_km": 13.55
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 45.6205972,
@@ -54728,6 +54714,20 @@
       "class": "bus_stop",
       "lat": 45.5251478,
       "lng": 9.1643629,
+      "distance_km": 13.55
+    },
+    {
+      "name": "Milano Due (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4943847,
+      "lng": 9.263548,
+      "distance_km": 13.55
+    },
+    {
+      "name": "Milano Due (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4943505,
+      "lng": 9.2635549,
       "distance_km": 13.55
     },
     {
@@ -54885,6 +54885,13 @@
       "distance_km": 13.57
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.6210646,
+      "lng": 9.1066452,
+      "distance_km": 13.58
+    },
+    {
       "name": "Via Monfalcone - Via Marazzani",
       "class": "stop_position",
       "lat": 45.4971367,
@@ -54906,13 +54913,6 @@
       "distance_km": 13.58
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.6210646,
-      "lng": 9.1066452,
-      "distance_km": 13.58
-    },
-    {
       "name": "Lentate sul Seveso - Via Nazionale dei Giovi 56 - Z150 e Z162",
       "class": "bus_stop",
       "lat": 45.6667072,
@@ -54931,6 +54931,27 @@
       "class": "stop_position",
       "lat": 45.5069216,
       "lng": 9.2012022,
+      "distance_km": 13.59
+    },
+    {
+      "name": "via Ciccotti",
+      "class": "platform",
+      "lat": 45.52302385,
+      "lng": 9.16711875,
+      "distance_km": 13.59
+    },
+    {
+      "name": "Via Ciccotti (Affori FN M3)",
+      "class": "bus_stop",
+      "lat": 45.5230088,
+      "lng": 9.1671538,
+      "distance_km": 13.59
+    },
+    {
+      "name": "Via Ciccotti (Affori FN M3)",
+      "class": "stop_position",
+      "lat": 45.5229996,
+      "lng": 9.1671842,
       "distance_km": 13.59
     },
     {
@@ -54966,27 +54987,6 @@
       "class": "bus_stop",
       "lat": 45.4937342,
       "lng": 9.2951388,
-      "distance_km": 13.59
-    },
-    {
-      "name": "via Ciccotti",
-      "class": "platform",
-      "lat": 45.52302385,
-      "lng": 9.16711875,
-      "distance_km": 13.59
-    },
-    {
-      "name": "Via Ciccotti (Affori FN M3)",
-      "class": "bus_stop",
-      "lat": 45.5230088,
-      "lng": 9.1671538,
-      "distance_km": 13.59
-    },
-    {
-      "name": "Via Ciccotti (Affori FN M3)",
-      "class": "stop_position",
-      "lat": 45.5229996,
-      "lng": 9.1671842,
       "distance_km": 13.59
     },
     {
@@ -55060,13 +55060,6 @@
       "distance_km": 13.61
     },
     {
-      "name": "Via Grandi - Via Roma (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4934406,
-      "lng": 9.292926,
-      "distance_km": 13.61
-    },
-    {
       "name": "Via Majorana (Pronto Soccorso)",
       "class": "stop_position",
       "lat": 45.5135243,
@@ -55078,6 +55071,13 @@
       "class": "bus_stop",
       "lat": 45.5135557,
       "lng": 9.1845964,
+      "distance_km": 13.61
+    },
+    {
+      "name": "Via Grandi - Via Roma (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4934406,
+      "lng": 9.292926,
       "distance_km": 13.61
     },
     {
@@ -55130,27 +55130,6 @@
       "distance_km": 13.63
     },
     {
-      "name": "Turro",
-      "class": "subway_station",
-      "lat": 45.5004428,
-      "lng": 9.2210039,
-      "distance_km": 13.63
-    },
-    {
-      "name": "Turro",
-      "class": "stop_position",
-      "lat": 45.5004404,
-      "lng": 9.2210237,
-      "distance_km": 13.63
-    },
-    {
-      "name": "Turro",
-      "class": "stop_position",
-      "lat": 45.5004447,
-      "lng": 9.2209851,
-      "distance_km": 13.63
-    },
-    {
       "name": "Via Litta Modignani - Via Comasina",
       "class": "stop_position",
       "lat": 45.5238132,
@@ -55193,10 +55172,24 @@
       "distance_km": 13.63
     },
     {
-      "name": "Bus station",
-      "class": "bus_station",
-      "lat": 45.5197056420134,
-      "lng": 9.390139519914054,
+      "name": "Turro",
+      "class": "subway_station",
+      "lat": 45.5004428,
+      "lng": 9.2210039,
+      "distance_km": 13.63
+    },
+    {
+      "name": "Turro",
+      "class": "stop_position",
+      "lat": 45.5004404,
+      "lng": 9.2210237,
+      "distance_km": 13.63
+    },
+    {
+      "name": "Turro",
+      "class": "stop_position",
+      "lat": 45.5004447,
+      "lng": 9.2209851,
       "distance_km": 13.63
     },
     {
@@ -55211,6 +55204,13 @@
       "class": "bus_stop",
       "lat": 45.5570972,
       "lng": 9.4349519,
+      "distance_km": 13.63
+    },
+    {
+      "name": "Bus station",
+      "class": "bus_station",
+      "lat": 45.5197056420134,
+      "lng": 9.390139519914054,
       "distance_km": 13.63
     },
     {
@@ -55284,27 +55284,6 @@
       "distance_km": 13.64
     },
     {
-      "name": "Turro M1",
-      "class": "bus_stop",
-      "lat": 45.5001357,
-      "lng": 9.2216479,
-      "distance_km": 13.65
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.50013705,
-      "lng": 9.2216944,
-      "distance_km": 13.65
-    },
-    {
-      "name": "Turro M1",
-      "class": "stop_position",
-      "lat": 45.5000936,
-      "lng": 9.221631,
-      "distance_km": 13.65
-    },
-    {
       "name": "Via Spadini",
       "class": "bus_stop",
       "lat": 45.5276272,
@@ -55337,6 +55316,27 @@
       "class": "stop_position",
       "lat": 45.5216207,
       "lng": 9.1683084,
+      "distance_km": 13.65
+    },
+    {
+      "name": "Turro M1",
+      "class": "bus_stop",
+      "lat": 45.5001357,
+      "lng": 9.2216479,
+      "distance_km": 13.65
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.50013705,
+      "lng": 9.2216944,
+      "distance_km": 13.65
+    },
+    {
+      "name": "Turro M1",
+      "class": "stop_position",
+      "lat": 45.5000936,
+      "lng": 9.221631,
       "distance_km": 13.65
     },
     {
@@ -55480,6 +55480,20 @@
       "distance_km": 13.68
     },
     {
+      "name": "Litta Modignani Comasina",
+      "class": "platform",
+      "lat": 45.52372470000001,
+      "lng": 9.164290300000001,
+      "distance_km": 13.68
+    },
+    {
+      "name": "Via Litta Modignani - Via Comasina",
+      "class": "stop_position",
+      "lat": 45.5236747,
+      "lng": 9.1643727,
+      "distance_km": 13.68
+    },
+    {
       "name": "Via Padova - Via Mamiani",
       "class": "bus_stop",
       "lat": 45.4975448,
@@ -55515,20 +55529,6 @@
       "distance_km": 13.68
     },
     {
-      "name": "Litta Modignani Comasina",
-      "class": "platform",
-      "lat": 45.52372470000001,
-      "lng": 9.164290300000001,
-      "distance_km": 13.68
-    },
-    {
-      "name": "Via Litta Modignani - Via Comasina",
-      "class": "stop_position",
-      "lat": 45.5236747,
-      "lng": 9.1643727,
-      "distance_km": 13.68
-    },
-    {
       "name": "RONCELLO Via del Guadagno Via Matteotti",
       "class": "bus_stop",
       "lat": 45.6003932,
@@ -55547,13 +55547,6 @@
       "class": "stop_position",
       "lat": 45.5069883,
       "lng": 9.1984139,
-      "distance_km": 13.69
-    },
-    {
-      "name": "Via Palmanova - Via Cesana",
-      "class": "platform",
-      "lat": 45.4965581,
-      "lng": 9.236310549999999,
       "distance_km": 13.69
     },
     {
@@ -55578,10 +55571,10 @@
       "distance_km": 13.69
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.519198,
-      "lng": 9.3904316,
+      "name": "Via Palmanova - Via Cesana",
+      "class": "platform",
+      "lat": 45.4965581,
+      "lng": 9.236310549999999,
       "distance_km": 13.69
     },
     {
@@ -55592,25 +55585,11 @@
       "distance_km": 13.69
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.49664735,
-      "lng": 9.2350163,
-      "distance_km": 13.7
-    },
-    {
-      "name": "Via Palmanova - Via Cesana",
-      "class": "stop_position",
-      "lat": 45.496684,
-      "lng": 9.2350861,
-      "distance_km": 13.7
-    },
-    {
-      "name": "Via Palmanova - Via Cesana",
+      "name": "Bus stop",
       "class": "bus_stop",
-      "lat": 45.496669,
-      "lng": 9.2349958,
-      "distance_km": 13.7
+      "lat": 45.519198,
+      "lng": 9.3904316,
+      "distance_km": 13.69
     },
     {
       "name": "Via Polveriera - Via Bellini (Novate)",
@@ -55673,6 +55652,27 @@
       "class": "bus_stop",
       "lat": 45.5243868,
       "lng": 9.1628623,
+      "distance_km": 13.7
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.49664735,
+      "lng": 9.2350163,
+      "distance_km": 13.7
+    },
+    {
+      "name": "Via Palmanova - Via Cesana",
+      "class": "stop_position",
+      "lat": 45.496684,
+      "lng": 9.2350861,
+      "distance_km": 13.7
+    },
+    {
+      "name": "Via Palmanova - Via Cesana",
+      "class": "bus_stop",
+      "lat": 45.496669,
+      "lng": 9.2349958,
       "distance_km": 13.7
     },
     {
@@ -56089,13 +56089,6 @@
       "distance_km": 13.77
     },
     {
-      "name": "Via Roma - Via Mazzini (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4920513,
-      "lng": 9.2938972,
-      "distance_km": 13.77
-    },
-    {
       "name": "Via Monte Grappa - Via Menotti (Bollate)",
       "class": "stop_position",
       "lat": 45.545562,
@@ -56107,6 +56100,13 @@
       "class": "bus_stop",
       "lat": 45.5455191,
       "lng": 9.1352122,
+      "distance_km": 13.77
+    },
+    {
+      "name": "Via Roma - Via Mazzini (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4920513,
+      "lng": 9.2938972,
       "distance_km": 13.77
     },
     {
@@ -56187,20 +56187,6 @@
       "distance_km": 13.79
     },
     {
-      "name": "Via Morandi (Cimitero) (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4922284,
-      "lng": 9.2992459,
-      "distance_km": 13.79
-    },
-    {
-      "name": "Via Morandi (Cimitero) (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4922224,
-      "lng": 9.299299,
-      "distance_km": 13.79
-    },
-    {
       "name": "Via Litta Modignani - Via Sacro Cuore",
       "class": "stop_position",
       "lat": 45.523346,
@@ -56219,6 +56205,20 @@
       "class": "bus_stop",
       "lat": 45.523405,
       "lng": 9.1626138,
+      "distance_km": 13.79
+    },
+    {
+      "name": "Via Morandi (Cimitero) (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4922284,
+      "lng": 9.2992459,
+      "distance_km": 13.79
+    },
+    {
+      "name": "Via Morandi (Cimitero) (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4922224,
+      "lng": 9.299299,
       "distance_km": 13.79
     },
     {
@@ -56299,13 +56299,6 @@
       "distance_km": 13.8
     },
     {
-      "name": "Via Morandi (Cimitero) (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4921225,
-      "lng": 9.2994795,
-      "distance_km": 13.8
-    },
-    {
       "name": "Via Brodolini - Via Balossa (Novate)",
       "class": "platform",
       "lat": 45.53511345,
@@ -56317,6 +56310,13 @@
       "class": "bus_stop",
       "lat": 45.6122006,
       "lng": 9.103696,
+      "distance_km": 13.8
+    },
+    {
+      "name": "Via Morandi (Cimitero) (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4921225,
+      "lng": 9.2994795,
       "distance_km": 13.8
     },
     {
@@ -56432,13 +56432,6 @@
       "distance_km": 13.83
     },
     {
-      "name": "Via Morandi (Cimitero) (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4917711,
-      "lng": 9.2988993,
-      "distance_km": 13.84
-    },
-    {
       "name": "Via Astesani - Viale Affori",
       "class": "bus_stop",
       "lat": 45.5178974,
@@ -56450,6 +56443,13 @@
       "class": "stop_position",
       "lat": 45.5179131,
       "lng": 9.1709586,
+      "distance_km": 13.84
+    },
+    {
+      "name": "Via Morandi (Cimitero) (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4917711,
+      "lng": 9.2988993,
       "distance_km": 13.84
     },
     {
@@ -56530,13 +56530,6 @@
       "distance_km": 13.86
     },
     {
-      "name": "Via Cassanese - Via Radaelli (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4913012,
-      "lng": 9.2677829,
-      "distance_km": 13.86
-    },
-    {
       "name": "Via De Gasperi - Via Lavoro (Senago)",
       "class": "bus_stop",
       "lat": 45.5675753,
@@ -56548,6 +56541,13 @@
       "class": "stop_position",
       "lat": 45.5175867,
       "lng": 9.1711499,
+      "distance_km": 13.86
+    },
+    {
+      "name": "Via Cassanese - Via Radaelli (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4913012,
+      "lng": 9.2677829,
       "distance_km": 13.86
     },
     {
@@ -56775,6 +56775,13 @@
       "distance_km": 13.91
     },
     {
+      "name": "Via Astesani - Via Zanoli",
+      "class": "stop_position",
+      "lat": 45.5164112,
+      "lng": 9.1719105,
+      "distance_km": 13.92
+    },
+    {
       "name": "Via Carnia - Via Palmanova",
       "class": "stop_position",
       "lat": 45.4944711,
@@ -56803,13 +56810,6 @@
       "distance_km": 13.92
     },
     {
-      "name": "Via Astesani - Via Zanoli",
-      "class": "stop_position",
-      "lat": 45.5164112,
-      "lng": 9.1719105,
-      "distance_km": 13.92
-    },
-    {
       "name": "GESSATE Viale Piave",
       "class": "bus_stop",
       "lat": 45.5525413,
@@ -56822,6 +56822,20 @@
       "lat": 45.6778337,
       "lng": 9.1256599,
       "distance_km": 13.92
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5299604,
+      "lng": 9.1504483,
+      "distance_km": 13.93
+    },
+    {
+      "name": "Via Astesani - Via Zanoli",
+      "class": "bus_stop",
+      "lat": 45.5163889,
+      "lng": 9.1718396,
+      "distance_km": 13.93
     },
     {
       "name": "Via Fratelli Cervi - Via Cassanese (Segrate)",
@@ -56854,16 +56868,9 @@
     {
       "name": "Bus stop",
       "class": "bus_stop",
-      "lat": 45.5299604,
-      "lng": 9.1504483,
-      "distance_km": 13.93
-    },
-    {
-      "name": "Via Astesani - Via Zanoli",
-      "class": "bus_stop",
-      "lat": 45.5163889,
-      "lng": 9.1718396,
-      "distance_km": 13.93
+      "lat": 45.5760648,
+      "lng": 9.1111088,
+      "distance_km": 13.94
     },
     {
       "name": "Bus stop",
@@ -56877,13 +56884,6 @@
       "class": "bus_stop",
       "lat": 45.4942069,
       "lng": 9.3258443,
-      "distance_km": 13.94
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5760648,
-      "lng": 9.1111088,
       "distance_km": 13.94
     },
     {
@@ -56905,6 +56905,27 @@
       "class": "platform",
       "lat": 45.5038667,
       "lng": 9.199494099999999,
+      "distance_km": 13.95
+    },
+    {
+      "name": "Via Litta Modignani - Via Salemi",
+      "class": "bus_stop",
+      "lat": 45.5229779,
+      "lng": 9.1602863,
+      "distance_km": 13.95
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.52297005,
+      "lng": 9.16031315,
+      "distance_km": 13.95
+    },
+    {
+      "name": "Via Litta Modignani - Via Salemi",
+      "class": "stop_position",
+      "lat": 45.5228966,
+      "lng": 9.1603137,
       "distance_km": 13.95
     },
     {
@@ -56933,27 +56954,6 @@
       "class": "bus_stop",
       "lat": 45.4955369,
       "lng": 9.2290569,
-      "distance_km": 13.95
-    },
-    {
-      "name": "Via Litta Modignani - Via Salemi",
-      "class": "bus_stop",
-      "lat": 45.5229779,
-      "lng": 9.1602863,
-      "distance_km": 13.95
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.52297005,
-      "lng": 9.16031315,
-      "distance_km": 13.95
-    },
-    {
-      "name": "Via Litta Modignani - Via Salemi",
-      "class": "stop_position",
-      "lat": 45.5228966,
-      "lng": 9.1603137,
       "distance_km": 13.95
     },
     {
@@ -57027,13 +57027,6 @@
       "distance_km": 13.97
     },
     {
-      "name": "Via Cellini - Via Cristei (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4903612,
-      "lng": 9.2957903,
-      "distance_km": 13.97
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.5155609,
@@ -57052,6 +57045,13 @@
       "class": "bus_stop",
       "lat": 45.5155391,
       "lng": 9.1726291,
+      "distance_km": 13.97
+    },
+    {
+      "name": "Via Cellini - Via Cristei (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4903612,
+      "lng": 9.2957903,
       "distance_km": 13.97
     },
     {
@@ -57090,6 +57090,20 @@
       "distance_km": 13.98
     },
     {
+      "name": "Via Pellico - Via Lorenzini (Bollate)",
+      "class": "stop_position",
+      "lat": 45.5452841,
+      "lng": 9.1321316,
+      "distance_km": 13.98
+    },
+    {
+      "name": "Via Pellico - Via Lorenzini (Bollate)",
+      "class": "bus_stop",
+      "lat": 45.545361,
+      "lng": 9.1321185,
+      "distance_km": 13.98
+    },
+    {
       "name": "Via Monfalcone - Via Sangro",
       "class": "stop_position",
       "lat": 45.4935819,
@@ -57115,20 +57129,6 @@
       "class": "bus_stop",
       "lat": 45.4900775,
       "lng": 9.2918153,
-      "distance_km": 13.98
-    },
-    {
-      "name": "Via Pellico - Via Lorenzini (Bollate)",
-      "class": "stop_position",
-      "lat": 45.5452841,
-      "lng": 9.1321316,
-      "distance_km": 13.98
-    },
-    {
-      "name": "Via Pellico - Via Lorenzini (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.545361,
-      "lng": 9.1321185,
       "distance_km": 13.98
     },
     {
@@ -57158,6 +57158,20 @@
       "lat": 45.7133013,
       "lng": 9.1674145,
       "distance_km": 14.0
+    },
+    {
+      "name": "Via Pellegrino Rossi - Via Armellini",
+      "class": "bus_stop",
+      "lat": 45.5149512,
+      "lng": 9.1728576,
+      "distance_km": 14.01
+    },
+    {
+      "name": "Via Pellegrino Rossi Via Armellini",
+      "class": "platform",
+      "lat": 45.5149531,
+      "lng": 9.1728299,
+      "distance_km": 14.01
     },
     {
       "name": "Via Cassanese - Via Radaelli (Segrate)",
@@ -57202,39 +57216,11 @@
       "distance_km": 14.01
     },
     {
-      "name": "Via Pellegrino Rossi - Via Armellini",
-      "class": "bus_stop",
-      "lat": 45.5149512,
-      "lng": 9.1728576,
-      "distance_km": 14.01
-    },
-    {
-      "name": "Via Pellegrino Rossi Via Armellini",
-      "class": "platform",
-      "lat": 45.5149531,
-      "lng": 9.1728299,
-      "distance_km": 14.01
-    },
-    {
       "name": "Merate - pagnano centro",
       "class": "bus_stop",
       "lat": 45.7066054,
       "lng": 9.405756,
       "distance_km": 14.01
-    },
-    {
-      "name": "Via Feltre, 100",
-      "class": "stop_position",
-      "lat": 45.4915505,
-      "lng": 9.2492088,
-      "distance_km": 14.02
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.491489550000004,
-      "lng": 9.24963365,
-      "distance_km": 14.02
     },
     {
       "name": "Via Pellico - Via Lorenzini (Bollate)",
@@ -57248,6 +57234,20 @@
       "class": "bus_stop",
       "lat": 45.5452091,
       "lng": 9.1315781,
+      "distance_km": 14.02
+    },
+    {
+      "name": "Via Feltre, 100",
+      "class": "stop_position",
+      "lat": 45.4915505,
+      "lng": 9.2492088,
+      "distance_km": 14.02
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.491489550000004,
+      "lng": 9.24963365,
       "distance_km": 14.02
     },
     {
@@ -57300,6 +57300,13 @@
       "distance_km": 14.05
     },
     {
+      "name": "Via Litta Modignani - Via Salemi",
+      "class": "stop_position",
+      "lat": 45.522611,
+      "lng": 9.158853,
+      "distance_km": 14.05
+    },
+    {
       "name": "Via Cellini - Via Cristei (Segrate)",
       "class": "bus_stop",
       "lat": 45.4896691,
@@ -57311,13 +57318,6 @@
       "class": "stop_position",
       "lat": 45.4896734,
       "lng": 9.2960838,
-      "distance_km": 14.05
-    },
-    {
-      "name": "Via Litta Modignani - Via Salemi",
-      "class": "stop_position",
-      "lat": 45.522611,
-      "lng": 9.158853,
       "distance_km": 14.05
     },
     {
@@ -57398,20 +57398,6 @@
       "distance_km": 14.07
     },
     {
-      "name": "Via Morandi - Via Cristei (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4895449,
-      "lng": 9.2986204,
-      "distance_km": 14.08
-    },
-    {
-      "name": "Via Morandi - Via Cristei (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4895384,
-      "lng": 9.298535,
-      "distance_km": 14.08
-    },
-    {
       "name": "Via Besta",
       "class": "stop_position",
       "lat": 45.5189824,
@@ -57447,11 +57433,32 @@
       "distance_km": 14.08
     },
     {
+      "name": "Via Morandi - Via Cristei (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4895449,
+      "lng": 9.2986204,
+      "distance_km": 14.08
+    },
+    {
+      "name": "Via Morandi - Via Cristei (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4895384,
+      "lng": 9.298535,
+      "distance_km": 14.08
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.67820222615602,
       "lng": 9.438573933099509,
       "distance_km": 14.08
+    },
+    {
+      "name": "Affori Centro",
+      "class": "stop_position",
+      "lat": 45.5135319,
+      "lng": 9.1739456,
+      "distance_km": 14.09
     },
     {
       "name": "Via Morandi - Via Cristei (Segrate)",
@@ -57482,13 +57489,6 @@
       "distance_km": 14.09
     },
     {
-      "name": "Affori Centro",
-      "class": "stop_position",
-      "lat": 45.5135319,
-      "lng": 9.1739456,
-      "distance_km": 14.09
-    },
-    {
       "name": "GESSATE Via Bergamo",
       "class": "bus_stop",
       "lat": 45.5582931,
@@ -57510,17 +57510,17 @@
       "distance_km": 14.09
     },
     {
-      "name": "Via Morandi - Via Cristei (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4894253,
-      "lng": 9.2985414,
-      "distance_km": 14.1
-    },
-    {
       "name": "Via Cavour - Via Morandi (Novate)",
       "class": "bus_stop",
       "lat": 45.5323507,
       "lng": 9.1444658,
+      "distance_km": 14.1
+    },
+    {
+      "name": "Via Morandi - Via Cristei (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4894253,
+      "lng": 9.2985414,
       "distance_km": 14.1
     },
     {
@@ -57538,20 +57538,6 @@
       "distance_km": 14.11
     },
     {
-      "name": "Via Feltre - Via Pisani Dossi",
-      "class": "bus_stop",
-      "lat": 45.4914154,
-      "lng": 9.2431759,
-      "distance_km": 14.12
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.49139445,
-      "lng": 9.2431725,
-      "distance_km": 14.12
-    },
-    {
       "name": "Via Brodolini - Via Stelvio (Novate)",
       "class": "bus_stop",
       "lat": 45.5384643,
@@ -57563,6 +57549,20 @@
       "class": "stop_position",
       "lat": 45.5384106,
       "lng": 9.1371046,
+      "distance_km": 14.12
+    },
+    {
+      "name": "Via Feltre - Via Pisani Dossi",
+      "class": "bus_stop",
+      "lat": 45.4914154,
+      "lng": 9.2431759,
+      "distance_km": 14.12
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.49139445,
+      "lng": 9.2431725,
       "distance_km": 14.12
     },
     {
@@ -57720,6 +57720,13 @@
       "distance_km": 14.14
     },
     {
+      "name": "Via Polveriera - Via Bovisasca (Novate)",
+      "class": "stop_position",
+      "lat": 45.5284856,
+      "lng": 9.1487375,
+      "distance_km": 14.14
+    },
+    {
       "name": "Cimitero di Lambrate",
       "class": "bus_stop",
       "lat": 45.4896963,
@@ -57755,13 +57762,6 @@
       "distance_km": 14.14
     },
     {
-      "name": "Via Polveriera - Via Bovisasca (Novate)",
-      "class": "stop_position",
-      "lat": 45.5284856,
-      "lng": 9.1487375,
-      "distance_km": 14.14
-    },
-    {
       "name": "Merate - pagnano",
       "class": "bus_stop",
       "lat": 45.708575,
@@ -57783,13 +57783,6 @@
       "distance_km": 14.15
     },
     {
-      "name": "Cimitero di Lambrate",
-      "class": "stop_position",
-      "lat": 45.4896789,
-      "lng": 9.2551282,
-      "distance_km": 14.15
-    },
-    {
       "name": "Via Polveriera - Via Bovisasca (Novate)",
       "class": "platform",
       "lat": 45.52843515,
@@ -57801,6 +57794,13 @@
       "class": "bus_stop",
       "lat": 45.5284607,
       "lng": 9.1485793,
+      "distance_km": 14.15
+    },
+    {
+      "name": "Cimitero di Lambrate",
+      "class": "stop_position",
+      "lat": 45.4896789,
+      "lng": 9.2551282,
       "distance_km": 14.15
     },
     {
@@ -57832,17 +57832,17 @@
       "distance_km": 14.16
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.4921521,
-      "lng": 9.3255538,
-      "distance_km": 14.16
-    },
-    {
       "name": "Via Polveriera - Via Bovisasca (Novate)",
       "class": "platform",
       "lat": 45.528414749999996,
       "lng": 9.148474199999999,
+      "distance_km": 14.16
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.4921521,
+      "lng": 9.3255538,
       "distance_km": 14.16
     },
     {
@@ -57888,6 +57888,34 @@
       "distance_km": 14.17
     },
     {
+      "name": "Via Litta Modignani, 72",
+      "class": "stop_position",
+      "lat": 45.5222778,
+      "lng": 9.1570535,
+      "distance_km": 14.17
+    },
+    {
+      "name": "Via Litta Modignani, 72",
+      "class": "bus_stop",
+      "lat": 45.5223526,
+      "lng": 9.1570276,
+      "distance_km": 14.17
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.52235875,
+      "lng": 9.157047949999999,
+      "distance_km": 14.17
+    },
+    {
+      "name": "Via Polveriera - Via Bovisasca (Novate)",
+      "class": "stop_position",
+      "lat": 45.5283497,
+      "lng": 9.1484487,
+      "distance_km": 14.17
+    },
+    {
       "name": "via Feltre via crescenzago",
       "class": "platform",
       "lat": 45.491301050000004,
@@ -57920,34 +57948,6 @@
       "class": "stop_position",
       "lat": 45.491958,
       "lng": 9.2367751,
-      "distance_km": 14.17
-    },
-    {
-      "name": "Via Litta Modignani, 72",
-      "class": "stop_position",
-      "lat": 45.5222778,
-      "lng": 9.1570535,
-      "distance_km": 14.17
-    },
-    {
-      "name": "Via Litta Modignani, 72",
-      "class": "bus_stop",
-      "lat": 45.5223526,
-      "lng": 9.1570276,
-      "distance_km": 14.17
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.52235875,
-      "lng": 9.157047949999999,
-      "distance_km": 14.17
-    },
-    {
-      "name": "Via Polveriera - Via Bovisasca (Novate)",
-      "class": "stop_position",
-      "lat": 45.5283497,
-      "lng": 9.1484487,
       "distance_km": 14.17
     },
     {
@@ -58049,20 +58049,6 @@
       "distance_km": 14.19
     },
     {
-      "name": "via Feltre via crescenzago",
-      "class": "platform",
-      "lat": 45.491153999999995,
-      "lng": 9.240716299999999,
-      "distance_km": 14.19
-    },
-    {
-      "name": "Via Feltre - Via Crescenzago",
-      "class": "bus_stop",
-      "lat": 45.4911646,
-      "lng": 9.2407092,
-      "distance_km": 14.19
-    },
-    {
       "name": "Via Litta Modignani, 72",
       "class": "bus_stop",
       "lat": 45.5221782,
@@ -58081,6 +58067,20 @@
       "class": "stop_position",
       "lat": 45.5222491,
       "lng": 9.156888,
+      "distance_km": 14.19
+    },
+    {
+      "name": "via Feltre via crescenzago",
+      "class": "platform",
+      "lat": 45.491153999999995,
+      "lng": 9.240716299999999,
+      "distance_km": 14.19
+    },
+    {
+      "name": "Via Feltre - Via Crescenzago",
+      "class": "bus_stop",
+      "lat": 45.4911646,
+      "lng": 9.2407092,
       "distance_km": 14.19
     },
     {
@@ -58315,6 +58315,20 @@
       "distance_km": 14.24
     },
     {
+      "name": "Via Rimembranze - Via Brodolini (Novate)",
+      "class": "bus_stop",
+      "lat": 45.5297055,
+      "lng": 9.1453524,
+      "distance_km": 14.24
+    },
+    {
+      "name": "Via Rimembranze - Via Brodolini (Novate)",
+      "class": "stop_position",
+      "lat": 45.5297575,
+      "lng": 9.1453519,
+      "distance_km": 14.24
+    },
+    {
       "name": "Udine M2",
       "class": "bus_stop",
       "lat": 45.4911831,
@@ -58333,20 +58347,6 @@
       "class": "platform",
       "lat": 45.49031695,
       "lng": 9.242932750000001,
-      "distance_km": 14.24
-    },
-    {
-      "name": "Via Rimembranze - Via Brodolini (Novate)",
-      "class": "bus_stop",
-      "lat": 45.5297055,
-      "lng": 9.1453524,
-      "distance_km": 14.24
-    },
-    {
-      "name": "Via Rimembranze - Via Brodolini (Novate)",
-      "class": "stop_position",
-      "lat": 45.5297575,
-      "lng": 9.1453519,
       "distance_km": 14.24
     },
     {
@@ -58490,6 +58490,20 @@
       "distance_km": 14.28
     },
     {
+      "name": "Via Bovisasca - Via Baracca (Novate Milanese)",
+      "class": "bus_stop",
+      "lat": 45.5268548,
+      "lng": 9.1484674,
+      "distance_km": 14.28
+    },
+    {
+      "name": "Via Bovisasca - Via Baracca (Novate Milanese)",
+      "class": "stop_position",
+      "lat": 45.5268892,
+      "lng": 9.1483595,
+      "distance_km": 14.28
+    },
+    {
       "name": "Lavanderie (Segrate)",
       "class": "bus_stop",
       "lat": 45.4875451,
@@ -58515,20 +58529,6 @@
       "class": "bus_stop",
       "lat": 45.4876589,
       "lng": 9.2974618,
-      "distance_km": 14.28
-    },
-    {
-      "name": "Via Bovisasca - Via Baracca (Novate Milanese)",
-      "class": "bus_stop",
-      "lat": 45.5268548,
-      "lng": 9.1484674,
-      "distance_km": 14.28
-    },
-    {
-      "name": "Via Bovisasca - Via Baracca (Novate Milanese)",
-      "class": "stop_position",
-      "lat": 45.5268892,
-      "lng": 9.1483595,
       "distance_km": 14.28
     },
     {
@@ -58567,13 +58567,6 @@
       "distance_km": 14.29
     },
     {
-      "name": "Lavanderie (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4874717,
-      "lng": 9.2677214,
-      "distance_km": 14.29
-    },
-    {
       "name": "Via Bovisasca - Via Baracca (Novate Milanese)",
       "class": "stop_position",
       "lat": 45.5268374,
@@ -58588,11 +58581,46 @@
       "distance_km": 14.29
     },
     {
+      "name": "Lavanderie (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4874717,
+      "lng": 9.2677214,
+      "distance_km": 14.29
+    },
+    {
       "name": "GESSATE Via Garibaldi",
       "class": "bus_stop",
       "lat": 45.5501651,
       "lng": 9.4391192,
       "distance_km": 14.29
+    },
+    {
+      "name": "Via Rimembranze, 6 (Novate)",
+      "class": "bus_stop",
+      "lat": 45.5299251,
+      "lng": 9.1440059,
+      "distance_km": 14.3
+    },
+    {
+      "name": "Via Rimembranze, 6 (Novate)",
+      "class": "stop_position",
+      "lat": 45.5299776,
+      "lng": 9.1440144,
+      "distance_km": 14.3
+    },
+    {
+      "name": "Via Stelvio - Via Costa (Novate)",
+      "class": "bus_stop",
+      "lat": 45.5381499,
+      "lng": 9.1344493,
+      "distance_km": 14.3
+    },
+    {
+      "name": "Via Stelvio - Via Costa (Novate)",
+      "class": "stop_position",
+      "lat": 45.5380687,
+      "lng": 9.1344918,
+      "distance_km": 14.3
     },
     {
       "name": "Udine M2",
@@ -58648,34 +58676,6 @@
       "class": "stop_position",
       "lat": 45.4874392,
       "lng": 9.2962035,
-      "distance_km": 14.3
-    },
-    {
-      "name": "Via Rimembranze, 6 (Novate)",
-      "class": "bus_stop",
-      "lat": 45.5299251,
-      "lng": 9.1440059,
-      "distance_km": 14.3
-    },
-    {
-      "name": "Via Rimembranze, 6 (Novate)",
-      "class": "stop_position",
-      "lat": 45.5299776,
-      "lng": 9.1440144,
-      "distance_km": 14.3
-    },
-    {
-      "name": "Via Stelvio - Via Costa (Novate)",
-      "class": "bus_stop",
-      "lat": 45.5381499,
-      "lng": 9.1344493,
-      "distance_km": 14.3
-    },
-    {
-      "name": "Via Stelvio - Via Costa (Novate)",
-      "class": "stop_position",
-      "lat": 45.5380687,
-      "lng": 9.1344918,
       "distance_km": 14.3
     },
     {
@@ -58854,27 +58854,6 @@
       "distance_km": 14.37
     },
     {
-      "name": "Via Passo Rolle - Via Rombon",
-      "class": "platform",
-      "lat": 45.488418550000006,
-      "lng": 9.248259000000001,
-      "distance_km": 14.37
-    },
-    {
-      "name": "Via Passo Rolle - Via Rombon",
-      "class": "bus_stop",
-      "lat": 45.4884283,
-      "lng": 9.2482593,
-      "distance_km": 14.37
-    },
-    {
-      "name": "Via Passo Rolle - Via Rombon",
-      "class": "stop_position",
-      "lat": 45.4884274,
-      "lng": 9.2482058,
-      "distance_km": 14.37
-    },
-    {
       "name": "Via Caduti Bollatesi - Via Monte Nero (Bollate)",
       "class": "bus_stop",
       "lat": 45.5446175,
@@ -58893,6 +58872,27 @@
       "class": "bus_stop",
       "lat": 45.5756732,
       "lng": 9.1054315,
+      "distance_km": 14.37
+    },
+    {
+      "name": "Via Passo Rolle - Via Rombon",
+      "class": "platform",
+      "lat": 45.488418550000006,
+      "lng": 9.248259000000001,
+      "distance_km": 14.37
+    },
+    {
+      "name": "Via Passo Rolle - Via Rombon",
+      "class": "bus_stop",
+      "lat": 45.4884283,
+      "lng": 9.2482593,
+      "distance_km": 14.37
+    },
+    {
+      "name": "Via Passo Rolle - Via Rombon",
+      "class": "stop_position",
+      "lat": 45.4884274,
+      "lng": 9.2482058,
       "distance_km": 14.37
     },
     {
@@ -58952,6 +58952,20 @@
       "distance_km": 14.39
     },
     {
+      "name": "Via Caduti Bollatesi - Via Monte Nero (Bollate)",
+      "class": "bus_stop",
+      "lat": 45.5446391,
+      "lng": 9.1265389,
+      "distance_km": 14.39
+    },
+    {
+      "name": "Via Caduti Bollatesi - Via Monte Nero (Bollate)",
+      "class": "stop_position",
+      "lat": 45.5445797,
+      "lng": 9.1265883,
+      "distance_km": 14.39
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.49228935,
@@ -58977,20 +58991,6 @@
       "class": "bus_stop",
       "lat": 45.48674,
       "lng": 9.2987448,
-      "distance_km": 14.39
-    },
-    {
-      "name": "Via Caduti Bollatesi - Via Monte Nero (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.5446391,
-      "lng": 9.1265389,
-      "distance_km": 14.39
-    },
-    {
-      "name": "Via Caduti Bollatesi - Via Monte Nero (Bollate)",
-      "class": "stop_position",
-      "lat": 45.5445797,
-      "lng": 9.1265883,
       "distance_km": 14.39
     },
     {
@@ -59029,17 +59029,17 @@
       "distance_km": 14.4
     },
     {
-      "name": "Via Pisani Dossi, 26",
-      "class": "platform",
-      "lat": 45.4885943,
-      "lng": 9.244184950000001,
-      "distance_km": 14.41
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 45.5758161,
       "lng": 9.1048326,
+      "distance_km": 14.41
+    },
+    {
+      "name": "Via Pisani Dossi, 26",
+      "class": "platform",
+      "lat": 45.4885943,
+      "lng": 9.244184950000001,
       "distance_km": 14.41
     },
     {
@@ -59054,6 +59054,20 @@
       "class": "stop_position",
       "lat": 45.5030444,
       "lng": 9.1890724,
+      "distance_km": 14.42
+    },
+    {
+      "name": "Via 4 Novembre - Via Bovisasca (Novate Milanese)",
+      "class": "bus_stop",
+      "lat": 45.5259221,
+      "lng": 9.1472995,
+      "distance_km": 14.42
+    },
+    {
+      "name": "Via 4 Novembre - Via Bovisasca (Novate Milanese)",
+      "class": "stop_position",
+      "lat": 45.5259392,
+      "lng": 9.1472772,
       "distance_km": 14.42
     },
     {
@@ -59089,20 +59103,6 @@
       "class": "stop_position",
       "lat": 45.490964,
       "lng": 9.229849,
-      "distance_km": 14.42
-    },
-    {
-      "name": "Via 4 Novembre - Via Bovisasca (Novate Milanese)",
-      "class": "bus_stop",
-      "lat": 45.5259221,
-      "lng": 9.1472995,
-      "distance_km": 14.42
-    },
-    {
-      "name": "Via 4 Novembre - Via Bovisasca (Novate Milanese)",
-      "class": "stop_position",
-      "lat": 45.5259392,
-      "lng": 9.1472772,
       "distance_km": 14.42
     },
     {
@@ -59155,20 +59155,6 @@
       "distance_km": 14.43
     },
     {
-      "name": "Via Passo Rolle - Via Rombon",
-      "class": "platform",
-      "lat": 45.48795175,
-      "lng": 9.24803765,
-      "distance_km": 14.43
-    },
-    {
-      "name": "Via Passo Rolle - Via Rombon",
-      "class": "bus_stop",
-      "lat": 45.4879485,
-      "lng": 9.2480676,
-      "distance_km": 14.43
-    },
-    {
       "name": "Via Rimembranze - Via Latini (Novate)",
       "class": "stop_position",
       "lat": 45.5299919,
@@ -59180,6 +59166,20 @@
       "class": "bus_stop",
       "lat": 45.5299494,
       "lng": 9.1417941,
+      "distance_km": 14.43
+    },
+    {
+      "name": "Via Passo Rolle - Via Rombon",
+      "class": "platform",
+      "lat": 45.48795175,
+      "lng": 9.24803765,
+      "distance_km": 14.43
+    },
+    {
+      "name": "Via Passo Rolle - Via Rombon",
+      "class": "bus_stop",
+      "lat": 45.4879485,
+      "lng": 9.2480676,
       "distance_km": 14.43
     },
     {
@@ -59225,6 +59225,20 @@
       "distance_km": 14.44
     },
     {
+      "name": "BASIANO Via Porta",
+      "class": "bus_stop",
+      "lat": 45.5844958,
+      "lng": 9.4612632,
+      "distance_km": 14.44
+    },
+    {
+      "name": "BASIANO Via Porta",
+      "class": "bus_stop",
+      "lat": 45.5842326,
+      "lng": 9.461194,
+      "distance_km": 14.44
+    },
+    {
       "name": "Via Galilei (Centro commerciale) (Vignate)",
       "class": "bus_stop",
       "lat": 45.5030508,
@@ -59250,20 +59264,6 @@
       "class": "stop_position",
       "lat": 45.5450178,
       "lng": 9.4369155,
-      "distance_km": 14.44
-    },
-    {
-      "name": "BASIANO Via Porta",
-      "class": "bus_stop",
-      "lat": 45.5844958,
-      "lng": 9.4612632,
-      "distance_km": 14.44
-    },
-    {
-      "name": "BASIANO Via Porta",
-      "class": "bus_stop",
-      "lat": 45.5842326,
-      "lng": 9.461194,
       "distance_km": 14.44
     },
     {
@@ -59337,27 +59337,6 @@
       "distance_km": 14.46
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.48691705,
-      "lng": 9.25413105,
-      "distance_km": 14.46
-    },
-    {
-      "name": "Via Rombon (Sacro Cuore)",
-      "class": "stop_position",
-      "lat": 45.4868998,
-      "lng": 9.2540605,
-      "distance_km": 14.46
-    },
-    {
-      "name": "Largo Gemito",
-      "class": "stop_position",
-      "lat": 45.4898885,
-      "lng": 9.2338213,
-      "distance_km": 14.46
-    },
-    {
       "name": "Via Gabbro - Via Assietta",
       "class": "stop_position",
       "lat": 45.516921,
@@ -59400,10 +59379,52 @@
       "distance_km": 14.46
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.48691705,
+      "lng": 9.25413105,
+      "distance_km": 14.46
+    },
+    {
+      "name": "Via Rombon (Sacro Cuore)",
+      "class": "stop_position",
+      "lat": 45.4868998,
+      "lng": 9.2540605,
+      "distance_km": 14.46
+    },
+    {
+      "name": "Largo Gemito",
+      "class": "stop_position",
+      "lat": 45.4898885,
+      "lng": 9.2338213,
+      "distance_km": 14.46
+    },
+    {
       "name": "Piazzale Farina",
       "class": "stop_position",
       "lat": 45.4986217,
       "lng": 9.1996033,
+      "distance_km": 14.47
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.52154025,
+      "lng": 9.15272655,
+      "distance_km": 14.47
+    },
+    {
+      "name": "Via Litta Modignani - Via Bovisasca",
+      "class": "stop_position",
+      "lat": 45.5214564,
+      "lng": 9.152732,
+      "distance_km": 14.47
+    },
+    {
+      "name": "Via Litta Modignani - Via Bovisasca",
+      "class": "bus_stop",
+      "lat": 45.5215313,
+      "lng": 9.1527012,
       "distance_km": 14.47
     },
     {
@@ -59439,27 +59460,6 @@
       "class": "platform",
       "lat": 45.491795800000006,
       "lng": 9.2240628,
-      "distance_km": 14.47
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.52154025,
-      "lng": 9.15272655,
-      "distance_km": 14.47
-    },
-    {
-      "name": "Via Litta Modignani - Via Bovisasca",
-      "class": "stop_position",
-      "lat": 45.5214564,
-      "lng": 9.152732,
-      "distance_km": 14.47
-    },
-    {
-      "name": "Via Litta Modignani - Via Bovisasca",
-      "class": "bus_stop",
-      "lat": 45.5215313,
-      "lng": 9.1527012,
       "distance_km": 14.47
     },
     {
@@ -59512,17 +59512,17 @@
       "distance_km": 14.48
     },
     {
-      "name": "Via Padova - Via Predabissi",
-      "class": "stop_position",
-      "lat": 45.4916838,
-      "lng": 9.2240496,
-      "distance_km": 14.48
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.51728885000001,
       "lng": 9.15912035,
+      "distance_km": 14.48
+    },
+    {
+      "name": "Via Padova - Via Predabissi",
+      "class": "stop_position",
+      "lat": 45.4916838,
+      "lng": 9.2240496,
       "distance_km": 14.48
     },
     {
@@ -59575,13 +59575,6 @@
       "distance_km": 14.49
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.4889949,
-      "lng": 9.3254096,
-      "distance_km": 14.49
-    },
-    {
       "name": "Via Assietta - Via Cervi",
       "class": "bus_stop",
       "lat": 45.5172585,
@@ -59593,6 +59586,13 @@
       "class": "stop_position",
       "lat": 45.5172366,
       "lng": 9.1590833,
+      "distance_km": 14.49
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.4889949,
+      "lng": 9.3254096,
       "distance_km": 14.49
     },
     {
@@ -60044,6 +60044,13 @@
       "distance_km": 14.58
     },
     {
+      "name": "Quartiere Bovisasca",
+      "class": "bus_stop",
+      "lat": 45.515111,
+      "lng": 9.160726,
+      "distance_km": 14.58
+    },
+    {
       "name": "Via Rombon - Via Passo Rolle",
       "class": "stop_position",
       "lat": 45.4866796,
@@ -60065,18 +60072,18 @@
       "distance_km": 14.58
     },
     {
-      "name": "Quartiere Bovisasca",
-      "class": "bus_stop",
-      "lat": 45.515111,
-      "lng": 9.160726,
-      "distance_km": 14.58
-    },
-    {
       "name": "Novedrate - Boriero",
       "class": "bus_stop",
       "lat": 45.7007918,
       "lng": 9.1385151,
       "distance_km": 14.58
+    },
+    {
+      "name": "Quartiere Bovisasca",
+      "class": "stop_position",
+      "lat": 45.5151956,
+      "lng": 9.160515,
+      "distance_km": 14.59
     },
     {
       "name": "Quartiere Feltre",
@@ -60098,20 +60105,6 @@
       "lat": 45.4868177,
       "lng": 9.2453566,
       "distance_km": 14.59
-    },
-    {
-      "name": "Quartiere Bovisasca",
-      "class": "stop_position",
-      "lat": 45.5151956,
-      "lng": 9.160515,
-      "distance_km": 14.59
-    },
-    {
-      "name": "Via Redecesio - Via Trento (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4843559,
-      "lng": 9.2766589,
-      "distance_km": 14.6
     },
     {
       "name": "Via Assietta - Via Cervi",
@@ -60149,25 +60142,18 @@
       "distance_km": 14.6
     },
     {
+      "name": "Via Redecesio - Via Trento (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4843559,
+      "lng": 9.2766589,
+      "distance_km": 14.6
+    },
+    {
       "name": "Piazza Foscolo (Inverigo FN)",
       "class": "bus_stop",
       "lat": 45.7406204,
       "lng": 9.2235402,
       "distance_km": 14.6
-    },
-    {
-      "name": "Via Martiri di Cefalonia - Via Calabria (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.48422,
-      "lng": 9.27637,
-      "distance_km": 14.61
-    },
-    {
-      "name": "Via Martiri di Cefalonia - Via Calabria (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4842557,
-      "lng": 9.2763546,
-      "distance_km": 14.61
     },
     {
       "name": "Quartiere Bovisasca",
@@ -60202,6 +60188,20 @@
       "class": "platform",
       "lat": 45.5186968,
       "lng": 9.1544088,
+      "distance_km": 14.61
+    },
+    {
+      "name": "Via Martiri di Cefalonia - Via Calabria (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.48422,
+      "lng": 9.27637,
+      "distance_km": 14.61
+    },
+    {
+      "name": "Via Martiri di Cefalonia - Via Calabria (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4842557,
+      "lng": 9.2763546,
       "distance_km": 14.61
     },
     {
@@ -60254,6 +60254,20 @@
       "distance_km": 14.62
     },
     {
+      "name": "Novate Milanese",
+      "class": "stop_position",
+      "lat": 45.5373409,
+      "lng": 9.1302115,
+      "distance_km": 14.62
+    },
+    {
+      "name": "Novate Milanese",
+      "class": "bus_stop",
+      "lat": 45.5372732,
+      "lng": 9.1301807,
+      "distance_km": 14.62
+    },
+    {
       "name": "Via Padova - Via Predabissi",
       "class": "bus_stop",
       "lat": 45.4906288,
@@ -60272,20 +60286,6 @@
       "class": "stop_position",
       "lat": 45.490651,
       "lng": 9.2226422,
-      "distance_km": 14.62
-    },
-    {
-      "name": "Novate Milanese",
-      "class": "stop_position",
-      "lat": 45.5373409,
-      "lng": 9.1302115,
-      "distance_km": 14.62
-    },
-    {
-      "name": "Novate Milanese",
-      "class": "bus_stop",
-      "lat": 45.5372732,
-      "lng": 9.1301807,
       "distance_km": 14.62
     },
     {
@@ -60387,6 +60387,20 @@
       "distance_km": 14.64
     },
     {
+      "name": "Via Bovisasca - Via El Alamein",
+      "class": "bus_stop",
+      "lat": 45.5171044,
+      "lng": 9.1562265,
+      "distance_km": 14.64
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.5170815,
+      "lng": 9.1562521,
+      "distance_km": 14.64
+    },
+    {
       "name": "Via Rombon - Via De Villard",
       "class": "bus_stop",
       "lat": 45.4864477,
@@ -60426,20 +60440,6 @@
       "class": "bus_stop",
       "lat": 45.490148,
       "lng": 9.2239568,
-      "distance_km": 14.64
-    },
-    {
-      "name": "Via Bovisasca - Via El Alamein",
-      "class": "bus_stop",
-      "lat": 45.5171044,
-      "lng": 9.1562265,
-      "distance_km": 14.64
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.5170815,
-      "lng": 9.1562521,
       "distance_km": 14.64
     },
     {
@@ -60485,6 +60485,13 @@
       "distance_km": 14.65
     },
     {
+      "name": "Via Bovisasca - Via El Alamein",
+      "class": "stop_position",
+      "lat": 45.5170677,
+      "lng": 9.1561918,
+      "distance_km": 14.65
+    },
+    {
       "name": "Via Teodosio - Via Casoretto",
       "class": "stop_position",
       "lat": 45.4889856,
@@ -60503,13 +60510,6 @@
       "class": "bus_stop",
       "lat": 45.4845029,
       "lng": 9.2991663,
-      "distance_km": 14.65
-    },
-    {
-      "name": "Via Bovisasca - Via El Alamein",
-      "class": "stop_position",
-      "lat": 45.5170677,
-      "lng": 9.1561918,
       "distance_km": 14.65
     },
     {
@@ -60597,6 +60597,13 @@
       "distance_km": 14.66
     },
     {
+      "name": "CORNATE Colnago - Via De Amicis",
+      "class": "bus_stop",
+      "lat": 45.6281495,
+      "lng": 9.4687822,
+      "distance_km": 14.66
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.505539999999996,
@@ -60608,13 +60615,6 @@
       "class": "stop_position",
       "lat": 45.5055712,
       "lng": 9.384759,
-      "distance_km": 14.66
-    },
-    {
-      "name": "CORNATE Colnago - Via De Amicis",
-      "class": "bus_stop",
-      "lat": 45.6281495,
-      "lng": 9.4687822,
       "distance_km": 14.66
     },
     {
@@ -60667,20 +60667,6 @@
       "distance_km": 14.67
     },
     {
-      "name": "Via Ronchi - Piazza Monte Titano",
-      "class": "bus_stop",
-      "lat": 45.4873556,
-      "lng": 9.2370632,
-      "distance_km": 14.67
-    },
-    {
-      "name": "Via Teodosio - Via Casoretto",
-      "class": "bus_stop",
-      "lat": 45.4888689,
-      "lng": 9.2286879,
-      "distance_km": 14.67
-    },
-    {
       "name": "Via Bovisasca - Via Maffi",
       "class": "stop_position",
       "lat": 45.518122,
@@ -60699,6 +60685,20 @@
       "class": "platform",
       "lat": 45.5181544,
       "lng": 9.154013599999999,
+      "distance_km": 14.67
+    },
+    {
+      "name": "Via Ronchi - Piazza Monte Titano",
+      "class": "bus_stop",
+      "lat": 45.4873556,
+      "lng": 9.2370632,
+      "distance_km": 14.67
+    },
+    {
+      "name": "Via Teodosio - Via Casoretto",
+      "class": "bus_stop",
+      "lat": 45.4888689,
+      "lng": 9.2286879,
       "distance_km": 14.67
     },
     {
@@ -60751,17 +60751,17 @@
       "distance_km": 14.69
     },
     {
-      "name": "Via Ronchi - Piazza Monte Titano",
-      "class": "stop_position",
-      "lat": 45.4871549,
-      "lng": 9.2371893,
-      "distance_km": 14.69
-    },
-    {
       "name": "Via Bovisasca - Via El Alamein",
       "class": "stop_position",
       "lat": 45.5170326,
       "lng": 9.1553628,
+      "distance_km": 14.69
+    },
+    {
+      "name": "Via Ronchi - Piazza Monte Titano",
+      "class": "stop_position",
+      "lat": 45.4871549,
+      "lng": 9.2371893,
       "distance_km": 14.69
     },
     {
@@ -60926,34 +60926,6 @@
       "distance_km": 14.73
     },
     {
-      "name": "Via Rombon - Via Pini",
-      "class": "stop_position",
-      "lat": 45.4861224,
-      "lng": 9.2411204,
-      "distance_km": 14.73
-    },
-    {
-      "name": "Via Rombon - Via Pini",
-      "class": "bus_stop",
-      "lat": 45.4860955,
-      "lng": 9.2411289,
-      "distance_km": 14.73
-    },
-    {
-      "name": "Fermata Via Rombon Via Pini",
-      "class": "platform",
-      "lat": 45.48606802277734,
-      "lng": 9.241183598002843,
-      "distance_km": 14.73
-    },
-    {
-      "name": "Rugacesio",
-      "class": "bus_stop",
-      "lat": 45.4846838,
-      "lng": 9.3096496,
-      "distance_km": 14.73
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.54267359096553,
@@ -61024,6 +60996,34 @@
       "distance_km": 14.73
     },
     {
+      "name": "Via Rombon - Via Pini",
+      "class": "stop_position",
+      "lat": 45.4861224,
+      "lng": 9.2411204,
+      "distance_km": 14.73
+    },
+    {
+      "name": "Via Rombon - Via Pini",
+      "class": "bus_stop",
+      "lat": 45.4860955,
+      "lng": 9.2411289,
+      "distance_km": 14.73
+    },
+    {
+      "name": "Fermata Via Rombon Via Pini",
+      "class": "platform",
+      "lat": 45.48606802277734,
+      "lng": 9.241183598002843,
+      "distance_km": 14.73
+    },
+    {
+      "name": "Rugacesio",
+      "class": "bus_stop",
+      "lat": 45.4846838,
+      "lng": 9.3096496,
+      "distance_km": 14.73
+    },
+    {
       "name": "Viale Lombardia (Ipercoop) (Cant\u00f9)",
       "class": "bus_stop",
       "lat": 45.7165864,
@@ -61063,27 +61063,6 @@
       "class": "platform",
       "lat": 45.49053354453566,
       "lng": 9.218188219253866,
-      "distance_km": 14.74
-    },
-    {
-      "name": "Piazza Durante",
-      "class": "stop_position",
-      "lat": 45.4894138,
-      "lng": 9.2231747,
-      "distance_km": 14.74
-    },
-    {
-      "name": "Piazza Durante",
-      "class": "platform",
-      "lat": 45.4893871,
-      "lng": 9.22326735,
-      "distance_km": 14.74
-    },
-    {
-      "name": "Piazza Durante",
-      "class": "bus_stop",
-      "lat": 45.4893778,
-      "lng": 9.2232404,
       "distance_km": 14.74
     },
     {
@@ -61129,6 +61108,27 @@
       "distance_km": 14.74
     },
     {
+      "name": "Piazza Durante",
+      "class": "stop_position",
+      "lat": 45.4894138,
+      "lng": 9.2231747,
+      "distance_km": 14.74
+    },
+    {
+      "name": "Piazza Durante",
+      "class": "platform",
+      "lat": 45.4893871,
+      "lng": 9.22326735,
+      "distance_km": 14.74
+    },
+    {
+      "name": "Piazza Durante",
+      "class": "bus_stop",
+      "lat": 45.4893778,
+      "lng": 9.2232404,
+      "distance_km": 14.74
+    },
+    {
       "name": "CORNATE Via Dante Via Stanga",
       "class": "bus_stop",
       "lat": 45.6438597,
@@ -61157,13 +61157,6 @@
       "distance_km": 14.75
     },
     {
-      "name": "Piazza Durante",
-      "class": "platform",
-      "lat": 45.4888564,
-      "lng": 9.225041749999999,
-      "distance_km": 14.75
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.5331394980734,
@@ -61175,6 +61168,13 @@
       "class": "stop_position",
       "lat": 45.5330737,
       "lng": 9.1327185,
+      "distance_km": 14.75
+    },
+    {
+      "name": "Piazza Durante",
+      "class": "platform",
+      "lat": 45.4888564,
+      "lng": 9.225041749999999,
       "distance_km": 14.75
     },
     {
@@ -61227,13 +61227,6 @@
       "distance_km": 14.77
     },
     {
-      "name": "Via Padova Via Pasteur",
-      "class": "platform",
-      "lat": 45.489562250000006,
-      "lng": 9.2211103,
-      "distance_km": 14.77
-    },
-    {
       "name": "Via Bovisasca - Via Gabbro",
       "class": "stop_position",
       "lat": 45.5152418,
@@ -61273,6 +61266,13 @@
       "class": "platform",
       "lat": 45.5146091,
       "lng": 9.15779365,
+      "distance_km": 14.77
+    },
+    {
+      "name": "Via Padova Via Pasteur",
+      "class": "platform",
+      "lat": 45.489562250000006,
+      "lng": 9.2211103,
       "distance_km": 14.77
     },
     {
@@ -61346,6 +61346,13 @@
       "distance_km": 14.78
     },
     {
+      "name": "Novate Milanese",
+      "class": "railway_station",
+      "lat": 45.5329489,
+      "lng": 9.1324515,
+      "distance_km": 14.78
+    },
+    {
       "name": "Via Padova - Via Pasteur",
       "class": "stop_position",
       "lat": 45.4894985,
@@ -61364,13 +61371,6 @@
       "class": "bus_stop",
       "lat": 45.4865468,
       "lng": 9.3267995,
-      "distance_km": 14.78
-    },
-    {
-      "name": "Novate Milanese",
-      "class": "railway_station",
-      "lat": 45.5329489,
-      "lng": 9.1324515,
       "distance_km": 14.78
     },
     {
@@ -61488,13 +61488,6 @@
     {
       "name": "Platform",
       "class": "platform",
-      "lat": 45.48615822389829,
-      "lng": 9.23686570068787,
-      "distance_km": 14.8
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
       "lat": 45.54297657862167,
       "lng": 9.12172647871365,
       "distance_km": 14.8
@@ -61504,6 +61497,13 @@
       "class": "bus_stop",
       "lat": 45.5430051,
       "lng": 9.1217087,
+      "distance_km": 14.8
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.48615822389829,
+      "lng": 9.23686570068787,
       "distance_km": 14.8
     },
     {
@@ -61542,27 +61542,6 @@
       "distance_km": 14.81
     },
     {
-      "name": "Via delle Regioni - Via Emilia Romagna (Segrate)",
-      "class": "bus_stop",
-      "lat": 45.4826135,
-      "lng": 9.2700564,
-      "distance_km": 14.81
-    },
-    {
-      "name": "Via delle Regioni - Via Emilia Romagna (Segrate)",
-      "class": "stop_position",
-      "lat": 45.4826119,
-      "lng": 9.270029,
-      "distance_km": 14.81
-    },
-    {
-      "name": "Piazza Durante",
-      "class": "stop_position",
-      "lat": 45.4887477,
-      "lng": 9.2231264,
-      "distance_km": 14.81
-    },
-    {
       "name": "Bollate Centro FN",
       "class": "bus_stop",
       "lat": 45.542916,
@@ -61581,6 +61560,27 @@
       "class": "stop_position",
       "lat": 45.5429728,
       "lng": 9.1216403,
+      "distance_km": 14.81
+    },
+    {
+      "name": "Via delle Regioni - Via Emilia Romagna (Segrate)",
+      "class": "bus_stop",
+      "lat": 45.4826135,
+      "lng": 9.2700564,
+      "distance_km": 14.81
+    },
+    {
+      "name": "Via delle Regioni - Via Emilia Romagna (Segrate)",
+      "class": "stop_position",
+      "lat": 45.4826119,
+      "lng": 9.270029,
+      "distance_km": 14.81
+    },
+    {
+      "name": "Piazza Durante",
+      "class": "stop_position",
+      "lat": 45.4887477,
+      "lng": 9.2231264,
       "distance_km": 14.81
     },
     {
@@ -61605,13 +61605,6 @@
       "distance_km": 14.82
     },
     {
-      "name": "Piazza Durante",
-      "class": "bus_stop",
-      "lat": 45.4886666,
-      "lng": 9.2231275,
-      "distance_km": 14.82
-    },
-    {
       "name": "Bollate Centro FN",
       "class": "bus_stop",
       "lat": 45.5428813,
@@ -61623,6 +61616,13 @@
       "class": "platform",
       "lat": 45.542886671352896,
       "lng": 9.121542920710993,
+      "distance_km": 14.82
+    },
+    {
+      "name": "Piazza Durante",
+      "class": "bus_stop",
+      "lat": 45.4886666,
+      "lng": 9.2231275,
       "distance_km": 14.82
     },
     {
@@ -61689,6 +61689,13 @@
       "distance_km": 14.84
     },
     {
+      "name": "Bollate Centro FN",
+      "class": "bus_stop",
+      "lat": 45.5429832,
+      "lng": 9.1211359,
+      "distance_km": 14.84
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.48580803992486,
@@ -61710,11 +61717,11 @@
       "distance_km": 14.84
     },
     {
-      "name": "Bollate Centro FN",
+      "name": "Via Matteotti - Via Fratellanza (Bollate)",
       "class": "bus_stop",
-      "lat": 45.5429832,
-      "lng": 9.1211359,
-      "distance_km": 14.84
+      "lat": 45.5447058,
+      "lng": 9.1193335,
+      "distance_km": 14.85
     },
     {
       "name": "Via delle Regioni - Via Emilia Romagna (Segrate)",
@@ -61749,13 +61756,6 @@
       "class": "bus_stop",
       "lat": 45.4862778,
       "lng": 9.3285645,
-      "distance_km": 14.85
-    },
-    {
-      "name": "Via Matteotti - Via Fratellanza (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.5447058,
-      "lng": 9.1193335,
       "distance_km": 14.85
     },
     {
@@ -61864,27 +61864,6 @@
       "distance_km": 14.88
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.48542863211307,
-      "lng": 9.236526864280652,
-      "distance_km": 14.88
-    },
-    {
-      "name": "Pioltello-Limito",
-      "class": "railway_station",
-      "lat": 45.4858769,
-      "lng": 9.3282178,
-      "distance_km": 14.88
-    },
-    {
-      "name": "Pioltello-Limito",
-      "class": "stop_position",
-      "lat": 45.4857189,
-      "lng": 9.3273437,
-      "distance_km": 14.88
-    },
-    {
       "name": "Via Cerkovo (Quartiere Bovisasca)",
       "class": "bus_stop",
       "lat": 45.5163782,
@@ -61918,6 +61897,34 @@
       "lat": 45.55257549946372,
       "lng": 9.112367849416993,
       "distance_km": 14.88
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.48542863211307,
+      "lng": 9.236526864280652,
+      "distance_km": 14.88
+    },
+    {
+      "name": "Pioltello-Limito",
+      "class": "railway_station",
+      "lat": 45.4858769,
+      "lng": 9.3282178,
+      "distance_km": 14.88
+    },
+    {
+      "name": "Pioltello-Limito",
+      "class": "stop_position",
+      "lat": 45.4857189,
+      "lng": 9.3273437,
+      "distance_km": 14.88
+    },
+    {
+      "name": "Bollate Nord",
+      "class": "stop_position",
+      "lat": 45.5526715,
+      "lng": 9.1121948,
+      "distance_km": 14.89
     },
     {
       "name": "Stazione Lambrate M2",
@@ -61962,13 +61969,6 @@
       "distance_km": 14.89
     },
     {
-      "name": "Bollate Nord",
-      "class": "stop_position",
-      "lat": 45.5526715,
-      "lng": 9.1121948,
-      "distance_km": 14.89
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.492720000000006,
@@ -61994,6 +61994,13 @@
       "class": "bus_stop",
       "lat": 45.4970675,
       "lng": 9.1917219,
+      "distance_km": 14.9
+    },
+    {
+      "name": "Bollate Nord",
+      "class": "railway_station",
+      "lat": 45.5526203,
+      "lng": 9.1120724,
       "distance_km": 14.9
     },
     {
@@ -62036,13 +62043,6 @@
       "class": "stop_position",
       "lat": 45.4858989,
       "lng": 9.3290283,
-      "distance_km": 14.9
-    },
-    {
-      "name": "Bollate Nord",
-      "class": "railway_station",
-      "lat": 45.5526203,
-      "lng": 9.1120724,
       "distance_km": 14.9
     },
     {
@@ -62092,6 +62092,41 @@
       "class": "platform",
       "lat": 45.49703065,
       "lng": 9.191727449999998,
+      "distance_km": 14.91
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.5418749,
+      "lng": 9.1211562,
+      "distance_km": 14.91
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.5419526,
+      "lng": 9.1209858,
+      "distance_km": 14.91
+    },
+    {
+      "name": "Via Cerkovo (Quartiere Bovisasca)",
+      "class": "bus_stop",
+      "lat": 45.5161965,
+      "lng": 9.1525465,
+      "distance_km": 14.91
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.516204200000004,
+      "lng": 9.15255385,
+      "distance_km": 14.91
+    },
+    {
+      "name": "Via Cerkovo (Quartiere Bovisasca)",
+      "class": "stop_position",
+      "lat": 45.5162578,
+      "lng": 9.1525185,
       "distance_km": 14.91
     },
     {
@@ -62155,41 +62190,6 @@
       "class": "stop_position",
       "lat": 45.4858074,
       "lng": 9.3290622,
-      "distance_km": 14.91
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.5418749,
-      "lng": 9.1211562,
-      "distance_km": 14.91
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.5419526,
-      "lng": 9.1209858,
-      "distance_km": 14.91
-    },
-    {
-      "name": "Via Cerkovo (Quartiere Bovisasca)",
-      "class": "bus_stop",
-      "lat": 45.5161965,
-      "lng": 9.1525465,
-      "distance_km": 14.91
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.516204200000004,
-      "lng": 9.15255385,
-      "distance_km": 14.91
-    },
-    {
-      "name": "Via Cerkovo (Quartiere Bovisasca)",
-      "class": "stop_position",
-      "lat": 45.5162578,
-      "lng": 9.1525185,
       "distance_km": 14.91
     },
     {
@@ -62333,6 +62333,20 @@
       "distance_km": 14.93
     },
     {
+      "name": "Piazza Martiri della Libert\u00e0 (Bollate)",
+      "class": "bus_stop",
+      "lat": 45.5452077,
+      "lng": 9.1177192,
+      "distance_km": 14.93
+    },
+    {
+      "name": "Piazza Martiri della Liberta' (Bollate)",
+      "class": "stop_position",
+      "lat": 45.5452124,
+      "lng": 9.117666,
+      "distance_km": 14.93
+    },
+    {
       "name": "Piazza Gobetti",
       "class": "bus_stop",
       "lat": 45.4854851,
@@ -62372,20 +62386,6 @@
       "class": "stop_position",
       "lat": 45.484954,
       "lng": 9.2371195,
-      "distance_km": 14.93
-    },
-    {
-      "name": "Piazza Martiri della Libert\u00e0 (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.5452077,
-      "lng": 9.1177192,
-      "distance_km": 14.93
-    },
-    {
-      "name": "Piazza Martiri della Liberta' (Bollate)",
-      "class": "stop_position",
-      "lat": 45.5452124,
-      "lng": 9.117666,
       "distance_km": 14.93
     },
     {
@@ -62774,13 +62774,6 @@
       "distance_km": 14.98
     },
     {
-      "name": "Stazione Lambrate M2",
-      "class": "stop_position",
-      "lat": 45.4845958,
-      "lng": 9.2359986,
-      "distance_km": 14.98
-    },
-    {
       "name": "Via Maffi - Via Sertoli",
       "class": "bus_stop",
       "lat": 45.5166628,
@@ -62799,6 +62792,13 @@
       "class": "platform",
       "lat": 45.516661400000004,
       "lng": 9.15049205,
+      "distance_km": 14.98
+    },
+    {
+      "name": "Stazione Lambrate M2",
+      "class": "stop_position",
+      "lat": 45.4845958,
+      "lng": 9.2359986,
       "distance_km": 14.98
     },
     {
@@ -63145,20 +63145,6 @@
       "distance_km": 15.03
     },
     {
-      "name": "Via Porpora Via Amp\u00e8re",
-      "class": "stop_position",
-      "lat": 45.4860585,
-      "lng": 9.225987,
-      "distance_km": 15.03
-    },
-    {
-      "name": "Via Lombardia - Via Palermo (Limito)",
-      "class": "bus_stop",
-      "lat": 45.4842193,
-      "lng": 9.3263517,
-      "distance_km": 15.03
-    },
-    {
       "name": "Via Turati - Via Mazzini (Bollate)",
       "class": "stop_position",
       "lat": 45.5454183,
@@ -63177,6 +63163,20 @@
       "class": "bus_stop",
       "lat": 45.5508065,
       "lng": 9.1115742,
+      "distance_km": 15.03
+    },
+    {
+      "name": "Via Porpora Via Amp\u00e8re",
+      "class": "stop_position",
+      "lat": 45.4860585,
+      "lng": 9.225987,
+      "distance_km": 15.03
+    },
+    {
+      "name": "Via Lombardia - Via Palermo (Limito)",
+      "class": "bus_stop",
+      "lat": 45.4842193,
+      "lng": 9.3263517,
       "distance_km": 15.03
     },
     {
@@ -63212,6 +63212,41 @@
       "class": "bus_stop",
       "lat": 45.5755333,
       "lng": 9.096476,
+      "distance_km": 15.04
+    },
+    {
+      "name": "Stazioni Quarto Oggiaro",
+      "class": "stop_position",
+      "lat": 45.5199416,
+      "lng": 9.1444247,
+      "distance_km": 15.04
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.52000765,
+      "lng": 9.14437835,
+      "distance_km": 15.04
+    },
+    {
+      "name": "Stazioni Quarto Oggiaro",
+      "class": "bus_stop",
+      "lat": 45.5199971,
+      "lng": 9.1443774,
+      "distance_km": 15.04
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.51943807288397,
+      "lng": 9.145215324186227,
+      "distance_km": 15.04
+    },
+    {
+      "name": "Milano Quarto Oggiaro",
+      "class": "railway_station",
+      "lat": 45.5191956,
+      "lng": 9.1456385,
       "distance_km": 15.04
     },
     {
@@ -63262,69 +63297,6 @@
       "lat": 45.4841479,
       "lng": 9.3264483,
       "distance_km": 15.04
-    },
-    {
-      "name": "Stazioni Quarto Oggiaro",
-      "class": "stop_position",
-      "lat": 45.5199416,
-      "lng": 9.1444247,
-      "distance_km": 15.04
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.52000765,
-      "lng": 9.14437835,
-      "distance_km": 15.04
-    },
-    {
-      "name": "Stazioni Quarto Oggiaro",
-      "class": "bus_stop",
-      "lat": 45.5199971,
-      "lng": 9.1443774,
-      "distance_km": 15.04
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.51943807288397,
-      "lng": 9.145215324186227,
-      "distance_km": 15.04
-    },
-    {
-      "name": "Milano Quarto Oggiaro",
-      "class": "railway_station",
-      "lat": 45.5191956,
-      "lng": 9.1456385,
-      "distance_km": 15.04
-    },
-    {
-      "name": "Segrate",
-      "class": "railway_station",
-      "lat": 45.4808063,
-      "lng": 9.2985535,
-      "distance_km": 15.05
-    },
-    {
-      "name": "Stazione Lambrate M2",
-      "class": "stop_position",
-      "lat": 45.4837469,
-      "lng": 9.2373488,
-      "distance_km": 15.05
-    },
-    {
-      "name": "Stazione Lambrate M2",
-      "class": "bus_stop",
-      "lat": 45.4837353,
-      "lng": 9.2373072,
-      "distance_km": 15.05
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.48417199775243,
-      "lng": 9.23495160078283,
-      "distance_km": 15.05
     },
     {
       "name": "Platform",
@@ -63383,6 +63355,34 @@
       "distance_km": 15.05
     },
     {
+      "name": "Segrate",
+      "class": "railway_station",
+      "lat": 45.4808063,
+      "lng": 9.2985535,
+      "distance_km": 15.05
+    },
+    {
+      "name": "Stazione Lambrate M2",
+      "class": "stop_position",
+      "lat": 45.4837469,
+      "lng": 9.2373488,
+      "distance_km": 15.05
+    },
+    {
+      "name": "Stazione Lambrate M2",
+      "class": "bus_stop",
+      "lat": 45.4837353,
+      "lng": 9.2373072,
+      "distance_km": 15.05
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.48417199775243,
+      "lng": 9.23495160078283,
+      "distance_km": 15.05
+    },
+    {
       "name": "CORNATE Colnago - Via Castello",
       "class": "bus_stop",
       "lat": 45.6325301,
@@ -63411,27 +63411,6 @@
       "distance_km": 15.06
     },
     {
-      "name": "Segrate",
-      "class": "stop_position",
-      "lat": 45.4807611,
-      "lng": 9.2988639,
-      "distance_km": 15.06
-    },
-    {
-      "name": "Lambrate FS",
-      "class": "stop_position",
-      "lat": 45.4841238,
-      "lng": 9.2349174,
-      "distance_km": 15.06
-    },
-    {
-      "name": "Via Monza (Pioltello FS) (Limito)",
-      "class": "bus_stop",
-      "lat": 45.4846913,
-      "lng": 9.3309275,
-      "distance_km": 15.06
-    },
-    {
       "name": "Milano Quarto Oggiaro",
       "class": "stop_position",
       "lat": 45.5191129,
@@ -63453,6 +63432,27 @@
       "distance_km": 15.06
     },
     {
+      "name": "Segrate",
+      "class": "stop_position",
+      "lat": 45.4807611,
+      "lng": 9.2988639,
+      "distance_km": 15.06
+    },
+    {
+      "name": "Lambrate FS",
+      "class": "stop_position",
+      "lat": 45.4841238,
+      "lng": 9.2349174,
+      "distance_km": 15.06
+    },
+    {
+      "name": "Via Monza (Pioltello FS) (Limito)",
+      "class": "bus_stop",
+      "lat": 45.4846913,
+      "lng": 9.3309275,
+      "distance_km": 15.06
+    },
+    {
       "name": "CORNATE Colnago - Via Madonna",
       "class": "bus_stop",
       "lat": 45.6312243,
@@ -63464,27 +63464,6 @@
       "class": "platform",
       "lat": 45.49148652563793,
       "lng": 9.203453028858315,
-      "distance_km": 15.07
-    },
-    {
-      "name": "Segrate",
-      "class": "stop_position",
-      "lat": 45.4806256,
-      "lng": 9.298285,
-      "distance_km": 15.07
-    },
-    {
-      "name": "Via Porpora - Viale Lombardia",
-      "class": "bus_stop",
-      "lat": 45.4861217,
-      "lng": 9.224024,
-      "distance_km": 15.07
-    },
-    {
-      "name": "Via Porpora Viale Lombardia",
-      "class": "platform",
-      "lat": 45.4861224,
-      "lng": 9.2240216,
       "distance_km": 15.07
     },
     {
@@ -63506,6 +63485,27 @@
       "class": "bus_stop",
       "lat": 45.5466695,
       "lng": 9.1143388,
+      "distance_km": 15.07
+    },
+    {
+      "name": "Segrate",
+      "class": "stop_position",
+      "lat": 45.4806256,
+      "lng": 9.298285,
+      "distance_km": 15.07
+    },
+    {
+      "name": "Via Porpora - Viale Lombardia",
+      "class": "bus_stop",
+      "lat": 45.4861217,
+      "lng": 9.224024,
+      "distance_km": 15.07
+    },
+    {
+      "name": "Via Porpora Viale Lombardia",
+      "class": "platform",
+      "lat": 45.4861224,
+      "lng": 9.2240216,
       "distance_km": 15.07
     },
     {
@@ -63712,6 +63712,13 @@
       "distance_km": 15.09
     },
     {
+      "name": "Via Verdi - Via Vittorio Veneto (Bollate)",
+      "class": "bus_stop",
+      "lat": 45.5473565,
+      "lng": 9.113457,
+      "distance_km": 15.09
+    },
+    {
       "name": "Fermata N\u00b0 12723",
       "class": "platform",
       "lat": 45.4827736,
@@ -63782,13 +63789,6 @@
       "distance_km": 15.09
     },
     {
-      "name": "Via Verdi - Via Vittorio Veneto (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.5473565,
-      "lng": 9.113457,
-      "distance_km": 15.09
-    },
-    {
       "name": "Cascina amata - via m. baldo 21",
       "class": "bus_stop",
       "lat": 45.7244845,
@@ -63838,6 +63838,13 @@
       "distance_km": 15.1
     },
     {
+      "name": "Via Verdi - Via Vittorio Veneto (Bollate)",
+      "class": "stop_position",
+      "lat": 45.5472986,
+      "lng": 9.1134689,
+      "distance_km": 15.1
+    },
+    {
       "name": "Via Porpora - Via Lulli",
       "class": "platform",
       "lat": 45.4865,
@@ -63866,13 +63873,6 @@
       "distance_km": 15.1
     },
     {
-      "name": "Via Verdi - Via Vittorio Veneto (Bollate)",
-      "class": "stop_position",
-      "lat": 45.5472986,
-      "lng": 9.1134689,
-      "distance_km": 15.1
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.500427900000005,
@@ -63884,6 +63884,20 @@
       "class": "platform",
       "lat": 45.4870566674148,
       "lng": 9.217982051241899,
+      "distance_km": 15.11
+    },
+    {
+      "name": "Via Vittorio Veneto - Via Verdi (Bollate)",
+      "class": "bus_stop",
+      "lat": 45.545938,
+      "lng": 9.1144626,
+      "distance_km": 15.11
+    },
+    {
+      "name": "Via Vittorio Veneto - Via Verdi (Bollate)",
+      "class": "stop_position",
+      "lat": 45.5459309,
+      "lng": 9.1144095,
       "distance_km": 15.11
     },
     {
@@ -63919,20 +63933,6 @@
       "class": "platform",
       "lat": 45.486106899999996,
       "lng": 9.22239485,
-      "distance_km": 15.11
-    },
-    {
-      "name": "Via Vittorio Veneto - Via Verdi (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.545938,
-      "lng": 9.1144626,
-      "distance_km": 15.11
-    },
-    {
-      "name": "Via Vittorio Veneto - Via Verdi (Bollate)",
-      "class": "stop_position",
-      "lat": 45.5459309,
-      "lng": 9.1144095,
       "distance_km": 15.11
     },
     {
@@ -64195,27 +64195,6 @@
       "distance_km": 15.17
     },
     {
-      "name": "Via Porpora Via Lulli",
-      "class": "platform",
-      "lat": 45.485745050000006,
-      "lng": 9.2212544,
-      "distance_km": 15.17
-    },
-    {
-      "name": "Via Porpora - Via Lulli",
-      "class": "stop_position",
-      "lat": 45.4857977,
-      "lng": 9.2211451,
-      "distance_km": 15.17
-    },
-    {
-      "name": "Via Porpora - Via Lulli",
-      "class": "bus_stop",
-      "lat": 45.4857976,
-      "lng": 9.2212522,
-      "distance_km": 15.17
-    },
-    {
       "name": "Piazza San Francesco (Bollate)",
       "class": "bus_stop",
       "lat": 45.5441159,
@@ -64234,6 +64213,27 @@
       "class": "bus_stop",
       "lat": 45.5423669,
       "lng": 9.1166195,
+      "distance_km": 15.17
+    },
+    {
+      "name": "Via Porpora Via Lulli",
+      "class": "platform",
+      "lat": 45.485745050000006,
+      "lng": 9.2212544,
+      "distance_km": 15.17
+    },
+    {
+      "name": "Via Porpora - Via Lulli",
+      "class": "stop_position",
+      "lat": 45.4857977,
+      "lng": 9.2211451,
+      "distance_km": 15.17
+    },
+    {
+      "name": "Via Porpora - Via Lulli",
+      "class": "bus_stop",
+      "lat": 45.4857976,
+      "lng": 9.2212522,
       "distance_km": 15.17
     },
     {
@@ -64279,6 +64279,13 @@
       "distance_km": 15.18
     },
     {
+      "name": "Piazza San Francesco (Bollate)",
+      "class": "bus_stop",
+      "lat": 45.5436595,
+      "lng": 9.1153508,
+      "distance_km": 15.18
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.481407149999995,
@@ -64318,13 +64325,6 @@
       "class": "platform",
       "lat": 45.48227815,
       "lng": 9.239246999999999,
-      "distance_km": 15.18
-    },
-    {
-      "name": "Piazza San Francesco (Bollate)",
-      "class": "bus_stop",
-      "lat": 45.5436595,
-      "lng": 9.1153508,
       "distance_km": 15.18
     },
     {
@@ -64839,20 +64839,6 @@
       "distance_km": 15.28
     },
     {
-      "name": "Via Pacini Via Ponzi",
-      "class": "platform",
-      "lat": 45.4828185,
-      "lng": 9.230503800000001,
-      "distance_km": 15.28
-    },
-    {
-      "name": "Via Pacini - Via Ponzio",
-      "class": "bus_stop",
-      "lat": 45.4827989,
-      "lng": 9.2304546,
-      "distance_km": 15.28
-    },
-    {
       "name": "Via Amoretti - Via Pascarella",
       "class": "bus_stop",
       "lat": 45.5194158,
@@ -64864,6 +64850,20 @@
       "class": "platform",
       "lat": 45.51940055,
       "lng": 9.14085785,
+      "distance_km": 15.28
+    },
+    {
+      "name": "Via Pacini Via Ponzi",
+      "class": "platform",
+      "lat": 45.4828185,
+      "lng": 9.230503800000001,
+      "distance_km": 15.28
+    },
+    {
+      "name": "Via Pacini - Via Ponzio",
+      "class": "bus_stop",
+      "lat": 45.4827989,
+      "lng": 9.2304546,
       "distance_km": 15.28
     },
     {
@@ -64916,6 +64916,20 @@
       "distance_km": 15.29
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.5418451,
+      "lng": 9.1152897,
+      "distance_km": 15.29
+    },
+    {
+      "name": "Via Amoretti - Via Pascarella",
+      "class": "stop_position",
+      "lat": 45.5193414,
+      "lng": 9.1408547,
+      "distance_km": 15.29
+    },
+    {
       "name": "Via Valvassori Peroni",
       "class": "stop_position",
       "lat": 45.4816573,
@@ -64955,20 +64969,6 @@
       "class": "stop_position",
       "lat": 45.4981102,
       "lng": 9.3832505,
-      "distance_km": 15.29
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.5418451,
-      "lng": 9.1152897,
-      "distance_km": 15.29
-    },
-    {
-      "name": "Via Amoretti - Via Pascarella",
-      "class": "stop_position",
-      "lat": 45.5193414,
-      "lng": 9.1408547,
       "distance_km": 15.29
     },
     {
@@ -65049,13 +65049,6 @@
       "distance_km": 15.3
     },
     {
-      "name": "Viale Lombardia - Via Vallazze",
-      "class": "platform",
-      "lat": 45.4839595,
-      "lng": 9.22375835,
-      "distance_km": 15.3
-    },
-    {
       "name": "Via Amoretti - Via Pascarella",
       "class": "stop_position",
       "lat": 45.5192651,
@@ -65088,6 +65081,13 @@
       "class": "stop_position",
       "lat": 45.5476646,
       "lng": 9.1101844,
+      "distance_km": 15.3
+    },
+    {
+      "name": "Viale Lombardia - Via Vallazze",
+      "class": "platform",
+      "lat": 45.4839595,
+      "lng": 9.22375835,
       "distance_km": 15.3
     },
     {
@@ -65329,6 +65329,20 @@
       "distance_km": 15.32
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.513619950000006,
+      "lng": 9.148687500000001,
+      "distance_km": 15.32
+    },
+    {
+      "name": "Quarto Oggiaro",
+      "class": "bus_stop",
+      "lat": 45.5136096,
+      "lng": 9.1486967,
+      "distance_km": 15.32
+    },
+    {
       "name": "Via Console Flaminio - Via dei Canzi",
       "class": "stop_position",
       "lat": 45.4805819,
@@ -65347,20 +65361,6 @@
       "class": "bus_stop",
       "lat": 45.497782,
       "lng": 9.3830526,
-      "distance_km": 15.32
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.513619950000006,
-      "lng": 9.148687500000001,
-      "distance_km": 15.32
-    },
-    {
-      "name": "Quarto Oggiaro",
-      "class": "bus_stop",
-      "lat": 45.5136096,
-      "lng": 9.1486967,
       "distance_km": 15.32
     },
     {
@@ -65392,6 +65392,13 @@
       "distance_km": 15.33
     },
     {
+      "name": "Quarto Oggiaro",
+      "class": "stop_position",
+      "lat": 45.513587,
+      "lng": 9.148657,
+      "distance_km": 15.33
+    },
+    {
       "name": "Piazza Aspromonte",
       "class": "bus_stop",
       "lat": 45.4844387,
@@ -65403,13 +65410,6 @@
       "class": "platform",
       "lat": 45.4844389,
       "lng": 9.22045455,
-      "distance_km": 15.33
-    },
-    {
-      "name": "Quarto Oggiaro",
-      "class": "stop_position",
-      "lat": 45.513587,
-      "lng": 9.148657,
       "distance_km": 15.33
     },
     {
@@ -65728,13 +65728,6 @@
       "distance_km": 15.36
     },
     {
-      "name": "Via Pacini - Via Ponzio",
-      "class": "stop_position",
-      "lat": 45.4822484,
-      "lng": 9.229468,
-      "distance_km": 15.36
-    },
-    {
       "name": "Via Satta - Via Pascarella",
       "class": "stop_position",
       "lat": 45.5175514,
@@ -65753,6 +65746,13 @@
       "class": "platform",
       "lat": 45.517495350000004,
       "lng": 9.1421472,
+      "distance_km": 15.36
+    },
+    {
+      "name": "Via Pacini - Via Ponzio",
+      "class": "stop_position",
+      "lat": 45.4822484,
+      "lng": 9.229468,
       "distance_km": 15.36
     },
     {
@@ -65840,27 +65840,6 @@
       "distance_km": 15.37
     },
     {
-      "name": "Via Pacini Via Ponzio",
-      "class": "platform",
-      "lat": 45.482217649999996,
-      "lng": 9.22952055,
-      "distance_km": 15.37
-    },
-    {
-      "name": "Via Pacini - Via Ponzio",
-      "class": "bus_stop",
-      "lat": 45.4822214,
-      "lng": 9.2294836,
-      "distance_km": 15.37
-    },
-    {
-      "name": "Vignate",
-      "class": "railway_station",
-      "lat": 45.4941764,
-      "lng": 9.3753293,
-      "distance_km": 15.37
-    },
-    {
       "name": "Via Satta - Via Pascarella",
       "class": "bus_stop",
       "lat": 45.5175602,
@@ -65879,6 +65858,27 @@
       "class": "stop_position",
       "lat": 45.5175156,
       "lng": 9.1419312,
+      "distance_km": 15.37
+    },
+    {
+      "name": "Via Pacini Via Ponzio",
+      "class": "platform",
+      "lat": 45.482217649999996,
+      "lng": 9.22952055,
+      "distance_km": 15.37
+    },
+    {
+      "name": "Via Pacini - Via Ponzio",
+      "class": "bus_stop",
+      "lat": 45.4822214,
+      "lng": 9.2294836,
+      "distance_km": 15.37
+    },
+    {
+      "name": "Vignate",
+      "class": "railway_station",
+      "lat": 45.4941764,
+      "lng": 9.3753293,
       "distance_km": 15.37
     },
     {
@@ -65987,6 +65987,27 @@
       "distance_km": 15.38
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.5136418,
+      "lng": 9.1476477,
+      "distance_km": 15.38
+    },
+    {
+      "name": "Via Concilio Vaticano II",
+      "class": "bus_stop",
+      "lat": 45.513638,
+      "lng": 9.1476511,
+      "distance_km": 15.38
+    },
+    {
+      "name": "Via Concilio Vaticano II",
+      "class": "stop_position",
+      "lat": 45.5135986,
+      "lng": 9.1476783,
+      "distance_km": 15.38
+    },
+    {
       "name": "Via Valvassori Peroni",
       "class": "platform",
       "lat": 45.4809676,
@@ -66012,27 +66033,6 @@
       "class": "stop_position",
       "lat": 45.4941288,
       "lng": 9.3755262,
-      "distance_km": 15.38
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.5136418,
-      "lng": 9.1476477,
-      "distance_km": 15.38
-    },
-    {
-      "name": "Via Concilio Vaticano II",
-      "class": "bus_stop",
-      "lat": 45.513638,
-      "lng": 9.1476511,
-      "distance_km": 15.38
-    },
-    {
-      "name": "Via Concilio Vaticano II",
-      "class": "stop_position",
-      "lat": 45.5135986,
-      "lng": 9.1476783,
       "distance_km": 15.38
     },
     {
@@ -66211,20 +66211,6 @@
       "distance_km": 15.4
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.49425785981359,
-      "lng": 9.376448227590599,
-      "distance_km": 15.4
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.49421990000001,
-      "lng": 9.37644615,
-      "distance_km": 15.4
-    },
-    {
       "name": "Via Amoretti - Via Antona Traversi",
       "class": "bus_stop",
       "lat": 45.5191853,
@@ -66271,6 +66257,20 @@
       "class": "stop_position",
       "lat": 45.5478155,
       "lng": 9.1085853,
+      "distance_km": 15.4
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.49425785981359,
+      "lng": 9.376448227590599,
+      "distance_km": 15.4
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.49421990000001,
+      "lng": 9.37644615,
       "distance_km": 15.4
     },
     {
@@ -66358,13 +66358,6 @@
       "distance_km": 15.41
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.4941367,
-      "lng": 9.37647785,
-      "distance_km": 15.41
-    },
-    {
       "name": "Via Simoni - Via Pascarella",
       "class": "stop_position",
       "lat": 45.5154332,
@@ -66390,6 +66383,13 @@
       "class": "stop_position",
       "lat": 45.5144278,
       "lng": 9.1458547,
+      "distance_km": 15.41
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.4941367,
+      "lng": 9.37647785,
       "distance_km": 15.41
     },
     {
@@ -66512,27 +66512,6 @@
       "distance_km": 15.43
     },
     {
-      "name": "Via Bassini - Via Golgi",
-      "class": "stop_position",
-      "lat": 45.4806518,
-      "lng": 9.2347228,
-      "distance_km": 15.43
-    },
-    {
-      "name": "Via Bassini Via Golgi",
-      "class": "platform",
-      "lat": 45.4806981,
-      "lng": 9.2347046,
-      "distance_km": 15.43
-    },
-    {
-      "name": "Via Bassini - Via Golgi",
-      "class": "bus_stop",
-      "lat": 45.4807041,
-      "lng": 9.2346916,
-      "distance_km": 15.43
-    },
-    {
       "name": "Via Amoretti - Via Antona Traversi",
       "class": "stop_position",
       "lat": 45.5189903,
@@ -66572,6 +66551,27 @@
       "class": "platform",
       "lat": 45.5131224,
       "lng": 9.14740815,
+      "distance_km": 15.43
+    },
+    {
+      "name": "Via Bassini - Via Golgi",
+      "class": "stop_position",
+      "lat": 45.4806518,
+      "lng": 9.2347228,
+      "distance_km": 15.43
+    },
+    {
+      "name": "Via Bassini Via Golgi",
+      "class": "platform",
+      "lat": 45.4806981,
+      "lng": 9.2347046,
+      "distance_km": 15.43
+    },
+    {
+      "name": "Via Bassini - Via Golgi",
+      "class": "bus_stop",
+      "lat": 45.4807041,
+      "lng": 9.2346916,
       "distance_km": 15.43
     },
     {
@@ -67191,13 +67191,6 @@
       "distance_km": 15.54
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.57051193479154,
-      "lng": 9.092091810574246,
-      "distance_km": 15.54
-    },
-    {
       "name": "Viale Abruzzi - Viale Gran Sasso",
       "class": "stop_position",
       "lat": 45.4832421,
@@ -67223,6 +67216,13 @@
       "class": "platform",
       "lat": 45.482793068323126,
       "lng": 9.219043259296333,
+      "distance_km": 15.54
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.57051193479154,
+      "lng": 9.092091810574246,
       "distance_km": 15.54
     },
     {
@@ -67284,20 +67284,6 @@
     {
       "name": "Platform",
       "class": "platform",
-      "lat": 45.570452568051714,
-      "lng": 9.091960160293967,
-      "distance_km": 15.55
-    },
-    {
-      "name": "Garbagnate Parco delle Groane",
-      "class": "stop_position",
-      "lat": 45.5704848,
-      "lng": 9.0919978,
-      "distance_km": 15.55
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
       "lat": 45.483068849999995,
       "lng": 9.2172572,
       "distance_km": 15.55
@@ -67342,6 +67328,20 @@
       "class": "bus_stop",
       "lat": 45.482651,
       "lng": 9.2190863,
+      "distance_km": 15.55
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.570452568051714,
+      "lng": 9.091960160293967,
+      "distance_km": 15.55
+    },
+    {
+      "name": "Garbagnate Parco delle Groane",
+      "class": "stop_position",
+      "lat": 45.5704848,
+      "lng": 9.0919978,
       "distance_km": 15.55
     },
     {
@@ -67445,27 +67445,6 @@
     {
       "name": "Platform",
       "class": "platform",
-      "lat": 45.48106296457835,
-      "lng": 9.226022844900731,
-      "distance_km": 15.56
-    },
-    {
-      "name": "Piola",
-      "class": "stop_position",
-      "lat": 45.4810633,
-      "lng": 9.2261119,
-      "distance_km": 15.56
-    },
-    {
-      "name": "Pobbiano",
-      "class": "bus_stop",
-      "lat": 45.48284,
-      "lng": 9.3442934,
-      "distance_km": 15.56
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
       "lat": 45.5170358,
       "lng": 9.13917505,
       "distance_km": 15.56
@@ -67482,6 +67461,27 @@
       "class": "stop_position",
       "lat": 45.5170895,
       "lng": 9.1391662,
+      "distance_km": 15.56
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.48106296457835,
+      "lng": 9.226022844900731,
+      "distance_km": 15.56
+    },
+    {
+      "name": "Piola",
+      "class": "stop_position",
+      "lat": 45.4810633,
+      "lng": 9.2261119,
+      "distance_km": 15.56
+    },
+    {
+      "name": "Pobbiano",
+      "class": "bus_stop",
+      "lat": 45.48284,
+      "lng": 9.3442934,
       "distance_km": 15.56
     },
     {
@@ -67849,6 +67849,13 @@
       "distance_km": 15.6
     },
     {
+      "name": "Piazzale Loreto - Via Pergolesi",
+      "class": "stop_position",
+      "lat": 45.4835475,
+      "lng": 9.2133339,
+      "distance_km": 15.6
+    },
+    {
       "name": "Garbagnate Parco delle Groane",
       "class": "railway_station",
       "lat": 45.5711134,
@@ -67856,10 +67863,17 @@
       "distance_km": 15.6
     },
     {
-      "name": "Piazzale Loreto - Via Pergolesi",
-      "class": "stop_position",
-      "lat": 45.4835475,
-      "lng": 9.2133339,
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.516627650000004,
+      "lng": 9.139008050000001,
+      "distance_km": 15.6
+    },
+    {
+      "name": "Via Satta Via Antona Traversi",
+      "class": "bus_stop",
+      "lat": 45.5166478,
+      "lng": 9.1389912,
       "distance_km": 15.6
     },
     {
@@ -67888,20 +67902,6 @@
       "class": "stop_position",
       "lat": 45.4808193,
       "lng": 9.2253641,
-      "distance_km": 15.6
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.516627650000004,
-      "lng": 9.139008050000001,
-      "distance_km": 15.6
-    },
-    {
-      "name": "Via Satta Via Antona Traversi",
-      "class": "bus_stop",
-      "lat": 45.5166478,
-      "lng": 9.1389912,
       "distance_km": 15.6
     },
     {
@@ -67954,27 +67954,6 @@
       "distance_km": 15.61
     },
     {
-      "name": "Piola M2",
-      "class": "bus_stop",
-      "lat": 45.481145,
-      "lng": 9.2235755,
-      "distance_km": 15.61
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.481126450000005,
-      "lng": 9.2235222,
-      "distance_km": 15.61
-    },
-    {
-      "name": "Piola M2",
-      "class": "stop_position",
-      "lat": 45.4811429,
-      "lng": 9.2236474,
-      "distance_km": 15.61
-    },
-    {
       "name": "Via Amoretti - Via Lessona",
       "class": "stop_position",
       "lat": 45.518636,
@@ -67993,6 +67972,27 @@
       "class": "bus_stop",
       "lat": 45.5477056,
       "lng": 9.1055738,
+      "distance_km": 15.61
+    },
+    {
+      "name": "Piola M2",
+      "class": "bus_stop",
+      "lat": 45.481145,
+      "lng": 9.2235755,
+      "distance_km": 15.61
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.481126450000005,
+      "lng": 9.2235222,
+      "distance_km": 15.61
+    },
+    {
+      "name": "Piola M2",
+      "class": "stop_position",
+      "lat": 45.4811429,
+      "lng": 9.2236474,
       "distance_km": 15.61
     },
     {
@@ -68129,6 +68129,13 @@
       "distance_km": 15.63
     },
     {
+      "name": "Via Satta Via Antona Traversi",
+      "class": "bus_stop",
+      "lat": 45.5165339,
+      "lng": 9.1385899,
+      "distance_km": 15.63
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.48083825,
@@ -68140,13 +68147,6 @@
       "class": "bus_stop",
       "lat": 45.4808455,
       "lng": 9.2240597,
-      "distance_km": 15.63
-    },
-    {
-      "name": "Via Satta Via Antona Traversi",
-      "class": "bus_stop",
-      "lat": 45.5165339,
-      "lng": 9.1385899,
       "distance_km": 15.63
     },
     {
@@ -68213,17 +68213,17 @@
       "distance_km": 15.64
     },
     {
-      "name": "Piola M2",
-      "class": "stop_position",
-      "lat": 45.4807589,
-      "lng": 9.2240305,
-      "distance_km": 15.64
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 45.516505949999996,
       "lng": 9.138539,
+      "distance_km": 15.64
+    },
+    {
+      "name": "Piola M2",
+      "class": "stop_position",
+      "lat": 45.4807589,
+      "lng": 9.2240305,
       "distance_km": 15.64
     },
     {
@@ -68241,6 +68241,13 @@
       "distance_km": 15.65
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 45.536918,
+      "lng": 9.114414,
+      "distance_km": 15.65
+    },
+    {
       "name": "Viale Gran Sasso - Piazzale Piola M2",
       "class": "bus_stop",
       "lat": 45.4808998,
@@ -68252,13 +68259,6 @@
       "class": "platform",
       "lat": 45.48094893427671,
       "lng": 9.222708741955554,
-      "distance_km": 15.65
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 45.536918,
-      "lng": 9.114414,
       "distance_km": 15.65
     },
     {
@@ -69921,17 +69921,17 @@
       "distance_km": 15.97
     },
     {
-      "name": "Via Garibaldi (Rodano)",
-      "class": "bus_stop",
-      "lat": 45.4807488,
-      "lng": 9.3520876,
-      "distance_km": 15.98
-    },
-    {
       "name": "Via Lessona - Via Trilussa",
       "class": "stop_position",
       "lat": 45.51346,
       "lng": 9.1366553,
+      "distance_km": 15.98
+    },
+    {
+      "name": "Via Garibaldi (Rodano)",
+      "class": "bus_stop",
+      "lat": 45.4807488,
+      "lng": 9.3520876,
       "distance_km": 15.98
     },
     {
@@ -72791,17 +72791,17 @@
       "distance_km": 16.64
     },
     {
-      "name": "LISCATE SP14 Rivoltana/Buozzi",
-      "class": "bus_stop",
-      "lat": 45.4839309,
-      "lng": 9.3825676,
-      "distance_km": 16.64
-    },
-    {
       "name": "Roserio (Ospedale Sacco)",
       "class": "stop_position",
       "lat": 45.5174409,
       "lng": 9.1196853,
+      "distance_km": 16.64
+    },
+    {
+      "name": "LISCATE SP14 Rivoltana/Buozzi",
+      "class": "bus_stop",
+      "lat": 45.4839309,
+      "lng": 9.3825676,
       "distance_km": 16.64
     },
     {
@@ -78090,20 +78090,6 @@
       "distance_km": 18.12
     },
     {
-      "name": "Via Pasolini R11",
-      "class": "bus_stop",
-      "lat": 45.51239,
-      "lng": 9.1009245,
-      "distance_km": 18.12
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.5123829,
-      "lng": 9.10090805,
-      "distance_km": 18.12
-    },
-    {
       "name": "Portello M5",
       "class": "bus_stop",
       "lat": 45.4806404,
@@ -78122,6 +78108,20 @@
       "class": "platform",
       "lat": 45.48060705,
       "lng": 9.150708300000002,
+      "distance_km": 18.12
+    },
+    {
+      "name": "Via Pasolini R11",
+      "class": "bus_stop",
+      "lat": 45.51239,
+      "lng": 9.1009245,
+      "distance_km": 18.12
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.5123829,
+      "lng": 9.10090805,
       "distance_km": 18.12
     },
     {
@@ -78671,20 +78671,6 @@
       "distance_km": 18.3
     },
     {
-      "name": "Rho Fiera",
-      "class": "stop_position",
-      "lat": 45.5213098,
-      "lng": 9.088385,
-      "distance_km": 18.3
-    },
-    {
-      "name": "Rho Fiera",
-      "class": "stop_position",
-      "lat": 45.5213427,
-      "lng": 9.0884024,
-      "distance_km": 18.3
-    },
-    {
       "name": "Piazza Stuparich",
       "class": "stop_position",
       "lat": 45.4824676,
@@ -78720,10 +78706,31 @@
       "distance_km": 18.3
     },
     {
+      "name": "Rho Fiera",
+      "class": "stop_position",
+      "lat": 45.5213098,
+      "lng": 9.088385,
+      "distance_km": 18.3
+    },
+    {
+      "name": "Rho Fiera",
+      "class": "stop_position",
+      "lat": 45.5213427,
+      "lng": 9.0884024,
+      "distance_km": 18.3
+    },
+    {
       "name": "Via Pasolini R7/R8",
       "class": "bus_stop",
       "lat": 45.5094174,
       "lng": 9.1012763,
+      "distance_km": 18.31
+    },
+    {
+      "name": "Piazza Stuparich",
+      "class": "stop_position",
+      "lat": 45.4822382,
+      "lng": 9.1432557,
       "distance_km": 18.31
     },
     {
@@ -78745,13 +78752,6 @@
       "class": "stop_position",
       "lat": 45.5212305,
       "lng": 9.0883355,
-      "distance_km": 18.31
-    },
-    {
-      "name": "Piazza Stuparich",
-      "class": "stop_position",
-      "lat": 45.4822382,
-      "lng": 9.1432557,
       "distance_km": 18.31
     },
     {
@@ -79378,20 +79378,6 @@
       "distance_km": 18.53
     },
     {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 45.5178381,
-      "lng": 9.0883797,
-      "distance_km": 18.53
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.51779414851808,
-      "lng": 9.088402930917386,
-      "distance_km": 18.53
-    },
-    {
       "name": "Via Diomede - Via Cassino",
       "class": "bus_stop",
       "lat": 45.4828479,
@@ -79410,6 +79396,20 @@
       "class": "stop_position",
       "lat": 45.4828878,
       "lng": 9.1372668,
+      "distance_km": 18.53
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 45.5178381,
+      "lng": 9.0883797,
+      "distance_km": 18.53
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.51779414851808,
+      "lng": 9.088402930917386,
       "distance_km": 18.53
     },
     {
@@ -79630,6 +79630,13 @@
       "distance_km": 18.59
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 45.48369554999999,
+      "lng": 9.134356,
+      "distance_km": 18.59
+    },
+    {
       "name": "Via Gallarate - Via Capo Rizzuto",
       "class": "bus_stop",
       "lat": 45.5062622,
@@ -79641,13 +79648,6 @@
       "class": "platform",
       "lat": 45.50628185,
       "lng": 9.1003525,
-      "distance_km": 18.59
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 45.48369554999999,
-      "lng": 9.134356,
       "distance_km": 18.59
     },
     {
@@ -79665,13 +79665,6 @@
       "distance_km": 18.6
     },
     {
-      "name": "Via Gallarate - Via Capo Rizzuto",
-      "class": "stop_position",
-      "lat": 45.5062238,
-      "lng": 9.1003608,
-      "distance_km": 18.6
-    },
-    {
       "name": "Via Diomede - Via Arenzano",
       "class": "stop_position",
       "lat": 45.4836158,
@@ -79683,6 +79676,13 @@
       "class": "bus_stop",
       "lat": 45.4836679,
       "lng": 9.1343563,
+      "distance_km": 18.6
+    },
+    {
+      "name": "Via Gallarate - Via Capo Rizzuto",
+      "class": "stop_position",
+      "lat": 45.5062238,
+      "lng": 9.1003608,
       "distance_km": 18.6
     },
     {

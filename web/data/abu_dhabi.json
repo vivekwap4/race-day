@@ -104,7 +104,7 @@
       "lat": 24.4563821,
       "lng": 54.6129226,
       "distance_km": 1.56,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Spacious 3bhk With Maid Room",
@@ -3547,17 +3547,17 @@
       "distance_km": 13.49
     },
     {
-      "name": "Mussafah ADNOC ... - 111, M1, M5",
-      "class": "bus_stop",
-      "lat": 24.365494,
-      "lng": 54.5247385,
-      "distance_km": 13.81
-    },
-    {
       "name": "Bus stop",
       "class": "bus_stop",
       "lat": 24.5645953,
       "lng": 54.6878583,
+      "distance_km": 13.81
+    },
+    {
+      "name": "Mussafah ADNOC ... - 111, M1, M5",
+      "class": "bus_stop",
+      "lat": 24.365494,
+      "lng": 54.5247385,
       "distance_km": 13.81
     },
     {

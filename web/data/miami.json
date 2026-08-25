@@ -14,7 +14,7 @@
       "lat": 25.97122869,
       "lng": -80.24502595,
       "distance_km": 1.58,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Dolce by Wyndham Hollywood",
@@ -284,7 +284,7 @@
       "lat": 25.9140113,
       "lng": -80.3226269,
       "distance_km": 9.7,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Marriot",
@@ -293,7 +293,7 @@
       "lat": 25.95089,
       "lng": -80.14221,
       "distance_km": 9.7,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "AC Hotels",
@@ -302,7 +302,7 @@
       "lat": 25.96772502,
       "lng": -80.1423439,
       "distance_km": 9.71,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Hampton Inn Hallandale Beach Aventura",
@@ -311,7 +311,7 @@
       "lat": 25.97522376060365,
       "lng": -80.14306424249591,
       "distance_km": 9.77,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Parkview Motel",
@@ -320,7 +320,7 @@
       "lat": 25.97691308,
       "lng": -80.14243693,
       "distance_km": 9.87,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Sonesta Select Miami Lakes",
@@ -329,7 +329,7 @@
       "lat": 25.91607996,
       "lng": -80.32611117,
       "distance_km": 9.89,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Residence Inn by Marriott Miami Aventura Mall",
@@ -338,7 +338,7 @@
       "lat": 25.95960256554666,
       "lng": -80.13990463921866,
       "distance_km": 9.9,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "Reverb Hotels",
@@ -52910,17 +52910,17 @@
       "distance_km": 13.51
     },
     {
-      "name": "Miramar Parkway/Northwest 172nd Avenue - (Target)",
-      "class": "bus_stop",
-      "lat": 25.978803,
-      "lng": -80.37207,
-      "distance_km": 13.51
-    },
-    {
       "name": "W 29 ST@W 7 AV",
       "class": "bus_stop",
       "lat": 25.847932,
       "lng": -80.295831,
+      "distance_km": 13.51
+    },
+    {
+      "name": "Miramar Parkway/Northwest 172nd Avenue - (Target)",
+      "class": "bus_stop",
+      "lat": 25.978803,
+      "lng": -80.37207,
       "distance_km": 13.51
     },
     {
@@ -53099,13 +53099,6 @@
       "distance_km": 13.59
     },
     {
-      "name": "Miramar Parkway/Southwest 172nd Avenue",
-      "class": "bus_stop",
-      "lat": 25.978419,
-      "lng": -80.372948,
-      "distance_km": 13.59
-    },
-    {
       "name": "West 29th Street @ West 8th Avenue",
       "class": "bus_stop",
       "lat": 25.848077,
@@ -53117,6 +53110,13 @@
       "class": "stop_position",
       "lat": 25.8413707,
       "lng": -80.2792944,
+      "distance_km": 13.59
+    },
+    {
+      "name": "Miramar Parkway/Southwest 172nd Avenue",
+      "class": "bus_stop",
+      "lat": 25.978419,
+      "lng": -80.372948,
       "distance_km": 13.59
     },
     {
@@ -53701,13 +53701,6 @@
       "distance_km": 13.75
     },
     {
-      "name": "Miramar Parkway/Southwest 172nd Avenue",
-      "class": "bus_stop",
-      "lat": 25.978798,
-      "lng": -80.37455,
-      "distance_km": 13.75
-    },
-    {
       "name": "West 16th Avenue @ West 37th Street",
       "class": "bus_stop",
       "lat": 25.854946,
@@ -53719,6 +53712,13 @@
       "class": "bus_stop",
       "lat": 25.840748,
       "lng": -80.282353,
+      "distance_km": 13.75
+    },
+    {
+      "name": "Miramar Parkway/Southwest 172nd Avenue",
+      "class": "bus_stop",
+      "lat": 25.978798,
+      "lng": -80.37455,
       "distance_km": 13.75
     },
     {
@@ -54660,13 +54660,6 @@
       "distance_km": 14.08
     },
     {
-      "name": "Southwest 172nd Avenue/Southwest 23rd Street",
-      "class": "bus_stop",
-      "lat": 25.987322,
-      "lng": -80.375945,
-      "distance_km": 14.08
-    },
-    {
       "name": "Palm Avenue & West 17th Street",
       "class": "bus_stop",
       "lat": 25.8375163,
@@ -54685,6 +54678,13 @@
       "class": "bus_stop",
       "lat": 25.835439,
       "lng": -80.273866,
+      "distance_km": 14.08
+    },
+    {
+      "name": "Southwest 172nd Avenue/Southwest 23rd Street",
+      "class": "bus_stop",
+      "lat": 25.987322,
+      "lng": -80.375945,
       "distance_km": 14.08
     },
     {
@@ -54730,13 +54730,6 @@
       "distance_km": 14.09
     },
     {
-      "name": "Southwest 172nd Avenue/Southwest 23rd Street - (Silver Lakes)",
-      "class": "bus_stop",
-      "lat": 25.987025,
-      "lng": -80.376131,
-      "distance_km": 14.09
-    },
-    {
       "name": "West 12th Avenue @ West 28th Street",
       "class": "bus_stop",
       "lat": 25.846853,
@@ -54748,6 +54741,13 @@
       "class": "bus_stop",
       "lat": 25.8399108,
       "lng": -80.2897907,
+      "distance_km": 14.09
+    },
+    {
+      "name": "Southwest 172nd Avenue/Southwest 23rd Street - (Silver Lakes)",
+      "class": "bus_stop",
+      "lat": 25.987025,
+      "lng": -80.376131,
       "distance_km": 14.09
     },
     {
@@ -55598,13 +55598,6 @@
       "distance_km": 14.3
     },
     {
-      "name": "Pines Boulevard/Southwest 168th Avenue",
-      "class": "bus_stop",
-      "lat": 26.007522,
-      "lng": -80.371003,
-      "distance_km": 14.3
-    },
-    {
       "name": "W 16 AV@OP # 3000",
       "class": "bus_stop",
       "lat": 25.848856,
@@ -55616,6 +55609,13 @@
       "class": "bus_stop",
       "lat": 25.8355018,
       "lng": -80.2819165,
+      "distance_km": 14.3
+    },
+    {
+      "name": "Pines Boulevard/Southwest 168th Avenue",
+      "class": "bus_stop",
+      "lat": 26.007522,
+      "lng": -80.371003,
       "distance_km": 14.3
     },
     {
@@ -56970,17 +56970,17 @@
       "distance_km": 14.75
     },
     {
-      "name": "Pines Boulevard/Southwest 172nd Avenue - (Portables)",
-      "class": "bus_stop",
-      "lat": 26.0074687,
-      "lng": -80.3758532,
-      "distance_km": 14.75
-    },
-    {
       "name": "E 9 ST@E 2 AV",
       "class": "bus_stop",
       "lat": 25.829986,
       "lng": -80.277043,
+      "distance_km": 14.75
+    },
+    {
+      "name": "Pines Boulevard/Southwest 172nd Avenue - (Portables)",
+      "class": "bus_stop",
+      "lat": 26.0074687,
+      "lng": -80.3758532,
       "distance_km": 14.75
     },
     {
@@ -58937,13 +58937,6 @@
       "distance_km": 15.39
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 26.029280011787765,
-      "lng": -80.37099049993202,
-      "distance_km": 15.39
-    },
-    {
       "name": "HIALEAH DR@E 4 AV",
       "class": "bus_stop",
       "lat": 25.823061,
@@ -58958,6 +58951,13 @@
       "distance_km": 15.39
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 26.029280011787765,
+      "lng": -80.37099049993202,
+      "distance_km": 15.39
+    },
+    {
       "name": "Northwest 2nd Avenue & Northwest 53rd Street",
       "class": "bus_stop",
       "lat": 25.8240902,
@@ -58969,13 +58969,6 @@
       "class": "stop_position",
       "lat": 25.8240885,
       "lng": -80.1999687,
-      "distance_km": 15.4
-    },
-    {
-      "name": "Sheridan Street/Jaguar Way",
-      "class": "bus_stop",
-      "lat": 26.029291,
-      "lng": -80.371109,
       "distance_km": 15.4
     },
     {
@@ -59004,6 +58997,13 @@
       "class": "bus_stop",
       "lat": 25.8371285,
       "lng": -80.3138773,
+      "distance_km": 15.4
+    },
+    {
+      "name": "Sheridan Street/Jaguar Way",
+      "class": "bus_stop",
+      "lat": 26.029291,
+      "lng": -80.371109,
       "distance_km": 15.4
     },
     {
@@ -60785,13 +60785,6 @@
       "distance_km": 17.73
     },
     {
-      "name": "Northwest 107th Avenue & Northwest 86th Street",
-      "class": "bus_stop",
-      "lat": 25.8509686,
-      "lng": -80.3705116,
-      "distance_km": 17.75
-    },
-    {
       "name": "Northwest 87th Avenue & Northwest 58th Street",
       "class": "bus_stop",
       "lat": 25.8256433,
@@ -60803,6 +60796,13 @@
       "class": "stop_position",
       "lat": 25.8256427,
       "lng": -80.3378775,
+      "distance_km": 17.75
+    },
+    {
+      "name": "Northwest 107th Avenue & Northwest 86th Street",
+      "class": "bus_stop",
+      "lat": 25.8509686,
+      "lng": -80.3705116,
       "distance_km": 17.75
     },
     {
@@ -61247,20 +61247,6 @@
       "distance_km": 18.31
     },
     {
-      "name": "Northwest 107th Avenue & Northwest 75th Lane",
-      "class": "bus_stop",
-      "lat": 25.8428378,
-      "lng": -80.3705181,
-      "distance_km": 18.37
-    },
-    {
-      "name": "Northwest 107th Avenue & Northwest 75th Lane",
-      "class": "stop_position",
-      "lat": 25.8428381,
-      "lng": -80.3704577,
-      "distance_km": 18.37
-    },
-    {
       "name": "Northwest 104th Avenue & Northwest 72nd Street",
       "class": "stop_position",
       "lat": 25.8391905,
@@ -61272,6 +61258,20 @@
       "class": "bus_stop",
       "lat": 25.8391899,
       "lng": -80.3663816,
+      "distance_km": 18.37
+    },
+    {
+      "name": "Northwest 107th Avenue & Northwest 75th Lane",
+      "class": "bus_stop",
+      "lat": 25.8428378,
+      "lng": -80.3705181,
+      "distance_km": 18.37
+    },
+    {
+      "name": "Northwest 107th Avenue & Northwest 75th Lane",
+      "class": "stop_position",
+      "lat": 25.8428381,
+      "lng": -80.3704577,
       "distance_km": 18.37
     },
     {
@@ -61317,13 +61317,6 @@
       "distance_km": 18.4
     },
     {
-      "name": "Northwest 107th Avenue & Northwest 75th Lane",
-      "class": "stop_position",
-      "lat": 25.8421824,
-      "lng": -80.3702848,
-      "distance_km": 18.41
-    },
-    {
       "name": "Northwest 104th Avenue & Northwest 72nd Street",
       "class": "bus_stop",
       "lat": 25.8385115,
@@ -61335,6 +61328,13 @@
       "class": "stop_position",
       "lat": 25.8385098,
       "lng": -80.366235,
+      "distance_km": 18.41
+    },
+    {
+      "name": "Northwest 107th Avenue & Northwest 75th Lane",
+      "class": "stop_position",
+      "lat": 25.8421824,
+      "lng": -80.3702848,
       "distance_km": 18.41
     },
     {
@@ -61801,16 +61801,16 @@
     },
     {
       "name": "Northwest 107th Avenue & Northwest 60th Street",
-      "class": "stop_position",
-      "lat": 25.8283566,
-      "lng": -80.3699331,
+      "class": "bus_stop",
+      "lat": 25.8283555,
+      "lng": -80.3698762,
       "distance_km": 19.49
     },
     {
       "name": "Northwest 107th Avenue & Northwest 60th Street",
-      "class": "bus_stop",
-      "lat": 25.8283555,
-      "lng": -80.3698762,
+      "class": "stop_position",
+      "lat": 25.8283566,
+      "lng": -80.3699331,
       "distance_km": 19.49
     },
     {
@@ -61870,13 +61870,6 @@
       "distance_km": 19.62
     },
     {
-      "name": "Weston Road & Royal Palm Boulevard",
-      "class": "stop_position",
-      "lat": 26.0881667,
-      "lng": -80.3716575,
-      "distance_km": 19.63
-    },
-    {
       "name": "Northwest 58th Street & Northwest 107th Avenue",
       "class": "bus_stop",
       "lat": 25.8261276,
@@ -61888,6 +61881,13 @@
       "class": "stop_position",
       "lat": 25.8261769,
       "lng": -80.3692386,
+      "distance_km": 19.63
+    },
+    {
+      "name": "Weston Road & Royal Palm Boulevard",
+      "class": "stop_position",
+      "lat": 26.0881667,
+      "lng": -80.3716575,
       "distance_km": 19.63
     },
     {

@@ -140,7 +140,7 @@
       "lat": 52.37680093,
       "lng": 4.52946151,
       "distance_km": 1.54,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Paradise-Amsterdam",
@@ -149,7 +149,7 @@
       "lat": 52.377901,
       "lng": 4.55491,
       "distance_km": 1.54,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Beachclub Bloomingdale",
@@ -158,7 +158,7 @@
       "lat": 52.40254255,
       "lng": 4.54332668,
       "distance_km": 1.54,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Blendin Hotel Bloemendaal",
@@ -167,7 +167,7 @@
       "lat": 52.4026131,
       "lng": 4.544632,
       "distance_km": 1.56,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Evy's place",
@@ -176,7 +176,7 @@
       "lat": 52.37656997,
       "lng": 4.52940449,
       "distance_km": 1.57,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Palace Hotel Zandvoort",
@@ -1310,7 +1310,7 @@
       "lat": 52.30817787,
       "lng": 4.59859022,
       "distance_km": 9.78,
-      "access_tier": "Short Transfer"
+      "access_tier": "Long Transfer"
     },
     {
       "name": "De Zoete Inval",
@@ -19248,6 +19248,13 @@
       "distance_km": 14.11
     },
     {
+      "name": "Blokhuis",
+      "class": "bus_stop",
+      "lat": 52.262271,
+      "lng": 4.5586022,
+      "distance_km": 14.12
+    },
+    {
       "name": "winkelcentrum Getsewoud",
       "class": "bus_stop",
       "lat": 52.2714702,
@@ -19280,13 +19287,6 @@
       "class": "bus_stop",
       "lat": 52.2646314,
       "lng": 4.4973342,
-      "distance_km": 14.12
-    },
-    {
-      "name": "Blokhuis",
-      "class": "bus_stop",
-      "lat": 52.262271,
-      "lng": 4.5586022,
       "distance_km": 14.12
     },
     {
@@ -19493,6 +19493,13 @@
       "distance_km": 14.24
     },
     {
+      "name": "Eikenlaan",
+      "class": "bus_stop",
+      "lat": 52.2608486,
+      "lng": 4.5532258,
+      "distance_km": 14.25
+    },
+    {
       "name": "Getsewoud Centrum",
       "class": "bus_stop",
       "lat": 52.2705142,
@@ -19504,13 +19511,6 @@
       "class": "bus_stop",
       "lat": 52.2707376,
       "lng": 4.6223308,
-      "distance_km": 14.25
-    },
-    {
-      "name": "Eikenlaan",
-      "class": "bus_stop",
-      "lat": 52.2608486,
-      "lng": 4.5532258,
       "distance_km": 14.25
     },
     {
@@ -19675,13 +19675,6 @@
       "distance_km": 14.42
     },
     {
-      "name": "Lucas Bolsstraat",
-      "class": "bus_stop",
-      "lat": 52.2716999,
-      "lng": 4.6325356,
-      "distance_km": 14.43
-    },
-    {
       "name": "Lisse, Kanaalstraat",
       "class": "stop_position",
       "lat": 52.2595183,
@@ -19696,18 +19689,11 @@
       "distance_km": 14.43
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 52.2716015,
-      "lng": 4.6324223,
-      "distance_km": 14.44
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 52.271666249999996,
-      "lng": 4.632607500000001,
-      "distance_km": 14.44
+      "name": "Lucas Bolsstraat",
+      "class": "bus_stop",
+      "lat": 52.2716999,
+      "lng": 4.6325356,
+      "distance_km": 14.43
     },
     {
       "name": "Platform",
@@ -19724,17 +19710,31 @@
       "distance_km": 14.44
     },
     {
-      "name": "Lucas Bolsstraat",
-      "class": "bus_stop",
-      "lat": 52.2715542,
-      "lng": 4.6325067,
-      "distance_km": 14.45
+      "name": "Platform",
+      "class": "platform",
+      "lat": 52.2716015,
+      "lng": 4.6324223,
+      "distance_km": 14.44
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 52.271666249999996,
+      "lng": 4.632607500000001,
+      "distance_km": 14.44
     },
     {
       "name": "Lisse, Nassaupark",
       "class": "stop_position",
       "lat": 52.2596499,
       "lng": 4.564157,
+      "distance_km": 14.45
+    },
+    {
+      "name": "Lucas Bolsstraat",
+      "class": "bus_stop",
+      "lat": 52.2715542,
+      "lng": 4.6325067,
       "distance_km": 14.45
     },
     {
@@ -20109,13 +20109,6 @@
       "distance_km": 14.64
     },
     {
-      "name": "Viaductweg",
-      "class": "bus_stop",
-      "lat": 52.2604514,
-      "lng": 4.4927126,
-      "distance_km": 14.64
-    },
-    {
       "name": "Lisse, Centrum",
       "class": "stop_position",
       "lat": 52.2575911,
@@ -20127,6 +20120,13 @@
       "class": "bus_stop",
       "lat": 52.2575829,
       "lng": 4.5585084,
+      "distance_km": 14.64
+    },
+    {
+      "name": "Viaductweg",
+      "class": "bus_stop",
+      "lat": 52.2604514,
+      "lng": 4.4927126,
       "distance_km": 14.64
     },
     {
@@ -20151,13 +20151,6 @@
       "distance_km": 14.65
     },
     {
-      "name": "Winkelcentrum Wijkerbaan",
-      "class": "bus_stop",
-      "lat": 52.4973346,
-      "lng": 4.6633863,
-      "distance_km": 14.65
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 52.257454,
@@ -20165,11 +20158,11 @@
       "distance_km": 14.65
     },
     {
-      "name": "Pelikaanhof",
+      "name": "Winkelcentrum Wijkerbaan",
       "class": "bus_stop",
-      "lat": 52.4969647,
-      "lng": 4.6657236,
-      "distance_km": 14.7
+      "lat": 52.4973346,
+      "lng": 4.6633863,
+      "distance_km": 14.65
     },
     {
       "name": "Lisse, Broekweg",
@@ -20183,6 +20176,13 @@
       "class": "bus_stop",
       "lat": 52.2574651,
       "lng": 4.5649758,
+      "distance_km": 14.7
+    },
+    {
+      "name": "Pelikaanhof",
+      "class": "bus_stop",
+      "lat": 52.4969647,
+      "lng": 4.6657236,
       "distance_km": 14.7
     },
     {
@@ -20382,6 +20382,13 @@
       "distance_km": 14.86
     },
     {
+      "name": "Haven",
+      "class": "bus_stop",
+      "lat": 52.2554136,
+      "lng": 4.557757,
+      "distance_km": 14.88
+    },
+    {
       "name": "Platform",
       "class": "platform",
       "lat": 52.2687769,
@@ -20400,13 +20407,6 @@
       "class": "bus_stop",
       "lat": 52.2688306,
       "lng": 4.6378901,
-      "distance_km": 14.88
-    },
-    {
-      "name": "Haven",
-      "class": "bus_stop",
-      "lat": 52.2554136,
-      "lng": 4.557757,
       "distance_km": 14.88
     },
     {
@@ -20480,6 +20480,13 @@
       "distance_km": 14.91
     },
     {
+      "name": "Vuursteeglaan",
+      "class": "bus_stop",
+      "lat": 52.2547622,
+      "lng": 4.5497932,
+      "distance_km": 14.92
+    },
+    {
       "name": "Westerkim",
       "class": "bus_stop",
       "lat": 52.2640657,
@@ -20498,13 +20505,6 @@
       "class": "platform",
       "lat": 52.26410095,
       "lng": 4.6220114500000005,
-      "distance_km": 14.92
-    },
-    {
-      "name": "Vuursteeglaan",
-      "class": "bus_stop",
-      "lat": 52.2547622,
-      "lng": 4.5497932,
       "distance_km": 14.92
     },
     {
@@ -20592,17 +20592,17 @@
       "distance_km": 14.96
     },
     {
-      "name": "v.Riemsdijklaan",
-      "class": "bus_stop",
-      "lat": 52.4992383,
-      "lng": 4.6674118,
-      "distance_km": 14.98
-    },
-    {
       "name": "Wildlaan",
       "class": "bus_stop",
       "lat": 52.2565474,
       "lng": 4.499127,
+      "distance_km": 14.98
+    },
+    {
+      "name": "v.Riemsdijklaan",
+      "class": "bus_stop",
+      "lat": 52.4992383,
+      "lng": 4.6674118,
       "distance_km": 14.98
     },
     {
@@ -20725,17 +20725,17 @@
       "distance_km": 15.04
     },
     {
-      "name": "De Smidse",
-      "class": "platform",
-      "lat": 52.50477872184559,
-      "lng": 4.65523550784679,
-      "distance_km": 15.05
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 52.25906205,
       "lng": 4.604203999999999,
+      "distance_km": 15.05
+    },
+    {
+      "name": "De Smidse",
+      "class": "platform",
+      "lat": 52.50477872184559,
+      "lng": 4.65523550784679,
       "distance_km": 15.05
     },
     {
@@ -21026,17 +21026,17 @@
       "distance_km": 15.22
     },
     {
-      "name": "Plesmanweg",
-      "class": "bus_stop",
-      "lat": 52.5009278,
-      "lng": 4.6700628,
-      "distance_km": 15.23
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 52.2619982,
       "lng": 4.62564095,
+      "distance_km": 15.23
+    },
+    {
+      "name": "Plesmanweg",
+      "class": "bus_stop",
+      "lat": 52.5009278,
+      "lng": 4.6700628,
       "distance_km": 15.23
     },
     {
@@ -21054,17 +21054,17 @@
       "distance_km": 15.23
     },
     {
-      "name": "Winkelcentrum De Symfonie",
-      "class": "bus_stop",
-      "lat": 52.2635915,
-      "lng": 4.6320807,
-      "distance_km": 15.24
-    },
-    {
       "name": "Zuiderdreef",
       "class": "bus_stop",
       "lat": 52.2619065,
       "lng": 4.6257851,
+      "distance_km": 15.24
+    },
+    {
+      "name": "Winkelcentrum De Symfonie",
+      "class": "bus_stop",
+      "lat": 52.2635915,
+      "lng": 4.6320807,
       "distance_km": 15.24
     },
     {
@@ -22930,20 +22930,6 @@
       "distance_km": 17.47
     },
     {
-      "name": "Brugrestaurant A4",
-      "class": "bus_stop",
-      "lat": 52.2594189,
-      "lng": 4.6871046,
-      "distance_km": 17.48
-    },
-    {
-      "name": "Hoofddorp, Brugrestaurant A4",
-      "class": "stop_position",
-      "lat": 52.2594414,
-      "lng": 4.6870535,
-      "distance_km": 17.48
-    },
-    {
       "name": "Schiphol Airport",
       "class": "bus_stop",
       "lat": 52.3071679,
@@ -22969,6 +22955,20 @@
       "class": "platform",
       "lat": 52.30837442596754,
       "lng": 4.762097576458045,
+      "distance_km": 17.48
+    },
+    {
+      "name": "Brugrestaurant A4",
+      "class": "bus_stop",
+      "lat": 52.2594189,
+      "lng": 4.6871046,
+      "distance_km": 17.48
+    },
+    {
+      "name": "Hoofddorp, Brugrestaurant A4",
+      "class": "stop_position",
+      "lat": 52.2594414,
+      "lng": 4.6870535,
       "distance_km": 17.48
     },
     {
@@ -23350,6 +23350,13 @@
       "distance_km": 18.42
     },
     {
+      "name": "Oude Meerweg",
+      "class": "bus_stop",
+      "lat": 52.2904638,
+      "lng": 4.7595015,
+      "distance_km": 18.44
+    },
+    {
       "name": "Rijshornplein",
       "class": "bus_stop",
       "lat": 52.2593064,
@@ -23361,13 +23368,6 @@
       "class": "stop_position",
       "lat": 52.2592907,
       "lng": 4.7104665,
-      "distance_km": 18.44
-    },
-    {
-      "name": "Oude Meerweg",
-      "class": "bus_stop",
-      "lat": 52.2904638,
-      "lng": 4.7595015,
       "distance_km": 18.44
     },
     {
@@ -23560,13 +23560,6 @@
       "distance_km": 18.7
     },
     {
-      "name": "Jolweg",
-      "class": "bus_stop",
-      "lat": 52.2602184,
-      "lng": 4.7184412,
-      "distance_km": 18.71
-    },
-    {
       "name": "Knooppunt Schiphol Zuid",
       "class": "platform",
       "lat": 52.27664953281086,
@@ -23578,6 +23571,13 @@
       "class": "platform",
       "lat": 52.2767253914441,
       "lng": 4.7462958855886015,
+      "distance_km": 18.71
+    },
+    {
+      "name": "Jolweg",
+      "class": "bus_stop",
+      "lat": 52.2602184,
+      "lng": 4.7184412,
       "distance_km": 18.71
     },
     {
@@ -23700,17 +23700,17 @@
       "distance_km": 18.87
     },
     {
-      "name": "Ferry terminal",
-      "class": "ferry_terminal",
-      "lat": 52.2575798,
-      "lng": 4.7173252,
-      "distance_km": 18.89
-    },
-    {
       "name": "Tupolevlaan/Boeingavenue",
       "class": "bus_stop",
       "lat": 52.2791941,
       "lng": 4.7533963,
+      "distance_km": 18.89
+    },
+    {
+      "name": "Ferry terminal",
+      "class": "ferry_terminal",
+      "lat": 52.2575798,
+      "lng": 4.7173252,
       "distance_km": 18.89
     },
     {

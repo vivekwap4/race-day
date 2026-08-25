@@ -644,7 +644,7 @@
       "lat": 1.29374126,
       "lng": 103.85062851,
       "distance_km": 1.51,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Mercure Singapore Bugis",
@@ -653,7 +653,7 @@
       "lat": 1.29962559,
       "lng": 103.85320055,
       "distance_km": 1.51,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Oxford Hotel",
@@ -662,7 +662,7 @@
       "lat": 1.29797122,
       "lng": 103.85178903,
       "distance_km": 1.54,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Grand Park City Hall",
@@ -671,7 +671,7 @@
       "lat": 1.29238766,
       "lng": 103.85012309,
       "distance_km": 1.55,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "Wyndham Singapore Hotel",
@@ -680,7 +680,7 @@
       "lat": 1.2920026,
       "lng": 103.84999159,
       "distance_km": 1.56,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "South East Asia Hotel",
@@ -689,7 +689,7 @@
       "lat": 1.30100758,
       "lng": 103.85323363,
       "distance_km": 1.6,
-      "access_tier": "Short Transfer"
+      "access_tier": "Walkable"
     },
     {
       "name": "lyf",
