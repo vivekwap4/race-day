@@ -75,6 +75,12 @@ function clearPopup() {
   }
 }
 
+export function isClickPopupAt(lng, lat) {
+  if (!_activePopup) return false;
+  const pos = _activePopup.getLngLat();
+  return Math.abs(pos.lng - lng) < 0.00001 && Math.abs(pos.lat - lat) < 0.00001;
+}
+
 export function rerenderPopupAfterThemeChange() {
   if (_lastPopupArgs) _renderPopup(..._lastPopupArgs);
 }

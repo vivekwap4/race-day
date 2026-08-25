@@ -5,7 +5,7 @@
 import { state, HOTEL_COLOR, FOOD_COLOR, CIRCUIT_COLOR, getCircuitColor, SOURCE_ID, TRANSIT_LABELS, TRANSIT_CONFIDENT_CLASSES } from "./state.js";
 import { map } from "./map.js";
 import { escapeHtml, displayName, haversineKm } from "./utils.js";
-import { showHotelDetail, showPopup, activatePoi } from "./hotels.js";
+import { showHotelDetail, showPopup, activatePoi, isClickPopupAt } from "./hotels.js";
 
 // --- Circuit marker (always a plain DOM marker, never clustered) ---
 
@@ -228,6 +228,8 @@ export function registerClusterInteractions() {
         clearHoverPopup();
         const props = pts[0].properties;
         const coords = pts[0].geometry.coordinates;
+        // Don't show hover popup if a click popup is already open at this location
+        if (isClickPopupAt(coords[0], coords[1])) return;
         let color, label;
         if (state.activeLayer === "hotels") {
           color = "#e63946";
