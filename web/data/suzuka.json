@@ -7327,17 +7327,17 @@
       "distance_km": 12.41
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 34.73432398457658,
-      "lng": 136.5102338769919,
-      "distance_km": 12.42
-    },
-    {
       "name": "\u5869\u6d5c",
       "class": "railway_station",
       "lat": 34.9327505,
       "lng": 136.622168,
+      "distance_km": 12.42
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.73432398457658,
+      "lng": 136.5102338769919,
       "distance_km": 12.42
     },
     {
@@ -7523,17 +7523,17 @@
       "distance_km": 13.38
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 34.849156475757404,
-      "lng": 136.39432909862694,
-      "distance_km": 13.4
-    },
-    {
       "name": "\u6d77\u5c71\u9053",
       "class": "railway_station",
       "lat": 34.9431481,
       "lng": 136.6229932,
+      "distance_km": 13.4
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 34.849156475757404,
+      "lng": 136.39432909862694,
       "distance_km": 13.4
     },
     {
@@ -7600,13 +7600,6 @@
       "distance_km": 14.32
     },
     {
-      "name": "\u6d25\u9ad8\u6821\u524d",
-      "class": "bus_stop",
-      "lat": 34.7196671,
-      "lng": 136.4932381,
-      "distance_km": 14.4
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 34.9593581093849,
@@ -7618,6 +7611,13 @@
       "class": "stop_position",
       "lat": 34.9593753,
       "lng": 136.6105968,
+      "distance_km": 14.4
+    },
+    {
+      "name": "\u6d25\u9ad8\u6821\u524d",
+      "class": "bus_stop",
+      "lat": 34.7196671,
+      "lng": 136.4932381,
       "distance_km": 14.4
     },
     {
@@ -7901,17 +7901,17 @@
       "distance_km": 15.5
     },
     {
-      "name": "\u6a01\u5927\u795e\u793e",
-      "class": "bus_stop",
-      "lat": 34.9625874,
-      "lng": 136.4532933,
-      "distance_km": 15.51
-    },
-    {
       "name": "\u8fd1\u9244\u56db\u65e5\u5e02",
       "class": "platform",
       "lat": 34.967136692731316,
       "lng": 136.61870070874872,
+      "distance_km": 15.51
+    },
+    {
+      "name": "\u6a01\u5927\u795e\u793e",
+      "class": "bus_stop",
+      "lat": 34.9625874,
+      "lng": 136.4532933,
       "distance_km": 15.51
     },
     {

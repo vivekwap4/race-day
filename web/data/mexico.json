@@ -76189,17 +76189,17 @@
       "distance_km": 14.26
     },
     {
-      "name": "La Pastora",
-      "class": "bus_stop",
-      "lat": 19.5225843,
-      "lng": -99.1430911,
-      "distance_km": 14.26
-    },
-    {
       "name": "Villa Centroamericana",
       "class": "bus_stop",
       "lat": 19.2798472,
       "lng": -99.0576489,
+      "distance_km": 14.26
+    },
+    {
+      "name": "La Pastora",
+      "class": "bus_stop",
+      "lat": 19.5225843,
+      "lng": -99.1430911,
       "distance_km": 14.26
     },
     {
@@ -76287,17 +76287,17 @@
       "distance_km": 14.37
     },
     {
-      "name": "Avenida Constituyentes - Palo Santo",
-      "class": "bus_stop",
-      "lat": 19.3958605,
-      "lng": -99.227498,
-      "distance_km": 14.38
-    },
-    {
       "name": "Hospital",
       "class": "bus_stop",
       "lat": 19.2805774,
       "lng": -99.0506184,
+      "distance_km": 14.38
+    },
+    {
+      "name": "Avenida Constituyentes - Palo Santo",
+      "class": "bus_stop",
+      "lat": 19.3958605,
+      "lng": -99.227498,
       "distance_km": 14.38
     },
     {
@@ -76343,13 +76343,6 @@
       "distance_km": 14.44
     },
     {
-      "name": "16 de Septiembre",
-      "class": "bus_stop",
-      "lat": 19.489802,
-      "lng": -99.194319,
-      "distance_km": 14.44
-    },
-    {
       "name": "DIF Xochimilco",
       "class": "bus_stop",
       "lat": 19.2770067,
@@ -76361,6 +76354,13 @@
       "class": "platform",
       "lat": 19.27699896613194,
       "lng": -99.11837190087479,
+      "distance_km": 14.44
+    },
+    {
+      "name": "16 de Septiembre",
+      "class": "bus_stop",
+      "lat": 19.489802,
+      "lng": -99.194319,
       "distance_km": 14.44
     },
     {
@@ -76392,6 +76392,13 @@
       "distance_km": 14.45
     },
     {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 19.2826354,
+      "lng": -99.1393145,
+      "distance_km": 14.45
+    },
+    {
       "name": "Progreso Nacional",
       "class": "bus_stop",
       "lat": 19.5184262,
@@ -76410,13 +76417,6 @@
       "class": "platform",
       "lat": 19.5154852666926,
       "lng": -99.16195564155721,
-      "distance_km": 14.45
-    },
-    {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 19.2826354,
-      "lng": -99.1393145,
       "distance_km": 14.45
     },
     {
@@ -76966,6 +76966,13 @@
       "distance_km": 15.29
     },
     {
+      "name": "CETRAM Tl\u00e1huac",
+      "class": "bus_station",
+      "lat": 19.2863652,
+      "lng": -99.014921,
+      "distance_km": 15.33
+    },
+    {
       "name": "San Jos\u00e9 de la Escalera",
       "class": "bus_stop",
       "lat": 19.5226803,
@@ -76977,13 +76984,6 @@
       "class": "platform",
       "lat": 19.522684249623975,
       "lng": -99.16552600112594,
-      "distance_km": 15.33
-    },
-    {
-      "name": "CETRAM Tl\u00e1huac",
-      "class": "bus_station",
-      "lat": 19.2863652,
-      "lng": -99.014921,
       "distance_km": 15.33
     },
     {

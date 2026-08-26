@@ -6113,6 +6113,13 @@
       "distance_km": 6.7
     },
     {
+      "name": "Stavelot Route de Parfondry",
+      "class": "bus_stop",
+      "lat": 50.3865431,
+      "lng": 5.91988,
+      "distance_km": 6.71
+    },
+    {
       "name": "Mont H\u00f4tel de la Fagne",
       "class": "bus_stop",
       "lat": 50.4640012,
@@ -6124,13 +6131,6 @@
       "class": "stop_position",
       "lat": 50.4640344,
       "lng": 6.0563336,
-      "distance_km": 6.71
-    },
-    {
-      "name": "Stavelot Route de Parfondry",
-      "class": "bus_stop",
-      "lat": 50.3865431,
-      "lng": 5.91988,
       "distance_km": 6.71
     },
     {
@@ -6505,13 +6505,6 @@
       "distance_km": 8.18
     },
     {
-      "name": "Waimes Hottleux",
-      "class": "bus_stop",
-      "lat": 50.4120579,
-      "lng": 6.0800743,
-      "distance_km": 8.19
-    },
-    {
       "name": "Coo Cascade",
       "class": "bus_stop",
       "lat": 50.3935687,
@@ -6523,6 +6516,13 @@
       "class": "bus_stop",
       "lat": 50.3931033,
       "lng": 5.87877,
+      "distance_km": 8.19
+    },
+    {
+      "name": "Waimes Hottleux",
+      "class": "bus_stop",
+      "lat": 50.4120579,
+      "lng": 6.0800743,
       "distance_km": 8.19
     },
     {
@@ -7149,6 +7149,13 @@
       "distance_km": 9.12
     },
     {
+      "name": "Trois-Ponts Satracom",
+      "class": "bus_stop",
+      "lat": 50.3805701,
+      "lng": 5.8783433,
+      "distance_km": 9.12
+    },
+    {
       "name": "Walk Rue du Tambourin",
       "class": "bus_stop",
       "lat": 50.4445925,
@@ -7160,13 +7167,6 @@
       "class": "bus_stop",
       "lat": 50.4445091,
       "lng": 6.0996676,
-      "distance_km": 9.12
-    },
-    {
-      "name": "Trois-Ponts Satracom",
-      "class": "bus_stop",
-      "lat": 50.3805701,
-      "lng": 5.8783433,
       "distance_km": 9.12
     },
     {
@@ -7184,20 +7184,6 @@
       "distance_km": 9.13
     },
     {
-      "name": "Ligneuville Route de Malmedy",
-      "class": "bus_stop",
-      "lat": 50.3773085,
-      "lng": 6.0594561,
-      "distance_km": 9.13
-    },
-    {
-      "name": "Waimes Centre Commercial",
-      "class": "bus_stop",
-      "lat": 50.4158179,
-      "lng": 6.0958888,
-      "distance_km": 9.13
-    },
-    {
       "name": "Trois-Ponts Satracom",
       "class": "bus_stop",
       "lat": 50.3805191,
@@ -7209,6 +7195,20 @@
       "class": "stop_position",
       "lat": 50.3805242,
       "lng": 5.8782295,
+      "distance_km": 9.13
+    },
+    {
+      "name": "Ligneuville Route de Malmedy",
+      "class": "bus_stop",
+      "lat": 50.3773085,
+      "lng": 6.0594561,
+      "distance_km": 9.13
+    },
+    {
+      "name": "Waimes Centre Commercial",
+      "class": "bus_stop",
+      "lat": 50.4158179,
+      "lng": 6.0958888,
       "distance_km": 9.13
     },
     {
@@ -7345,6 +7345,13 @@
       "distance_km": 9.26
     },
     {
+      "name": "La Gleize Centre",
+      "class": "bus_stop",
+      "lat": 50.4119975,
+      "lng": 5.846746,
+      "distance_km": 9.26
+    },
+    {
       "name": "Ligneuville Caf\u00e9 de l'Ambl\u00e8ve",
       "class": "bus_stop",
       "lat": 50.37322,
@@ -7363,13 +7370,6 @@
       "class": "bus_stop",
       "lat": 50.3732362,
       "lng": 6.0549742,
-      "distance_km": 9.26
-    },
-    {
-      "name": "La Gleize Centre",
-      "class": "bus_stop",
-      "lat": 50.4119975,
-      "lng": 5.846746,
       "distance_km": 9.26
     },
     {
@@ -7485,17 +7485,17 @@
       "distance_km": 9.39
     },
     {
-      "name": "Walk \u00c9glise",
-      "class": "bus_stop",
-      "lat": 50.4463743,
-      "lng": 6.1032852,
-      "distance_km": 9.4
-    },
-    {
       "name": "Aisomont 170",
       "class": "bus_stop",
       "lat": 50.3646292,
       "lng": 5.9032687,
+      "distance_km": 9.4
+    },
+    {
+      "name": "Walk \u00c9glise",
+      "class": "bus_stop",
+      "lat": 50.4463743,
+      "lng": 6.1032852,
       "distance_km": 9.4
     },
     {
@@ -7891,6 +7891,13 @@
       "distance_km": 9.76
     },
     {
+      "name": "Wanne \u00c9glise",
+      "class": "bus_stop",
+      "lat": 50.3551676,
+      "lng": 5.9222339,
+      "distance_km": 9.76
+    },
+    {
       "name": "Robertville Morfat",
       "class": "bus_stop",
       "lat": 50.439622,
@@ -7909,13 +7916,6 @@
       "class": "bus_stop",
       "lat": 50.4395815,
       "lng": 6.1091179,
-      "distance_km": 9.76
-    },
-    {
-      "name": "Wanne \u00c9glise",
-      "class": "bus_stop",
-      "lat": 50.3551676,
-      "lng": 5.9222339,
       "distance_km": 9.76
     },
     {
@@ -8283,17 +8283,17 @@
       "distance_km": 10.15
     },
     {
-      "name": "Thirimont \u00c9glise",
-      "class": "bus_stop",
-      "lat": 50.3902677,
-      "lng": 6.0944765,
-      "distance_km": 10.16
-    },
-    {
       "name": "Trois-Ponts Place Communale",
       "class": "bus_stop",
       "lat": 50.3718608,
       "lng": 5.8711892,
+      "distance_km": 10.16
+    },
+    {
+      "name": "Thirimont \u00c9glise",
+      "class": "bus_stop",
+      "lat": 50.3902677,
+      "lng": 6.0944765,
       "distance_km": 10.16
     },
     {
@@ -8360,6 +8360,13 @@
       "distance_km": 10.25
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 50.3694418926957,
+      "lng": 5.873225440658493,
+      "distance_km": 10.26
+    },
+    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 50.3928383,
@@ -8378,13 +8385,6 @@
       "class": "bus_stop",
       "lat": 50.4362778,
       "lng": 6.1163115,
-      "distance_km": 10.26
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 50.3694418926957,
-      "lng": 5.873225440658493,
       "distance_km": 10.26
     },
     {
@@ -8409,17 +8409,17 @@
       "distance_km": 10.28
     },
     {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 50.4362338,
-      "lng": 6.1165226,
-      "distance_km": 10.28
-    },
-    {
       "name": "Trois-Ponts",
       "class": "stop_position",
       "lat": 50.36919,
       "lng": 5.8731716,
+      "distance_km": 10.28
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 50.4362338,
+      "lng": 6.1165226,
       "distance_km": 10.28
     },
     {
@@ -8444,6 +8444,13 @@
       "distance_km": 10.29
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 50.36896162008742,
+      "lng": 5.8731969857390025,
+      "distance_km": 10.3
+    },
+    {
       "name": "Robertville Bruy\u00e8res",
       "class": "bus_stop",
       "lat": 50.4360411,
@@ -8455,13 +8462,6 @@
       "class": "bus_stop",
       "lat": 50.4364538,
       "lng": 6.1168009,
-      "distance_km": 10.3
-    },
-    {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 50.36896162008742,
-      "lng": 5.8731969857390025,
       "distance_km": 10.3
     },
     {
@@ -8661,13 +8661,6 @@
       "distance_km": 10.7
     },
     {
-      "name": "Waimes Route de Thirimont",
-      "class": "bus_stop",
-      "lat": 50.4087599,
-      "lng": 6.1159881,
-      "distance_km": 10.72
-    },
-    {
       "name": "Trois-Ponts Piscine Communale",
       "class": "bus_stop",
       "lat": 50.3634658,
@@ -8677,9 +8670,9 @@
     {
       "name": "Waimes Route de Thirimont",
       "class": "bus_stop",
-      "lat": 50.4087195,
-      "lng": 6.116172,
-      "distance_km": 10.73
+      "lat": 50.4087599,
+      "lng": 6.1159881,
+      "distance_km": 10.72
     },
     {
       "name": "Trois-Ponts Piscine Communale",
@@ -8689,11 +8682,11 @@
       "distance_km": 10.73
     },
     {
-      "name": "Waimes Rue Fran\u00e7ois Fagnoul",
+      "name": "Waimes Route de Thirimont",
       "class": "bus_stop",
-      "lat": 50.4119866,
-      "lng": 6.1177111,
-      "distance_km": 10.74
+      "lat": 50.4087195,
+      "lng": 6.116172,
+      "distance_km": 10.73
     },
     {
       "name": "Trois-Ponts Abattoirs",
@@ -8707,6 +8700,13 @@
       "class": "stop_position",
       "lat": 50.3633564,
       "lng": 5.8738303,
+      "distance_km": 10.74
+    },
+    {
+      "name": "Waimes Rue Fran\u00e7ois Fagnoul",
+      "class": "bus_stop",
+      "lat": 50.4119866,
+      "lng": 6.1177111,
       "distance_km": 10.74
     },
     {
@@ -8738,17 +8738,17 @@
       "distance_km": 10.83
     },
     {
-      "name": "Waimes Cimeti\u00e8re",
-      "class": "bus_stop",
-      "lat": 50.4211511,
-      "lng": 6.1224044,
-      "distance_km": 10.84
-    },
-    {
       "name": "Trois-Ponts Beau Rivage",
       "class": "bus_stop",
       "lat": 50.3610142,
       "lng": 5.8759267,
+      "distance_km": 10.84
+    },
+    {
+      "name": "Waimes Cimeti\u00e8re",
+      "class": "bus_stop",
+      "lat": 50.4211511,
+      "lng": 6.1224044,
       "distance_km": 10.84
     },
     {
@@ -8801,20 +8801,6 @@
       "distance_km": 10.89
     },
     {
-      "name": "Waimes Cimeti\u00e8re",
-      "class": "bus_stop",
-      "lat": 50.4207738,
-      "lng": 6.1229704,
-      "distance_km": 10.89
-    },
-    {
-      "name": "Waimes Cimeti\u00e8re",
-      "class": "bus_stop",
-      "lat": 50.4208785,
-      "lng": 6.1229287,
-      "distance_km": 10.89
-    },
-    {
       "name": "Trois-Ponts Route de Basse-Bodeux 60",
       "class": "bus_stop",
       "lat": 50.3705254,
@@ -8826,6 +8812,20 @@
       "class": "stop_position",
       "lat": 50.3704932,
       "lng": 5.8588466,
+      "distance_km": 10.89
+    },
+    {
+      "name": "Waimes Cimeti\u00e8re",
+      "class": "bus_stop",
+      "lat": 50.4207738,
+      "lng": 6.1229704,
+      "distance_km": 10.89
+    },
+    {
+      "name": "Waimes Cimeti\u00e8re",
+      "class": "bus_stop",
+      "lat": 50.4208785,
+      "lng": 6.1229287,
       "distance_km": 10.89
     },
     {
@@ -8990,17 +8990,17 @@
       "distance_km": 11.21
     },
     {
-      "name": "Botrange Centre Nature",
-      "class": "bus_stop",
-      "lat": 50.4934616,
-      "lng": 6.1029419,
-      "distance_km": 11.22
-    },
-    {
       "name": "Stoumont Ch\u00e2teau",
       "class": "bus_stop",
       "lat": 50.4081517,
       "lng": 5.8197979,
+      "distance_km": 11.22
+    },
+    {
+      "name": "Botrange Centre Nature",
+      "class": "bus_stop",
+      "lat": 50.4934616,
+      "lng": 6.1029419,
       "distance_km": 11.22
     },
     {
@@ -10334,6 +10334,13 @@
       "distance_km": 13.23
     },
     {
+      "name": "Basse-Bodeux Garage Huppertz",
+      "class": "bus_stop",
+      "lat": 50.3559279,
+      "lng": 5.8350087,
+      "distance_km": 13.23
+    },
+    {
       "name": "Recht Kaiserbaracke",
       "class": "bus_stop",
       "lat": 50.3407946,
@@ -10359,13 +10366,6 @@
       "class": "stop_position",
       "lat": 50.3407129,
       "lng": 6.0806405,
-      "distance_km": 13.23
-    },
-    {
-      "name": "Basse-Bodeux Garage Huppertz",
-      "class": "bus_stop",
-      "lat": 50.3559279,
-      "lng": 5.8350087,
       "distance_km": 13.23
     },
     {
@@ -10488,13 +10488,6 @@
       "distance_km": 13.46
     },
     {
-      "name": "Recht Borner Strasse",
-      "class": "bus_stop",
-      "lat": 50.337931,
-      "lng": 6.0802905,
-      "distance_km": 13.47
-    },
-    {
       "name": "Haute-Bodeux Monument",
       "class": "bus_stop",
       "lat": 50.3592543,
@@ -10506,6 +10499,13 @@
       "class": "bus_stop",
       "lat": 50.358957,
       "lng": 5.8262693,
+      "distance_km": 13.47
+    },
+    {
+      "name": "Recht Borner Strasse",
+      "class": "bus_stop",
+      "lat": 50.337931,
+      "lng": 6.0802905,
       "distance_km": 13.47
     },
     {
@@ -10901,17 +10901,17 @@
       "distance_km": 13.89
     },
     {
-      "name": "Petit-Thier Grand Fond",
-      "class": "bus_stop",
-      "lat": 50.3125729,
-      "lng": 5.9862438,
-      "distance_km": 13.9
-    },
-    {
       "name": "Stoumont Route de Lierneux",
       "class": "bus_stop",
       "lat": 50.4173362,
       "lng": 5.7776083,
+      "distance_km": 13.9
+    },
+    {
+      "name": "Petit-Thier Grand Fond",
+      "class": "bus_stop",
+      "lat": 50.3125729,
+      "lng": 5.9862438,
       "distance_km": 13.9
     },
     {
@@ -10922,17 +10922,17 @@
       "distance_km": 13.92
     },
     {
-      "name": "Poteau 97",
-      "class": "bus_stop",
-      "lat": 50.3127597,
-      "lng": 5.994441,
-      "distance_km": 13.93
-    },
-    {
       "name": "Stoumont Route de Lierneux",
       "class": "bus_stop",
       "lat": 50.4175469,
       "lng": 5.7771334,
+      "distance_km": 13.93
+    },
+    {
+      "name": "Poteau 97",
+      "class": "bus_stop",
+      "lat": 50.3127597,
+      "lng": 5.994441,
       "distance_km": 13.93
     },
     {
@@ -11167,6 +11167,13 @@
       "distance_km": 14.06
     },
     {
+      "name": "Grand-Halleux Hourt",
+      "class": "bus_stop",
+      "lat": 50.3172107,
+      "lng": 5.9085815,
+      "distance_km": 14.07
+    },
+    {
       "name": "Iveldingen 19",
       "class": "bus_stop",
       "lat": 50.3682435,
@@ -11178,13 +11185,6 @@
       "class": "bus_stop",
       "lat": 50.3682356,
       "lng": 6.1379142,
-      "distance_km": 14.07
-    },
-    {
-      "name": "Grand-Halleux Hourt",
-      "class": "bus_stop",
-      "lat": 50.3172107,
-      "lng": 5.9085815,
       "distance_km": 14.07
     },
     {
@@ -11594,17 +11594,17 @@
       "distance_km": 14.49
     },
     {
-      "name": "Born Rechter Strasse 3b",
-      "class": "bus_stop",
-      "lat": 50.3363609,
-      "lng": 6.1008793,
-      "distance_km": 14.49
-    },
-    {
       "name": "Grand-Halleux Chemin de Hourt",
       "class": "bus_stop",
       "lat": 50.3134096,
       "lng": 5.9073931,
+      "distance_km": 14.49
+    },
+    {
+      "name": "Born Rechter Strasse 3b",
+      "class": "bus_stop",
+      "lat": 50.3363609,
+      "lng": 6.1008793,
       "distance_km": 14.49
     },
     {
@@ -11708,15 +11708,15 @@
     {
       "name": "Stop",
       "class": "stop_position",
-      "lat": 50.3085452,
-      "lng": 6.0130741,
+      "lat": 50.3599523,
+      "lng": 5.8047257,
       "distance_km": 14.61
     },
     {
       "name": "Stop",
       "class": "stop_position",
-      "lat": 50.3599523,
-      "lng": 5.8047257,
+      "lat": 50.3085452,
+      "lng": 6.0130741,
       "distance_km": 14.61
     },
     {
@@ -13113,6 +13113,13 @@
       "distance_km": 16.52
     },
     {
+      "name": "Quarreux Cabine",
+      "class": "bus_stop",
+      "lat": 50.4446403,
+      "lng": 5.7383969,
+      "distance_km": 16.52
+    },
+    {
       "name": "Born St.Vither Stra\u00dfe",
       "class": "bus_stop",
       "lat": 50.3172311,
@@ -13124,13 +13131,6 @@
       "class": "bus_stop",
       "lat": 50.317216,
       "lng": 6.108776,
-      "distance_km": 16.52
-    },
-    {
-      "name": "Quarreux Cabine",
-      "class": "bus_stop",
-      "lat": 50.4446403,
-      "lng": 5.7383969,
       "distance_km": 16.52
     },
     {
@@ -14359,17 +14359,17 @@
       "distance_km": 17.51
     },
     {
-      "name": "Ober-Emmels Autobahn",
-      "class": "bus_stop",
-      "lat": 50.2970445,
-      "lng": 6.0838122,
-      "distance_km": 17.51
-    },
-    {
       "name": "Odrimont Amc\u00f4mont carrefour",
       "class": "bus_stop",
       "lat": 50.3170646,
       "lng": 5.8117644,
+      "distance_km": 17.51
+    },
+    {
+      "name": "Ober-Emmels Autobahn",
+      "class": "bus_stop",
+      "lat": 50.2970445,
+      "lng": 6.0838122,
       "distance_km": 17.51
     },
     {
@@ -14394,17 +14394,17 @@
       "distance_km": 17.52
     },
     {
-      "name": "Ober-Emmels Autobahn",
-      "class": "bus_stop",
-      "lat": 50.2969525,
-      "lng": 6.0838352,
-      "distance_km": 17.52
-    },
-    {
       "name": "Odrimont Amc\u00f4mont carrefour",
       "class": "bus_stop",
       "lat": 50.3170204,
       "lng": 5.8116951,
+      "distance_km": 17.52
+    },
+    {
+      "name": "Ober-Emmels Autobahn",
+      "class": "bus_stop",
+      "lat": 50.2969525,
+      "lng": 6.0838352,
       "distance_km": 17.52
     },
     {
@@ -14800,17 +14800,17 @@
       "distance_km": 17.74
     },
     {
-      "name": "Rodt Altes Zollhaus",
-      "class": "bus_stop",
-      "lat": 50.286861,
-      "lng": 6.0552085,
-      "distance_km": 17.74
-    },
-    {
       "name": "Neuville Pont de Vielsalm",
       "class": "bus_stop",
       "lat": 50.2801634,
       "lng": 5.9275575,
+      "distance_km": 17.74
+    },
+    {
+      "name": "Rodt Altes Zollhaus",
+      "class": "bus_stop",
+      "lat": 50.286861,
+      "lng": 6.0552085,
       "distance_km": 17.74
     },
     {
@@ -15479,13 +15479,6 @@
       "distance_km": 18.07
     },
     {
-      "name": "Rodt Rosengarten",
-      "class": "bus_stop",
-      "lat": 50.285143,
-      "lng": 6.0614452,
-      "distance_km": 18.07
-    },
-    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 50.2793108,
@@ -15500,18 +15493,18 @@
       "distance_km": 18.07
     },
     {
+      "name": "Rodt Rosengarten",
+      "class": "bus_stop",
+      "lat": 50.285143,
+      "lng": 6.0614452,
+      "distance_km": 18.07
+    },
+    {
       "name": "Stembert \u00c9glise",
       "class": "bus_stop",
       "lat": 50.5920954,
       "lng": 5.8939583,
       "distance_km": 18.07
-    },
-    {
-      "name": "Rodt Hinderhausener Strasse",
-      "class": "bus_stop",
-      "lat": 50.285998,
-      "lng": 6.0652741,
-      "distance_km": 18.08
     },
     {
       "name": "Stop",
@@ -15528,25 +15521,18 @@
       "distance_km": 18.08
     },
     {
+      "name": "Rodt Hinderhausener Strasse",
+      "class": "bus_stop",
+      "lat": 50.285998,
+      "lng": 6.0652741,
+      "distance_km": 18.08
+    },
+    {
       "name": "Stembert Poste",
       "class": "bus_stop",
       "lat": 50.5914125,
       "lng": 5.890509,
       "distance_km": 18.08
-    },
-    {
-      "name": "Rodt Rosengarten",
-      "class": "bus_stop",
-      "lat": 50.2850441,
-      "lng": 6.0615289,
-      "distance_km": 18.09
-    },
-    {
-      "name": "Rodt Kirche",
-      "class": "bus_stop",
-      "lat": 50.2872954,
-      "lng": 6.0705232,
-      "distance_km": 18.09
     },
     {
       "name": "Vielsalm Route de la Gare",
@@ -15560,6 +15546,20 @@
       "class": "stop_position",
       "lat": 50.2790718,
       "lng": 5.9112003,
+      "distance_km": 18.09
+    },
+    {
+      "name": "Rodt Rosengarten",
+      "class": "bus_stop",
+      "lat": 50.2850441,
+      "lng": 6.0615289,
+      "distance_km": 18.09
+    },
+    {
+      "name": "Rodt Kirche",
+      "class": "bus_stop",
+      "lat": 50.2872954,
+      "lng": 6.0705232,
       "distance_km": 18.09
     },
     {
@@ -15584,13 +15584,6 @@
       "distance_km": 18.09
     },
     {
-      "name": "Rodt Hinderhausener Strasse",
-      "class": "bus_stop",
-      "lat": 50.2858026,
-      "lng": 6.0651464,
-      "distance_km": 18.1
-    },
-    {
       "name": "Platform",
       "class": "platform",
       "lat": 50.27932558689319,
@@ -15602,6 +15595,13 @@
       "class": "bus_stop",
       "lat": 50.3000342,
       "lng": 5.8340447,
+      "distance_km": 18.1
+    },
+    {
+      "name": "Rodt Hinderhausener Strasse",
+      "class": "bus_stop",
+      "lat": 50.2858026,
+      "lng": 6.0651464,
       "distance_km": 18.1
     },
     {
@@ -15857,17 +15857,17 @@
       "distance_km": 18.26
     },
     {
-      "name": "Rodt Haus 28",
-      "class": "bus_stop",
-      "lat": 50.2870033,
-      "lng": 6.0756657,
-      "distance_km": 18.27
-    },
-    {
       "name": "Remouchamps Ch\u00e2lets",
       "class": "bus_stop",
       "lat": 50.4596098,
       "lng": 5.7158302,
+      "distance_km": 18.27
+    },
+    {
+      "name": "Rodt Haus 28",
+      "class": "bus_stop",
+      "lat": 50.2870033,
+      "lng": 6.0756657,
       "distance_km": 18.27
     },
     {
@@ -15899,17 +15899,17 @@
       "distance_km": 18.28
     },
     {
-      "name": "Rodt Haus 28",
-      "class": "bus_stop",
-      "lat": 50.2869989,
-      "lng": 6.0763543,
-      "distance_km": 18.29
-    },
-    {
       "name": "Odrimont Route d'Arbrefontaine",
       "class": "bus_stop",
       "lat": 50.3076406,
       "lng": 5.8125194,
+      "distance_km": 18.29
+    },
+    {
+      "name": "Rodt Haus 28",
+      "class": "bus_stop",
+      "lat": 50.2869989,
+      "lng": 6.0763543,
       "distance_km": 18.29
     },
     {
@@ -16305,17 +16305,17 @@
       "distance_km": 18.41
     },
     {
-      "name": "Rodt Hundheim",
-      "class": "bus_stop",
-      "lat": 50.2878708,
-      "lng": 6.083591,
-      "distance_km": 18.41
-    },
-    {
       "name": "Vielsalm Garage van Noppen",
       "class": "bus_stop",
       "lat": 50.2761764,
       "lng": 5.9108283,
+      "distance_km": 18.41
+    },
+    {
+      "name": "Rodt Hundheim",
+      "class": "bus_stop",
+      "lat": 50.2878708,
+      "lng": 6.083591,
       "distance_km": 18.41
     },
     {
@@ -16417,17 +16417,17 @@
       "distance_km": 18.46
     },
     {
-      "name": "Rodt Neundorfer Strasse",
-      "class": "bus_stop",
-      "lat": 50.2806668,
-      "lng": 6.0582351,
-      "distance_km": 18.46
-    },
-    {
       "name": "Les Vilettes Erria 75",
       "class": "bus_stop",
       "lat": 50.3308265,
       "lng": 5.7715307,
+      "distance_km": 18.46
+    },
+    {
+      "name": "Rodt Neundorfer Strasse",
+      "class": "bus_stop",
+      "lat": 50.2806668,
+      "lng": 6.0582351,
       "distance_km": 18.46
     },
     {
@@ -16991,17 +16991,17 @@
       "distance_km": 18.65
     },
     {
-      "name": "Hinderhausen Friedhof",
-      "class": "bus_stop",
-      "lat": 50.2770411,
-      "lng": 6.0500093,
-      "distance_km": 18.66
-    },
-    {
       "name": "La Chapelle",
       "class": "bus_stop",
       "lat": 50.3105232,
       "lng": 5.7988345,
+      "distance_km": 18.66
+    },
+    {
+      "name": "Hinderhausen Friedhof",
+      "class": "bus_stop",
+      "lat": 50.2770411,
+      "lng": 6.0500093,
       "distance_km": 18.66
     },
     {
@@ -18181,17 +18181,17 @@
       "distance_km": 19.08
     },
     {
-      "name": "Wallerode Ameler Strasse 105",
-      "class": "bus_stop",
-      "lat": 50.3088386,
-      "lng": 6.149896,
-      "distance_km": 19.08
-    },
-    {
       "name": "Hierlot Centre",
       "class": "bus_stop",
       "lat": 50.3105196,
       "lng": 5.7900083,
+      "distance_km": 19.08
+    },
+    {
+      "name": "Wallerode Ameler Strasse 105",
+      "class": "bus_stop",
+      "lat": 50.3088386,
+      "lng": 6.149896,
       "distance_km": 19.08
     },
     {
@@ -18776,17 +18776,17 @@
       "distance_km": 19.37
     },
     {
-      "name": "Wallerode Walleroder Strasse",
-      "class": "bus_stop",
-      "lat": 50.3015441,
-      "lng": 6.1427304,
-      "distance_km": 19.37
-    },
-    {
       "name": "Harz\u00e9 Route de Kin",
       "class": "bus_stop",
       "lat": 50.4373246,
       "lng": 5.697964,
+      "distance_km": 19.37
+    },
+    {
+      "name": "Wallerode Walleroder Strasse",
+      "class": "bus_stop",
+      "lat": 50.3015441,
+      "lng": 6.1427304,
       "distance_km": 19.37
     },
     {
@@ -18804,17 +18804,17 @@
       "distance_km": 19.38
     },
     {
-      "name": "Wallerode Walleroder Strasse",
-      "class": "bus_stop",
-      "lat": 50.3012993,
-      "lng": 6.1425602,
-      "distance_km": 19.38
-    },
-    {
       "name": "Les Villettes Les Fourirs",
       "class": "bus_stop",
       "lat": 50.328843,
       "lng": 5.7572724,
+      "distance_km": 19.38
+    },
+    {
+      "name": "Wallerode Walleroder Strasse",
+      "class": "bus_stop",
+      "lat": 50.3012993,
+      "lng": 6.1425602,
       "distance_km": 19.38
     },
     {
@@ -20449,17 +20449,17 @@
       "distance_km": 20.02
     },
     {
-      "name": "Sankt Vith Friedhof",
-      "class": "bus_stop",
-      "lat": 50.2849341,
-      "lng": 6.1218832,
-      "distance_km": 20.02
-    },
-    {
       "name": "Lierneux Chemin de Lansival",
       "class": "bus_stop",
       "lat": 50.3017519,
       "lng": 5.785515,
+      "distance_km": 20.02
+    },
+    {
+      "name": "Sankt Vith Friedhof",
+      "class": "bus_stop",
+      "lat": 50.2849341,
+      "lng": 6.1218832,
       "distance_km": 20.02
     },
     {
@@ -20533,20 +20533,6 @@
       "distance_km": 20.05
     },
     {
-      "name": "Sankt Vith Friedensstrasse",
-      "class": "bus_stop",
-      "lat": 50.2854217,
-      "lng": 6.1240909,
-      "distance_km": 20.05
-    },
-    {
-      "name": "Sankt Vith Gendarmerie",
-      "class": "bus_stop",
-      "lat": 50.288478,
-      "lng": 6.1312986,
-      "distance_km": 20.05
-    },
-    {
       "name": "Harz\u00e9 Rue de Lorc\u00e9",
       "class": "bus_stop",
       "lat": 50.4252667,
@@ -20558,6 +20544,20 @@
       "class": "stop_position",
       "lat": 50.4252033,
       "lng": 5.6889494,
+      "distance_km": 20.05
+    },
+    {
+      "name": "Sankt Vith Friedensstrasse",
+      "class": "bus_stop",
+      "lat": 50.2854217,
+      "lng": 6.1240909,
+      "distance_km": 20.05
+    },
+    {
+      "name": "Sankt Vith Gendarmerie",
+      "class": "bus_stop",
+      "lat": 50.288478,
+      "lng": 6.1312986,
       "distance_km": 20.05
     },
     {
@@ -21100,20 +21100,6 @@
       "distance_km": 20.34
     },
     {
-      "name": "Sankt Vith Rodter Strasse",
-      "class": "bus_stop",
-      "lat": 50.2805675,
-      "lng": 6.1198635,
-      "distance_km": 20.35
-    },
-    {
-      "name": "Sankt Vith Haus Huppertz",
-      "class": "bus_stop",
-      "lat": 50.2776431,
-      "lng": 6.1119864,
-      "distance_km": 20.35
-    },
-    {
       "name": "Lierneux Rue de La Vaux",
       "class": "bus_stop",
       "lat": 50.2873581,
@@ -21125,6 +21111,20 @@
       "class": "bus_stop",
       "lat": 50.2874519,
       "lng": 5.8065605,
+      "distance_km": 20.35
+    },
+    {
+      "name": "Sankt Vith Rodter Strasse",
+      "class": "bus_stop",
+      "lat": 50.2805675,
+      "lng": 6.1198635,
+      "distance_km": 20.35
+    },
+    {
+      "name": "Sankt Vith Haus Huppertz",
+      "class": "bus_stop",
+      "lat": 50.2776431,
+      "lng": 6.1119864,
       "distance_km": 20.35
     },
     {
@@ -21282,17 +21282,17 @@
       "distance_km": 20.41
     },
     {
-      "name": "Sankt Vith Haus Thomas",
-      "class": "bus_stop",
-      "lat": 50.2744035,
-      "lng": 6.1045499,
-      "distance_km": 20.42
-    },
-    {
       "name": "Salmch\u00e2teau Route de Provedroux",
       "class": "bus_stop",
       "lat": 50.2586819,
       "lng": 5.9041886,
+      "distance_km": 20.42
+    },
+    {
+      "name": "Sankt Vith Haus Thomas",
+      "class": "bus_stop",
+      "lat": 50.2744035,
+      "lng": 6.1045499,
       "distance_km": 20.42
     },
     {
@@ -21639,17 +21639,17 @@
       "distance_km": 20.63
     },
     {
-      "name": "Sankt Vith Grundschule KA",
-      "class": "bus_stop",
-      "lat": 50.2790713,
-      "lng": 6.1240202,
-      "distance_km": 20.65
-    },
-    {
       "name": "Sart Petit Sart",
       "class": "bus_stop",
       "lat": 50.2695194,
       "lng": 5.8462581,
+      "distance_km": 20.65
+    },
+    {
+      "name": "Sankt Vith Grundschule KA",
+      "class": "bus_stop",
+      "lat": 50.2790713,
+      "lng": 6.1240202,
       "distance_km": 20.65
     },
     {
@@ -21926,20 +21926,6 @@
       "distance_km": 20.81
     },
     {
-      "name": "Crombach Haus Michels",
-      "class": "bus_stop",
-      "lat": 50.2620181,
-      "lng": 6.0750012,
-      "distance_km": 20.82
-    },
-    {
-      "name": "Sankt Vith Garage Simons",
-      "class": "bus_stop",
-      "lat": 50.2763371,
-      "lng": 6.1216522,
-      "distance_km": 20.82
-    },
-    {
       "name": "Lierneux Poste",
       "class": "bus_stop",
       "lat": 50.2847434,
@@ -21951,6 +21937,20 @@
       "class": "bus_stop",
       "lat": 50.2854368,
       "lng": 5.7994286,
+      "distance_km": 20.82
+    },
+    {
+      "name": "Crombach Haus Michels",
+      "class": "bus_stop",
+      "lat": 50.2620181,
+      "lng": 6.0750012,
+      "distance_km": 20.82
+    },
+    {
+      "name": "Sankt Vith Garage Simons",
+      "class": "bus_stop",
+      "lat": 50.2763371,
+      "lng": 6.1216522,
       "distance_km": 20.82
     },
     {
@@ -22031,13 +22031,6 @@
       "distance_km": 20.86
     },
     {
-      "name": "Stop",
-      "class": "stop_position",
-      "lat": 50.2791894,
-      "lng": 6.1301345,
-      "distance_km": 20.87
-    },
-    {
       "name": "Les Sarts Terrain de Football",
       "class": "bus_stop",
       "lat": 50.2653651,
@@ -22049,6 +22042,13 @@
       "class": "bus_stop",
       "lat": 50.2654322,
       "lng": 5.8527394,
+      "distance_km": 20.87
+    },
+    {
+      "name": "Stop",
+      "class": "stop_position",
+      "lat": 50.2791894,
+      "lng": 6.1301345,
       "distance_km": 20.87
     },
     {
@@ -22339,17 +22339,17 @@
       "distance_km": 21.04
     },
     {
-      "name": "Sankt Vith Gesch\u00e4ftskomplex",
-      "class": "bus_stop",
-      "lat": 50.2729576,
-      "lng": 6.1188455,
-      "distance_km": 21.05
-    },
-    {
       "name": "Lansival Village",
       "class": "bus_stop",
       "lat": 50.295684,
       "lng": 5.7741792,
+      "distance_km": 21.05
+    },
+    {
+      "name": "Sankt Vith Gesch\u00e4ftskomplex",
+      "class": "bus_stop",
+      "lat": 50.2729576,
+      "lng": 6.1188455,
       "distance_km": 21.05
     },
     {
@@ -22682,13 +22682,6 @@
       "distance_km": 21.29
     },
     {
-      "name": "Sankt Vith P+R Sankt Vith",
-      "class": "bus_stop",
-      "lat": 50.2691761,
-      "lng": 6.1152983,
-      "distance_km": 21.29
-    },
-    {
       "name": "Stop",
       "class": "stop_position",
       "lat": 50.284515,
@@ -22700,6 +22693,13 @@
       "class": "bus_stop",
       "lat": 50.2844962,
       "lng": 5.7903147,
+      "distance_km": 21.29
+    },
+    {
+      "name": "Sankt Vith P+R Sankt Vith",
+      "class": "bus_stop",
+      "lat": 50.2691761,
+      "lng": 6.1152983,
       "distance_km": 21.29
     },
     {
@@ -22892,6 +22892,13 @@
       "distance_km": 21.42
     },
     {
+      "name": "Lierneux Colonie Principale",
+      "class": "bus_stop",
+      "lat": 50.284901,
+      "lng": 5.7865032,
+      "distance_km": 21.42
+    },
+    {
       "name": "Sankt Vith S\u00e4gerei",
       "class": "bus_stop",
       "lat": 50.2742314,
@@ -22903,13 +22910,6 @@
       "class": "bus_stop",
       "lat": 50.2742917,
       "lng": 6.1324754,
-      "distance_km": 21.42
-    },
-    {
-      "name": "Lierneux Colonie Principale",
-      "class": "bus_stop",
-      "lat": 50.284901,
-      "lng": 5.7865032,
       "distance_km": 21.42
     },
     {

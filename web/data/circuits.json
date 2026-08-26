@@ -1,168 +1,168 @@
 {
   "australia": {
     "name": "Albert Park Circuit",
-    "race_name": "Australian Grand Prix",
+    "race_name": "Albert Park Circuit",
     "location": "Melbourne, Australia",
     "lat": -37.8497,
     "lng": 144.968
   },
   "china": {
     "name": "Shanghai International Circuit",
-    "race_name": "Chinese Grand Prix",
+    "race_name": "Shanghai International Circuit",
     "location": "Shanghai, China",
     "lat": 31.3389,
     "lng": 121.2198
   },
   "suzuka": {
     "name": "Suzuka Circuit",
-    "race_name": "Japanese Grand Prix",
+    "race_name": "Suzuka Circuit",
     "location": "Suzuka, Japan",
     "lat": 34.8431,
     "lng": 136.541
   },
   "bahrain": {
     "name": "Bahrain International Circuit",
-    "race_name": "Bahrain Grand Prix",
+    "race_name": "Bahrain International Circuit",
     "location": "Sakhir, Bahrain",
     "lat": 26.0325,
     "lng": 50.5106
   },
   "saudi_arabia": {
     "name": "Jeddah Corniche Circuit",
-    "race_name": "Saudi Arabian Grand Prix",
+    "race_name": "Jeddah Corniche Circuit",
     "location": "Jeddah, Saudi Arabia",
     "lat": 21.6319,
     "lng": 39.1044
   },
   "miami": {
     "name": "Miami International Autodrome",
-    "race_name": "Miami Grand Prix",
+    "race_name": "Miami International Autodrome",
     "location": "Miami Gardens, Florida, USA",
     "lat": 25.9581,
     "lng": -80.2389
   },
   "canada": {
     "name": "Circuit Gilles Villeneuve",
-    "race_name": "Canadian Grand Prix",
+    "race_name": "Circuit Gilles Villeneuve",
     "location": "Montreal, Canada",
     "lat": 45.5,
     "lng": -73.5228
   },
   "monaco": {
     "name": "Circuit de Monaco",
-    "race_name": "Monaco Grand Prix",
+    "race_name": "Circuit de Monaco",
     "location": "Monte Carlo, Monaco",
     "lat": 43.7347,
     "lng": 7.4206
   },
   "barcelona": {
     "name": "Circuit de Barcelona-Catalunya",
-    "race_name": "Spanish Grand Prix",
-    "location": "Montmeló, Spain",
+    "race_name": "Circuit de Barcelona-Catalunya",
+    "location": "Montmel\u00f3, Spain",
     "lat": 41.57,
     "lng": 2.2611
   },
   "austria": {
     "name": "Red Bull Ring",
-    "race_name": "Austrian Grand Prix",
+    "race_name": "Red Bull Ring",
     "location": "Spielberg, Austria",
     "lat": 47.2197,
     "lng": 14.7647
   },
   "silverstone": {
     "name": "Silverstone Circuit",
-    "race_name": "British Grand Prix",
+    "race_name": "Silverstone Circuit",
     "location": "Silverstone, United Kingdom",
     "lat": 52.0733,
     "lng": -1.0147
   },
   "spa": {
     "name": "Circuit de Spa-Francorchamps",
-    "race_name": "Belgian Grand Prix",
+    "race_name": "Circuit de Spa-Francorchamps",
     "location": "Stavelot, Belgium",
     "lat": 50.4372,
     "lng": 5.9714
   },
   "hungary": {
     "name": "Hungaroring",
-    "race_name": "Hungarian Grand Prix",
-    "location": "Mogyoród, Hungary",
+    "race_name": "Hungaroring",
+    "location": "Mogyor\u00f3d, Hungary",
     "lat": 47.5789,
     "lng": 19.2486
   },
   "zandvoort": {
     "name": "Circuit Zandvoort",
-    "race_name": "Dutch Grand Prix",
+    "race_name": "Circuit Zandvoort",
     "location": "Zandvoort, Netherlands",
     "lat": 52.3888,
     "lng": 4.5409
   },
   "monza": {
     "name": "Autodromo Nazionale Monza",
-    "race_name": "Italian Grand Prix",
+    "race_name": "Autodromo Nazionale Monza",
     "location": "Monza, Italy",
     "lat": 45.6156,
     "lng": 9.2811
   },
   "madrid": {
     "name": "Madring",
-    "race_name": "Spanish Grand Prix (Madrid)",
+    "race_name": "Madring",
     "location": "Madrid, Spain",
     "lat": 40.4653,
     "lng": -3.6153
   },
   "baku": {
     "name": "Baku City Circuit",
-    "race_name": "Azerbaijan Grand Prix",
+    "race_name": "Baku City Circuit",
     "location": "Baku, Azerbaijan",
     "lat": 40.3725,
     "lng": 49.8533
   },
   "singapore": {
     "name": "Marina Bay Street Circuit",
-    "race_name": "Singapore Grand Prix",
+    "race_name": "Marina Bay Street Circuit",
     "location": "Singapore",
     "lat": 1.2914,
     "lng": 103.864
   },
   "cota": {
     "name": "Circuit of the Americas",
-    "race_name": "United States Grand Prix",
+    "race_name": "Circuit of the Americas",
     "location": "Austin, Texas, USA",
     "lat": 30.1328,
     "lng": -97.6411
   },
   "mexico": {
-    "name": "Autódromo Hermanos Rodríguez",
-    "race_name": "Mexico City Grand Prix",
+    "name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+    "race_name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
     "location": "Mexico City, Mexico",
     "lat": 19.4042,
     "lng": -99.0907
   },
   "brazil": {
-    "name": "Autódromo José Carlos Pace",
-    "race_name": "São Paulo Grand Prix",
-    "location": "São Paulo, Brazil",
+    "name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+    "race_name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+    "location": "S\u00e3o Paulo, Brazil",
     "lat": -23.7036,
     "lng": -46.6997
   },
   "las_vegas": {
     "name": "Las Vegas Strip Circuit",
-    "race_name": "Las Vegas Grand Prix",
+    "race_name": "Las Vegas Strip Circuit",
     "location": "Las Vegas, Nevada, USA",
     "lat": 36.11,
     "lng": -115.1622
   },
   "qatar": {
     "name": "Lusail International Circuit",
-    "race_name": "Qatar Grand Prix",
+    "race_name": "Lusail International Circuit",
     "location": "Lusail, Qatar",
     "lat": 25.49,
     "lng": 51.4542
   },
   "abu_dhabi": {
     "name": "Yas Marina Circuit",
-    "race_name": "Abu Dhabi Grand Prix",
+    "race_name": "Yas Marina Circuit",
     "location": "Abu Dhabi, UAE",
     "lat": 24.4672,
     "lng": 54.6031

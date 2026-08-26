@@ -8177,6 +8177,13 @@
       "distance_km": 5.32
     },
     {
+      "name": "Le T\u00e9l\u00e9ph\u00e9rique",
+      "class": "bus_stop",
+      "lat": 43.7801877,
+      "lng": 7.3990195,
+      "distance_km": 5.35
+    },
+    {
       "name": "Cypris",
       "class": "stop_position",
       "lat": 43.7592451,
@@ -8191,13 +8198,6 @@
       "distance_km": 5.35
     },
     {
-      "name": "Le T\u00e9l\u00e9ph\u00e9rique",
-      "class": "bus_stop",
-      "lat": 43.7801877,
-      "lng": 7.3990195,
-      "distance_km": 5.35
-    },
-    {
       "name": "Cypris",
       "class": "bus_stop",
       "lat": 43.7593321,
@@ -8205,17 +8205,17 @@
       "distance_km": 5.36
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 43.721821286367216,
-      "lng": 7.35615964228745,
-      "distance_km": 5.37
-    },
-    {
       "name": "Le T\u00e9l\u00e9ph\u00e9rique",
       "class": "bus_stop",
       "lat": 43.7803939,
       "lng": 7.399125,
+      "distance_km": 5.37
+    },
+    {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 43.721821286367216,
+      "lng": 7.35615964228745,
       "distance_km": 5.37
     },
     {
@@ -8800,6 +8800,20 @@
       "distance_km": 5.97
     },
     {
+      "name": "Le R\u00eave",
+      "class": "stop_position",
+      "lat": 43.7822783,
+      "lng": 7.4554176,
+      "distance_km": 5.98
+    },
+    {
+      "name": "Le R\u00eave",
+      "class": "bus_stop",
+      "lat": 43.7822383,
+      "lng": 7.4554549,
+      "distance_km": 5.98
+    },
+    {
       "name": "Lavelan",
       "class": "stop_position",
       "lat": 43.7477892,
@@ -8828,20 +8842,6 @@
       "distance_km": 5.98
     },
     {
-      "name": "Le R\u00eave",
-      "class": "stop_position",
-      "lat": 43.7822783,
-      "lng": 7.4554176,
-      "distance_km": 5.98
-    },
-    {
-      "name": "Le R\u00eave",
-      "class": "bus_stop",
-      "lat": 43.7822383,
-      "lng": 7.4554549,
-      "distance_km": 5.98
-    },
-    {
       "name": "Le Pian Sud",
       "class": "bus_stop",
       "lat": 43.7809898,
@@ -8849,17 +8849,17 @@
       "distance_km": 5.99
     },
     {
-      "name": "Eden Roc",
-      "class": "bus_stop",
-      "lat": 43.7698298,
-      "lng": 7.4773553,
-      "distance_km": 6.0
-    },
-    {
       "name": "Le Pian Sud",
       "class": "stop_position",
       "lat": 43.7810305,
       "lng": 7.4588971,
+      "distance_km": 6.0
+    },
+    {
+      "name": "Eden Roc",
+      "class": "bus_stop",
+      "lat": 43.7698298,
+      "lng": 7.4773553,
       "distance_km": 6.0
     },
     {
@@ -8884,13 +8884,6 @@
       "distance_km": 6.01
     },
     {
-      "name": "Carnol\u00e8s March\u00e9",
-      "class": "bus_stop",
-      "lat": 43.7648657,
-      "lng": 7.4828473,
-      "distance_km": 6.02
-    },
-    {
       "name": "Saint-Sauveur",
       "class": "stop_position",
       "lat": 43.7826942,
@@ -8905,6 +8898,20 @@
       "distance_km": 6.02
     },
     {
+      "name": "Carnol\u00e8s March\u00e9",
+      "class": "bus_stop",
+      "lat": 43.7648657,
+      "lng": 7.4828473,
+      "distance_km": 6.02
+    },
+    {
+      "name": "Saint-Sauveur",
+      "class": "bus_stop",
+      "lat": 43.7827571,
+      "lng": 7.4553571,
+      "distance_km": 6.03
+    },
+    {
       "name": "David",
       "class": "stop_position",
       "lat": 43.7166795,
@@ -8916,13 +8923,6 @@
       "class": "bus_stop",
       "lat": 43.7167568,
       "lng": 7.3497976,
-      "distance_km": 6.03
-    },
-    {
-      "name": "Saint-Sauveur",
-      "class": "bus_stop",
-      "lat": 43.7827571,
-      "lng": 7.4553571,
       "distance_km": 6.03
     },
     {
@@ -9031,6 +9031,13 @@
       "distance_km": 6.12
     },
     {
+      "name": "L'Hacienda",
+      "class": "bus_stop",
+      "lat": 43.7797772,
+      "lng": 7.4645767,
+      "distance_km": 6.13
+    },
+    {
       "name": "Saint-Maurice",
       "class": "bus_stop",
       "lat": 43.7692441,
@@ -9042,13 +9049,6 @@
       "class": "stop_position",
       "lat": 43.7692574,
       "lng": 7.4801276,
-      "distance_km": 6.13
-    },
-    {
-      "name": "L'Hacienda",
-      "class": "bus_stop",
-      "lat": 43.7797772,
-      "lng": 7.4645767,
       "distance_km": 6.13
     },
     {
@@ -9199,6 +9199,13 @@
       "distance_km": 6.2
     },
     {
+      "name": "Les Terrasses du Soleil",
+      "class": "stop_position",
+      "lat": 43.7787867,
+      "lng": 7.4681126,
+      "distance_km": 6.21
+    },
+    {
       "name": "Pont de l'Union",
       "class": "bus_stop",
       "lat": 43.7655161,
@@ -9228,10 +9235,10 @@
     },
     {
       "name": "Les Terrasses du Soleil",
-      "class": "stop_position",
-      "lat": 43.7787867,
-      "lng": 7.4681126,
-      "distance_km": 6.21
+      "class": "bus_stop",
+      "lat": 43.7788101,
+      "lng": 7.4681282,
+      "distance_km": 6.22
     },
     {
       "name": "Fleur de Mai",
@@ -9271,20 +9278,6 @@
     {
       "name": "Les Terrasses du Soleil",
       "class": "bus_stop",
-      "lat": 43.7788101,
-      "lng": 7.4681282,
-      "distance_km": 6.22
-    },
-    {
-      "name": "Serre de la Madone",
-      "class": "stop_position",
-      "lat": 43.7742598,
-      "lng": 7.4755507,
-      "distance_km": 6.23
-    },
-    {
-      "name": "Les Terrasses du Soleil",
-      "class": "bus_stop",
       "lat": 43.7786648,
       "lng": 7.4686483,
       "distance_km": 6.23
@@ -9294,6 +9287,13 @@
       "class": "stop_position",
       "lat": 43.7787002,
       "lng": 7.4686547,
+      "distance_km": 6.23
+    },
+    {
+      "name": "Serre de la Madone",
+      "class": "stop_position",
+      "lat": 43.7742598,
+      "lng": 7.4755507,
       "distance_km": 6.23
     },
     {
@@ -9318,6 +9318,13 @@
       "distance_km": 6.24
     },
     {
+      "name": "Lou Pescadou",
+      "class": "bus_stop",
+      "lat": 43.786843,
+      "lng": 7.4497931,
+      "distance_km": 6.25
+    },
+    {
       "name": "Serre de la Madone",
       "class": "stop_position",
       "lat": 43.7748405,
@@ -9326,10 +9333,10 @@
     },
     {
       "name": "Lou Pescadou",
-      "class": "bus_stop",
-      "lat": 43.786843,
-      "lng": 7.4497931,
-      "distance_km": 6.25
+      "class": "stop_position",
+      "lat": 43.7868812,
+      "lng": 7.4497972,
+      "distance_km": 6.26
     },
     {
       "name": "Sigua",
@@ -9343,13 +9350,6 @@
       "class": "bus_stop",
       "lat": 43.7782735,
       "lng": 7.4699055,
-      "distance_km": 6.26
-    },
-    {
-      "name": "Lou Pescadou",
-      "class": "stop_position",
-      "lat": 43.7868812,
-      "lng": 7.4497972,
       "distance_km": 6.26
     },
     {
@@ -9367,13 +9367,6 @@
       "distance_km": 6.27
     },
     {
-      "name": "ESAT",
-      "class": "bus_stop",
-      "lat": 43.7765102,
-      "lng": 7.4732144,
-      "distance_km": 6.28
-    },
-    {
       "name": "Lou Pescadou",
       "class": "stop_position",
       "lat": 43.7865235,
@@ -9382,17 +9375,10 @@
     },
     {
       "name": "ESAT",
-      "class": "stop_position",
-      "lat": 43.7765715,
-      "lng": 7.4732443,
-      "distance_km": 6.29
-    },
-    {
-      "name": "ESAT",
       "class": "bus_stop",
-      "lat": 43.7766103,
-      "lng": 7.4732633,
-      "distance_km": 6.29
+      "lat": 43.7765102,
+      "lng": 7.4732144,
+      "distance_km": 6.28
     },
     {
       "name": "Lou Pescadou",
@@ -9413,6 +9399,20 @@
       "class": "bus_stop",
       "lat": 43.7788671,
       "lng": 7.4695702,
+      "distance_km": 6.29
+    },
+    {
+      "name": "ESAT",
+      "class": "stop_position",
+      "lat": 43.7765715,
+      "lng": 7.4732443,
+      "distance_km": 6.29
+    },
+    {
+      "name": "ESAT",
+      "class": "bus_stop",
+      "lat": 43.7766103,
+      "lng": 7.4732633,
       "distance_km": 6.29
     },
     {
@@ -9472,13 +9472,6 @@
       "distance_km": 6.32
     },
     {
-      "name": "Solenzara",
-      "class": "bus_stop",
-      "lat": 43.7648362,
-      "lng": 7.4874548,
-      "distance_km": 6.33
-    },
-    {
       "name": "La Puaille",
       "class": "stop_position",
       "lat": 43.7886661,
@@ -9500,6 +9493,20 @@
       "distance_km": 6.33
     },
     {
+      "name": "Solenzara",
+      "class": "bus_stop",
+      "lat": 43.7648362,
+      "lng": 7.4874548,
+      "distance_km": 6.33
+    },
+    {
+      "name": "La Vignasse",
+      "class": "stop_position",
+      "lat": 43.7857866,
+      "lng": 7.4555656,
+      "distance_km": 6.34
+    },
+    {
       "name": "Maison Russe",
       "class": "stop_position",
       "lat": 43.7674383,
@@ -9516,9 +9523,16 @@
     {
       "name": "La Vignasse",
       "class": "stop_position",
-      "lat": 43.7857866,
-      "lng": 7.4555656,
-      "distance_km": 6.34
+      "lat": 43.7858211,
+      "lng": 7.4559435,
+      "distance_km": 6.35
+    },
+    {
+      "name": "La Vignasse",
+      "class": "bus_stop",
+      "lat": 43.7857851,
+      "lng": 7.4559647,
+      "distance_km": 6.35
     },
     {
       "name": "Maison Russe",
@@ -9532,20 +9546,6 @@
       "class": "stop_position",
       "lat": 43.7673507,
       "lng": 7.4854017,
-      "distance_km": 6.35
-    },
-    {
-      "name": "La Vignasse",
-      "class": "stop_position",
-      "lat": 43.7858211,
-      "lng": 7.4559435,
-      "distance_km": 6.35
-    },
-    {
-      "name": "La Vignasse",
-      "class": "bus_stop",
-      "lat": 43.7857851,
-      "lng": 7.4559647,
       "distance_km": 6.35
     },
     {
@@ -9696,13 +9696,6 @@
       "distance_km": 6.48
     },
     {
-      "name": "Le Vallon des Serres",
-      "class": "stop_position",
-      "lat": 43.7727214,
-      "lng": 7.4818848,
-      "distance_km": 6.49
-    },
-    {
       "name": "Les Mandariniers",
       "class": "stop_position",
       "lat": 43.7803895,
@@ -9714,6 +9707,13 @@
       "class": "bus_stop",
       "lat": 43.7804199,
       "lng": 7.4708454,
+      "distance_km": 6.49
+    },
+    {
+      "name": "Le Vallon des Serres",
+      "class": "stop_position",
+      "lat": 43.7727214,
+      "lng": 7.4818848,
       "distance_km": 6.49
     },
     {
@@ -9759,20 +9759,6 @@
       "distance_km": 6.53
     },
     {
-      "name": "Stade du Val d'Anaud",
-      "class": "bus_stop",
-      "lat": 43.7771443,
-      "lng": 7.4769255,
-      "distance_km": 6.54
-    },
-    {
-      "name": "Stade du Val d'Anaud",
-      "class": "stop_position",
-      "lat": 43.7772185,
-      "lng": 7.4769082,
-      "distance_km": 6.54
-    },
-    {
       "name": "Le Jardin",
       "class": "bus_stop",
       "lat": 43.7818729,
@@ -9784,6 +9770,20 @@
       "class": "stop_position",
       "lat": 43.781959,
       "lng": 7.3721137,
+      "distance_km": 6.54
+    },
+    {
+      "name": "Stade du Val d'Anaud",
+      "class": "bus_stop",
+      "lat": 43.7771443,
+      "lng": 7.4769255,
+      "distance_km": 6.54
+    },
+    {
+      "name": "Stade du Val d'Anaud",
+      "class": "stop_position",
+      "lat": 43.7772185,
+      "lng": 7.4769082,
       "distance_km": 6.54
     },
     {
@@ -9920,6 +9920,13 @@
       "distance_km": 6.69
     },
     {
+      "name": "Le Square",
+      "class": "bus_stop",
+      "lat": 43.784433,
+      "lng": 7.3735026,
+      "distance_km": 6.7
+    },
+    {
       "name": "Madone Parc",
       "class": "bus_stop",
       "lat": 43.7681051,
@@ -9931,13 +9938,6 @@
       "class": "stop_position",
       "lat": 43.7680752,
       "lng": 7.4900915,
-      "distance_km": 6.7
-    },
-    {
-      "name": "Le Square",
-      "class": "bus_stop",
-      "lat": 43.784433,
-      "lng": 7.3735026,
       "distance_km": 6.7
     },
     {
@@ -9953,13 +9953,6 @@
       "lat": 43.7678298,
       "lng": 7.490497,
       "distance_km": 6.71
-    },
-    {
-      "name": "Chemin de la Madone",
-      "class": "bus_stop",
-      "lat": 43.7690126,
-      "lng": 7.489844,
-      "distance_km": 6.74
     },
     {
       "name": "Borne 62",
@@ -9984,10 +9977,10 @@
     },
     {
       "name": "Chemin de la Madone",
-      "class": "stop_position",
-      "lat": 43.7690464,
-      "lng": 7.4898194,
-      "distance_km": 6.75
+      "class": "bus_stop",
+      "lat": 43.7690126,
+      "lng": 7.489844,
+      "distance_km": 6.74
     },
     {
       "name": "Borne 62",
@@ -10013,6 +10006,20 @@
     {
       "name": "Chemin de la Madone",
       "class": "stop_position",
+      "lat": 43.7690464,
+      "lng": 7.4898194,
+      "distance_km": 6.75
+    },
+    {
+      "name": "Borne 62",
+      "class": "bus_stop",
+      "lat": 43.782245,
+      "lng": 7.4730255,
+      "distance_km": 6.76
+    },
+    {
+      "name": "Chemin de la Madone",
+      "class": "stop_position",
       "lat": 43.7691216,
       "lng": 7.48998,
       "distance_km": 6.76
@@ -10022,13 +10029,6 @@
       "class": "bus_stop",
       "lat": 43.7691514,
       "lng": 7.4899361,
-      "distance_km": 6.76
-    },
-    {
-      "name": "Borne 62",
-      "class": "bus_stop",
-      "lat": 43.782245,
-      "lng": 7.4730255,
       "distance_km": 6.76
     },
     {
@@ -10186,13 +10186,6 @@
       "distance_km": 7.04
     },
     {
-      "name": "Albert 1er",
-      "class": "bus_stop",
-      "lat": 43.7732781,
-      "lng": 7.4902957,
-      "distance_km": 7.05
-    },
-    {
       "name": "Castagnins",
       "class": "stop_position",
       "lat": 43.7794986,
@@ -10205,6 +10198,20 @@
       "lat": 43.7796382,
       "lng": 7.4824568,
       "distance_km": 7.05
+    },
+    {
+      "name": "Albert 1er",
+      "class": "bus_stop",
+      "lat": 43.7732781,
+      "lng": 7.4902957,
+      "distance_km": 7.05
+    },
+    {
+      "name": "Castagnins",
+      "class": "bus_stop",
+      "lat": 43.7795554,
+      "lng": 7.482762,
+      "distance_km": 7.06
     },
     {
       "name": "Albert 1er",
@@ -10228,11 +10235,11 @@
       "distance_km": 7.06
     },
     {
-      "name": "Castagnins",
-      "class": "bus_stop",
-      "lat": 43.7795554,
-      "lng": 7.482762,
-      "distance_km": 7.06
+      "name": "Ch\u00e2taigneraie",
+      "class": "stop_position",
+      "lat": 43.7814358,
+      "lng": 7.4803752,
+      "distance_km": 7.07
     },
     {
       "name": "La Vierge",
@@ -10257,10 +10264,17 @@
     },
     {
       "name": "Ch\u00e2taigneraie",
-      "class": "stop_position",
-      "lat": 43.7814358,
-      "lng": 7.4803752,
-      "distance_km": 7.07
+      "class": "bus_stop",
+      "lat": 43.7818181,
+      "lng": 7.4799607,
+      "distance_km": 7.08
+    },
+    {
+      "name": "Ch\u00e2taigneraie",
+      "class": "bus_stop",
+      "lat": 43.7814796,
+      "lng": 7.4804752,
+      "distance_km": 7.08
     },
     {
       "name": "La Vierge",
@@ -10285,17 +10299,17 @@
     },
     {
       "name": "Ch\u00e2taigneraie",
-      "class": "bus_stop",
-      "lat": 43.7818181,
-      "lng": 7.4799607,
-      "distance_km": 7.08
+      "class": "stop_position",
+      "lat": 43.781854,
+      "lng": 7.4800074,
+      "distance_km": 7.09
     },
     {
       "name": "Ch\u00e2taigneraie",
-      "class": "bus_stop",
-      "lat": 43.7814796,
-      "lng": 7.4804752,
-      "distance_km": 7.08
+      "class": "stop_position",
+      "lat": 43.7816511,
+      "lng": 7.4804194,
+      "distance_km": 7.09
     },
     {
       "name": "La Vierge",
@@ -10320,30 +10334,16 @@
     },
     {
       "name": "Ch\u00e2taigneraie",
-      "class": "stop_position",
-      "lat": 43.781854,
-      "lng": 7.4800074,
-      "distance_km": 7.09
-    },
-    {
-      "name": "Ch\u00e2taigneraie",
-      "class": "stop_position",
-      "lat": 43.7816511,
-      "lng": 7.4804194,
-      "distance_km": 7.09
+      "class": "bus_stop",
+      "lat": 43.7817201,
+      "lng": 7.480384,
+      "distance_km": 7.1
     },
     {
       "name": "Val d'Anaud",
       "class": "stop_position",
       "lat": 43.7754458,
       "lng": 7.4887027,
-      "distance_km": 7.1
-    },
-    {
-      "name": "Ch\u00e2taigneraie",
-      "class": "bus_stop",
-      "lat": 43.7817201,
-      "lng": 7.480384,
       "distance_km": 7.1
     },
     {
@@ -10354,13 +10354,6 @@
       "distance_km": 7.11
     },
     {
-      "name": "Les Oliviers",
-      "class": "bus_stop",
-      "lat": 43.7767242,
-      "lng": 7.4875451,
-      "distance_km": 7.12
-    },
-    {
       "name": "Les Foug\u00e8res",
       "class": "bus_stop",
       "lat": 43.7805425,
@@ -10369,10 +10362,10 @@
     },
     {
       "name": "Les Oliviers",
-      "class": "stop_position",
-      "lat": 43.7767668,
-      "lng": 7.4876475,
-      "distance_km": 7.13
+      "class": "bus_stop",
+      "lat": 43.7767242,
+      "lng": 7.4875451,
+      "distance_km": 7.12
     },
     {
       "name": "Les Foug\u00e8res",
@@ -10386,6 +10379,13 @@
       "class": "bus_stop",
       "lat": 43.7805809,
       "lng": 7.4826734,
+      "distance_km": 7.13
+    },
+    {
+      "name": "Les Oliviers",
+      "class": "stop_position",
+      "lat": 43.7767668,
+      "lng": 7.4876475,
       "distance_km": 7.13
     },
     {
@@ -10424,20 +10424,6 @@
       "distance_km": 7.15
     },
     {
-      "name": "Bas Borrigo",
-      "class": "bus_stop",
-      "lat": 43.7707285,
-      "lng": 7.4944696,
-      "distance_km": 7.16
-    },
-    {
-      "name": "Bas Borrigo",
-      "class": "stop_position",
-      "lat": 43.7708159,
-      "lng": 7.4944079,
-      "distance_km": 7.16
-    },
-    {
       "name": "Les Castagnins",
       "class": "bus_stop",
       "lat": 43.785138,
@@ -10449,6 +10435,20 @@
       "class": "stop_position",
       "lat": 43.7851651,
       "lng": 7.4760483,
+      "distance_km": 7.16
+    },
+    {
+      "name": "Bas Borrigo",
+      "class": "bus_stop",
+      "lat": 43.7707285,
+      "lng": 7.4944696,
+      "distance_km": 7.16
+    },
+    {
+      "name": "Bas Borrigo",
+      "class": "stop_position",
+      "lat": 43.7708159,
+      "lng": 7.4944079,
       "distance_km": 7.16
     },
     {
@@ -10480,6 +10480,13 @@
       "distance_km": 7.17
     },
     {
+      "name": "Le Vallon",
+      "class": "bus_stop",
+      "lat": 43.7877712,
+      "lng": 7.4715549,
+      "distance_km": 7.18
+    },
+    {
       "name": "Guillevin",
       "class": "bus_stop",
       "lat": 43.777991,
@@ -10492,20 +10499,6 @@
       "lat": 43.7779838,
       "lng": 7.4868611,
       "distance_km": 7.18
-    },
-    {
-      "name": "Le Vallon",
-      "class": "bus_stop",
-      "lat": 43.7877712,
-      "lng": 7.4715549,
-      "distance_km": 7.18
-    },
-    {
-      "name": "C\u00e9cilia",
-      "class": "stop_position",
-      "lat": 43.7765055,
-      "lng": 7.4889151,
-      "distance_km": 7.19
     },
     {
       "name": "Les Castagnins",
@@ -10558,10 +10551,10 @@
     },
     {
       "name": "C\u00e9cilia",
-      "class": "bus_stop",
-      "lat": 43.7765326,
-      "lng": 7.4890077,
-      "distance_km": 7.2
+      "class": "stop_position",
+      "lat": 43.7765055,
+      "lng": 7.4889151,
+      "distance_km": 7.19
     },
     {
       "name": "Suillet",
@@ -10575,6 +10568,13 @@
       "class": "bus_stop",
       "lat": 43.7816977,
       "lng": 7.4822303,
+      "distance_km": 7.2
+    },
+    {
+      "name": "C\u00e9cilia",
+      "class": "bus_stop",
+      "lat": 43.7765326,
+      "lng": 7.4890077,
       "distance_km": 7.2
     },
     {
@@ -10627,13 +10627,6 @@
       "distance_km": 7.26
     },
     {
-      "name": "Platform",
-      "class": "platform",
-      "lat": 43.77442037420463,
-      "lng": 7.492872542540253,
-      "distance_km": 7.29
-    },
-    {
       "name": "R\u00e9sidences du Borrigo",
       "class": "bus_stop",
       "lat": 43.7802831,
@@ -10648,11 +10641,25 @@
       "distance_km": 7.29
     },
     {
+      "name": "Platform",
+      "class": "platform",
+      "lat": 43.77442037420463,
+      "lng": 7.492872542540253,
+      "distance_km": 7.29
+    },
+    {
       "name": "Riviera Palace",
       "class": "bus_stop",
       "lat": 43.7772427,
       "lng": 7.4897531,
       "distance_km": 7.3
+    },
+    {
+      "name": "R\u00e9sidences du Borrigo",
+      "class": "stop_position",
+      "lat": 43.7804284,
+      "lng": 7.4860671,
+      "distance_km": 7.31
     },
     {
       "name": "Platform",
@@ -10662,11 +10669,25 @@
       "distance_km": 7.31
     },
     {
-      "name": "R\u00e9sidences du Borrigo",
+      "name": "Colline Pesca\u00efre",
       "class": "stop_position",
-      "lat": 43.7804284,
-      "lng": 7.4860671,
-      "distance_km": 7.31
+      "lat": 43.7887189,
+      "lng": 7.4726798,
+      "distance_km": 7.32
+    },
+    {
+      "name": "Colline Pesca\u00efre",
+      "class": "bus_stop",
+      "lat": 43.788757,
+      "lng": 7.4726543,
+      "distance_km": 7.32
+    },
+    {
+      "name": "R\u00e9sidences du Borrigo",
+      "class": "bus_stop",
+      "lat": 43.7804291,
+      "lng": 7.4861218,
+      "distance_km": 7.32
     },
     {
       "name": "Menton",
@@ -10701,27 +10722,6 @@
       "class": "stop_position",
       "lat": 43.7763258,
       "lng": 7.4911581,
-      "distance_km": 7.32
-    },
-    {
-      "name": "Colline Pesca\u00efre",
-      "class": "stop_position",
-      "lat": 43.7887189,
-      "lng": 7.4726798,
-      "distance_km": 7.32
-    },
-    {
-      "name": "Colline Pesca\u00efre",
-      "class": "bus_stop",
-      "lat": 43.788757,
-      "lng": 7.4726543,
-      "distance_km": 7.32
-    },
-    {
-      "name": "R\u00e9sidences du Borrigo",
-      "class": "bus_stop",
-      "lat": 43.7804291,
-      "lng": 7.4861218,
       "distance_km": 7.32
     },
     {
@@ -10837,20 +10837,6 @@
       "distance_km": 7.49
     },
     {
-      "name": "Avenue Riviera",
-      "class": "stop_position",
-      "lat": 43.7763782,
-      "lng": 7.4939524,
-      "distance_km": 7.5
-    },
-    {
-      "name": "Avenue Riviera",
-      "class": "bus_stop",
-      "lat": 43.7763475,
-      "lng": 7.4940217,
-      "distance_km": 7.5
-    },
-    {
       "name": "Acacias",
       "class": "bus_stop",
       "lat": 43.7837494,
@@ -10862,6 +10848,20 @@
       "class": "stop_position",
       "lat": 43.7840271,
       "lng": 7.4842178,
+      "distance_km": 7.5
+    },
+    {
+      "name": "Avenue Riviera",
+      "class": "stop_position",
+      "lat": 43.7763782,
+      "lng": 7.4939524,
+      "distance_km": 7.5
+    },
+    {
+      "name": "Avenue Riviera",
+      "class": "bus_stop",
+      "lat": 43.7763475,
+      "lng": 7.4940217,
       "distance_km": 7.5
     },
     {
