@@ -5,7 +5,7 @@
 import { state, setUnitForCircuit } from "./state.js";
 import { map } from "./map.js";
 import { applyTheme, applyLanguageLabel, toggleTheme, toggleLanguage } from "./theme.js";
-import { populateCircuitPicker, renderHomeMarkers, clearHomeMarkers, resetCircuitSelection } from "./circuits.js";
+import { populateCircuitPicker, renderHomeMarkers, clearHomeMarkers, resetCircuitSelection, selectCircuit } from "./circuits.js";
 import { setActiveLayer, setFoodCategory, registerClusterInteractions } from "./clusters.js";
 import { renderHotelList, showHotelList, showHotelDetail, toggleSchedule, registerZoomVisibilityHandler } from "./hotels.js";
 import { startFlythrough, stopFlythrough } from "./flythrough.js";
@@ -85,6 +85,21 @@ async function init() {
     if (!state.currentData) {
       panel.classList.remove("panel-visible");
       returnBtn.classList.add("hidden");
+      // Auto-load nearest circuit when zoomed in past threshold without
+      // explicitly selecting one — e.g. user zooms into Monaco manually
+      if (zoom >= PANEL_ZOOM_THRESHOLD && !state._flying) {
+        const center = map.getCenter();
+        let nearest = null;
+        let nearestDist = Infinity;
+        for (const [key, c] of Object.entries(state.circuits)) {
+          const d = Math.abs(center.lng - c.lng) + Math.abs(center.lat - c.lat);
+          if (d < nearestDist) { nearestDist = d; nearest = key; }
+        }
+        // Only auto-load if within ~50km of a circuit
+        if (nearest && nearestDist < 0.45) {
+          selectCircuit(nearest);
+        }
+      }
       return;
     }
 
