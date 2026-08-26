@@ -47,7 +47,7 @@ export const CLUSTER_COLOR = "#e63946";
 export const HOTEL_COLOR = "#e63946"; // matches CLUSTER_COLOR deliberately — hotel dots and bubbles should read as the same category
 export const FOOD_COLOR = "#f0b25e";
 export const CIRCUIT_COLOR = "#7c3aed"; // light theme circuit color (purple)
-export const CIRCUIT_COLOR_DARK = "#00fff5"; // dark theme circuit color (electric cyan)
+export const CIRCUIT_COLOR_DARK = "#a78bfa"; // dark theme circuit color (soft purple)
 
 // Returns the correct circuit color for the current theme — purple in light,
 // electric cyan in dark (for readability against the fiord basemap's navy).
