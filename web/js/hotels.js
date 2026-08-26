@@ -66,7 +66,7 @@ let _activePopup = null;
 let _lastPopupArgs = null;
 let _isReplacingPopup = false; // set synchronously around programmatic .remove()
 
-function clearPopup() {
+export function clearPopup() {
   if (_activePopup) {
     _isReplacingPopup = true;
     _activePopup.remove();

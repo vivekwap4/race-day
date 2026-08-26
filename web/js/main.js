@@ -7,7 +7,7 @@ import { map } from "./map.js";
 import { applyTheme, toggleTheme } from "./theme.js";
 import { populateCircuitPicker, renderHomeMarkers, clearHomeMarkers, resetCircuitSelection, selectCircuit } from "./circuits.js";
 import { setActiveLayer, setFoodCategory, registerClusterInteractions } from "./clusters.js";
-import { renderHotelList, showHotelList, showHotelDetail, toggleSchedule, registerZoomVisibilityHandler } from "./hotels.js";
+import { renderHotelList, showHotelList, showHotelDetail, toggleSchedule, registerZoomVisibilityHandler, clearPopup } from "./hotels.js";
 import { startFlythrough, stopFlythrough } from "./flythrough.js";
 
 async function init() {
@@ -94,6 +94,7 @@ async function init() {
     if (!state.currentData) {
       panel.classList.remove("panel-visible");
       returnBtn.classList.add("hidden");
+      clearPopup();
       if (zoom >= PANEL_ZOOM_THRESHOLD && !state._flying) {
         const nearest = nearestCircuitToCenter();
         if (nearest) selectCircuit(nearest);
@@ -134,6 +135,7 @@ async function init() {
 
     const atCircuit = inView || closeToCircuit || hotelDetailOpen;
     panel.classList.toggle("panel-visible", zoomed && atCircuit);
+    if (!zoomed) clearPopup();
 
     // Return button: show when genuinely away from circuit, not just slightly
     // panned — and never during flight
