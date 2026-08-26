@@ -3547,17 +3547,17 @@
       "distance_km": 13.49
     },
     {
-      "name": "Bus stop",
-      "class": "bus_stop",
-      "lat": 24.5645953,
-      "lng": 54.6878583,
-      "distance_km": 13.81
-    },
-    {
       "name": "Mussafah ADNOC ... - 111, M1, M5",
       "class": "bus_stop",
       "lat": 24.365494,
       "lng": 54.5247385,
+      "distance_km": 13.81
+    },
+    {
+      "name": "Bus stop",
+      "class": "bus_stop",
+      "lat": 24.5645953,
+      "lng": 54.6878583,
       "distance_km": 13.81
     },
     {
