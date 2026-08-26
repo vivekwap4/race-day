@@ -4,6 +4,9 @@ import { state } from "./state.js";
 import { map, mapStyleFor, hideBasemapClutterLayers } from "./map.js";
 import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
 import { renderHotelList, redrawRouteAfterThemeChange, rerenderPopupAfterThemeChange } from "./hotels.js";
+import { renderTrack } from "./track.js";
+import { renderHomeMarkers } from "./circuits.js";
+import { updateFlythroughTheme } from "./flythrough.js";
 
 export function toggleTheme() {
   state.theme = state.theme === "dark" ? "light" : "dark";
@@ -22,11 +25,11 @@ export function toggleTheme() {
   map.once("idle", () => {
     map.jumpTo({ center: preservedCenter, zoom: preservedZoom });
     hideBasemapClutterLayers();
-    if (!hadData) {
-      // No circuit selected — re-render home markers so they use the new theme color
-      renderHomeMarkers();
-      return;
-    }
+    updateFlythroughTheme();
+    // Delay home marker re-render to ensure it runs after any other idle
+    // callbacks that might call renderHomeMarkers with the old theme color
+    setTimeout(() => renderHomeMarkers(), 50);
+    if (!hadData) return;
     renderCircuitMarker();
     renderClusterLayer(true);
     if (circuitKey) {

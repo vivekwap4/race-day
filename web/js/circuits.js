@@ -9,6 +9,7 @@ import { renderCircuitMarker, renderClusterLayer } from "./clusters.js";
 import { renderHotelList, clearSelectedHotelMarker, clearSelectedPoiMarker } from "./hotels.js";
 import { renderTrack, clearTrack } from "./track.js";
 import { loadSchedule } from "./schedule.js";
+import { stopFlythrough } from "./flythrough.js";
 
 export function populateCircuitPicker() {
   const list = document.getElementById("circuit-list");
@@ -128,6 +129,8 @@ export function resetCircuitSelection() {
   state.markers = [];
   // Restore home markers and reset the picker label
   renderHomeMarkers();
+  document.getElementById("layer-filters").classList.add("hidden");
+  document.getElementById("food-subfilters").classList.add("hidden");
   const triggerLabel = document.getElementById("circuit-trigger-label");
   if (triggerLabel) triggerLabel.textContent = "Choose a circuit";
   document.getElementById("panel-content").classList.add("hidden");
@@ -139,6 +142,7 @@ export function resetCircuitSelection() {
 }
 
 export async function loadCircuit(key) {
+  stopFlythrough();
   const res = await fetch(`data/${key}.json`);
   if (!res.ok) {
     console.error(`No data file for circuit '${key}'. Run scripts/extract.py first.`);
@@ -162,6 +166,10 @@ export async function loadCircuit(key) {
   const el2 = document.getElementById("unit-label-detail");
   if (el1) el1.textContent = unitText;
   if (el2) el2.textContent = unitText;
+  // Hide layer filters during travel
+  document.getElementById("layer-filters").classList.add("hidden");
+  document.getElementById("food-subfilters").classList.add("hidden");
+
   const { circuit } = state.currentData;
   document.getElementById("circuit-name").textContent = circuit.name;
   document.getElementById("circuit-location").textContent = circuit.location;
@@ -191,6 +199,8 @@ export async function loadCircuit(key) {
     if (state._loadGeneration !== thisGeneration) return;
     overlay.classList.add("hidden");
     clearHomeMarkers();
+    renderCircuitMarker();
+    document.getElementById("layer-filters").classList.remove("hidden");
     renderClusterLayer();
     renderHotelList();
     renderTrack(key);

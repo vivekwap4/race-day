@@ -17,11 +17,12 @@ export function mapStyleFor(theme) {
 export const map = new maplibregl.Map({
   container: "map",
   style: mapStyleFor(state.theme),
-  center: [0, 20],
-  zoom: 1.5,
+  center: [20, 20],
+  zoom: 2,
+  renderWorldCopies: false,
 });
 
-map.addControl(new maplibregl.NavigationControl(), "bottom-left");
+map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "bottom-left");
 
 // OpenFreeMap's styles ship generic POI labels/icons (random shops,
 // obscure businesses) tiered by importance rank: poi_r1 (most important,

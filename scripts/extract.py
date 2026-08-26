@@ -284,7 +284,13 @@ def write_web_index(circuits):
     web_data_dir = os.path.join(HERE, "..", "web", "data")
     os.makedirs(web_data_dir, exist_ok=True)
     index = {
-        key: {"name": c["name"], "location": c["location"], "lat": c["lat"], "lng": c["lng"]}
+        key: {
+            "name": c["name"],
+            "race_name": c.get("race_name", c["name"]),
+            "location": c["location"],
+            "lat": c["lat"],
+            "lng": c["lng"]
+        }
         for key, c in circuits.items()
     }
     with open(os.path.join(web_data_dir, "circuits.json"), "w") as f:

@@ -8,12 +8,17 @@ import { applyTheme, applyLanguageLabel, toggleTheme, toggleLanguage } from "./t
 import { populateCircuitPicker, renderHomeMarkers, clearHomeMarkers, resetCircuitSelection } from "./circuits.js";
 import { setActiveLayer, setFoodCategory, registerClusterInteractions } from "./clusters.js";
 import { renderHotelList, showHotelList, showHotelDetail, toggleSchedule, registerZoomVisibilityHandler } from "./hotels.js";
+import { startFlythrough, stopFlythrough } from "./flythrough.js";
 
 async function init() {
   const res = await fetch("data/circuits.json");
   state.circuits = await res.json();
   populateCircuitPicker();
   renderHomeMarkers();
+  startFlythrough();
+
+  // Stop flythrough only on deliberate pan (mousedown + drag), not scroll zoom
+  map.on("dragstart", stopFlythrough);
 
   document.querySelectorAll("#layer-filters .pill").forEach((btn) => {
     btn.addEventListener("click", () => setActiveLayer(btn.dataset.layer));
