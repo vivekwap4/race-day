@@ -4,7 +4,7 @@
 
 import { state, setUnitForCircuit } from "./state.js";
 import { map } from "./map.js";
-import { applyTheme, applyLanguageLabel, toggleTheme, toggleLanguage } from "./theme.js";
+import { applyTheme, toggleTheme } from "./theme.js";
 import { populateCircuitPicker, renderHomeMarkers, clearHomeMarkers, resetCircuitSelection, selectCircuit } from "./circuits.js";
 import { setActiveLayer, setFoodCategory, registerClusterInteractions } from "./clusters.js";
 import { renderHotelList, showHotelList, showHotelDetail, toggleSchedule, registerZoomVisibilityHandler } from "./hotels.js";
@@ -31,7 +31,6 @@ async function init() {
   document.getElementById("schedule-toggle").addEventListener("click", toggleSchedule);
   document.getElementById("detail-back").addEventListener("click", showHotelList);
   document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
-  document.getElementById("lang-toggle").addEventListener("click", toggleLanguage);
   function applyUnitToggle() {
     state.useMiles = !state.useMiles;
     const label = state.useMiles ? "mi" : "km";
@@ -48,7 +47,6 @@ async function init() {
   if (detailToggle) detailToggle.addEventListener("click", applyUnitToggle);
 
   applyTheme();
-  applyLanguageLabel();
 
   map.on("moveend", renderHotelList);
   registerClusterInteractions();
@@ -70,11 +68,22 @@ async function init() {
     map.flyTo({ center: [circuit.lng, circuit.lat], zoom: 12 });
   });
 
+  // Finds the nearest circuit key within maxDeg degrees of the map center,
+  // or null if none is close enough.
+  function nearestCircuitToCenter(maxDeg = 0.45) {
+    const center = map.getCenter();
+    let nearest = null;
+    let nearestDist = Infinity;
+    for (const [key, c] of Object.entries(state.circuits)) {
+      const d = Math.abs(center.lng - c.lng) + Math.abs(center.lat - c.lat);
+      if (d < nearestDist) { nearestDist = d; nearest = key; }
+    }
+    return nearest && nearestDist < maxDeg ? nearest : null;
+  }
+
   function updatePanelVisibility() {
     const zoom = map.getZoom();
 
-    // Auto-deselect when zoomed out to world/continent view — but NOT during
-    // a circuit flight, which passes through low zoom levels on the way to zoom 12.
     if (state.currentData && zoom <= DESELECT_ZOOM_THRESHOLD && !state._flying) {
       resetCircuitSelection();
       panel.classList.remove("panel-visible");
@@ -85,22 +94,21 @@ async function init() {
     if (!state.currentData) {
       panel.classList.remove("panel-visible");
       returnBtn.classList.add("hidden");
-      // Auto-load nearest circuit when zoomed in past threshold without
-      // explicitly selecting one — e.g. user zooms into Monaco manually
       if (zoom >= PANEL_ZOOM_THRESHOLD && !state._flying) {
-        const center = map.getCenter();
-        let nearest = null;
-        let nearestDist = Infinity;
-        for (const [key, c] of Object.entries(state.circuits)) {
-          const d = Math.abs(center.lng - c.lng) + Math.abs(center.lat - c.lat);
-          if (d < nearestDist) { nearestDist = d; nearest = key; }
-        }
-        // Only auto-load if within ~50km of a circuit
-        if (nearest && nearestDist < 0.45) {
-          selectCircuit(nearest);
-        }
+        const nearest = nearestCircuitToCenter();
+        if (nearest) selectCircuit(nearest);
       }
       return;
+    }
+
+    // Auto-switch: if zoomed in past threshold but near a DIFFERENT circuit,
+    // switch to it — handles hopping between nearby European circuits.
+    if (zoom >= PANEL_ZOOM_THRESHOLD && !state._flying) {
+      const nearest = nearestCircuitToCenter();
+      if (nearest && nearest !== state.currentCircuit) {
+        selectCircuit(nearest);
+        return;
+      }
     }
 
     const circuit = state.currentData.circuit;

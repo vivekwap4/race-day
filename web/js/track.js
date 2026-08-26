@@ -45,6 +45,7 @@ export async function renderTrack(circuitKey) {
     id: TRACK_LAYER,
     type: "line",
     source: TRACK_SOURCE,
+    minzoom: 11,
     layout: {
       "line-join": "round",
       "line-cap": "round",

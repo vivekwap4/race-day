@@ -9,7 +9,7 @@ export const state = {
   currentData: null,
   activeLayer: "hotels",
   activeFoodCategory: "all",
-  theme: "light",
+  theme: "dark",
   language: (navigator.language || "en").toLowerCase().startsWith("en") ? "en" : "local",
   markers: [],
   homeMarkers: [],
