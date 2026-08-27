@@ -62,9 +62,11 @@ const FOOD_GROUP_LABELS = {
 let _detailFoodCategory = "all";
 
 // Active MapLibre popup (for hover/tap on unclustered food/transit dots)
-let _activePopup = null;
+let _activePopup = null;      // food/transit POI popup
+let _hotelPopup = null;       // hotel selection popup — lives independently
 let _lastPopupArgs = null;
-let _isReplacingPopup = false; // set synchronously around programmatic .remove()
+let _popupIsHotel = false;
+let _isReplacingPopup = false;
 
 export function clearPopup() {
   if (_activePopup) {
@@ -73,6 +75,10 @@ export function clearPopup() {
     _activePopup = null;
     _isReplacingPopup = false;
   }
+}
+
+export function clearHotelPopup() {
+  if (_hotelPopup) { _hotelPopup.remove(); _hotelPopup = null; }
 }
 
 export function isClickPopupAt(lng, lat) {
@@ -118,6 +124,7 @@ export function showPopup(lng, lat, name, categoryLabel, categoryColor, distStr)
     _activePopup = null;
     _isReplacingPopup = false;
   }
+  _popupIsHotel = false; // reset; caller sets it to true if needed
   _lastPopupArgs = [lng, lat, name, categoryLabel, categoryColor, distStr];
   _renderPopup(lng, lat, name, categoryLabel, categoryColor, distStr);
 }
@@ -130,7 +137,7 @@ function _renderPopup(lng, lat, name, categoryLabel, categoryColor, distStr) {
     _isReplacingPopup = false;
   }
   const emoji = categoryColor === "#2563eb" ? "🚌"
-    : categoryColor === "#e63946" ? "🏨"
+    : (categoryColor === "#e63946" || categoryColor === HIGHLIGHT_COLOR) ? "🏨"
     : "🍽️";
   // Use CSS classes for text colors — they pick up CSS variable changes
   // automatically when the theme switches, no JS re-render needed.
@@ -158,6 +165,7 @@ function _renderPopup(lng, lat, name, categoryLabel, categoryColor, distStr) {
       clearRoute();
       clearSelectedPoiMarker();
     }
+    _popupIsHotel = false;
   });
 }
 
@@ -285,6 +293,32 @@ export function showHotelDetail(hotel) {
   }
 
   wireHandlers();
+
+  // Hotel popup at pin location — stays visible even when food/transit popup appears
+  clearHotelPopup();
+  const isDark = document.body.getAttribute("data-theme") === "dark";
+  const textPrimary = isDark ? "#f0f0f0" : "#1a1a1a";
+  const hotelHtml = `<div class="rd-popup">
+    <div class="rd-popup-header">
+      <span class="rd-popup-emoji">🏨</span>
+      <span class="rd-popup-name" style="color:${textPrimary};">${escapeHtml(displayName(hotel))}</span>
+    </div>
+    <div class="rd-popup-meta">
+      <span class="rd-popup-pill" style="background:${HIGHLIGHT_COLOR}20;color:${HIGHLIGHT_COLOR};">${hotel.access_tier}</span>
+      <span class="rd-popup-dist">${formatDist(hotel.distance_km)} from circuit</span>
+    </div>
+  </div>`;
+  _hotelPopup = new maplibregl.Popup({
+    closeButton: true,
+    closeOnClick: false,
+    offset: 14,
+    className: "race-day-popup",
+    maxWidth: "240px",
+  }).setLngLat([hotel.lng, hotel.lat]).setHTML(hotelHtml).addTo(map);
+  _hotelPopup.on("close", () => {
+    _hotelPopup = null;
+    showHotelList();
+  });
 }
 
 // Shared handler for tapping a food/transit POI — from the panel list OR
@@ -356,6 +390,10 @@ function dedupeTransit(list) {
 
 export function showHotelList() {
   state.currentHotel = null;
+  clearHotelPopup();
+  clearPopup();
+  clearRoute();
+  clearSelectedPoiMarker();
   document.getElementById("hotel-detail").classList.add("hidden");
   document.getElementById("panel-content").classList.remove("hidden");
   clearSelectedHotelMarker();
